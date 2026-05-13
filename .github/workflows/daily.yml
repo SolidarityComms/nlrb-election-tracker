@@ -21,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run backfill if no data yet
+- name: Run backfill if no data yet
         run: |
-          if [ ! -f data.json ]; then
-            echo "No data.json found, running backfill..."
+          if [ ! -f data.json ] || [ $(python -c "import json; d=json.load(open('data.json')); print(len(d.get('cases',{})))") -eq 0 ]; then
+            echo "No data or empty, running backfill..."
             python scrape.py --backfill
           else
-            echo "data.json exists, running daily update..."
+            echo "data.json exists with data, running daily update..."
             python scrape.py
           fi
 
