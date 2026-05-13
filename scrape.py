@@ -131,15 +131,13 @@ def scrape_filings(days_back=90):
                         continue
                 except ValueError:
                     pass
-
-            case["stage"] = "just_filed" if (
-                datetime.now() - datetime.strptime(
-                    case["date_filed"], "%Y-%m-%d")).days <= 14
-                else "pending" if case.get("date_filed") else "just_filed"
-
+                days_old = (datetime.now() - datetime.strptime(case["date_filed"], "%Y-%m-%d")).days
+                case["stage"] = "just_filed" if days_old <= 14 else "pending"
+            else:
+                case["stage"] = "just_filed"
             results[case_number] = case
             page_count += 1
-
+          
         print(f"  Page {page}: {page_count} R-cases")
 
         if found_old and days_back <= 7:
