@@ -1,0 +1,708 @@
+{
+  "last_updated": "2026-05-13 22:07:55",
+  "total_cases": 117,
+  "cases": {
+    "01-RC-386909": {
+      "case_number": "01-RC-386909",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386909",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "02-RC-386881": {
+      "case_number": "02-RC-386881",
+      "case_url": "https://www.nlrb.gov/case/02-RC-386881",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RC-386907": {
+      "case_number": "19-RC-386907",
+      "case_url": "https://www.nlrb.gov/case/19-RC-386907",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RC-386814": {
+      "case_number": "01-RC-386814",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386814",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "04-RC-386761": {
+      "case_number": "04-RC-386761",
+      "case_url": "https://www.nlrb.gov/case/04-RC-386761",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "25-RD-386827": {
+      "case_number": "25-RD-386827",
+      "case_url": "https://www.nlrb.gov/case/25-RD-386827",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "18-RC-386842": {
+      "case_number": "18-RC-386842",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386842",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "03-RC-386849": {
+      "case_number": "03-RC-386849",
+      "case_url": "https://www.nlrb.gov/case/03-RC-386849",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "08-RC-386892": {
+      "case_number": "08-RC-386892",
+      "case_url": "https://www.nlrb.gov/case/08-RC-386892",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "31-RC-386895": {
+      "case_number": "31-RC-386895",
+      "case_url": "https://www.nlrb.gov/case/31-RC-386895",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RC-386852": {
+      "case_number": "01-RC-386852",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386852",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "32-RC-386900": {
+      "case_number": "32-RC-386900",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386900",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "32-RC-386818": {
+      "case_number": "32-RC-386818",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386818",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "22-RC-386663": {
+      "case_number": "22-RC-386663",
+      "case_url": "https://www.nlrb.gov/case/22-RC-386663",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "25-RC-386676": {
+      "case_number": "25-RC-386676",
+      "case_url": "https://www.nlrb.gov/case/25-RC-386676",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "08-RC-386788": {
+      "case_number": "08-RC-386788",
+      "case_url": "https://www.nlrb.gov/case/08-RC-386788",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "04-RC-386651": {
+      "case_number": "04-RC-386651",
+      "case_url": "https://www.nlrb.gov/case/04-RC-386651",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RC-386775": {
+      "case_number": "19-RC-386775",
+      "case_url": "https://www.nlrb.gov/case/19-RC-386775",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RC-386705": {
+      "case_number": "01-RC-386705",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386705",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "25-RC-386666": {
+      "case_number": "25-RC-386666",
+      "case_url": "https://www.nlrb.gov/case/25-RC-386666",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RD-386749": {
+      "case_number": "01-RD-386749",
+      "case_url": "https://www.nlrb.gov/case/01-RD-386749",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "25-RC-386755": {
+      "case_number": "25-RC-386755",
+      "case_url": "https://www.nlrb.gov/case/25-RC-386755",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "25-RD-386684": {
+      "case_number": "25-RD-386684",
+      "case_url": "https://www.nlrb.gov/case/25-RD-386684",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "32-RC-386778": {
+      "case_number": "32-RC-386778",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386778",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "14-RC-386576": {
+      "case_number": "14-RC-386576",
+      "case_url": "https://www.nlrb.gov/case/14-RC-386576",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "21-RC-386610": {
+      "case_number": "21-RC-386610",
+      "case_url": "https://www.nlrb.gov/case/21-RC-386610",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "20-RC-386672": {
+      "case_number": "20-RC-386672",
+      "case_url": "https://www.nlrb.gov/case/20-RC-386672",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "03-RC-386636": {
+      "case_number": "03-RC-386636",
+      "case_url": "https://www.nlrb.gov/case/03-RC-386636",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "27-RC-386701": {
+      "case_number": "27-RC-386701",
+      "case_url": "https://www.nlrb.gov/case/27-RC-386701",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RD-386635": {
+      "case_number": "01-RD-386635",
+      "case_url": "https://www.nlrb.gov/case/01-RD-386635",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "28-RC-386724": {
+      "case_number": "28-RC-386724",
+      "case_url": "https://www.nlrb.gov/case/28-RC-386724",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "29-RC-386583": {
+      "case_number": "29-RC-386583",
+      "case_url": "https://www.nlrb.gov/case/29-RC-386583",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "20-RC-386625": {
+      "case_number": "20-RC-386625",
+      "case_url": "https://www.nlrb.gov/case/20-RC-386625",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "25-RM-386760": {
+      "case_number": "25-RM-386760",
+      "case_url": "https://www.nlrb.gov/case/25-RM-386760",
+      "case_type": "RM",
+      "stage": "just_filed"
+    },
+    "32-RD-386593": {
+      "case_number": "32-RD-386593",
+      "case_url": "https://www.nlrb.gov/case/32-RD-386593",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "20-RC-386581": {
+      "case_number": "20-RC-386581",
+      "case_url": "https://www.nlrb.gov/case/20-RC-386581",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "04-RC-386470": {
+      "case_number": "04-RC-386470",
+      "case_url": "https://www.nlrb.gov/case/04-RC-386470",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RD-386602": {
+      "case_number": "19-RD-386602",
+      "case_url": "https://www.nlrb.gov/case/19-RD-386602",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "04-RD-386553": {
+      "case_number": "04-RD-386553",
+      "case_url": "https://www.nlrb.gov/case/04-RD-386553",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "31-RC-386519": {
+      "case_number": "31-RC-386519",
+      "case_url": "https://www.nlrb.gov/case/31-RC-386519",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "03-RC-386550": {
+      "case_number": "03-RC-386550",
+      "case_url": "https://www.nlrb.gov/case/03-RC-386550",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "04-RD-386551": {
+      "case_number": "04-RD-386551",
+      "case_url": "https://www.nlrb.gov/case/04-RD-386551",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "15-RM-386557": {
+      "case_number": "15-RM-386557",
+      "case_url": "https://www.nlrb.gov/case/15-RM-386557",
+      "case_type": "RM",
+      "stage": "just_filed"
+    },
+    "20-RC-386517": {
+      "case_number": "20-RC-386517",
+      "case_url": "https://www.nlrb.gov/case/20-RC-386517",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "10-RC-386488": {
+      "case_number": "10-RC-386488",
+      "case_url": "https://www.nlrb.gov/case/10-RC-386488",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "16-RC-386526": {
+      "case_number": "16-RC-386526",
+      "case_url": "https://www.nlrb.gov/case/16-RC-386526",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "32-RC-386435": {
+      "case_number": "32-RC-386435",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386435",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "13-RC-386472": {
+      "case_number": "13-RC-386472",
+      "case_url": "https://www.nlrb.gov/case/13-RC-386472",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RC-386392": {
+      "case_number": "01-RC-386392",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386392",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "27-RC-386487": {
+      "case_number": "27-RC-386487",
+      "case_url": "https://www.nlrb.gov/case/27-RC-386487",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386507": {
+      "case_number": "18-RC-386507",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386507",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "09-RC-386416": {
+      "case_number": "09-RC-386416",
+      "case_url": "https://www.nlrb.gov/case/09-RC-386416",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "14-RC-386407": {
+      "case_number": "14-RC-386407",
+      "case_url": "https://www.nlrb.gov/case/14-RC-386407",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "08-RC-386414": {
+      "case_number": "08-RC-386414",
+      "case_url": "https://www.nlrb.gov/case/08-RC-386414",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RM-386294": {
+      "case_number": "01-RM-386294",
+      "case_url": "https://www.nlrb.gov/case/01-RM-386294",
+      "case_type": "RM",
+      "stage": "just_filed"
+    },
+    "03-RC-386308": {
+      "case_number": "03-RC-386308",
+      "case_url": "https://www.nlrb.gov/case/03-RC-386308",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "32-RC-386413": {
+      "case_number": "32-RC-386413",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386413",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "09-RC-386400": {
+      "case_number": "09-RC-386400",
+      "case_url": "https://www.nlrb.gov/case/09-RC-386400",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "04-RC-386203": {
+      "case_number": "04-RC-386203",
+      "case_url": "https://www.nlrb.gov/case/04-RC-386203",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "12-RD-386268": {
+      "case_number": "12-RD-386268",
+      "case_url": "https://www.nlrb.gov/case/12-RD-386268",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "09-RC-386287": {
+      "case_number": "09-RC-386287",
+      "case_url": "https://www.nlrb.gov/case/09-RC-386287",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RC-386288": {
+      "case_number": "01-RC-386288",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386288",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "22-RC-386326": {
+      "case_number": "22-RC-386326",
+      "case_url": "https://www.nlrb.gov/case/22-RC-386326",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "20-RD-386359": {
+      "case_number": "20-RD-386359",
+      "case_url": "https://www.nlrb.gov/case/20-RD-386359",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "04-RC-386150": {
+      "case_number": "04-RC-386150",
+      "case_url": "https://www.nlrb.gov/case/04-RC-386150",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RC-386258": {
+      "case_number": "19-RC-386258",
+      "case_url": "https://www.nlrb.gov/case/19-RC-386258",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386398": {
+      "case_number": "18-RC-386398",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386398",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "15-RC-386277": {
+      "case_number": "15-RC-386277",
+      "case_url": "https://www.nlrb.gov/case/15-RC-386277",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "13-RC-386170": {
+      "case_number": "13-RC-386170",
+      "case_url": "https://www.nlrb.gov/case/13-RC-386170",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386389": {
+      "case_number": "18-RC-386389",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386389",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386425": {
+      "case_number": "18-RC-386425",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386425",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "29-RC-386186": {
+      "case_number": "29-RC-386186",
+      "case_url": "https://www.nlrb.gov/case/29-RC-386186",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "02-RD-386210": {
+      "case_number": "02-RD-386210",
+      "case_url": "https://www.nlrb.gov/case/02-RD-386210",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "05-RC-386204": {
+      "case_number": "05-RC-386204",
+      "case_url": "https://www.nlrb.gov/case/05-RC-386204",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RD-386247": {
+      "case_number": "19-RD-386247",
+      "case_url": "https://www.nlrb.gov/case/19-RD-386247",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "12-RC-386146": {
+      "case_number": "12-RC-386146",
+      "case_url": "https://www.nlrb.gov/case/12-RC-386146",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386174": {
+      "case_number": "18-RC-386174",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386174",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "10-RC-386144": {
+      "case_number": "10-RC-386144",
+      "case_url": "https://www.nlrb.gov/case/10-RC-386144",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "09-RC-386102": {
+      "case_number": "09-RC-386102",
+      "case_url": "https://www.nlrb.gov/case/09-RC-386102",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "16-RC-386212": {
+      "case_number": "16-RC-386212",
+      "case_url": "https://www.nlrb.gov/case/16-RC-386212",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "01-RC-386095": {
+      "case_number": "01-RC-386095",
+      "case_url": "https://www.nlrb.gov/case/01-RC-386095",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "03-RC-386168": {
+      "case_number": "03-RC-386168",
+      "case_url": "https://www.nlrb.gov/case/03-RC-386168",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "28-RC-386295": {
+      "case_number": "28-RC-386295",
+      "case_url": "https://www.nlrb.gov/case/28-RC-386295",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "04-RC-386057": {
+      "case_number": "04-RC-386057",
+      "case_url": "https://www.nlrb.gov/case/04-RC-386057",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386245": {
+      "case_number": "18-RC-386245",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386245",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "18-RC-386209": {
+      "case_number": "18-RC-386209",
+      "case_url": "https://www.nlrb.gov/case/18-RC-386209",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RM-386179": {
+      "case_number": "19-RM-386179",
+      "case_url": "https://www.nlrb.gov/case/19-RM-386179",
+      "case_type": "RM",
+      "stage": "just_filed"
+    },
+    "32-RC-386136": {
+      "case_number": "32-RC-386136",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386136",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "20-RC-386015": {
+      "case_number": "20-RC-386015",
+      "case_url": "https://www.nlrb.gov/case/20-RC-386015",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "29-RC-386045": {
+      "case_number": "29-RC-386045",
+      "case_url": "https://www.nlrb.gov/case/29-RC-386045",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "02-RC-385989": {
+      "case_number": "02-RC-385989",
+      "case_url": "https://www.nlrb.gov/case/02-RC-385989",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "20-RC-386001": {
+      "case_number": "20-RC-386001",
+      "case_url": "https://www.nlrb.gov/case/20-RC-386001",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "29-RC-386028": {
+      "case_number": "29-RC-386028",
+      "case_url": "https://www.nlrb.gov/case/29-RC-386028",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "10-RC-386058": {
+      "case_number": "10-RC-386058",
+      "case_url": "https://www.nlrb.gov/case/10-RC-386058",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "27-RC-386087": {
+      "case_number": "27-RC-386087",
+      "case_url": "https://www.nlrb.gov/case/27-RC-386087",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "28-RC-386140": {
+      "case_number": "28-RC-386140",
+      "case_url": "https://www.nlrb.gov/case/28-RC-386140",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "28-RC-386078": {
+      "case_number": "28-RC-386078",
+      "case_url": "https://www.nlrb.gov/case/28-RC-386078",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "21-RC-386006": {
+      "case_number": "21-RC-386006",
+      "case_url": "https://www.nlrb.gov/case/21-RC-386006",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "07-RC-386483": {
+      "case_number": "07-RC-386483",
+      "case_url": "https://www.nlrb.gov/case/07-RC-386483",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "15-RC-385829": {
+      "case_number": "15-RC-385829",
+      "case_url": "https://www.nlrb.gov/case/15-RC-385829",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "16-RC-385929": {
+      "case_number": "16-RC-385929",
+      "case_url": "https://www.nlrb.gov/case/16-RC-385929",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "32-RC-385951": {
+      "case_number": "32-RC-385951",
+      "case_url": "https://www.nlrb.gov/case/32-RC-385951",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "32-RC-385859": {
+      "case_number": "32-RC-385859",
+      "case_url": "https://www.nlrb.gov/case/32-RC-385859",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "13-RC-385861": {
+      "case_number": "13-RC-385861",
+      "case_url": "https://www.nlrb.gov/case/13-RC-385861",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RC-385966": {
+      "case_number": "19-RC-385966",
+      "case_url": "https://www.nlrb.gov/case/19-RC-385966",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "12-RC-385941": {
+      "case_number": "12-RC-385941",
+      "case_url": "https://www.nlrb.gov/case/12-RC-385941",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "16-RC-385835": {
+      "case_number": "16-RC-385835",
+      "case_url": "https://www.nlrb.gov/case/16-RC-385835",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "31-RC-385967": {
+      "case_number": "31-RC-385967",
+      "case_url": "https://www.nlrb.gov/case/31-RC-385967",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "16-RC-385772": {
+      "case_number": "16-RC-385772",
+      "case_url": "https://www.nlrb.gov/case/16-RC-385772",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "29-RC-385716": {
+      "case_number": "29-RC-385716",
+      "case_url": "https://www.nlrb.gov/case/29-RC-385716",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "03-RC-385770": {
+      "case_number": "03-RC-385770",
+      "case_url": "https://www.nlrb.gov/case/03-RC-385770",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "02-RC-385839": {
+      "case_number": "02-RC-385839",
+      "case_url": "https://www.nlrb.gov/case/02-RC-385839",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "31-RC-385793": {
+      "case_number": "31-RC-385793",
+      "case_url": "https://www.nlrb.gov/case/31-RC-385793",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "29-RD-385978": {
+      "case_number": "29-RD-385978",
+      "case_url": "https://www.nlrb.gov/case/29-RD-385978",
+      "case_type": "RD",
+      "stage": "just_filed"
+    },
+    "28-RC-385902": {
+      "case_number": "28-RC-385902",
+      "case_url": "https://www.nlrb.gov/case/28-RC-385902",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "19-RC-385838": {
+      "case_number": "19-RC-385838",
+      "case_url": "https://www.nlrb.gov/case/19-RC-385838",
+      "case_type": "RC",
+      "stage": "just_filed"
+    },
+    "02-RC-385798": {
+      "case_number": "02-RC-385798",
+      "case_url": "https://www.nlrb.gov/case/02-RC-385798",
+      "case_type": "RC",
+      "stage": "just_filed"
+    }
+  }
+}
