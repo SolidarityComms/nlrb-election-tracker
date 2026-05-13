@@ -46,32 +46,21 @@ def parse_date(s):
     return s
 
 
-def get_field(item, label):
-    """Find a bold label and return the text that follows it."""
-    for strong in item.find_all("strong"):
-        if label.lower() in strong.text.lower():
-            sibling = strong.next_sibling
-            if sibling:
-                return str(sibling).strip().lstrip(":").strip()
-    return None
-
-
 def scrape_filings(days_back=90):
     print(f"Scraping filings (last {days_back} days)...")
     cutoff = datetime.now() - timedelta(days=days_back)
     results = {}
     page = 0
+    max_pages = 50 if days_back >= 90 else 5
 
-    while True:
+    while page < max_pages:
         html = fetch(FILINGS_URL, page=page)
         if not html:
             break
 
         soup = BeautifulSoup(html, "html.parser")
-        
-        # Find all case blocks - each filing is a div with a case number link
         case_links = soup.find_all("a", href=lambda h: h and "/case/" in h)
-        
+
         found_old = False
         page_count = 0
 
@@ -80,7 +69,6 @@ def scrape_filings(days_back=90):
             if not case_number or not any(t in case_number for t in ["-RC-", "-RD-", "-RM-"]):
                 continue
 
-            # Get the parent block
             block = link.find_parent("div") or link.find_parent("li") or link.find_parent("article")
             if not block:
                 continue
@@ -90,18 +78,15 @@ def scrape_filings(days_back=90):
                 "case_url": "https://www.nlrb.gov" + link["href"],
             }
 
-            # Derive subtype
             for t in ["RC", "RD", "RM"]:
                 if f"-{t}-" in case_number:
                     case["case_type"] = t
                     break
 
-            # Extract employer name - usually an h3 near the link
             h3 = block.find("h3") or block.find("h2")
             if h3:
                 case["employer"] = h3.text.strip()
 
-            # Extract all strong-label fields
             text = block.get_text(separator="\n")
             for line in text.split("\n"):
                 line = line.strip()
@@ -117,12 +102,10 @@ def scrape_filings(days_back=90):
                     case["union"] = line.split(":", 1)[1].strip()
                 elif line.startswith("Employees") or line.startswith("No. of Eligible"):
                     try:
-                        case["eligible_voters"] = int(
-                            line.split(":", 1)[1].strip().replace(",", ""))
+                        case["eligible_voters"] = int(line.split(":", 1)[1].strip().replace(",", ""))
                     except (ValueError, IndexError):
                         pass
 
-            # Check cutoff
             if case.get("date_filed"):
                 try:
                     filed_dt = datetime.strptime(case["date_filed"], "%Y-%m-%d")
@@ -135,12 +118,14 @@ def scrape_filings(days_back=90):
                 case["stage"] = "just_filed" if days_old <= 14 else "pending"
             else:
                 case["stage"] = "just_filed"
+
             results[case_number] = case
             page_count += 1
-          
+
         print(f"  Page {page}: {page_count} R-cases")
 
-        if found_old and days_back <= 7:
+        if found_old:
+            print("  Hit cutoff date, stopping filings scrape.")
             break
 
         next_btn = soup.find("a", {"rel": "next"}) or soup.select_one("li.pager__item--next a")
@@ -159,8 +144,9 @@ def scrape_results(days_back=90):
     cutoff = datetime.now() - timedelta(days=days_back)
     results = {}
     page = 0
+    max_pages = 50 if days_back >= 90 else 5
 
-    while True:
+    while page < max_pages:
         html = fetch(RESULTS_URL, page=page)
         if not html:
             break
@@ -169,7 +155,6 @@ def scrape_results(days_back=90):
         found_old = False
         page_count = 0
 
-        # Each result block starts with an h3 (employer name)
         for h3 in soup.find_all("h3"):
             employer = h3.text.strip()
             if not employer or len(employer) < 2:
@@ -177,7 +162,6 @@ def scrape_results(days_back=90):
 
             case = {"employer": employer}
 
-            # Collect all text in the block until the next h3
             block_text = []
             node = h3.find_next_sibling()
             while node and node.name != "h3":
@@ -186,7 +170,6 @@ def scrape_results(days_back=90):
 
             full_text = "\n".join(block_text)
 
-            # Parse line by line
             for line in full_text.split("\n"):
                 line = line.strip()
                 if not line or ":" not in line:
@@ -243,13 +226,11 @@ def scrape_results(days_back=90):
             if "case_number" not in case:
                 continue
 
-            # Subtype
             for t in ["RC", "RD", "RM"]:
                 if f"-{t}-" in case.get("case_number", ""):
                     case["case_type"] = t
                     break
 
-            # Outcome
             vf = case.get("votes_for", 0) or 0
             va = case.get("votes_against", 0) or 0
             ct = case.get("case_type", "RC")
@@ -260,7 +241,6 @@ def scrape_results(days_back=90):
             else:
                 case["outcome"] = "union_won" if vf > va else "union_lost"
 
-            # Cutoff check
             tally_str = case.get("tally_date")
             if tally_str:
                 try:
@@ -270,7 +250,6 @@ def scrape_results(days_back=90):
                 except ValueError:
                     pass
 
-            # Stage
             status = case.get("status", "").lower()
             case["stage"] = "certified" if "closed" in status else "tally_issued"
 
@@ -279,7 +258,8 @@ def scrape_results(days_back=90):
 
         print(f"  Page {page}: {page_count} cases")
 
-        if found_old and days_back <= 7:
+        if found_old:
+            print("  Hit cutoff date, stopping results scrape.")
             break
 
         next_btn = soup.find("a", {"rel": "next"}) or soup.select_one("li.pager__item--next a")
@@ -305,7 +285,6 @@ def merge(filings, results):
         else:
             merged[cn] = case.copy()
 
-    # Fix stages after merge
     for cn, case in merged.items():
         if "tally_date" in case:
             status = case.get("status", "").lower()
