@@ -52,83 +52,94 @@ def scrape_filings(days_back=90):
     results = {}
     page = 0
     max_pages = 50 if days_back >= 90 else 5
+    found_old = False
 
-    while page < max_pages:
+    while page < max_pages and not found_old:
         html = fetch(FILINGS_URL, page=page)
         if not html:
             break
 
         soup = BeautifulSoup(html, "html.parser")
-        case_links = soup.find_all("a", href=lambda h: h and "/case/" in h)
-
-        found_old = False
         page_count = 0
 
-        for link in case_links:
-            case_number = link.text.strip()
-            if not case_number or not any(t in case_number for t in ["-RC-", "-RD-", "-RM-"]):
-                continue
+        # Each case is in div.rer-content
+        for block in soup.select("div.rer-content"):
+            case = {}
 
-            block = link.find_parent("div") or link.find_parent("li") or link.find_parent("article")
-            if not block:
-                continue
-
-            case = {
-                "case_number": case_number,
-                "case_url": "https://www.nlrb.gov" + link["href"],
-            }
-
-            for t in ["RC", "RD", "RM"]:
-                if f"-{t}-" in case_number:
-                    case["case_type"] = t
-                    break
-
-            h3 = block.find("h3") or block.find("h2")
+            # Employer name is in h3
+            h3 = block.find("h3")
             if h3:
                 case["employer"] = h3.text.strip()
 
-            text = block.get_text(separator="\n")
-            for line in text.split("\n"):
-                line = line.strip()
-                if line.startswith("Date Filed:"):
-                    case["date_filed"] = parse_date(line.replace("Date Filed:", "").strip())
-                elif line.startswith("Status:"):
-                    case["status"] = line.replace("Status:", "").strip()
-                elif line.startswith("City:") or line.startswith("Unit Location:"):
-                    case["location"] = line.split(":", 1)[1].strip()
-                elif line.startswith("Region"):
-                    case["region"] = line.split(":", 1)[1].strip() if ":" in line else line
-                elif line.startswith("Union:") or line.startswith("Labor Union"):
-                    case["union"] = line.split(":", 1)[1].strip()
-                elif line.startswith("Employees") or line.startswith("No. of Eligible"):
-                    try:
-                        case["eligible_voters"] = int(line.split(":", 1)[1].strip().replace(",", ""))
-                    except (ValueError, IndexError):
-                        pass
+            # Fields are in div.rer-style-1 with bold labels
+            for field in block.select("div.rer-style-1"):
+                text = field.get_text(separator="||")
+                parts = text.split("||")
+                if len(parts) >= 2:
+                    label = parts[0].strip().rstrip(":")
+                    value = parts[1].strip()
+                    if "Case Number" in label:
+                        a = field.find("a")
+                        if a:
+                            case["case_number"] = a.text.strip()
+                            case["case_url"] = "https://www.nlrb.gov" + a["href"]
+                    elif "Date Filed" in label:
+                        case["date_filed"] = parse_date(value)
+                    elif "Status" in label:
+                        case["status"] = value
+                    elif "No Employees" in label or "Eligible Voters" in label:
+                        try:
+                            case["eligible_voters"] = int(value.replace(",", ""))
+                        except ValueError:
+                            pass
+                    elif "Location" in label:
+                        case["location"] = value
+                    elif "Region Assigned" in label:
+                        case["region"] = value
 
+            # Unit sought is in div.rer-style-3
+            unit_div = block.find("div", class_="rer-style-3")
+            if unit_div:
+                case["unit_sought"] = unit_div.get_text(separator=" ").replace("Unit Sought", "").strip().lstrip(":")
+
+            if "case_number" not in case:
+                continue
+
+            # Only keep R-cases
+            cn = case["case_number"]
+            if not any(t in cn for t in ["-RC-", "-RD-", "-RM-"]):
+                continue
+
+            # Derive subtype
+            for t in ["RC", "RD", "RM"]:
+                if f"-{t}-" in cn:
+                    case["case_type"] = t
+                    break
+
+            # Check date cutoff
             if case.get("date_filed"):
                 try:
                     filed_dt = datetime.strptime(case["date_filed"], "%Y-%m-%d")
                     if filed_dt < cutoff:
                         found_old = True
                         continue
+                    days_old = (datetime.now() - filed_dt).days
+                    case["stage"] = "just_filed" if days_old <= 14 else "pending"
                 except ValueError:
-                    pass
-                days_old = (datetime.now() - datetime.strptime(case["date_filed"], "%Y-%m-%d")).days
-                case["stage"] = "just_filed" if days_old <= 14 else "pending"
+                    case["stage"] = "just_filed"
             else:
                 case["stage"] = "just_filed"
 
-            results[case_number] = case
+            results[cn] = case
             page_count += 1
 
         print(f"  Page {page}: {page_count} R-cases")
 
         if found_old:
-            print("  Hit cutoff date, stopping filings scrape.")
+            print("  Hit cutoff date, stopping.")
             break
 
-        next_btn = soup.find("a", {"rel": "next"}) or soup.select_one("li.pager__item--next a")
+        next_btn = soup.select_one("li.pager__item--next a")
         if not next_btn:
             break
 
@@ -145,92 +156,89 @@ def scrape_results(days_back=90):
     results = {}
     page = 0
     max_pages = 50 if days_back >= 90 else 5
+    found_old = False
 
-    while page < max_pages:
+    while page < max_pages and not found_old:
         html = fetch(RESULTS_URL, page=page)
         if not html:
             break
 
         soup = BeautifulSoup(html, "html.parser")
-        found_old = False
         page_count = 0
 
-        for h3 in soup.find_all("h3"):
-            employer = h3.text.strip()
-            if not employer or len(employer) < 2:
-                continue
+        # Each result is also in div.rer-content
+        for block in soup.select("div.rer-content"):
+            case = {}
 
-            case = {"employer": employer}
+            h3 = block.find("h3")
+            if h3:
+                case["employer"] = h3.text.strip()
 
-            block_text = []
-            node = h3.find_next_sibling()
-            while node and node.name != "h3":
-                block_text.append(node.get_text(separator="\n"))
-                node = node.find_next_sibling()
+            for field in block.select("div.rer-style-1"):
+                text = field.get_text(separator="||")
+                parts = text.split("||")
+                if len(parts) >= 2:
+                    label = parts[0].strip().rstrip(":")
+                    value = parts[1].strip()
 
-            full_text = "\n".join(block_text)
-
-            for line in full_text.split("\n"):
-                line = line.strip()
-                if not line or ":" not in line:
-                    continue
-                key, _, val = line.partition(":")
-                key = key.strip()
-                val = val.strip()
-
-                if "Case Number" in key:
-                    case["case_number"] = val
-                    case["case_url"] = f"https://www.nlrb.gov/case/{val}"
-                elif "Tally Issued" in key:
-                    case["tally_date"] = parse_date(val)
-                elif "Date Filed" in key:
-                    case["date_filed"] = parse_date(val)
-                elif "Eligible Voters" in key:
-                    try:
-                        case["eligible_voters"] = int(val.replace(",", ""))
-                    except ValueError:
-                        pass
-                elif "Votes for" in key:
-                    try:
-                        case["votes_for"] = int(val.replace(",", ""))
-                    except ValueError:
-                        pass
-                elif "Votes Against" in key:
-                    try:
-                        case["votes_against"] = int(val.replace(",", ""))
-                    except ValueError:
-                        pass
-                elif "Total Ballots" in key:
-                    try:
-                        case["ballots_counted"] = int(val.replace(",", ""))
-                    except ValueError:
-                        pass
-                elif "Labor Union1" in key and "union" not in case:
-                    case["union"] = val
-                elif "Union to Certify" in key:
-                    case["union_to_certify"] = val
-                elif "Status" in key and "union" not in key:
-                    case["status"] = val
-                elif "Tally Type" in key:
-                    case["tally_type"] = val
-                elif "Unit Location" in key:
-                    case["location"] = val
-                elif "Region Assigned" in key:
-                    case["region"] = val
-                elif "Void Ballots" in key:
-                    try:
-                        case["void_ballots"] = int(val.replace(",", ""))
-                    except ValueError:
-                        pass
+                    if "Case Number" in label:
+                        a = field.find("a")
+                        if a:
+                            case["case_number"] = a.text.strip()
+                            case["case_url"] = "https://www.nlrb.gov" + a["href"]
+                    elif "Tally Issued" in label:
+                        case["tally_date"] = parse_date(value)
+                    elif "Date Filed" in label:
+                        case["date_filed"] = parse_date(value)
+                    elif "Eligible Voters" in label or "No. of Eligible" in label:
+                        try:
+                            case["eligible_voters"] = int(value.replace(",", ""))
+                        except ValueError:
+                            pass
+                    elif "Votes for Labor Union" in label or "Votes for" in label:
+                        try:
+                            case["votes_for"] = int(value.replace(",", ""))
+                        except ValueError:
+                            pass
+                    elif "Votes Against" in label:
+                        try:
+                            case["votes_against"] = int(value.replace(",", ""))
+                        except ValueError:
+                            pass
+                    elif "Total Ballots" in label:
+                        try:
+                            case["ballots_counted"] = int(value.replace(",", ""))
+                        except ValueError:
+                            pass
+                    elif "Labor Union1" in label and "union" not in case:
+                        case["union"] = value
+                    elif "Union to Certify" in label:
+                        case["union_to_certify"] = value
+                    elif "Status" in label:
+                        case["status"] = value
+                    elif "Tally Type" in label:
+                        case["tally_type"] = value
+                    elif "Unit Location" in label or "Location" in label:
+                        case["location"] = value
+                    elif "Region Assigned" in label:
+                        case["region"] = value
+                    elif "Void Ballots" in label:
+                        try:
+                            case["void_ballots"] = int(value.replace(",", ""))
+                        except ValueError:
+                            pass
 
             if "case_number" not in case:
                 continue
 
+            # Subtype
+            cn = case["case_number"]
             for t in ["RC", "RD", "RM"]:
-                if f"-{t}-" in case.get("case_number", ""):
+                if f"-{t}-" in cn:
                     case["case_type"] = t
                     break
 
+            # Outcome
             vf = case.get("votes_for", 0) or 0
             va = case.get("votes_against", 0) or 0
             ct = case.get("case_type", "RC")
@@ -241,6 +249,7 @@ def scrape_results(days_back=90):
             else:
                 case["outcome"] = "union_won" if vf > va else "union_lost"
 
+            # Cutoff check
             tally_str = case.get("tally_date")
             if tally_str:
                 try:
@@ -253,16 +262,16 @@ def scrape_results(days_back=90):
             status = case.get("status", "").lower()
             case["stage"] = "certified" if "closed" in status else "tally_issued"
 
-            results[case["case_number"]] = case
+            results[cn] = case
             page_count += 1
 
         print(f"  Page {page}: {page_count} cases")
 
         if found_old:
-            print("  Hit cutoff date, stopping results scrape.")
+            print("  Hit cutoff date, stopping.")
             break
 
-        next_btn = soup.find("a", {"rel": "next"}) or soup.select_one("li.pager__item--next a")
+        next_btn = soup.select_one("li.pager__item--next a")
         if not next_btn:
             break
 
