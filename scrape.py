@@ -119,10 +119,9 @@ def scrape_filings(days_back=90):
     cutoff = datetime.now() - timedelta(days=days_back)
     results = {}
     page = 0
-    max_pages = 50 if days_back >= 90 else 5
-    found_old = False
+    max_pages = 50 if days_back >= 90 else 8  # scan more pages on daily runs
 
-    while page < max_pages and not found_old:
+    while page < max_pages:
         html = fetch(FILINGS_URL, page=page)
         if not html:
             break
@@ -131,6 +130,7 @@ def scrape_filings(days_back=90):
         blocks = soup.select("div.rer-content")
         print(f"  Page {page}: {len(blocks)} total blocks found")
         page_count = 0
+        old_count = 0
 
         for block in blocks:
             h3 = block.find("h3")
@@ -174,15 +174,14 @@ def scrape_filings(days_back=90):
                 except ValueError:
                     pass
 
-            # Date cutoff
+            # Date cutoff — skip old cases but don't stop the page
             if case.get("date_filed"):
                 try:
                     filed_dt = datetime.strptime(case["date_filed"], "%Y-%m-%d")
                     if filed_dt < cutoff:
-                        found_old = True
+                        old_count += 1
                         continue
                     days_old = (datetime.now() - filed_dt).days
-                    # Assign stage including withdrawals
                     status_lower = case["status"].lower()
                     reason_lower = close_reason.lower()
                     if "withdrawal" in reason_lower:
@@ -201,10 +200,11 @@ def scrape_filings(days_back=90):
             results[cn] = case
             page_count += 1
 
-        print(f"  Page {page}: {page_count} R-cases kept")
+        print(f"  Page {page}: {page_count} R-cases kept, {old_count} skipped as too old")
 
-        if found_old:
-            print("  Hit cutoff, stopping.")
+        # Stop if the entire page was old cases — we've gone far enough back
+        if old_count > 0 and page_count == 0:
+            print("  Full page of old cases, stopping.")
             break
 
         next_btn = soup.select_one("li.pager__item--next a")
@@ -224,10 +224,9 @@ def scrape_results(days_back=90):
     cutoff = datetime.now() - timedelta(days=days_back)
     results = {}
     page = 0
-    max_pages = 50 if days_back >= 90 else 5
-    found_old = False
+    max_pages = 50 if days_back >= 90 else 8
 
-    while page < max_pages and not found_old:
+    while page < max_pages:
         html = fetch(RESULTS_URL, page=page)
         if not html:
             break
@@ -236,6 +235,7 @@ def scrape_results(days_back=90):
         blocks = soup.select("div.rer-content")
         print(f"  Page {page}: {len(blocks)} total blocks found")
         page_count = 0
+        old_count = 0
 
         for block in blocks:
             h3 = block.find("h3")
@@ -335,7 +335,7 @@ def scrape_results(days_back=90):
             if tally_str:
                 try:
                     if datetime.strptime(tally_str, "%Y-%m-%d") < cutoff:
-                        found_old = True
+                        old_count += 1
                         continue
                 except ValueError:
                     pass
@@ -352,10 +352,10 @@ def scrape_results(days_back=90):
             results[cn] = case
             page_count += 1
 
-        print(f"  Page {page}: {page_count} cases kept")
+        print(f"  Page {page}: {page_count} cases kept, {old_count} skipped as too old")
 
-        if found_old:
-            print("  Hit cutoff, stopping.")
+        if old_count > 0 and page_count == 0:
+            print("  Full page of old cases, stopping.")
             break
 
         next_btn = soup.select_one("li.pager__item--next a")
