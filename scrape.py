@@ -50,7 +50,6 @@ def get_field_value(block, label):
     """Find a bold label in any div and return the text after it."""
     for b in block.find_all("b"):
         if label.lower() in b.text.lower():
-            # value is text immediately after the bold tag
             value = ""
             for sibling in b.next_siblings:
                 text = str(sibling)
@@ -75,22 +74,21 @@ def scrape_filings(days_back=90):
             break
 
         soup = BeautifulSoup(html, "html.parser")
+        blocks = soup.select("div.rer-content")
+        print(f"  Page {page}: {len(blocks)} total blocks found")
         page_count = 0
 
-        for block in soup.select("div.rer-content"):
-            # Employer name
+        for block in blocks:
             h3 = block.find("h3")
             if not h3:
                 continue
             employer = h3.text.strip()
 
-            # Case number link
             a = block.find("a", href=lambda h: h and "/case/" in h)
             if not a:
                 continue
             cn = a.text.strip()
 
-            # Only R-cases
             if not any(t in cn for t in ["-RC-", "-RD-", "-RM-"]):
                 continue
 
@@ -100,13 +98,11 @@ def scrape_filings(days_back=90):
                 "case_url": "https://www.nlrb.gov" + a["href"],
             }
 
-            # Subtype from case number
             for t in ["RC", "RD", "RM"]:
                 if f"-{t}-" in cn:
                     case["case_type"] = t
                     break
 
-            # Extract fields from all divs in the block
             case["date_filed"] = parse_date(get_field_value(block, "Date Filed"))
             case["status"] = get_field_value(block, "Status") or ""
             case["location"] = get_field_value(block, "Location") or ""
@@ -118,15 +114,6 @@ def scrape_filings(days_back=90):
                 except ValueError:
                     pass
 
-            # Unit sought
-            unit_div = block.find("div", class_="rer-style-3")
-            if unit_div:
-                b_tag = unit_div.find("b")
-                if b_tag and "Unit Sought" in b_tag.text:
-                    unit_text = unit_div.get_text().replace("Unit Sought", "").strip().lstrip(":").strip()
-                    case["unit_sought"] = unit_text
-
-            # Date cutoff
             if case.get("date_filed"):
                 try:
                     filed_dt = datetime.strptime(case["date_filed"], "%Y-%m-%d")
@@ -143,7 +130,7 @@ def scrape_filings(days_back=90):
             results[cn] = case
             page_count += 1
 
-        print(f"  Page {page}: {page_count} R-cases")
+        print(f"  Page {page}: {page_count} R-cases kept")
 
         if found_old:
             print("  Hit cutoff, stopping.")
@@ -151,6 +138,7 @@ def scrape_filings(days_back=90):
 
         next_btn = soup.select_one("li.pager__item--next a")
         if not next_btn:
+            print("  No next page found, stopping.")
             break
 
         page += 1
@@ -174,15 +162,16 @@ def scrape_results(days_back=90):
             break
 
         soup = BeautifulSoup(html, "html.parser")
+        blocks = soup.select("div.rer-content")
+        print(f"  Page {page}: {len(blocks)} total blocks found")
         page_count = 0
 
-        for block in soup.select("div.rer-content"):
+        for block in blocks:
             h3 = block.find("h3")
             if not h3:
                 continue
             employer = h3.text.strip()
 
-            # Case number is in rer-head-top
             a = block.find("a", href=lambda h: h and "/case/" in h)
             if not a:
                 continue
@@ -194,20 +183,17 @@ def scrape_results(days_back=90):
                 "case_url": "https://www.nlrb.gov" + a["href"],
             }
 
-            # Subtype
             for t in ["RC", "RD", "RM"]:
                 if f"-{t}-" in cn:
                     case["case_type"] = t
                     break
 
-            # Tally date is in rer-head-top (always visible)
             head_top = block.find("div", class_="rer-head-top")
             if head_top:
                 case["tally_date"] = parse_date(get_field_value(head_top, "Tally Issued Date"))
                 case["tally_type"] = get_field_value(head_top, "Tally Type") or ""
                 case["ballot_type"] = get_field_value(head_top, "Ballot Type") or ""
 
-            # Detailed fields are in rer-head-body (collapsed but present in HTML)
             head_body = block.find("div", class_="rer-head-body")
             if head_body:
                 case["date_filed"] = parse_date(get_field_value(head_body, "Date Filed"))
@@ -243,7 +229,6 @@ def scrape_results(days_back=90):
                     except ValueError:
                         pass
 
-                # Votes for and union name are in rer-style-3 divs inside rer-head-body
                 for style3 in head_body.find_all("div", class_="rer-style-3"):
                     b_tag = style3.find("b")
                     if not b_tag:
@@ -258,3 +243,139 @@ def scrape_results(days_back=90):
                             pass
                     elif label == "Labor Union1":
                         case["union"] = value
+                    elif "Union to Certify" in label:
+                        case["union_to_certify"] = value
+                    elif "Voting Unit" in label:
+                        case["unit_description"] = value
+
+            vf = case.get("votes_for", 0) or 0
+            va_count = case.get("votes_against", 0) or 0
+            ct = case.get("case_type", "RC")
+            if vf == 0 and va_count == 0:
+                case["outcome"] = "unknown"
+            elif vf == va_count:
+                case["outcome"] = "tie"
+            elif ct in ["RD", "RM"]:
+                case["outcome"] = "union_won" if va_count > vf else "union_lost"
+            else:
+                case["outcome"] = "union_won" if vf > va_count else "union_lost"
+
+            tally_str = case.get("tally_date")
+            if tally_str:
+                try:
+                    if datetime.strptime(tally_str, "%Y-%m-%d") < cutoff:
+                        found_old = True
+                        continue
+                except ValueError:
+                    pass
+
+            status = case.get("status", "").lower()
+            case["stage"] = "certified" if "closed" in status else "tally_issued"
+
+            results[cn] = case
+            page_count += 1
+
+        print(f"  Page {page}: {page_count} cases kept")
+
+        if found_old:
+            print("  Hit cutoff, stopping.")
+            break
+
+        next_btn = soup.select_one("li.pager__item--next a")
+        if not next_btn:
+            print("  No next page found, stopping.")
+            break
+
+        page += 1
+        time.sleep(1.5)
+
+    print(f"  Total results: {len(results)}")
+    return results
+
+
+def merge(filings, results):
+    merged = {}
+
+    for cn, case in filings.items():
+        merged[cn] = case.copy()
+
+    for cn, case in results.items():
+        if cn in merged:
+            merged[cn].update(case)
+        else:
+            merged[cn] = case.copy()
+
+    for cn, case in merged.items():
+        if "tally_date" in case and case["tally_date"]:
+            status = case.get("status", "").lower()
+            case["stage"] = "certified" if "closed" in status else "tally_issued"
+        elif case.get("date_filed"):
+            try:
+                days = (datetime.now() - datetime.strptime(
+                    case["date_filed"], "%Y-%m-%d")).days
+                case["stage"] = "just_filed" if days <= 14 else "pending"
+            except ValueError:
+                case["stage"] = "pending"
+
+    return merged
+
+
+def load_existing():
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE) as f:
+            data = json.load(f)
+        existing = data.get("cases", {})
+        print(f"Loaded {len(existing)} existing cases")
+        return data
+    return {"cases": {}}
+
+
+def save(data):
+    with open(DATA_FILE, "w") as f:
+        json.dump(data, f, indent=2)
+    print(f"Saved {len(data['cases'])} cases to {DATA_FILE}")
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--backfill", action="store_true",
+                        help="Scrape last 90 days (first run)")
+    args = parser.parse_args()
+
+    days_back = 90 if args.backfill else 3
+
+    # Diagnostic: test fetch before doing anything
+    print("Testing connection to NLRB...")
+    test_html = fetch(RESULTS_URL, page=0)
+    if not test_html:
+        print("ERROR: Could not fetch NLRB results page. Exiting.")
+        return
+    test_soup = BeautifulSoup(test_html, "html.parser")
+    test_blocks = test_soup.select("div.rer-content")
+    print(f"Diagnostic: fetched {len(test_html)} bytes, found {len(test_blocks)} rer-content blocks")
+    if len(test_blocks) == 0:
+        print("WARNING: No case blocks found. Page may be returning bot-check or empty content.")
+        print(f"First 300 chars of page text: {test_soup.get_text()[:300]}")
+        return
+
+    existing = load_existing()
+    existing_cases = existing.get("cases", {})
+
+    filings = scrape_filings(days_back=days_back)
+    results = scrape_results(days_back=days_back)
+
+    new_cases = merge(filings, results)
+    existing_cases.update(new_cases)
+
+    output = {
+        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "total_cases": len(existing_cases),
+        "cases": existing_cases,
+    }
+
+    save(output)
+    print(f"Done. {len(new_cases)} new/updated, {len(existing_cases)} total.")
+
+
+if __name__ == "__main__":
+    main()
