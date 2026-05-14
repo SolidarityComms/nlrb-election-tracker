@@ -1,22 +1,36 @@
 name: Daily NLRB Scrape
+
 on:
   schedule:
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+    - cron: '0 12 * * *'  # runs every day at 12:00 UTC (8am Eastern)
+  workflow_dispatch:        # also lets you run it manually
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4
+
       - name: Run scraper
-        run: python scrape.py --backfill
+        run: |
+          if python -c "import json; d=json.load(open('data.json')); exit(0 if len(d.get('cases',{})) > 0 else 1)" 2>/dev/null; then
+            echo "data.json has cases, running daily update..."
+            python scrape.py
+          else
+            echo "No cases found, running backfill..."
+            python scrape.py --backfill
+          fi
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
