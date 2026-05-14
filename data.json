@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 13:15:59",
+  "last_updated": "2026-05-14 14:10:47",
   "total_cases": 482,
   "cases": {
     "19-RC-386928": {
@@ -64,7 +64,11 @@
       "region": "Region 02, New York, New York",
       "eligible_voters": 6,
       "stage": "just_filed",
-      "sector": "Hospitality & Food Service"
+      "sector": "Hospitality & Food Service",
+      "union_counsel": [
+        "Brady McGuire & Steinberg, P.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "15-RC-386933": {
       "case_number": "15-RC-386933",
@@ -77,7 +81,8 @@
       "region": "Region 15, New Orleans, Louisiana",
       "eligible_voters": 9,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-05-14"
     },
     "01-RC-386814": {
       "case_number": "01-RC-386814",
@@ -90,7 +95,14 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 22,
       "stage": "just_filed",
-      "sector": "Transportation & Logistics"
+      "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "Jackson Lewis, P.C."
+      ],
+      "union_counsel": [
+        "PYLE ROME EHRENBERG PC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "32-RC-386833": {
       "case_number": "32-RC-386833",
@@ -116,7 +128,11 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 15,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "03-RC-386849": {
       "case_number": "03-RC-386849",
@@ -142,7 +158,14 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Education"
+      "sector": "Education",
+      "employer_counsel": [
+        "Willig, Williams & Davidson"
+      ],
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "08-RC-386788": {
       "case_number": "08-RC-386788",
@@ -155,7 +178,14 @@
       "region": "Region 08, Cleveland, Ohio",
       "eligible_voters": 12,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Taft Stettinius & Hollister LLP"
+      ],
+      "union_counsel": [
+        "Doll, Jansen & Ford"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "04-RC-386651": {
       "case_number": "04-RC-386651",
@@ -208,7 +238,14 @@
       "region": "Region 25, Indianapolis, Indiana",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
+      "union_counsel": [
+        "Bowman Legal Services, LLC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "25-RC-386676": {
       "case_number": "25-RC-386676",
@@ -221,7 +258,15 @@
       "region": "Region 25, Indianapolis, Indiana",
       "eligible_voters": 18,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
+        "Ogletree Deakins"
+      ],
+      "union_counsel": [
+        "Karmel & Torres Law"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "22-RC-386663": {
       "case_number": "22-RC-386663",
@@ -400,7 +445,11 @@
       "region": "Region 28, Phoenix, Arizona",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Gilbert & Sackman, A Law Corporation"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "20-RC-386625": {
       "case_number": "20-RC-386625",
@@ -413,7 +462,11 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "32-RD-386593": {
       "case_number": "32-RD-386593",
@@ -487,7 +540,14 @@
       "region": "Region 31, Los Angeles, California",
       "eligible_voters": 23,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Thompson Hine LLP"
+      ],
+      "union_counsel": [
+        "Rothner, Segall & Greenstone"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "03-RC-386550": {
       "case_number": "03-RC-386550",
@@ -500,7 +560,14 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Bond, Schoeneck & King, PLLC"
+      ],
+      "union_counsel": [
+        "Robert M. Cheverie & Associates, P.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "04-RD-386553": {
       "case_number": "04-RD-386553",
@@ -513,7 +580,15 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 9,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation, Inc.",
+        "National Right to Work Legal Defense Foundation"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "15-RM-386557": {
       "case_number": "15-RM-386557",
@@ -526,7 +601,12 @@
       "region": "Region 15, New Orleans, Louisiana",
       "eligible_voters": 19,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "election_date": "June 03 2026",
+      "union_counsel": [
+        "Barnes and Thornburg"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "20-RC-386546": {
       "case_number": "20-RC-386546",
@@ -559,7 +639,11 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 14,
       "stage": "just_filed",
-      "sector": "Media & Entertainment"
+      "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Ogletree Deakin"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "05-RC-386579": {
       "case_number": "05-RC-386579",
@@ -645,7 +729,14 @@
       "region": "Region 16, Fort Worth, Texas",
       "eligible_voters": 20,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "20-RC-386517": {
       "case_number": "20-RC-386517",
@@ -675,7 +766,14 @@
       "region": "Region 09, Cincinnati, Ohio",
       "eligible_voters": 9,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
+      "union_counsel": [
+        "Herzfeld, Suetholz, Gastel, Leniski & Wall, PLLC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "14-RC-386407": {
       "case_number": "14-RC-386407",
@@ -705,7 +803,14 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 18,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Lockheed Martin Corporation"
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "10-RC-386488": {
       "case_number": "10-RC-386488",
@@ -775,7 +880,11 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 6,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "The Bennett Law Firm, P.A."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "29-RM-386428": {
       "case_number": "29-RM-386428",
@@ -805,7 +914,14 @@
       "region": "Region 09, Cincinnati, Ohio",
       "eligible_voters": 15,
       "stage": "just_filed",
-      "sector": "Social Services & Nonprofit"
+      "sector": "Social Services & Nonprofit",
+      "employer_counsel": [
+        "Kegler Brown Hill + Ritter"
+      ],
+      "union_counsel": [
+        "Harshman Wannemacher Tipton & Lipperman"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "04-RC-386203": {
       "case_number": "04-RC-386203",
@@ -818,7 +934,15 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 18,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C.",
+        "ABM Texas General Services, Inc."
+      ],
+      "union_counsel": [
+        "O\u2019Brien, Belland & Bushinsky, LLC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "12-RD-386268": {
       "case_number": "12-RD-386268",
@@ -872,7 +996,14 @@
       "region": "Region 22, Newark, New Jersey",
       "eligible_voters": 20,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "20-RD-386359": {
       "case_number": "20-RD-386359",
@@ -885,7 +1016,11 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 18,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "19-RC-386258": {
       "case_number": "19-RC-386258",
@@ -952,7 +1087,16 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 21,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "election_date": "June 09 2026",
+      "employer_counsel": [
+        "Jackson Lewis, P.C.",
+        "Jackson Lewis P.C."
+      ],
+      "union_counsel": [
+        "Ira H. Weinstock P.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "18-RC-386389": {
       "case_number": "18-RC-386389",
@@ -1021,7 +1165,11 @@
       "region": "Region 02, New York, New York",
       "eligible_voters": 22,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Elefante & Persanis, LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "05-RC-386204": {
       "case_number": "05-RC-386204",
@@ -1054,7 +1202,14 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 21,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "01-RD-386183": {
       "case_number": "01-RD-386183",
@@ -1126,7 +1281,15 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 14,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Bond, Schoeneck & King PLLC"
+      ],
+      "union_counsel": [
+        "CWA District 1 Legal Department",
+        "Communication Workers of America"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "32-RC-386136": {
       "case_number": "32-RC-386136",
@@ -1139,7 +1302,11 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 18,
       "stage": "just_filed",
-      "sector": "Media & Entertainment"
+      "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Morgan, Lewis & Bockius, LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "04-RC-386057": {
       "case_number": "04-RC-386057",
@@ -1152,7 +1319,16 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 12,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "election_date": "May 28 2026",
+      "employer_counsel": [
+        "Paisner Litvin, LLP"
+      ],
+      "union_counsel": [
+        "O\u2019Brien, Belland & Bushinsky, LLC",
+        "O'Brien, Belland & Bushinsky, LLC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "18-RC-386245": {
       "case_number": "18-RC-386245",
@@ -1165,7 +1341,15 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 12,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "election_date": "May 29 2026",
+      "employer_counsel": [
+        "Laner Muchin, Ltd."
+      ],
+      "union_counsel": [
+        "Soldon McCoy"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "18-RC-386209": {
       "case_number": "18-RC-386209",
@@ -1178,7 +1362,14 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 21,
       "stage": "just_filed",
-      "sector": "Social Services & Nonprofit"
+      "sector": "Social Services & Nonprofit",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "The Previant Law Firm"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "28-RC-386295": {
       "case_number": "28-RC-386295",
@@ -1217,7 +1408,11 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 13,
       "stage": "just_filed",
-      "sector": "Media & Entertainment"
+      "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Sebris Busto James"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "12-RC-386146": {
       "case_number": "12-RC-386146",
@@ -1284,7 +1479,9 @@
       "region": "Region 09, Cincinnati, Ohio",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "election_date": "JUNE 2 2026",
+      "case_page_fetched": "2026-05-14"
     },
     "07-RC-386420": {
       "case_number": "07-RC-386420",
@@ -1311,7 +1508,14 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 15,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "18-RC-386086": {
       "case_number": "18-RC-386086",
@@ -1324,7 +1528,11 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Godfrey & Kahn, S.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "10-RC-385942": {
       "case_number": "10-RC-385942",
@@ -1350,7 +1558,12 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "McNees Wallace & Nurick, LLC",
+        "McNees Wallace & Nurick LLC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "29-RC-386045": {
       "case_number": "29-RC-386045",
@@ -1383,7 +1596,16 @@
       "region": "Region 27, Denver, Colorado",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "election_date": "June 2 2026",
+      "employer_counsel": [
+        "Littler Mendelson, P.C.",
+        "Littler Mendelson, PC"
+      ],
+      "union_counsel": [
+        "Rosenblatt, Gosch & Reinken, PLLC"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "28-RC-386140": {
       "case_number": "28-RC-386140",
@@ -1396,7 +1618,15 @@
       "region": "Region 28, Phoenix, Arizona",
       "eligible_voters": 14,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "election_date": "May 29 2026",
+      "employer_counsel": [
+        "Jackson Lewis, P.C."
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "28-RC-386078": {
       "case_number": "28-RC-386078",
@@ -1451,7 +1681,11 @@
       "region": "Region 07, Detroit, Michigan",
       "eligible_voters": 21,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Miller Cohen, P.L.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "15-RC-385829": {
       "case_number": "15-RC-385829",
@@ -1499,7 +1733,11 @@
       "region": "Region 12, Tampa, Florida",
       "eligible_voters": 8,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Duane Morris LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "16-RC-385835": {
       "case_number": "16-RC-385835",
@@ -1512,7 +1750,16 @@
       "region": "Region 16, Fort Worth, Texas",
       "eligible_voters": 21,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Vorys Sater Seymour & Pease  LLP",
+        "Vorys, Sater, Seymour and Pease, LLP",
+        "Vorys, Sater, Seymour & Pease, LLP"
+      ],
+      "union_counsel": [
+        "Mooney, Green, Saindon, Murphy & Welch, P.C."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "16-RC-385929": {
       "case_number": "16-RC-385929",
@@ -1588,7 +1835,11 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 7,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Fisher & Phillips, LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "16-RC-385772": {
       "case_number": "16-RC-385772",
@@ -1601,7 +1852,11 @@
       "region": "Region 16, Fort Worth, Texas",
       "eligible_voters": 20,
       "stage": "pending",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Xcel Energy"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "28-RC-385902": {
       "case_number": "28-RC-385902",
@@ -1651,7 +1906,11 @@
       "region": "Region 02, New York, New York",
       "eligible_voters": 18,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Clifton Budd & DeMaria, LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "09-RC-385781": {
       "case_number": "09-RC-385781",
@@ -1664,7 +1923,11 @@
       "region": "Region 09, Cincinnati, Ohio",
       "eligible_voters": 16,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Keating, Muething, & Klecamp, P.L.L."
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "31-RC-385793": {
       "case_number": "31-RC-385793",
@@ -1677,7 +1940,12 @@
       "region": "Region 31, Los Angeles, California",
       "eligible_voters": 9,
       "stage": "pending",
-      "sector": "Security & Public Safety"
+      "sector": "Security & Public Safety",
+      "employer_counsel": [
+        "Martenson, Hasbrouck & Simon LLP",
+        "Martenson Hasbrouck & Simon LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "29-RC-385833": {
       "case_number": "29-RC-385833",
@@ -1723,7 +1991,12 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 14,
       "stage": "pending",
-      "sector": "Other"
+      "sector": "Other",
+      "election_date": "May 19 2026",
+      "union_counsel": [
+        "Langrock Sperry & Wool, LLP"
+      ],
+      "case_page_fetched": "2026-05-14"
     },
     "10-RC-385801": {
       "case_number": "10-RC-385801",
