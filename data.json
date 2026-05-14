@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14 18:55:45",
-  "total_cases": 496,
+  "last_updated": "2026-05-14 22:57:57",
+  "total_cases": 497,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14,6 +14,9 @@
       "eligible_voters": 40,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Alifanz & Westlind"
+      ],
       "union_counsel": [
         "Tedesco Law Group"
       ],
@@ -153,6 +156,9 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Seyfarth Shaw LLP"
+      ],
       "case_page_fetched": "2026-05-14"
     },
     "04-RC-386761": {
@@ -11113,6 +11119,20 @@
       "outcome": "union_lost",
       "stage": "tally_issued",
       "sector": "Transportation & Logistics"
+    },
+    "32-RC-386900": {
+      "case_number": "32-RC-386900",
+      "employer": "Pacific Gas and Electric Company",
+      "case_url": "https://www.nlrb.gov/case/32-RC-386900",
+      "case_type": "RC",
+      "date_filed": "2026-05-12",
+      "status": "Open",
+      "location": "Oakland, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-14"
     }
   }
 }
