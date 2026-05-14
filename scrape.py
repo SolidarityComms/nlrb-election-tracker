@@ -469,3 +469,145 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def fetch_election_date_from_pdf(pdf_url):
+    """Download Notice of Election PDF and extract the election date."""
+    try:
+        import re as _re
+        r = requests.get(pdf_url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        # Use pypdf to extract text
+        import io
+        try:
+            from pypdf import PdfReader
+        except ImportError:
+            from PyPDF2 import PdfReader
+        reader = PdfReader(io.BytesIO(r.content))
+        for page in reader.pages:
+            text = page.extract_text() or ""
+            # Look for "DATE: Thursday, May 07, 2026" or similar
+            match = _re.search(
+                r'DATE[:\s]+(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+'
+                r'(\w+ \d{1,2},?\s+\d{4})',
+                text, _re.IGNORECASE
+            )
+            if match:
+                return parse_date(match.group(1).replace(',', '').strip())
+    except Exception as e:
+        print(f"    PDF parse error: {e}")
+    return None
+
+
+def parse_case_page(html, case_number):
+    """Parse an individual case page for election date and counsel."""
+    soup = BeautifulSoup(html, "html.parser")
+    result = {}
+
+    # ── Election date: find Notice of Election PDF link and parse it ──
+    docket_table = soup.find("table", class_="docket-activity-table")
+    if docket_table:
+        for row in docket_table.find_all("tr"):
+            cells = row.find_all("td")
+            if len(cells) >= 2:
+                doc_text = cells[1].get_text().strip()
+                if "Notice of Election" in doc_text or "Election Scheduled" in doc_text:
+                    # Look for PDF link in this cell
+                    link = cells[1].find("a", href=True)
+                    if link and "apps.nlrb.gov" in link["href"]:
+                        pdf_url = link["href"]
+                        if not pdf_url.startswith("http"):
+                            pdf_url = "https://apps.nlrb.gov" + pdf_url
+                        print(f"    Fetching election PDF for {case_number}...")
+                        election_date = fetch_election_date_from_pdf(pdf_url)
+                        if election_date:
+                            result["election_date"] = election_date
+                    break
+
+    # ── Participants ──
+    participants_table = None
+    h2s = soup.find_all("h2")
+    for h2 in h2s:
+        if "Participants" in h2.get_text():
+            participants_table = h2.find_next("table")
+            break
+
+    employer_counsel_firms = []
+    union_counsel_firms = []
+
+    if participants_table:
+        for row in participants_table.find_all("tr"):
+            td = row.find("td")
+            if not td:
+                continue
+            text = td.get_text(separator="\n").strip()
+            lines = [l.strip() for l in text.split("\n") if l.strip()]
+            if not lines:
+                continue
+
+            participant_type = lines[0].strip()
+            role = lines[1] if len(lines) > 1 else ""
+            firm = lines[3] if len(lines) > 3 else ""
+
+            if "Employer" in participant_type and "Legal Representative" in role:
+                if firm and firm not in employer_counsel_firms:
+                    employer_counsel_firms.append(firm)
+            elif "Petitioner" in participant_type and "Legal Representative" in role:
+                if firm and firm not in union_counsel_firms:
+                    union_counsel_firms.append(firm)
+
+    if employer_counsel_firms:
+        result["employer_counsel"] = employer_counsel_firms
+    if union_counsel_firms:
+        result["union_counsel"] = union_counsel_firms
+
+    return result
+
+
+def enrich_pending_cases(cases, max_fetches=50):
+    """Fetch individual case pages for pending cases to get election dates and counsel."""
+    import time as _time
+
+    pending = [
+        (cn, c) for cn, c in cases.items()
+        if c.get("stage") in ("pending", "just_filed")
+        and c.get("case_url")
+    ]
+
+    # Prioritize: not yet enriched, or enriched > 3 days ago
+    from datetime import datetime, timedelta
+    now = datetime.now()
+    stale_cutoff = (now - timedelta(days=3)).strftime("%Y-%m-%d")
+
+    to_fetch = []
+    for cn, c in pending:
+        last_fetched = c.get("case_page_fetched", "")
+        if not last_fetched or last_fetched < stale_cutoff:
+            to_fetch.append((cn, c))
+
+    # Sort by eligible voters desc (fetch biggest cases first)
+    to_fetch.sort(key=lambda x: x[1].get("eligible_voters", 0) or 0, reverse=True)
+    to_fetch = to_fetch[:max_fetches]
+
+    print(f"Enriching {len(to_fetch)} pending cases (of {len(pending)} total pending)...")
+
+    enriched = 0
+    for cn, case in to_fetch:
+        url = case["case_url"]
+        html = fetch(url)
+        if not html:
+            print(f"  Skipping {cn}: fetch failed")
+            continue
+
+        parsed = parse_case_page(html, cn)
+        if parsed:
+            case.update(parsed)
+            enriched += 1
+            if "election_scheduled_date" in parsed:
+                print(f"  {cn}: election scheduled {parsed['election_scheduled_date']}, counsel: {parsed.get('employer_counsel', [])}")
+        case["case_page_fetched"] = now.strftime("%Y-%m-%d")
+
+        _time.sleep(2)  # be polite to NLRB servers
+
+    print(f"  Enriched {enriched} cases with new data.")
+    return cases
