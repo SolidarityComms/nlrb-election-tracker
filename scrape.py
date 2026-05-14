@@ -2,7 +2,7 @@
 """
 NLRB Election Tracker — scraper
 Pulls from two NLRB pages:
-  1. Recent Filings  -> petitions as filed
+  1. Recent Filings  -> petitions as filed (including withdrawals)
   2. Election Results -> tallies as issued
 Merges on case number, writes data.json
 """
@@ -47,7 +47,6 @@ def parse_date(s):
 
 
 def get_field_value(block, label):
-    """Find a bold label in any div and return the text after it."""
     for b in block.find_all("b"):
         if label.lower() in b.text.lower():
             value = ""
@@ -58,6 +57,61 @@ def get_field_value(block, label):
                     break
             return value
     return None
+
+
+def classify_sector(unit_text, employer):
+    """Classify a case into a sector based on unit description and employer name."""
+    text = ((unit_text or "") + " " + (employer or "")).lower()
+
+    sectors = [
+        ("Healthcare", [r"nurse", r"rn\b", r"physician", r"doctor", r"hospital", r"medical",
+                        r"health care", r"healthcare", r"clinic", r"pharmacy", r"pharmacist",
+                        r"emt", r"paramedic", r"ambulance", r"dental", r"therapist",
+                        r"radiology", r"lab technolog", r"patient care"]),
+        ("Education", [r"teacher", r"faculty", r"professor", r"instructor", r"school",
+                       r"university", r"college", r"academic", r"student worker",
+                       r"teaching assistant", r"education"]),
+        ("Transportation & Logistics", [r"driver", r"warehouse", r"distribution", r"logistics",
+                                         r"delivery", r"freight", r"dock", r"loader",
+                                         r"forklift", r"armored car", r"shuttle", r"transit",
+                                         r"bus driver", r"transportation"]),
+        ("Hospitality & Food Service", [r"hotel", r"hospitality", r"housekeep", r"housekeeper",
+                                         r"cook", r"kitchen", r"food service", r"catering",
+                                         r"restaurant", r"barista", r"bartender", r"server",
+                                         r"casino", r"gaming"]),
+        ("Retail", [r"retail", r"store", r"cashier", r"sales associate", r"customer service",
+                    r"merchandise", r"grocery", r"supermarket"]),
+        ("Manufacturing", [r"production", r"manufacturing", r"assembly", r"plant worker",
+                           r"machinist", r"fabricat", r"weld", r"mill", r"foundry",
+                           r"chemical", r"refinery", r"cement"]),
+        ("Construction & Utilities", [r"electrician", r"plumber", r"pipefitter", r"hvac",
+                                       r"sheet metal", r"ironworker", r"carpenter",
+                                       r"construction", r"utility", r"maintenance",
+                                       r"engineer.*stationary", r"boiler"]),
+        ("Security & Public Safety", [r"security", r"guard", r"police", r"fire fighter",
+                                       r"firefighter", r"law enforcement", r"corrections",
+                                       r"protective"]),
+        ("Media & Entertainment", [r"journalist", r"reporter", r"editor", r"media",
+                                    r"broadcast", r"stage", r"theatrical", r"musician",
+                                    r"actor", r"film", r"television", r"radio",
+                                    r"technician.*entertainment"]),
+        ("Technology & Professional", [r"software", r"engineer", r"developer", r"tech",
+                                        r"it\b", r"information technology", r"professional",
+                                        r"research", r"scientist"]),
+        ("Social Services & Nonprofit", [r"social worker", r"case manager", r"counselor",
+                                          r"nonprofit", r"community", r"mental health",
+                                          r"disability", r"residential", r"shelter",
+                                          r"supported living"]),
+        ("Building Services", [r"janitor", r"custodian", r"cleaner", r"janitorial",
+                                r"building service", r"porter", r"housekeeping"]),
+    ]
+
+    import re
+    for sector, patterns in sectors:
+        for p in patterns:
+            if re.search(p, text):
+                return sector
+    return "Other"
 
 
 def scrape_filings(days_back=90):
@@ -107,6 +161,12 @@ def scrape_filings(days_back=90):
             case["status"] = get_field_value(block, "Status") or ""
             case["location"] = get_field_value(block, "Location") or ""
             case["region"] = get_field_value(block, "Region Assigned") or ""
+
+            # Capture close reason for withdrawals
+            close_reason = get_field_value(block, "Reason Closed") or ""
+            if close_reason:
+                case["close_reason"] = close_reason
+
             emp = get_field_value(block, "No Employees")
             if emp:
                 try:
@@ -114,6 +174,7 @@ def scrape_filings(days_back=90):
                 except ValueError:
                     pass
 
+            # Date cutoff
             if case.get("date_filed"):
                 try:
                     filed_dt = datetime.strptime(case["date_filed"], "%Y-%m-%d")
@@ -121,7 +182,17 @@ def scrape_filings(days_back=90):
                         found_old = True
                         continue
                     days_old = (datetime.now() - filed_dt).days
-                    case["stage"] = "just_filed" if days_old <= 14 else "pending"
+                    # Assign stage including withdrawals
+                    status_lower = case["status"].lower()
+                    reason_lower = close_reason.lower()
+                    if "withdrawal" in reason_lower:
+                        case["stage"] = "withdrawn"
+                    elif "closed" in status_lower:
+                        case["stage"] = "certified"
+                    elif days_old <= 14:
+                        case["stage"] = "just_filed"
+                    else:
+                        case["stage"] = "pending"
                 except ValueError:
                     case["stage"] = "just_filed"
             else:
@@ -272,6 +343,12 @@ def scrape_results(days_back=90):
             status = case.get("status", "").lower()
             case["stage"] = "certified" if "closed" in status else "tally_issued"
 
+            # Add sector classification
+            case["sector"] = classify_sector(
+                case.get("unit_description", ""),
+                case.get("employer", "")
+            )
+
             results[cn] = case
             page_count += 1
 
@@ -305,17 +382,29 @@ def merge(filings, results):
         else:
             merged[cn] = case.copy()
 
+    # Fix stages and add sector after merge
+    import re
     for cn, case in merged.items():
         if "tally_date" in case and case["tally_date"]:
             status = case.get("status", "").lower()
             case["stage"] = "certified" if "closed" in status else "tally_issued"
-        elif case.get("date_filed"):
-            try:
-                days = (datetime.now() - datetime.strptime(
-                    case["date_filed"], "%Y-%m-%d")).days
-                case["stage"] = "just_filed" if days <= 14 else "pending"
-            except ValueError:
-                case["stage"] = "pending"
+        elif case.get("stage") != "withdrawn":
+            if case.get("date_filed"):
+                try:
+                    days = (datetime.now() - datetime.strptime(
+                        case["date_filed"], "%Y-%m-%d")).days
+                    if days > 60 and case.get("stage") in ("pending", "just_filed"):
+                        case["days_pending"] = days
+                    case["stage"] = "just_filed" if days <= 14 else "pending"
+                except ValueError:
+                    case["stage"] = "pending"
+
+        # Classify sector if not already done
+        if "sector" not in case:
+            case["sector"] = classify_sector(
+                case.get("unit_description", ""),
+                case.get("employer", "")
+            )
 
     return merged
 
@@ -350,7 +439,8 @@ def main():
     if not test_html:
         print("ERROR: Could not fetch NLRB results page. Exiting.")
         return
-    test_soup = BeautifulSoup(test_html, "html.parser")
+    from bs4 import BeautifulSoup as BS
+    test_soup = BS(test_html, "html.parser")
     test_blocks = test_soup.select("div.rer-content")
     print(f"Diagnostic: fetched {len(test_html)} bytes, found {len(test_blocks)} rer-content blocks")
     if len(test_blocks) == 0:
