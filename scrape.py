@@ -326,9 +326,11 @@ def scrape_results(days_back=90):
                 case["outcome"] = "unknown"
             elif vf == va_count:
                 case["outcome"] = "tie"
-            elif ct in ["RD", "RM"]:
+            elif ct == "RD":
+                # Decertification: "votes for" = votes to remove union, so flip
                 case["outcome"] = "union_won" if va_count > vf else "union_lost"
             else:
+                # RC and RM: "votes for" = votes for the union
                 case["outcome"] = "union_won" if vf > va_count else "union_lost"
 
             tally_str = case.get("tally_date")
