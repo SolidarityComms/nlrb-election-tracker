@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15 18:23:30",
-  "total_cases": 508,
+  "last_updated": "2026-05-15 22:55:31",
+  "total_cases": 512,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11000,7 +11000,7 @@
       "union": "The Santa Cruz Lesbian and Gay Community Center",
       "union_to_certify": "The Diversity Center Werkers Union, Local 1",
       "unit_description": "VOTING GROUP A - PROFESSIONAL EMPLOYEES\n\nIncluded: All full-time and regular part-time Clinicians employed by the Employer at its facility located at 1117 Soquel Avenue, Santa Cruz, CA 95062. \n\nExcluded: All other employees, non-professional employees, Executive Director, Director of Development and Communications, Director of Clinical Services, Director of Programs, Outreach Manager, office clerical employees, guards, and supervisors as defined by the Act.\n\n VOTING GROUP B - NON-PROFESSIONAL EMPLOYEES\nIncluded: All full-time and regular part-time Voluntary and Training Coordinators, Community Center Coordinators, Regional Program Coordinators, Regional Program Specialists, Bookkeepers, Facilitators, and Lead Program Specialists employed by the Employer at its facilities located at 1117 Soquel Avenue, Santa Cruz, CA 95062. \nExcluded: All other employees, professional employees, Executive Director, Director of Development and Communications, Director of Clinical Services, Director of Programs, Outreach Manager, office clerical employees, guards, and supervisors as defined by the Act.",
-      "outcome": "union_lost",
+      "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Healthcare"
     },
@@ -11164,6 +11164,9 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Fisher & Phillips, LLP"
+      ],
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
@@ -11358,6 +11361,74 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Hospitality & Food Service"
+    },
+    "14-RD-387101": {
+      "case_number": "14-RD-387101",
+      "employer": "Buckeye Pipeline Services Company",
+      "case_url": "https://www.nlrb.gov/case/14-RD-387101",
+      "case_type": "RD",
+      "date_filed": "2026-05-15",
+      "status": "Open",
+      "location": "Sugar Creek, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-15"
+    },
+    "13-RC-387103": {
+      "case_number": "13-RC-387103",
+      "employer": "Liquid Environmental Solutions d/b/a All City Environmental Services",
+      "case_url": "https://www.nlrb.gov/case/13-RC-387103",
+      "case_type": "RC",
+      "date_filed": "2026-05-15",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 33,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-05-15"
+    },
+    "19-RC-387104": {
+      "case_number": "19-RC-387104",
+      "employer": "Technical Safety Services, LLC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-387104",
+      "case_type": "RC",
+      "date_filed": "2026-05-15",
+      "status": "Open",
+      "location": "Woodinville, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Technology & Professional",
+      "union_counsel": [
+        "International Association of Machinists and Aerospace Workers, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-05-15"
+    },
+    "28-RC-387106": {
+      "case_number": "28-RC-387106",
+      "employer": "Lockheed Martin",
+      "case_url": "https://www.nlrb.gov/case/28-RC-387106",
+      "case_type": "RC",
+      "date_filed": "2026-05-15",
+      "status": "Open",
+      "location": "Kirtland AFB, NM",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 58,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Lockheed Martin Corporation"
+      ],
+      "union_counsel": [
+        "International Association of Machinists and Aerospace Workers, Local Lodge 794, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-05-15"
     }
   }
 }
