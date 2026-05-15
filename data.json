@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15 05:56:28",
-  "total_cases": 499,
+  "last_updated": "2026-05-15 14:04:24",
+  "total_cases": 500,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -10873,6 +10873,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
+        "O'Donohue and O'Donoghue",
         "O'Donoghue & O'Donoghue, LLP"
       ],
       "case_page_fetched": "2026-05-15"
@@ -11165,6 +11166,23 @@
       "sector": "Other",
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-05-15"
+    },
+    "29-RC-387046": {
+      "case_number": "29-RC-387046",
+      "employer": "Encore Global (USA) LLC",
+      "case_url": "https://www.nlrb.gov/case/29-RC-387046",
+      "case_type": "RC",
+      "date_filed": "2026-05-14",
+      "status": "Open",
+      "location": "Long Island City, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Blitman & King LLP"
       ],
       "case_page_fetched": "2026-05-15"
     }
