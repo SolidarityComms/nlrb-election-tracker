@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14 22:57:57",
-  "total_cases": 497,
+  "last_updated": "2026-05-15 05:56:28",
+  "total_cases": 499,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -20,7 +20,7 @@
       "union_counsel": [
         "Tedesco Law Group"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "19-RC-386907": {
       "case_number": "19-RC-386907",
@@ -37,7 +37,7 @@
       "union_counsel": [
         "AFSCME International"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "01-RC-386909": {
       "case_number": "01-RC-386909",
@@ -54,7 +54,7 @@
       "employer_counsel": [
         "First Student, Inc."
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "02-RC-386881": {
       "case_number": "02-RC-386881",
@@ -71,7 +71,7 @@
       "union_counsel": [
         "Brady McGuire & Steinberg, P.C."
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "15-RC-386933": {
       "case_number": "15-RC-386933",
@@ -85,7 +85,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "01-RC-386814": {
       "case_number": "01-RC-386814",
@@ -10858,7 +10858,7 @@
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "13-RC-386963": {
       "case_number": "13-RC-386963",
@@ -10875,7 +10875,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "29-RC-386964": {
       "case_number": "29-RC-386964",
@@ -10892,7 +10892,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-15"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -11133,6 +11133,40 @@
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-05-14"
+    },
+    "20-RM-387033": {
+      "case_number": "20-RM-387033",
+      "employer": "San Francisco Opera",
+      "case_url": "https://www.nlrb.gov/case/20-RM-387033",
+      "case_type": "RM",
+      "date_filed": "2026-05-14",
+      "status": "Open",
+      "location": "San Francisco, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Partner, Seyfarth Shaw LLP"
+      ],
+      "case_page_fetched": "2026-05-15"
+    },
+    "19-RC-386937": {
+      "case_number": "19-RC-386937",
+      "employer": "P&B Intermodal/P&B Crane Repair",
+      "case_url": "https://www.nlrb.gov/case/19-RC-386937",
+      "case_type": "RC",
+      "date_filed": "2026-05-13",
+      "status": "Open",
+      "location": "Tukwila, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-05-15"
     }
   }
 }
