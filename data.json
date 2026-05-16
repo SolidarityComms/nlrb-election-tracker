@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 05:27:46",
+  "last_updated": "2026-05-16 13:19:21",
   "total_cases": 512,
   "cases": {
     "19-RC-386928": {
@@ -10858,7 +10858,7 @@
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "13-RC-386963": {
       "case_number": "13-RC-386963",
@@ -10876,7 +10876,7 @@
         "O'Donohue and O'Donoghue",
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "29-RC-386964": {
       "case_number": "29-RC-386964",
@@ -11150,7 +11150,7 @@
       "union_counsel": [
         "Partner, Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "19-RC-386937": {
       "case_number": "19-RC-386937",
@@ -11190,7 +11190,7 @@
       "union_counsel": [
         "Blitman & King LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "22-RC-387064": {
       "case_number": "22-RC-387064",
@@ -11204,10 +11204,13 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "McMahon Berger  PC"
+      ],
       "union_counsel": [
         "Isaacs Devasia Castro & Wien LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "22-RC-387087": {
       "case_number": "22-RC-387087",
@@ -11224,7 +11227,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "09-RM-387067": {
       "case_number": "09-RM-387067",
@@ -11241,7 +11244,7 @@
       "union_counsel": [
         "Keating, Muething, & Klecamp, P.L.L."
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "19-RC-384772": {
       "case_number": "19-RC-384772",
@@ -11374,7 +11377,7 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "13-RC-387103": {
       "case_number": "13-RC-387103",
@@ -11391,7 +11394,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "19-RC-387104": {
       "case_number": "19-RC-387104",
@@ -11408,7 +11411,7 @@
       "union_counsel": [
         "International Association of Machinists and Aerospace Workers, AFL-CIO"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     },
     "28-RC-387106": {
       "case_number": "28-RC-387106",
@@ -11428,7 +11431,7 @@
       "union_counsel": [
         "International Association of Machinists and Aerospace Workers, Local Lodge 794, AFL-CIO"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-16"
     }
   }
 }
