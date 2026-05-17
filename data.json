@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-16 22:45:50",
-  "total_cases": 512,
+  "last_updated": "2026-05-17 05:49:45",
+  "total_cases": 514,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11210,7 +11210,7 @@
       "union_counsel": [
         "Isaacs Devasia Castro & Wien LLP"
       ],
-      "case_page_fetched": "2026-05-16"
+      "case_page_fetched": "2026-05-17"
     },
     "22-RC-387087": {
       "case_number": "22-RC-387087",
@@ -11227,7 +11227,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-16"
+      "case_page_fetched": "2026-05-17"
     },
     "09-RM-387067": {
       "case_number": "09-RM-387067",
@@ -11377,7 +11377,7 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-16"
+      "case_page_fetched": "2026-05-17"
     },
     "13-RC-387103": {
       "case_number": "13-RC-387103",
@@ -11394,7 +11394,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-05-16"
+      "case_page_fetched": "2026-05-17"
     },
     "19-RC-387104": {
       "case_number": "19-RC-387104",
@@ -11411,7 +11411,7 @@
       "union_counsel": [
         "International Association of Machinists and Aerospace Workers, AFL-CIO"
       ],
-      "case_page_fetched": "2026-05-16"
+      "case_page_fetched": "2026-05-17"
     },
     "28-RC-387106": {
       "case_number": "28-RC-387106",
@@ -11431,7 +11431,53 @@
       "union_counsel": [
         "International Association of Machinists and Aerospace Workers, Local Lodge 794, AFL-CIO"
       ],
-      "case_page_fetched": "2026-05-16"
+      "case_page_fetched": "2026-05-17"
+    },
+    "02-RC-351933": {
+      "case_number": "02-RC-351933",
+      "employer": "A+E Factual Productions, LLC",
+      "case_url": "https://www.nlrb.gov/case/02-RC-351933",
+      "case_type": "RC",
+      "tally_date": "2026-06-10",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2024-10-02",
+      "status": "Open",
+      "location": "New York, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 0,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "union": "Writers Guild of America, East",
+      "unit_description": "Included: \nAll employees in the Associate, Lead, Junior, and Senior classifications with the following titles: Producers, Archival/Archive Producers, Booking Producers, Casting Producers, Challenge Producers, Coordinating Producers, Field Producers, Research Producers, Story Producers, Post Producers, Post Archival/Archive Producers, and Segment Producers who perform work for the Employer.\nExcluded: \nAll other employees, in-house production staff, managers, confidential employees, guards, and supervisors as defined in the Act.",
+      "outcome": "unknown",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
+    },
+    "28-RC-344449": {
+      "case_number": "28-RC-344449",
+      "employer": "True Concord Voices and Orchestra, Inc.",
+      "case_url": "https://www.nlrb.gov/case/28-RC-344449",
+      "case_type": "RC",
+      "tally_date": "2026-05-15",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2024-06-14",
+      "status": "Open",
+      "location": "Tucson, AZ",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 47,
+      "votes_against": 6,
+      "ballots_counted": 37,
+      "void_ballots": 1,
+      "votes_for": 31,
+      "union": "Tucson Federation of Musicians, AFM, Local 33",
+      "union_to_certify": "Tucson Federation of Musicians, AFM, Local 33",
+      "unit_description": "Included:  All full-time and regular part-time orchestra musicians employed by the Employer out of its Tucson, Arizona facility.\n\nExcluded:  All other employees, choral musicians, office clerical employees, professional employees, managerial employees, confidential employees, and guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     }
   }
 }
