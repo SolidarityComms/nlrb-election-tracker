@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18 15:32:40",
-  "total_cases": 514,
+  "last_updated": "2026-05-18 18:51:37",
+  "total_cases": 515,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -125,7 +125,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -159,7 +159,7 @@
       "employer_counsel": [
         "Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "04-RC-386761": {
       "case_number": "04-RC-386761",
@@ -457,7 +457,10 @@
       "union_counsel": [
         "National Right to Work Legal Defense Foundation, Inc."
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18",
+      "employer_counsel": [
+        "Bucci Law"
+      ]
     },
     "28-RC-386724": {
       "case_number": "28-RC-386724",
@@ -532,7 +535,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "04-RC-386470": {
       "case_number": "04-RC-386470",
@@ -1090,7 +1093,10 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18",
+      "union_counsel": [
+        "Washington State Nurses Association, a/w the American Federation of Teachers"
+      ]
     },
     "18-RC-386398": {
       "case_number": "18-RC-386398",
@@ -1175,7 +1181,7 @@
       "union_counsel": [
         "Soldon Mccoy LLC"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "18-RC-386425": {
       "case_number": "18-RC-386425",
@@ -1189,7 +1195,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -1482,7 +1488,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1513,7 +1519,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "18-RC-386174": {
       "case_number": "18-RC-386174",
@@ -1644,7 +1650,7 @@
       "union_counsel": [
         "Stanford Fagan LLC"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "19-RC-385987": {
       "case_number": "19-RC-385987",
@@ -1895,7 +1901,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -1936,7 +1942,7 @@
         "Jacobs, Burns, Orlove & Hernandez",
         "Jacobs, Burns, Orlove & Hernandez LLP"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "19-RC-385966": {
       "case_number": "19-RC-385966",
@@ -2096,7 +2102,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "03-RM-385757": {
       "case_number": "03-RM-385757",
@@ -11159,7 +11165,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-14"
+      "case_page_fetched": "2026-05-18"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -11504,6 +11510,20 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Security & Public Safety"
+    },
+    "06-RC-387155": {
+      "case_number": "06-RC-387155",
+      "employer": "Ryder",
+      "case_url": "https://www.nlrb.gov/case/06-RC-387155",
+      "case_type": "RC",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Coraopolis, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-18"
     }
   }
 }
