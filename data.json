@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18 18:51:37",
-  "total_cases": 515,
+  "last_updated": "2026-05-18 23:02:06",
+  "total_cases": 520,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11520,6 +11520,86 @@
       "status": "Open",
       "location": "Coraopolis, PA",
       "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-18"
+    },
+    "13-RC-387170": {
+      "case_number": "13-RC-387170",
+      "employer": "Vantage Specialty Chemicals",
+      "case_url": "https://www.nlrb.gov/case/13-RC-387170",
+      "case_type": "RC",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Gurnee, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 79,
+      "stage": "just_filed",
+      "sector": "Manufacturing",
+      "union_counsel": [
+        "Johnson & Krol, LLC"
+      ],
+      "case_page_fetched": "2026-05-18"
+    },
+    "06-RC-387177": {
+      "case_number": "06-RC-387177",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/06-RC-387177",
+      "case_type": "RC",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Pittsburgh, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C.",
+        "Littler Mendelson P.C."
+      ],
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-05-18"
+    },
+    "21-RD-387169": {
+      "case_number": "21-RD-387169",
+      "employer": "EF International Language Schools - San Diego",
+      "case_url": "https://www.nlrb.gov/case/21-RD-387169",
+      "case_type": "RD",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "San Diego, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 22,
+      "stage": "just_filed",
+      "sector": "Education",
+      "case_page_fetched": "2026-05-18"
+    },
+    "32-RD-387173": {
+      "case_number": "32-RD-387173",
+      "employer": "Tempur Sealy",
+      "case_url": "https://www.nlrb.gov/case/32-RD-387173",
+      "case_type": "RD",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Richmond, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 120,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-18"
+    },
+    "31-RM-387189": {
+      "case_number": "31-RM-387189",
+      "employer": "Studio Electric, Inc. and DAB Innovations, LLC",
+      "case_url": "https://www.nlrb.gov/case/31-RM-387189",
+      "case_type": "RM",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Van Nuys, CA",
+      "region": "Region 31, Los Angeles, California",
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
