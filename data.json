@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19 06:09:19",
-  "total_cases": 520,
+  "last_updated": "2026-05-19 14:58:20",
+  "total_cases": 521,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11580,6 +11580,9 @@
       "eligible_voters": 22,
       "stage": "just_filed",
       "sector": "Education",
+      "employer_counsel": [
+        "Jones Day"
+      ],
       "case_page_fetched": "2026-05-19"
     },
     "32-RD-387173": {
@@ -11606,6 +11609,20 @@
       "location": "Van Nuys, CA",
       "region": "Region 31, Los Angeles, California",
       "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-19"
+    },
+    "01-RC-387216": {
+      "case_number": "01-RC-387216",
+      "employer": "Enel North America",
+      "case_url": "https://www.nlrb.gov/case/01-RC-387216",
+      "case_type": "RC",
+      "date_filed": "2026-05-19",
+      "status": "Open",
+      "location": "Andover, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-05-19"
