@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 23:02:06",
+  "last_updated": "2026-05-19 06:09:19",
   "total_cases": 520,
   "cases": {
     "19-RC-386928": {
@@ -20,7 +20,7 @@
       "union_counsel": [
         "Tedesco Law Group"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19"
     },
     "19-RC-386907": {
       "case_number": "19-RC-386907",
@@ -37,7 +37,7 @@
       "union_counsel": [
         "AFSCME International"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19"
     },
     "01-RC-386909": {
       "case_number": "01-RC-386909",
@@ -54,7 +54,7 @@
       "employer_counsel": [
         "First Student, Inc."
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19"
     },
     "02-RC-386881": {
       "case_number": "02-RC-386881",
@@ -71,7 +71,10 @@
       "union_counsel": [
         "Brady McGuire & Steinberg, P.C."
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ]
     },
     "15-RC-386933": {
       "case_number": "15-RC-386933",
@@ -85,7 +88,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19"
     },
     "01-RC-386814": {
       "case_number": "01-RC-386814",
@@ -10925,7 +10928,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -11197,12 +11200,14 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
-        "Fisher & Phillips, LLP"
+        "Fisher Phillips",
+        "Fisher & Phillips, LLP",
+        "Fisher Phillips, LLP"
       ],
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-05-15"
+      "case_page_fetched": "2026-05-19"
     },
     "29-RC-387046": {
       "case_number": "29-RC-387046",
@@ -11523,7 +11528,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-19"
     },
     "13-RC-387170": {
       "case_number": "13-RC-387170",
@@ -11540,7 +11545,7 @@
       "union_counsel": [
         "Johnson & Krol, LLC"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-19"
     },
     "06-RC-387177": {
       "case_number": "06-RC-387177",
@@ -11561,7 +11566,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-19"
     },
     "21-RD-387169": {
       "case_number": "21-RD-387169",
@@ -11575,7 +11580,7 @@
       "eligible_voters": 22,
       "stage": "just_filed",
       "sector": "Education",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-19"
     },
     "32-RD-387173": {
       "case_number": "32-RD-387173",
@@ -11589,7 +11594,7 @@
       "eligible_voters": 120,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-19"
     },
     "31-RM-387189": {
       "case_number": "31-RM-387189",
@@ -11603,7 +11608,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-19"
     }
   }
 }
