@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19 19:00:51",
-  "total_cases": 528,
+  "last_updated": "2026-05-19 23:04:11",
+  "total_cases": 532,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11625,6 +11625,9 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
+      "union_counsel": [
+        "Krakow, Souris & Landry"
+      ],
       "case_page_fetched": "2026-05-19"
     },
     "04-RC-387224": {
@@ -11754,6 +11757,82 @@
         "Spivak Lipton LLP"
       ],
       "case_page_fetched": "2026-05-19"
+    },
+    "20-RC-387285": {
+      "case_number": "20-RC-387285",
+      "employer": "Surefox N.A., Inc.",
+      "case_url": "https://www.nlrb.gov/case/20-RC-387285",
+      "case_type": "RC",
+      "date_filed": "2026-05-19",
+      "status": "Open",
+      "location": "San Francisco, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-19"
+    },
+    "19-RC-387282": {
+      "case_number": "19-RC-387282",
+      "employer": "Hillsboro Medical Center",
+      "case_url": "https://www.nlrb.gov/case/19-RC-387282",
+      "case_type": "RC",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Hillsboro, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-05-19"
+    },
+    "13-RC-384412": {
+      "case_number": "13-RC-384412",
+      "employer": "Rush University Medical Center",
+      "case_url": "https://www.nlrb.gov/case/13-RC-384412",
+      "case_type": "RC",
+      "tally_date": "2026-05-18",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-08",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 1830,
+      "votes_against": 350,
+      "ballots_counted": 1540,
+      "void_ballots": 0,
+      "votes_for": 1190,
+      "union": "National Nurses Organizing Committee / National Nurses United",
+      "union_to_certify": "National Nurses Organizing Committee / National Nurses United",
+      "unit_description": "Included: All full-time, regular part-time, and PRN Registered Nurses in the following job classifications:\n\u2022\tCritical Care Outreach  2 RN,\n\u2022\tCritical Care Outreach 3 RN,\n\u2022\tCritical Care Outreach RN PD,\n\u2022\tOR Schedule Board Coordinator RN,\n\u2022\tOrgan Recovery 2 RN,\n\u2022\tOrgan Recovery 3 RN, \n\u2022\tRegistered Nurse 1,\n\u2022\tRegistered Nurse 2,\n\u2022\tRegistered Nurse 2 CSO,\n\u2022\tRegistered Nurse 3,\n\u2022\tRegistered Nurse 3, CSO,\n\u2022\tRN Supplemental Staffing,\n\u2022\tRN Unit Based Per Diem\n\u2022\tSr. Vascular Access RN, and\n\u2022\tVascular Access RN\nemployed by the Employer and working in the Employer\u2019s acute care hospital building located at 1653 W. Congress Parkway, Chicago, IL 60612 and 1620 W. Harrison Street, Chicago, IL 60612. \n\nExcluded: All other Registered Nurses, including advanced practice nurses, employed at the Employer\u2019s acute care hospital building located at 1653 W. Congress Parkway, Chicago, IL 60612 and 1620 W. Harrison Street, Chicago, IL 60612 (including at its ambulatory clinics), physicians, administrators, non-nursing professionals, technical employees, skilled maintenance employees, business office clerical employees, confidential employees, nonprofessional employees, all other employees, employees of other employers, guards and supervisors, as defined in the Act, and employees of the Employer employed at an address other than the Employer\u2019s acute care hospital building located at 1653 W. Congress Parkway, Chicago, IL 60612 and 1620 W. Harrison Street, Chicago, IL 60612.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
+    },
+    "04-RC-384999": {
+      "case_number": "04-RC-384999",
+      "employer": "Universal Protection Service, LLC d/b/a/ Allied Universal Security Services",
+      "case_url": "https://www.nlrb.gov/case/04-RC-384999",
+      "case_type": "RC",
+      "tally_date": "2026-05-18",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-17",
+      "status": "Open",
+      "location": "Wilmington, DE",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 33,
+      "votes_against": 2,
+      "ballots_counted": 18,
+      "void_ballots": 0,
+      "votes_for": 16,
+      "union": "Philadelphia Security Officers Union",
+      "union_to_certify": "Philadelphia Security Officers Union",
+      "unit_description": "Included: All full time and regular part-time Security Officers,  Security Supervisors, Console Operators employed by the Employer at its Experimental Station Laboratories and Chestnut Run Plaza locations, currently located at 200 Powder Mill Road, #357, Wilmington, DE and 974 Centre Rd., Wilmington, DE, respectively. \n\nExcluded: All other employees, Site Security Supervisors, professional employees, office clericals, managers, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     }
   }
 }
