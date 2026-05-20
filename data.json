@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20 19:25:42",
-  "total_cases": 539,
+  "last_updated": "2026-05-20 23:15:18",
+  "total_cases": 541,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11946,6 +11946,34 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-05-20"
+    },
+    "25-RC-387375": {
+      "case_number": "25-RC-387375",
+      "employer": "Vestis Services, LLC",
+      "case_url": "https://www.nlrb.gov/case/25-RC-387375",
+      "case_type": "RC",
+      "date_filed": "2026-05-20",
+      "status": "Open",
+      "location": "Indianapolis, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-20"
+    },
+    "18-RC-387370": {
+      "case_number": "18-RC-387370",
+      "employer": "Siouxland Regional Transit System (SRTS)",
+      "case_url": "https://www.nlrb.gov/case/18-RC-387370",
+      "case_type": "RC",
+      "date_filed": "2026-05-18",
+      "status": "Open",
+      "location": "Sioux City, IA",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
       "case_page_fetched": "2026-05-20"
     }
   }
