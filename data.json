@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21 15:22:14",
-  "total_cases": 547,
+  "last_updated": "2026-05-21 18:59:39",
+  "total_cases": 548,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11985,6 +11985,9 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Morgan, Lewis & Bockius"
+      ],
       "case_page_fetched": "2026-05-21"
     },
     "18-RC-387370": {
@@ -12143,6 +12146,23 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Hospitality & Food Service"
+    },
+    "32-RC-387441": {
+      "case_number": "32-RC-387441",
+      "employer": "Simplot Grower Solutions",
+      "case_url": "https://www.nlrb.gov/case/32-RC-387441",
+      "case_type": "RC",
+      "date_filed": "2026-05-21",
+      "status": "Open",
+      "location": "Kerman, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-05-21"
     }
   }
 }
