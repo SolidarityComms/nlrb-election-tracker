@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21 18:59:39",
-  "total_cases": 548,
+  "last_updated": "2026-05-21 23:14:52",
+  "total_cases": 552,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11646,11 +11646,7 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 15,
       "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Krakow, Souris & Landry"
-      ],
-      "case_page_fetched": "2026-05-21"
+      "sector": "Other"
     },
     "04-RC-387224": {
       "case_number": "04-RC-387224",
@@ -11664,6 +11660,9 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Cozen O'Connor"
+      ],
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
@@ -11872,6 +11871,9 @@
       "eligible_voters": 400,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Prime Healthcare"
+      ],
       "case_page_fetched": "2026-05-21"
     },
     "04-RD-387322": {
@@ -11902,11 +11904,7 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 14,
       "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Ogletree Deakins"
-      ],
-      "case_page_fetched": "2026-05-21"
+      "sector": "Other"
     },
     "14-RC-387356": {
       "case_number": "14-RC-387356",
@@ -11937,14 +11935,11 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Other",
-      "union_counsel": [
-        "Perera & Fedele"
-      ],
       "case_page_fetched": "2026-05-21"
     },
     "27-RC-387319": {
       "case_number": "27-RC-387319",
-      "employer": "Federal Theater",
+      "employer": "Federal Theatre",
       "case_url": "https://www.nlrb.gov/case/27-RC-387319",
       "case_type": "RC",
       "date_filed": "2026-05-19",
@@ -12161,6 +12156,74 @@
       "sector": "Other",
       "union_counsel": [
         "Beeson Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-05-21"
+    },
+    "31-RC-387458": {
+      "case_number": "31-RC-387458",
+      "employer": "Prime Response Inc.",
+      "case_url": "https://www.nlrb.gov/case/31-RC-387458",
+      "case_type": "RC",
+      "date_filed": "2026-05-21",
+      "status": "Open",
+      "location": "Edwards AFB, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-21"
+    },
+    "31-RC-387465": {
+      "case_number": "31-RC-387465",
+      "employer": "Aetos Systems",
+      "case_url": "https://www.nlrb.gov/case/31-RC-387465",
+      "case_type": "RC",
+      "date_filed": "2026-05-21",
+      "status": "Open",
+      "location": "Edwards AFB, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-21"
+    },
+    "20-RC-387427": {
+      "case_number": "20-RC-387427",
+      "employer": "Jones Lang LaSalle",
+      "case_url": "https://www.nlrb.gov/case/20-RC-387427",
+      "case_type": "RC",
+      "date_filed": "2026-05-20",
+      "status": "Open",
+      "location": "Redwood City, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-21"
+    },
+    "08-RC-387428": {
+      "case_number": "08-RC-387428",
+      "employer": "Republic Services of Ohio Transportation, LLC and Browning-Ferris Industries of Ohio, Inc.",
+      "case_url": "https://www.nlrb.gov/case/08-RC-387428",
+      "case_type": "RC",
+      "date_filed": "2026-05-20",
+      "status": "Open",
+      "location": "Youngstown, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "Doll, Jansen & Ford"
       ],
       "case_page_fetched": "2026-05-21"
     }
