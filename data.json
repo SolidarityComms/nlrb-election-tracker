@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22 14:44:07",
-  "total_cases": 557,
+  "last_updated": "2026-05-22 18:55:34",
+  "total_cases": 561,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -128,7 +128,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -163,7 +163,7 @@
       "employer_counsel": [
         "Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "04-RC-386761": {
       "case_number": "04-RC-386761",
@@ -470,7 +470,7 @@
       "union_counsel": [
         "National Right to Work Legal Defense Foundation, Inc."
       ],
-      "case_page_fetched": "2026-05-18",
+      "case_page_fetched": "2026-05-22",
       "employer_counsel": [
         "Bucci Law"
       ]
@@ -552,7 +552,8 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22",
+      "election_date": "May 27 2026"
     },
     "04-RC-386470": {
       "case_number": "04-RC-386470",
@@ -767,7 +768,7 @@
       "union_counsel": [
         "Gursky, Wiens and Shanley"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "18-RC-386507": {
       "case_number": "18-RC-386507",
@@ -959,7 +960,7 @@
       "employer_counsel": [
         "The Bennett Law Firm, P.A."
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "29-RM-386428": {
       "case_number": "29-RM-386428",
@@ -1112,7 +1113,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-05-18",
+      "case_page_fetched": "2026-05-22",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1200,7 +1201,7 @@
       "union_counsel": [
         "Soldon Mccoy LLC"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "18-RC-386425": {
       "case_number": "18-RC-386425",
@@ -1214,7 +1215,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -1251,7 +1252,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "02-RD-386210": {
       "case_number": "02-RD-386210",
@@ -1490,7 +1491,7 @@
       "union_counsel": [
         "International Brotherhood of Electrical Workers Local 387 AFL-CIO"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "19-RM-386179": {
       "case_number": "19-RM-386179",
@@ -1507,7 +1508,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1538,7 +1539,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "18-RC-386174": {
       "case_number": "18-RC-386174",
@@ -1670,7 +1671,7 @@
       "union_counsel": [
         "Stanford Fagan LLC"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "19-RC-385987": {
       "case_number": "19-RC-385987",
@@ -1865,7 +1866,7 @@
       "employer_counsel": [
         "Duane Morris LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "16-RC-385835": {
       "case_number": "16-RC-385835",
@@ -1924,7 +1925,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -1969,7 +1970,7 @@
         "Jacobs, Burns, Orlove & Hernandez",
         "Jacobs, Burns, Orlove & Hernandez LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "19-RC-385966": {
       "case_number": "19-RC-385966",
@@ -1986,7 +1987,7 @@
       "employer_counsel": [
         "Fisher & Phillips, LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "16-RC-385772": {
       "case_number": "16-RC-385772",
@@ -2129,7 +2130,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "03-RM-385757": {
       "case_number": "03-RM-385757",
@@ -10995,7 +10996,7 @@
       "union_counsel": [
         "Fuiman Mogila LLP"
       ],
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "31-RC-386895": {
       "case_number": "31-RC-386895",
@@ -11207,7 +11208,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-18"
+      "case_page_fetched": "2026-05-22"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -11917,7 +11918,11 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Transportation & Logistics"
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation, Inc."
+      ],
+      "case_page_fetched": "2026-05-22"
     },
     "13-RC-387295": {
       "case_number": "13-RC-387295",
@@ -12012,7 +12017,11 @@
       "region": "Region 25, Indianapolis, Indiana",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Morgan, Lewis & Bockius"
+      ],
+      "case_page_fetched": "2026-05-22"
     },
     "18-RC-387370": {
       "case_number": "18-RC-387370",
@@ -12216,7 +12225,11 @@
       "region": "Region 31, Los Angeles, California",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-22"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12229,7 +12242,11 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-05-22"
     },
     "08-RC-387428": {
       "case_number": "08-RC-387428",
@@ -12242,7 +12259,11 @@
       "region": "Region 08, Cleveland, Ohio",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Transportation & Logistics"
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "Doll, Jansen & Ford"
+      ],
+      "case_page_fetched": "2026-05-22"
     },
     "31-RC-387468": {
       "case_number": "31-RC-387468",
@@ -12255,7 +12276,8 @@
       "region": "Region 31, Los Angeles, California",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-05-22"
     },
     "29-RC-384138": {
       "case_number": "29-RC-384138",
@@ -12351,6 +12373,82 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Healthcare"
+    },
+    "18-RC-387477": {
+      "case_number": "18-RC-387477",
+      "employer": "Chisolm Health Center",
+      "case_url": "https://www.nlrb.gov/case/18-RC-387477",
+      "case_type": "RC",
+      "date_filed": "2026-05-22",
+      "status": "Open",
+      "location": "Chisholm, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-22"
+    },
+    "21-RC-387503": {
+      "case_number": "21-RC-387503",
+      "employer": "Children's Museum of Discovery",
+      "case_url": "https://www.nlrb.gov/case/21-RC-387503",
+      "case_type": "RC",
+      "date_filed": "2026-05-22",
+      "status": "Open",
+      "location": "Escondido, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 25,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-22"
+    },
+    "14-RC-385658": {
+      "case_number": "14-RC-385658",
+      "employer": "First Student, Inc.",
+      "case_url": "https://www.nlrb.gov/case/14-RC-385658",
+      "case_type": "RC",
+      "tally_date": "2026-05-20",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-27",
+      "status": "Open",
+      "location": "Scott City, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 13,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "votes_for": 9,
+      "union": "Teamsters Local 600",
+      "union_to_certify": "Teamsters Local 600",
+      "unit_description": "All full-time and regular part-time drivers and monitors employed by the Employer performing work from its facility located at 3435 Havco Drive, Scott City, Missouri, but EXCLUDING office clerical employees, professional employees, guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
+    },
+    "28-RC-385650": {
+      "case_number": "28-RC-385650",
+      "employer": "Roots and Leaves LLC",
+      "case_url": "https://www.nlrb.gov/case/28-RC-385650",
+      "case_type": "RC",
+      "tally_date": "2026-05-20",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-03-18",
+      "status": "Open",
+      "location": "Santa Fe, NM",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 6,
+      "votes_against": 1,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "Communications Workers of America",
+      "union_to_certify": "Communications Workers of America",
+      "unit_description": "INCLUDED: All full-time and regular part-time tenders and brewers employed by the Employer at its facility located at 301 N Guadalupe St, Santa Fe, New Mexico.\n \nEXCLUDED: All other employees, clerical workers, guards and supervisors as defined in the National Labor Relations Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     }
   }
 }
