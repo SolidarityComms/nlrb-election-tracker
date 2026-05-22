@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22 18:55:34",
-  "total_cases": 561,
+  "last_updated": "2026-05-22 23:00:02",
+  "total_cases": 566,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11956,6 +11956,9 @@
       "employer_counsel": [
         "McMahon Berger"
       ],
+      "union_counsel": [
+        "Hammond & Shinners PC"
+      ],
       "case_page_fetched": "2026-05-22"
     },
     "27-RC-387347": {
@@ -12449,6 +12452,104 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Security & Public Safety"
+    },
+    "19-RC-387515": {
+      "case_number": "19-RC-387515",
+      "employer": "Mountain View Funeral Home, Memorial Park and Crematory (Tacoma)",
+      "case_url": "https://www.nlrb.gov/case/19-RC-387515",
+      "case_type": "RC",
+      "date_filed": "2026-05-22",
+      "status": "Open",
+      "location": "Tacoma, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-22"
+    },
+    "19-RC-387518": {
+      "case_number": "19-RC-387518",
+      "employer": "Mill Rock Packaging",
+      "case_url": "https://www.nlrb.gov/case/19-RC-387518",
+      "case_type": "RC",
+      "date_filed": "2026-05-22",
+      "status": "Open",
+      "location": "Renton, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Manufacturing",
+      "case_page_fetched": "2026-05-22"
+    },
+    "09-RD-385219": {
+      "case_number": "09-RD-385219",
+      "employer": "WASTE MANAGEMENT OF KENTUCKY, L.L.C.",
+      "case_url": "https://www.nlrb.gov/case/09-RD-385219",
+      "case_type": "RD",
+      "tally_date": "2026-05-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-20",
+      "status": "Open",
+      "location": "Louisville, KY",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 14,
+      "votes_against": 8,
+      "ballots_counted": 13,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "Teamsters Local Union 783, affiliated with the International Brotherhood of Teamsters",
+      "unit_description": "All persons engaged in the operation of heavy equipment of all types, which work is being engaged in or done in connection with the Company's daily receipt and disposal of waste in the landfill operation in Jefferson County, Kentucky, but excluding all other employees, all office and clerical employees, mechanics, helpers, maintenance employees, guards, professional employees, and supervisors.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Construction & Utilities"
+    },
+    "21-RC-385472": {
+      "case_number": "21-RC-385472",
+      "employer": "Smart City Networks, Limited Partnership",
+      "case_url": "https://www.nlrb.gov/case/21-RC-385472",
+      "case_type": "RC",
+      "tally_date": "2026-05-21",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-23",
+      "status": "Open",
+      "location": "San Diego, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 12,
+      "votes_against": 2,
+      "ballots_counted": 12,
+      "void_ballots": 0,
+      "votes_for": 10,
+      "union": "International Alliance of Theatrical Stage Employees, Local 122",
+      "union_to_certify": "International Alliance of Theatrical Stage Employees, Local 122",
+      "unit_description": "Included: All full-time and regular part-time technicians (techs), including all techs 1, techs 2, sales representatives, and event coordinators employed by the Employer at its facility currently located at 111 West Harbor Drive, San Diego, California\n\nExcluded: All other employees, office clerical employees, professional employees,\nconfidential employees, managerial employees, guards, and supervisors as\ndefined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
+    },
+    "19-RC-384947": {
+      "case_number": "19-RC-384947",
+      "employer": "Providence Health and Services - Oregon dba Providence Hood River Memorial Hospital",
+      "case_url": "https://www.nlrb.gov/case/19-RC-384947",
+      "case_type": "RC",
+      "tally_date": "2026-05-21",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-15",
+      "status": "Open",
+      "location": "Hood River, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 37,
+      "votes_against": 3,
+      "ballots_counted": 28,
+      "void_ballots": 0,
+      "votes_for": 25,
+      "union": "Oregon Nurses Association",
+      "union_to_certify": "Oregon Nurses Association",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     }
   }
 }
