@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22 23:00:02",
+  "last_updated": "2026-05-23 05:41:10",
   "total_cases": 566,
   "cases": {
     "19-RC-386928": {
@@ -20,7 +20,7 @@
       "union_counsel": [
         "Tedesco Law Group"
       ],
-      "case_page_fetched": "2026-05-19"
+      "case_page_fetched": "2026-05-23"
     },
     "19-RC-386907": {
       "case_number": "19-RC-386907",
@@ -37,7 +37,7 @@
       "union_counsel": [
         "AFSCME International"
       ],
-      "case_page_fetched": "2026-05-19"
+      "case_page_fetched": "2026-05-23"
     },
     "01-RC-386909": {
       "case_number": "01-RC-386909",
@@ -54,7 +54,7 @@
       "employer_counsel": [
         "First Student, Inc."
       ],
-      "case_page_fetched": "2026-05-19"
+      "case_page_fetched": "2026-05-23"
     },
     "02-RC-386881": {
       "case_number": "02-RC-386881",
@@ -71,7 +71,7 @@
       "union_counsel": [
         "Brady McGuire & Steinberg, P.C."
       ],
-      "case_page_fetched": "2026-05-19",
+      "case_page_fetched": "2026-05-23",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -88,7 +88,10 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-19"
+      "case_page_fetched": "2026-05-23",
+      "employer_counsel": [
+        "Barnes & Thornburgh LLP"
+      ]
     },
     "01-RC-386814": {
       "case_number": "01-RC-386814",
@@ -10962,7 +10965,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-19"
+      "case_page_fetched": "2026-05-23"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -11247,7 +11250,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-05-19"
+      "case_page_fetched": "2026-05-23"
     },
     "29-RC-387046": {
       "case_number": "29-RC-387046",
@@ -12215,7 +12218,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "31-RC-387465": {
       "case_number": "31-RC-387465",
@@ -12232,7 +12235,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12280,7 +12283,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "29-RC-384138": {
       "case_number": "29-RC-384138",
@@ -12389,7 +12392,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "21-RC-387503": {
       "case_number": "21-RC-387503",
@@ -12403,7 +12406,7 @@
       "eligible_voters": 25,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "14-RC-385658": {
       "case_number": "14-RC-385658",
@@ -12465,7 +12468,7 @@
       "eligible_voters": 12,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "19-RC-387518": {
       "case_number": "19-RC-387518",
@@ -12479,7 +12482,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Manufacturing",
-      "case_page_fetched": "2026-05-22"
+      "case_page_fetched": "2026-05-23"
     },
     "09-RD-385219": {
       "case_number": "09-RD-385219",
