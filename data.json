@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 22:54:38",
+  "last_updated": "2026-05-24 06:03:33",
   "total_cases": 567,
   "cases": {
     "19-RC-386928": {
@@ -10927,7 +10927,7 @@
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
-      "case_page_fetched": "2026-05-20",
+      "case_page_fetched": "2026-05-24",
       "employer_counsel": [
         "Capozzi Adler, P.C."
       ]
@@ -10948,7 +10948,10 @@
         "O'Donohue and O'Donoghue",
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24",
+      "employer_counsel": [
+        "Kostopoulos Rodriguez, PLLC"
+      ]
     },
     "29-RC-386964": {
       "case_number": "29-RC-386964",
@@ -11228,7 +11231,7 @@
       "union_counsel": [
         "Partner, Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "19-RC-386937": {
       "case_number": "19-RC-386937",
@@ -11270,7 +11273,7 @@
       "union_counsel": [
         "Blitman & King LLP"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "22-RC-387064": {
       "case_number": "22-RC-387064",
@@ -11327,7 +11330,7 @@
       "union_counsel": [
         "Keating, Muething, & Klecamp, P.L.L."
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "19-RC-384772": {
       "case_number": "19-RC-384772",
@@ -11580,7 +11583,10 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ]
     },
     "13-RC-387170": {
       "case_number": "13-RC-387170",
@@ -11597,7 +11603,7 @@
       "union_counsel": [
         "Johnson & Krol, LLC"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "06-RC-387177": {
       "case_number": "06-RC-387177",
@@ -11618,7 +11624,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "21-RD-387169": {
       "case_number": "21-RD-387169",
@@ -11635,7 +11641,7 @@
       "employer_counsel": [
         "Jones Day"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "32-RD-387173": {
       "case_number": "32-RD-387173",
@@ -11649,7 +11655,11 @@
       "eligible_voters": 120,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24",
+      "employer_counsel": [
+        "Littler Mendelson P.C.",
+        "Littler Mendelson, P.C."
+      ]
     },
     "31-RM-387189": {
       "case_number": "31-RM-387189",
@@ -11663,7 +11673,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "01-RC-387216": {
       "case_number": "01-RC-387216",
@@ -11738,7 +11748,7 @@
       "union_counsel": [
         "Perera & Fedele"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "09-RC-387232": {
       "case_number": "09-RC-387232",
@@ -11753,12 +11763,13 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
+        "Greenberg Traurig, LLP",
         "CVS Health Corporation"
       ],
       "union_counsel": [
         "The Law Offices of Leonard S. Sigall"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "27-RD-387246": {
       "case_number": "27-RD-387246",
@@ -11778,7 +11789,7 @@
       "union_counsel": [
         "National Right to Work Legal Defense Foundation, Inc."
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "31-RC-387247": {
       "case_number": "31-RC-387247",
@@ -11798,7 +11809,7 @@
       "union_counsel": [
         "Sethi Orchid Miner LLP"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "29-RC-387228": {
       "case_number": "29-RC-387228",
@@ -11815,7 +11826,7 @@
       "union_counsel": [
         "Spivak Lipton LLP"
       ],
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "20-RC-387285": {
       "case_number": "20-RC-387285",
@@ -11843,7 +11854,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "13-RC-384412": {
       "case_number": "13-RC-384412",
@@ -12041,7 +12052,7 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
-      "case_page_fetched": "2026-05-20"
+      "case_page_fetched": "2026-05-24"
     },
     "03-RC-385770": {
       "case_number": "03-RC-385770",
@@ -12392,7 +12403,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-24"
     },
     "21-RC-387503": {
       "case_number": "21-RC-387503",
@@ -12406,7 +12417,7 @@
       "eligible_voters": 25,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-24"
     },
     "14-RC-385658": {
       "case_number": "14-RC-385658",
@@ -12468,7 +12479,7 @@
       "eligible_voters": 12,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-24"
     },
     "19-RC-387518": {
       "case_number": "19-RC-387518",
@@ -12482,7 +12493,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Manufacturing",
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-24"
     },
     "09-RD-385219": {
       "case_number": "09-RD-385219",
