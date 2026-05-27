@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27 15:37:49",
-  "total_cases": 579,
+  "last_updated": "2026-05-27 19:25:06",
+  "total_cases": 584,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -12765,7 +12765,7 @@
     },
     "01-RC-387645": {
       "case_number": "01-RC-387645",
-      "employer": "Nuvance Health / Northwell Health",
+      "employer": "NORTHWELL HEALTH / NUVANCE HEALTH",
       "case_url": "https://www.nlrb.gov/case/01-RC-387645",
       "case_type": "RC",
       "date_filed": "2026-05-27",
@@ -12812,6 +12812,82 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Manufacturing"
+    },
+    "01-RC-387661": {
+      "case_number": "01-RC-387661",
+      "employer": "Boston Medical Center South",
+      "case_url": "https://www.nlrb.gov/case/01-RC-387661",
+      "case_type": "RC",
+      "date_filed": "2026-05-27",
+      "status": "Open",
+      "location": "Brockton, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-05-27"
+    },
+    "02-RC-387677": {
+      "case_number": "02-RC-387677",
+      "employer": "Sugar Hill Museum Preschool",
+      "case_url": "https://www.nlrb.gov/case/02-RC-387677",
+      "case_type": "RC",
+      "date_filed": "2026-05-27",
+      "status": "Open",
+      "location": "Manhattan, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Education",
+      "case_page_fetched": "2026-05-27"
+    },
+    "32-RD-387679": {
+      "case_number": "32-RD-387679",
+      "employer": "Telecare Corporation",
+      "case_url": "https://www.nlrb.gov/case/32-RD-387679",
+      "case_type": "RD",
+      "date_filed": "2026-05-26",
+      "status": "Open",
+      "location": "Oakland, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 38,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "case_page_fetched": "2026-05-27"
+    },
+    "32-RD-387691": {
+      "case_number": "32-RD-387691",
+      "employer": "Telecare Corporation",
+      "case_url": "https://www.nlrb.gov/case/32-RD-387691",
+      "case_type": "RD",
+      "date_filed": "2026-05-26",
+      "status": "Open",
+      "location": "Oakland, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 18,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-27"
+    },
+    "18-RC-387688": {
+      "case_number": "18-RC-387688",
+      "employer": "Milwaukee Repertory Theater",
+      "case_url": "https://www.nlrb.gov/case/18-RC-387688",
+      "case_type": "RC",
+      "date_filed": "2026-05-26",
+      "status": "Open",
+      "location": "Milwaukee, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Sweet and Associates, LLC"
+      ],
+      "case_page_fetched": "2026-05-27"
     }
   }
 }
