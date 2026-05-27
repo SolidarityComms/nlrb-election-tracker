@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26 23:10:25",
-  "total_cases": 575,
+  "last_updated": "2026-05-27 06:23:05",
+  "total_cases": 576,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -20,7 +20,7 @@
       "union_counsel": [
         "Tedesco Law Group"
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "19-RC-386907": {
       "case_number": "19-RC-386907",
@@ -37,7 +37,7 @@
       "union_counsel": [
         "AFSCME International"
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "01-RC-386909": {
       "case_number": "01-RC-386909",
@@ -54,7 +54,7 @@
       "employer_counsel": [
         "First Student, Inc."
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "02-RC-386881": {
       "case_number": "02-RC-386881",
@@ -71,7 +71,7 @@
       "union_counsel": [
         "Brady McGuire & Steinberg, P.C."
       ],
-      "case_page_fetched": "2026-05-23",
+      "case_page_fetched": "2026-05-27",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -88,7 +88,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-23",
+      "case_page_fetched": "2026-05-27",
       "employer_counsel": [
         "Barnes & Thornburgh LLP"
       ]
@@ -10971,7 +10971,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -11249,6 +11249,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
+        "Fisher Phillips LLP",
         "Fisher Phillips",
         "Fisher & Phillips, LLP",
         "Fisher Phillips, LLP"
@@ -11256,7 +11257,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "29-RC-387046": {
       "case_number": "29-RC-387046",
@@ -12218,7 +12219,10 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ]
     },
     "31-RC-387458": {
       "case_number": "31-RC-387458",
@@ -12235,7 +12239,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "31-RC-387465": {
       "case_number": "31-RC-387465",
@@ -12252,7 +12256,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12300,7 +12304,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27"
     },
     "29-RC-384138": {
       "case_number": "29-RC-384138",
@@ -12583,7 +12587,10 @@
       "eligible_voters": 135,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-23"
+      "case_page_fetched": "2026-05-27",
+      "employer_counsel": [
+        "The Kullman Firm"
+      ]
     },
     "14-RC-387545": {
       "case_number": "14-RC-387545",
@@ -12603,7 +12610,7 @@
       "union_counsel": [
         "Blake & Uhlig PA"
       ],
-      "case_page_fetched": "2026-05-26"
+      "case_page_fetched": "2026-05-27"
     },
     "06-RC-387586": {
       "case_number": "06-RC-387586",
@@ -12620,7 +12627,7 @@
       "union_counsel": [
         "Sherrard, German & Kelly, P.C."
       ],
-      "case_page_fetched": "2026-05-26"
+      "case_page_fetched": "2026-05-27"
     },
     "06-RC-387573": {
       "case_number": "06-RC-387573",
@@ -12634,7 +12641,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-26"
+      "case_page_fetched": "2026-05-27"
     },
     "32-RM-387576": {
       "case_number": "32-RM-387576",
@@ -12651,7 +12658,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-05-26"
+      "case_page_fetched": "2026-05-27"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -12665,7 +12672,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-26"
+      "case_page_fetched": "2026-05-27"
     },
     "32-RC-387618": {
       "case_number": "32-RC-387618",
@@ -12682,7 +12689,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-26"
+      "case_page_fetched": "2026-05-27"
     },
     "19-RC-384759": {
       "case_number": "19-RC-384759",
@@ -12731,6 +12738,30 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Healthcare"
+    },
+    "20-RC-384965": {
+      "case_number": "20-RC-384965",
+      "employer": "Peraton Inc.",
+      "case_url": "https://www.nlrb.gov/case/20-RC-384965",
+      "case_type": "RC",
+      "tally_date": "2026-05-26",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-16",
+      "status": "Open",
+      "location": "Waimea, HI",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 5,
+      "votes_against": 0,
+      "ballots_counted": 3,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "union": "International Association of Machinists and Aerospace Workers, Local Lodge 1998",
+      "union_to_certify": "International Association of Machinists and Aerospace Workers, Local Lodge 1998",
+      "unit_description": "Included:  All full-time and regular part-time Administrative Assistants, Engineering \n\t\t      Technicians, and Mechanical Technicians employed by the Employer at Kokee \n                  Park Geophysical Observatory.\n\nExcluded:  All other employees, managers, security guards, and supervisors as defined by \n                   the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     }
   }
 }
