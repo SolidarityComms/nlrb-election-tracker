@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28 06:15:54",
-  "total_cases": 593,
+  "last_updated": "2026-05-28 15:50:34",
+  "total_cases": 597,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -12684,7 +12684,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-28"
     },
     "32-RC-387618": {
       "case_number": "32-RC-387618",
@@ -12787,6 +12787,9 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson P.C."
+      ],
       "case_page_fetched": "2026-05-28"
     },
     "19-RC-387648": {
@@ -12801,7 +12804,7 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-28"
     },
     "06-UD-385196": {
       "case_number": "06-UD-385196",
@@ -12837,6 +12840,9 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "case_page_fetched": "2026-05-28"
     },
     "02-RC-387677": {
@@ -13073,6 +13079,72 @@
       "eligible_voters": 23,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-05-28"
+    },
+    "10-RD-387737": {
+      "case_number": "10-RD-387737",
+      "employer": "Prime Communications Retail LLC",
+      "case_url": "https://www.nlrb.gov/case/10-RD-387737",
+      "case_type": "RD",
+      "date_filed": "2026-05-28",
+      "status": "Open",
+      "location": "Opelika, AL",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Retail",
+      "employer_counsel": [
+        "Prime Comms Retail, LLC"
+      ],
+      "case_page_fetched": "2026-05-28"
+    },
+    "13-RC-387730": {
+      "case_number": "13-RC-387730",
+      "employer": "MMIL Associates, LLC d/b/a Hilton Chicago/Magnificent Mile Suites",
+      "case_url": "https://www.nlrb.gov/case/13-RC-387730",
+      "case_type": "RC",
+      "date_filed": "2026-05-27",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-05-28"
+    },
+    "10-RD-387727": {
+      "case_number": "10-RD-387727",
+      "employer": "BWXT Nuclear Operations Group, Inc. (BWXT NOG)",
+      "case_url": "https://www.nlrb.gov/case/10-RD-387727",
+      "case_type": "RD",
+      "date_filed": "2026-05-27",
+      "status": "Open",
+      "location": "Lynchburg, VA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 140,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "BWXT Nuclear Operations Group",
+        "Woods Rogers"
+      ],
+      "case_page_fetched": "2026-05-28"
+    },
+    "05-RC-387758": {
+      "case_number": "05-RC-387758",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/05-RC-387758",
+      "case_type": "RC",
+      "date_filed": "2026-05-27",
+      "status": "Open",
+      "location": "Falls Church, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "James & Hoffman, P.C."
+      ],
       "case_page_fetched": "2026-05-28"
     }
   }
