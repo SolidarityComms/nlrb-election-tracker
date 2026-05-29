@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29 06:16:25",
+  "last_updated": "2026-05-29 15:25:11",
   "total_cases": 612,
   "cases": {
     "19-RC-386928": {
@@ -12846,7 +12846,7 @@
     },
     "01-RC-387661": {
       "case_number": "01-RC-387661",
-      "employer": "Boston Medical Center South",
+      "employer": "Boston Medical Center-South Corporation",
       "case_url": "https://www.nlrb.gov/case/01-RC-387661",
       "case_type": "RC",
       "date_filed": "2026-05-27",
@@ -12932,7 +12932,7 @@
       "case_url": "https://www.nlrb.gov/case/04-RD-387713",
       "case_type": "RD",
       "date_filed": "2026-05-27",
-      "status": "Open",
+      "status": "Closed",
       "location": "Wynnewood, PA",
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 32,
@@ -12941,7 +12941,7 @@
       "employer_counsel": [
         "Cozen O'Connor"
       ],
-      "case_page_fetched": "2026-05-28"
+      "case_page_fetched": "2026-05-29"
     },
     "20-RC-387721": {
       "case_number": "20-RC-387721",
@@ -12992,7 +12992,7 @@
       "union_counsel": [
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
-      "case_page_fetched": "2026-05-28"
+      "case_page_fetched": "2026-05-29"
     },
     "13-RC-383984": {
       "case_number": "13-RC-383984",
@@ -13265,7 +13265,7 @@
       "union_counsel": [
         "Tedesco Law Group"
       ],
-      "case_page_fetched": "2026-05-28"
+      "case_page_fetched": "2026-05-29"
     },
     "32-RC-387790": {
       "case_number": "32-RC-387790",
