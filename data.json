@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 22:58:21",
+  "last_updated": "2026-05-31 06:20:23",
   "total_cases": 622,
   "cases": {
     "19-RC-386928": {
@@ -20,7 +20,7 @@
       "union_counsel": [
         "Tedesco Law Group"
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "19-RC-386907": {
       "case_number": "19-RC-386907",
@@ -37,7 +37,7 @@
       "union_counsel": [
         "AFSCME International"
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "01-RC-386909": {
       "case_number": "01-RC-386909",
@@ -54,7 +54,7 @@
       "employer_counsel": [
         "First Student, Inc."
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "02-RC-386881": {
       "case_number": "02-RC-386881",
@@ -71,7 +71,7 @@
       "union_counsel": [
         "Brady McGuire & Steinberg, P.C."
       ],
-      "case_page_fetched": "2026-05-27",
+      "case_page_fetched": "2026-05-31",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -88,7 +88,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-27",
+      "case_page_fetched": "2026-05-31",
       "employer_counsel": [
         "Barnes & Thornburgh LLP"
       ]
@@ -10984,7 +10984,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -11272,7 +11272,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "29-RC-387046": {
       "case_number": "29-RC-387046",
@@ -12266,8 +12266,9 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-27",
+      "case_page_fetched": "2026-05-31",
       "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
         "Ogletree Deakins"
       ]
     },
@@ -12286,7 +12287,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "31-RC-387465": {
       "case_number": "31-RC-387465",
@@ -12303,7 +12304,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12354,7 +12355,10 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ]
     },
     "29-RC-384138": {
       "case_number": "29-RC-384138",
@@ -12637,7 +12641,7 @@
       "eligible_voters": 135,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-27",
+      "case_page_fetched": "2026-05-31",
       "employer_counsel": [
         "The Kullman Firm"
       ]
@@ -12708,7 +12712,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-05-27"
+      "case_page_fetched": "2026-05-31"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -13511,7 +13515,7 @@
       "eligible_voters": 26,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-05-31"
     },
     "19-RC-387865": {
       "case_number": "19-RC-387865",
@@ -13623,7 +13627,7 @@
       "union_counsel": [
         "National Right to Work Legal Defense Foundation"
       ],
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-05-31"
     },
     "19-RC-387897": {
       "case_number": "19-RC-387897",
@@ -13640,7 +13644,7 @@
       "union_counsel": [
         "McKanna Bishop Joffe"
       ],
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-05-31"
     },
     "18-RC-387895": {
       "case_number": "18-RC-387895",
