@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02 06:44:46",
-  "total_cases": 630,
+  "last_updated": "2026-06-02 16:21:39",
+  "total_cases": 634,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -13855,6 +13855,71 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Social Services & Nonprofit"
+    },
+    "15-RC-388053": {
+      "case_number": "15-RC-388053",
+      "employer": "Swaybox Studios, Inc",
+      "case_url": "https://www.nlrb.gov/case/15-RC-388053",
+      "case_type": "RC",
+      "date_filed": "2026-06-02",
+      "status": "Open",
+      "location": "New Orleans, LA",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 145,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
+      "case_page_fetched": "2026-06-02"
+    },
+    "12-RC-388032": {
+      "case_number": "12-RC-388032",
+      "employer": "Quikrete",
+      "case_url": "https://www.nlrb.gov/case/12-RC-388032",
+      "case_type": "RC",
+      "date_filed": "2026-06-01",
+      "status": "Open",
+      "location": "Newberry, FL",
+      "region": "Region 12, Tampa, Florida",
+      "eligible_voters": 70,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-02"
+    },
+    "09-RC-388058": {
+      "case_number": "09-RC-388058",
+      "employer": "AIRGAS, INC.",
+      "case_url": "https://www.nlrb.gov/case/09-RC-388058",
+      "case_type": "RC",
+      "date_filed": "2026-06-01",
+      "status": "Open",
+      "location": "West Chester, OH",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "AIRGAS USA, LLC"
+      ],
+      "union_counsel": [
+        "Doll, Jansen & Ford"
+      ],
+      "case_page_fetched": "2026-06-02"
+    },
+    "02-RC-388070": {
+      "case_number": "02-RC-388070",
+      "employer": "Broadway Housing Communities (Sugar Hill Museum Preschool)",
+      "case_url": "https://www.nlrb.gov/case/02-RC-388070",
+      "case_type": "RC",
+      "date_filed": "2026-06-01",
+      "status": "Open",
+      "location": "Manhattan, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Education",
+      "case_page_fetched": "2026-06-02"
     }
   }
 }
