@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02 16:21:39",
-  "total_cases": 634,
+  "last_updated": "2026-06-02 20:07:49",
+  "total_cases": 636,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -13869,6 +13869,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
+        "Jackson Lewis, P.C.",
         "Jackson Lewis P.C."
       ],
       "case_page_fetched": "2026-06-02"
@@ -13919,6 +13920,37 @@
       "eligible_voters": 19,
       "stage": "just_filed",
       "sector": "Education",
+      "case_page_fetched": "2026-06-02"
+    },
+    "20-RC-388094": {
+      "case_number": "20-RC-388094",
+      "employer": "San Francisco Opera",
+      "case_url": "https://www.nlrb.gov/case/20-RC-388094",
+      "case_type": "RC",
+      "date_filed": "2026-06-02",
+      "status": "Open",
+      "location": "San Francisco, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-06-02"
+    },
+    "03-RC-388091": {
+      "case_number": "03-RC-388091",
+      "employer": "Rutland Regional Medical Center",
+      "case_url": "https://www.nlrb.gov/case/03-RC-388091",
+      "case_type": "RC",
+      "date_filed": "2026-06-02",
+      "status": "Open",
+      "location": "Rutland, VT",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Healthcare",
       "case_page_fetched": "2026-06-02"
     }
   }
