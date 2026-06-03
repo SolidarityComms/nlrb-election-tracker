@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 20:21:30",
+  "last_updated": "2026-06-03 23:45:33",
   "total_cases": 646,
   "cases": {
     "19-RC-386928": {
@@ -131,7 +131,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-06-03"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -1130,7 +1130,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-05-30",
+      "case_page_fetched": "2026-06-03",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1232,7 +1232,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-06-03"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -1528,7 +1528,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-06-03"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1953,7 +1953,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-06-03"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -11246,7 +11246,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-06-03"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -13188,7 +13188,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-05-30"
+      "case_page_fetched": "2026-06-03"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -13974,6 +13974,9 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Seyfarth Shaw LLP"
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -13981,7 +13984,7 @@
     },
     "03-RC-388091": {
       "case_number": "03-RC-388091",
-      "employer": "Rutland Regional Medical Center",
+      "employer": "The Rutland Hospital, Inc. d/b/a Rutland Regional Medical Center",
       "case_url": "https://www.nlrb.gov/case/03-RC-388091",
       "case_type": "RC",
       "date_filed": "2026-06-02",
@@ -14005,6 +14008,9 @@
       "eligible_voters": 39,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -14096,7 +14102,11 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-06-03"
     },
     "32-RC-388149": {
       "case_number": "32-RC-388149",
