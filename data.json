@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04 19:24:00",
-  "total_cases": 649,
+  "last_updated": "2026-06-04 23:10:38",
+  "total_cases": 651,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14244,6 +14244,40 @@
       "sector": "Other",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-06-04"
+    },
+    "32-RM-388282": {
+      "case_number": "32-RM-388282",
+      "employer": "Seneca Family of Agencies",
+      "case_url": "https://www.nlrb.gov/case/32-RM-388282",
+      "case_type": "RM",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Oakland, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 50,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Atkinson, Andelson, Loya, Ruud & Romo"
+      ],
+      "case_page_fetched": "2026-06-04"
+    },
+    "31-RD-388283": {
+      "case_number": "31-RD-388283",
+      "employer": "Southwest Gas Corporation",
+      "case_url": "https://www.nlrb.gov/case/31-RD-388283",
+      "case_type": "RD",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Victorville, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 72,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation, Inc."
       ],
       "case_page_fetched": "2026-06-04"
     }
