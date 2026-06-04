@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04 14:57:11",
-  "total_cases": 646,
+  "last_updated": "2026-06-04 19:24:00",
+  "total_cases": 649,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14037,7 +14037,11 @@
       "eligible_voters": 34,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Lathrop GPM LLP"
+      ],
       "union_counsel": [
+        "Blake & Uhlig, P.A.",
         "Blake & Uhlig PA"
       ],
       "case_page_fetched": "2026-06-04"
@@ -14189,6 +14193,57 @@
       "sector": "Other",
       "union_counsel": [
         "Gursky Weins & Shanley"
+      ],
+      "case_page_fetched": "2026-06-04"
+    },
+    "09-RC-388237": {
+      "case_number": "09-RC-388237",
+      "employer": "BROADCAST SERVICE GROUP",
+      "case_url": "https://www.nlrb.gov/case/09-RC-388237",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Cincinnati, OH",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 60,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Broadcast Service Group"
+      ],
+      "case_page_fetched": "2026-06-04"
+    },
+    "15-RC-388240": {
+      "case_number": "15-RC-388240",
+      "employer": "Green Energy Origin",
+      "case_url": "https://www.nlrb.gov/case/15-RC-388240",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Memphis, TN",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 28,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Bakery, Confectionery, Tobacco Workers and Grain Millers International Union (BCTGM), AFL-CIO, CLC"
+      ],
+      "case_page_fetched": "2026-06-04"
+    },
+    "32-RC-388252": {
+      "case_number": "32-RC-388252",
+      "employer": "unWired Broadband, Inc.",
+      "case_url": "https://www.nlrb.gov/case/32-RC-388252",
+      "case_type": "RC",
+      "date_filed": "2026-06-03",
+      "status": "Open",
+      "location": "Fresno, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
       ],
       "case_page_fetched": "2026-06-04"
     }
