@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05 18:58:08",
-  "total_cases": 661,
+  "last_updated": "2026-06-05 23:11:11",
+  "total_cases": 665,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14244,7 +14244,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
-        "Godwin, Morris, Laurenzi, & Bloomfield P.C."
+        "Godwin Morris Laurenzi Bloomfield"
       ],
       "case_page_fetched": "2026-06-05"
     },
@@ -14317,6 +14317,9 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Stinson LLP"
+      ],
       "case_page_fetched": "2026-06-05"
     },
     "01-RC-388318": {
@@ -14461,6 +14464,77 @@
       "sector": "Other",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "09-RC-388349": {
+      "case_number": "09-RC-388349",
+      "employer": "KENTUCKY POWER COMPANY",
+      "case_url": "https://www.nlrb.gov/case/09-RC-388349",
+      "case_type": "RC",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Ashland, KY",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Kentucky Power Company"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "19-RC-388354": {
+      "case_number": "19-RC-388354",
+      "employer": "Hampton Inn & Suites Seattle/Federal Way",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388354",
+      "case_type": "RC",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Federal Way, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "McCracken, Stemerman & Holsberry, LLP"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "20-RC-388373": {
+      "case_number": "20-RC-388373",
+      "employer": "Sutter Care at Home (SCAH) - Santa Rosa",
+      "case_url": "https://www.nlrb.gov/case/20-RC-388373",
+      "case_type": "RC",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Santa Rosa, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Siegel LeWitter Malkani"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "28-RC-388369": {
+      "case_number": "28-RC-388369",
+      "employer": "McCormick",
+      "case_url": "https://www.nlrb.gov/case/28-RC-388369",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Las Cruces, NM",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "French's Food Company"
+      ],
+      "union_counsel": [
+        "Youtz & Valdez, P.C."
       ],
       "case_page_fetched": "2026-06-05"
     }
