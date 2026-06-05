@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05 06:26:10",
-  "total_cases": 651,
+  "last_updated": "2026-06-05 14:47:41",
+  "total_cases": 652,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14206,6 +14206,9 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Blank Rome LLP"
+      ],
       "union_counsel": [
         "Gursky Weins & Shanley"
       ],
@@ -14241,7 +14244,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
-        "Bakery, Confectionery, Tobacco Workers and Grain Millers International Union (BCTGM), AFL-CIO, CLC"
+        "Godwin, Morris, Laurenzi, & Bloomfield P.C."
       ],
       "case_page_fetched": "2026-06-05"
     },
@@ -14291,9 +14294,26 @@
       "eligible_voters": 72,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis, P.C."
+      ],
       "union_counsel": [
         "National Right to Work Legal Defense Foundation, Inc."
       ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "18-RC-388297": {
+      "case_number": "18-RC-388297",
+      "employer": "Knife River",
+      "case_url": "https://www.nlrb.gov/case/18-RC-388297",
+      "case_type": "RC",
+      "date_filed": "2026-06-03",
+      "status": "Open",
+      "location": "Sauk Rapids, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-06-05"
     }
   }
