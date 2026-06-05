@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05 14:47:41",
-  "total_cases": 652,
+  "last_updated": "2026-06-05 18:58:08",
+  "total_cases": 661,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14260,6 +14260,9 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Honigman Miller Schwartz and Cohn, LLP"
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -14314,6 +14317,151 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-06-05"
+    },
+    "01-RC-388318": {
+      "case_number": "01-RC-388318",
+      "employer": "All State Construction",
+      "case_url": "https://www.nlrb.gov/case/01-RC-388318",
+      "case_type": "RC",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Irasburg, VT",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Construction & Utilities",
+      "case_page_fetched": "2026-06-05"
+    },
+    "22-RD-388320": {
+      "case_number": "22-RD-388320",
+      "employer": "Maschio's Food Service",
+      "case_url": "https://www.nlrb.gov/case/22-RD-388320",
+      "case_type": "RD",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Chester, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Hospitality & Food Service",
+      "case_page_fetched": "2026-06-05"
+    },
+    "13-RC-388313": {
+      "case_number": "13-RC-388313",
+      "employer": "1-800-Plumber + Air",
+      "case_url": "https://www.nlrb.gov/case/13-RC-388313",
+      "case_type": "RC",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Naperville, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Construction & Utilities",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "29-RC-388324": {
+      "case_number": "29-RC-388324",
+      "employer": "NewYork Presbyterian Queens Hospital",
+      "case_url": "https://www.nlrb.gov/case/29-RC-388324",
+      "case_type": "RC",
+      "date_filed": "2026-06-05",
+      "status": "Open",
+      "location": "Flushing, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 132,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Levy Ratner, P.C."
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "22-RC-388306": {
+      "case_number": "22-RC-388306",
+      "employer": "Prime Health Services Saint Clares Health",
+      "case_url": "https://www.nlrb.gov/case/22-RC-388306",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Denville, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 80,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-05"
+    },
+    "10-RC-388330": {
+      "case_number": "10-RC-388330",
+      "employer": "Corning Distribution Center",
+      "case_url": "https://www.nlrb.gov/case/10-RC-388330",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Winston-Salem, NC",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 400,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "Constangy, Brooks, Smith & Prophete, LLP",
+        "CONSTANGY BROOKS & SMITH"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "19-RC-388335": {
+      "case_number": "19-RC-388335",
+      "employer": "New Punch Bowl Portland LLC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388335",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Portland, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 42,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-05"
+    },
+    "15-RC-388329": {
+      "case_number": "15-RC-388329",
+      "employer": "Centerra Group, a Constellis Company",
+      "case_url": "https://www.nlrb.gov/case/15-RC-388329",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "New Orleans, LA",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 47,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Centerra Group, a Constellis Company"
+      ],
+      "union_counsel": [
+        "Cohen Weiss and Simon, LLP"
+      ],
+      "case_page_fetched": "2026-06-05"
+    },
+    "32-RC-388321": {
+      "case_number": "32-RC-388321",
+      "employer": "Wilmar International",
+      "case_url": "https://www.nlrb.gov/case/32-RC-388321",
+      "case_type": "RC",
+      "date_filed": "2026-06-04",
+      "status": "Open",
+      "location": "Stockton, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
       "case_page_fetched": "2026-06-05"
     }
   }
