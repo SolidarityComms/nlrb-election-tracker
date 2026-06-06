@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 05:57:19",
+  "last_updated": "2026-06-06 13:29:30",
   "total_cases": 665,
   "cases": {
     "19-RC-386928": {
@@ -14409,7 +14409,7 @@
       "eligible_voters": 80,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-05"
+      "case_page_fetched": "2026-06-06"
     },
     "10-RC-388330": {
       "case_number": "10-RC-388330",
