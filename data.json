@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08 15:47:49",
-  "total_cases": 665,
+  "last_updated": "2026-06-08 19:21:30",
+  "total_cases": 667,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14555,6 +14555,37 @@
         "Youtz & Valdez, P.C."
       ],
       "case_page_fetched": "2026-06-06"
+    },
+    "18-RC-388425": {
+      "case_number": "18-RC-388425",
+      "employer": "Half Price Books",
+      "case_url": "https://www.nlrb.gov/case/18-RC-388425",
+      "case_type": "RC",
+      "date_filed": "2026-06-08",
+      "status": "Open",
+      "location": "Apple Valley, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ],
+      "case_page_fetched": "2026-06-08"
+    },
+    "09-RC-388430": {
+      "case_number": "09-RC-388430",
+      "employer": "IMI CONCRETE",
+      "case_url": "https://www.nlrb.gov/case/09-RC-388430",
+      "case_type": "RC",
+      "date_filed": "2026-06-08",
+      "status": "Open",
+      "location": "Bardstown, KY",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-08"
     }
   }
 }
