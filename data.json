@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09 14:47:06",
-  "total_cases": 669,
+  "last_updated": "2026-06-09 19:12:59",
+  "total_cases": 674,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -153,21 +153,27 @@
     },
     "03-RC-386849": {
       "case_number": "03-RC-386849",
-      "employer": "Frontier Comunaction",
+      "employer": "Frontier Telephone of Rochester, Inc.",
       "case_url": "https://www.nlrb.gov/case/03-RC-386849",
       "case_type": "RC",
+      "tally_date": "2026-06-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-12",
       "status": "Open",
       "location": "Spencerport, NY",
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 4,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Seyfarth Shaw LLP"
-      ],
-      "case_page_fetched": "2026-06-07",
-      "election_date": "June 09 2026"
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "union": "International Brotherhood of Electrical Workers Local Union 363",
+      "union_to_certify": "International Brotherhood of Electrical Workers Local Union 363",
+      "unit_description": "Included: All full-time and regular part-time Communications Technicians and Central Office Technicians employed by the Employer at its 21 West Avenue, Spencerport, NY facility.\n\nExcluded: Confidential employees, guards, managers, and supervisors, as defined by the Act, and all employees covered by a collective bargaining agreement between the Employer and Communications Workers of America, AFL-CIO.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "04-RC-386761": {
       "case_number": "04-RC-386761",
@@ -593,17 +599,26 @@
     },
     "19-RD-386602": {
       "case_number": "19-RD-386602",
-      "employer": "Aramark",
+      "employer": "Aramark Educational Services LLC",
       "case_url": "https://www.nlrb.gov/case/19-RD-386602",
       "case_type": "RD",
+      "tally_date": "2026-06-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-07",
       "status": "Open",
       "location": "Gig Harbor, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 56,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-06-07"
+      "eligible_voters": 53,
+      "votes_against": 10,
+      "ballots_counted": 43,
+      "void_ballots": 0,
+      "votes_for": 33,
+      "union": "UNITE Here Local 8",
+      "union_to_certify": "UNITE Here Local 8",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "31-RC-386519": {
       "case_number": "31-RC-386519",
@@ -14621,7 +14636,101 @@
       "eligible_voters": 22,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Akerman LLP"
+      ],
       "case_page_fetched": "2026-06-09"
+    },
+    "05-RC-388516": {
+      "case_number": "05-RC-388516",
+      "employer": "Amentum Services",
+      "case_url": "https://www.nlrb.gov/case/05-RC-388516",
+      "case_type": "RC",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "Andrews Air Force Base, MD",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-09"
+    },
+    "13-RC-388491": {
+      "case_number": "13-RC-388491",
+      "employer": "Ruprecht Company d/b/a Kilcoy Global Foods",
+      "case_url": "https://www.nlrb.gov/case/13-RC-388491",
+      "case_type": "RC",
+      "date_filed": "2026-06-08",
+      "status": "Open",
+      "location": "Mundelein, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 120,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Barnes & Thornburg LLP"
+      ],
+      "case_page_fetched": "2026-06-09"
+    },
+    "08-RC-388514": {
+      "case_number": "08-RC-388514",
+      "employer": "Serenity Spring Senior Living at Arlington",
+      "case_url": "https://www.nlrb.gov/case/08-RC-388514",
+      "case_type": "RC",
+      "date_filed": "2026-06-08",
+      "status": "Open",
+      "location": "Arlington, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 45,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-09"
+    },
+    "19-RC-384872": {
+      "case_number": "19-RC-384872",
+      "employer": "Boulder Care Provider Group, P.A.",
+      "case_url": "https://www.nlrb.gov/case/19-RC-384872",
+      "case_type": "RC",
+      "tally_date": "2026-06-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-15",
+      "status": "Open",
+      "location": "Portland, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 100,
+      "votes_against": 50,
+      "ballots_counted": 73,
+      "void_ballots": 1,
+      "votes_for": 23,
+      "union": "Union of American Physicians and Dentists, AFSCME Local 206, AFL-CIO",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Other"
+    },
+    "02-RC-385027": {
+      "case_number": "02-RC-385027",
+      "employer": "Heathers USA LLC",
+      "case_url": "https://www.nlrb.gov/case/02-RC-385027",
+      "case_type": "RC",
+      "tally_date": "2026-06-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-16",
+      "status": "Open",
+      "location": "New York, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 17,
+      "votes_against": 0,
+      "ballots_counted": 8,
+      "void_ballots": 0,
+      "votes_for": 7,
+      "union": "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts, of the United States, its Territories and Canada, AFL-CIO, CLC",
+      "union_to_certify": "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts, of the United States, its Territories and Canada, AFL-CIO, CLC",
+      "unit_description": "Included: \nAll full-time, regular part-time, and on-call A1s, A2s, Light Board Operators, Follow Spot Operators, Deck Run Crew, Props Run Crew, Wardrobe Assistants, Laundry Person, and Hair Supervisors employed by the Employer in connection with the theatrical production known as \u201cHeathers\u201d at New World Stages, 340 W 50th Street, New York, NY 10019, who were employed during the payroll period ending on April 26, 2026,\n\nExcluded: \nAll other employees, clerical employees, guards and supervisors as defined by the Act.\n\nOthers permitted to vote: \nThe parties have agreed that the Wardrobe Supervisor may vote in the election, but their ballots will be challenged since their eligibility has not been resolved. No decision has been made regarding whether the individuals in this classification or group are included in, or excluded from, the bargaining unit. The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     }
   }
 }
