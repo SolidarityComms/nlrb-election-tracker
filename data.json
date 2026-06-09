@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09 19:12:59",
-  "total_cases": 674,
+  "last_updated": "2026-06-09 23:17:47",
+  "total_cases": 676,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14731,6 +14731,41 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Manufacturing"
+    },
+    "19-RD-388539": {
+      "case_number": "19-RD-388539",
+      "employer": "Holaday-Parks, Inc.",
+      "case_url": "https://www.nlrb.gov/case/19-RD-388539",
+      "case_type": "RD",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "Richland, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-09"
+    },
+    "05-RC-388533": {
+      "case_number": "05-RC-388533",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/05-RC-388533",
+      "case_type": "RC",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "Camp Hill, PA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C.",
+        "Littler Mendelson P.C."
+      ],
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-06-09"
     }
   }
 }
