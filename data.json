@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10 06:27:40",
-  "total_cases": 676,
+  "last_updated": "2026-06-10 15:31:09",
+  "total_cases": 679,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -1197,22 +1197,24 @@
       "employer": "Univar Solutions USA LLC",
       "case_url": "https://www.nlrb.gov/case/04-RC-386150",
       "case_type": "RC",
+      "tally_date": "2026-06-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-04",
       "status": "Open",
       "location": "Middletown, PA",
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 21,
-      "stage": "just_filed",
-      "sector": "Other",
-      "election_date": "June 09 2026",
-      "employer_counsel": [
-        "Jackson Lewis, P.C.",
-        "Jackson Lewis P.C."
-      ],
-      "union_counsel": [
-        "Ira H. Weinstock P.C."
-      ],
-      "case_page_fetched": "2026-06-07"
+      "votes_against": 9,
+      "ballots_counted": 21,
+      "void_ballots": 0,
+      "votes_for": 12,
+      "union": "Teamsters Local Union No. 776 a/w International Brotherhood of Teamsters",
+      "union_to_certify": "Teamsters Local Union No. 776 a/w International Brotherhood of Teamsters",
+      "unit_description": "Included: All full-time and regular part-time lead yard specialists, maintenance department employees, material handlers, and lead material handlers employed by the Employer at its 532 E. Emaus St., Middletown, PA facility.\n\nExcluded: All other employees, truck drivers, clerical, secretary and administrative assistance staff, confidential employees, managerial employees, guards and supervisors, as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "18-RC-386389": {
       "case_number": "18-RC-386389",
@@ -14611,7 +14613,7 @@
       "employer_counsel": [
         "Ogletree Deakins"
       ],
-      "case_page_fetched": "2026-06-09"
+      "case_page_fetched": "2026-06-10"
     },
     "09-RC-388430": {
       "case_number": "09-RC-388430",
@@ -14625,7 +14627,7 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-09"
+      "case_page_fetched": "2026-06-10"
     },
     "27-RC-388454": {
       "case_number": "27-RC-388454",
@@ -14639,6 +14641,9 @@
       "eligible_voters": 111,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Proskauer Rose LLP"
+      ],
       "union_counsel": [
         "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
       ],
@@ -14785,6 +14790,57 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
+      "case_page_fetched": "2026-06-10"
+    },
+    "19-RC-388562": {
+      "case_number": "19-RC-388562",
+      "employer": "Village Theatre",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388562",
+      "case_type": "RC",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "Issaquah, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-06-10"
+    },
+    "02-RC-388564": {
+      "case_number": "02-RC-388564",
+      "employer": "Blank Street Inc.",
+      "case_url": "https://www.nlrb.gov/case/02-RC-388564",
+      "case_type": "RC",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "New York, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis, P.C."
+      ],
+      "union_counsel": [
+        "Colleran O'Hara & Mills LLP"
+      ],
+      "case_page_fetched": "2026-06-10"
+    },
+    "18-RC-388563": {
+      "case_number": "18-RC-388563",
+      "employer": "Brightspeed of Wisconsin, LLC",
+      "case_url": "https://www.nlrb.gov/case/18-RC-388563",
+      "case_type": "RC",
+      "date_filed": "2026-06-08",
+      "status": "Open",
+      "location": "La Crosse, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 92,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-06-10"
     }
   }
