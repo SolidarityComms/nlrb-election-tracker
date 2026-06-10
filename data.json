@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10 19:35:37",
-  "total_cases": 685,
+  "last_updated": "2026-06-10 23:26:37",
+  "total_cases": 686,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14769,6 +14769,9 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Fox Rothschild, LLP"
+      ],
       "case_page_fetched": "2026-06-10"
     },
     "05-RC-388533": {
@@ -14945,6 +14948,20 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Retail"
+    },
+    "13-RD-388608": {
+      "case_number": "13-RD-388608",
+      "employer": "Ascend Wellness Holdings",
+      "case_url": "https://www.nlrb.gov/case/13-RD-388608",
+      "case_type": "RD",
+      "date_filed": "2026-06-10",
+      "status": "Open",
+      "location": "Chicago Ridge, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-10"
     }
   }
 }
