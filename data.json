@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10 15:31:09",
-  "total_cases": 679,
+  "last_updated": "2026-06-10 19:35:37",
+  "total_cases": 685,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14841,7 +14841,110 @@
       "eligible_voters": 92,
       "stage": "just_filed",
       "sector": "Other",
+      "union_counsel": [
+        "Louris Marshall O'Brien, PA"
+      ],
       "case_page_fetched": "2026-06-10"
+    },
+    "01-RC-388596": {
+      "case_number": "01-RC-388596",
+      "employer": "Bouldering Project",
+      "case_url": "https://www.nlrb.gov/case/01-RC-388596",
+      "case_type": "RC",
+      "date_filed": "2026-06-10",
+      "status": "Open",
+      "location": "Somerville, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 79,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich, LLP"
+      ],
+      "case_page_fetched": "2026-06-10"
+    },
+    "12-RC-388607": {
+      "case_number": "12-RC-388607",
+      "employer": "Watson Clinic Cancer & Research Center",
+      "case_url": "https://www.nlrb.gov/case/12-RC-388607",
+      "case_type": "RC",
+      "date_filed": "2026-06-10",
+      "status": "Open",
+      "location": "Lakeland, FL",
+      "region": "Region 12, Tampa, Florida",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-06-10"
+    },
+    "19-RC-388583": {
+      "case_number": "19-RC-388583",
+      "employer": "Optum Care Washington, PLLC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388583",
+      "case_type": "RC",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "Everett, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 143,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-10"
+    },
+    "16-RM-388574": {
+      "case_number": "16-RM-388574",
+      "employer": "Texas Public Radio",
+      "case_url": "https://www.nlrb.gov/case/16-RM-388574",
+      "case_type": "RM",
+      "date_filed": "2026-06-09",
+      "status": "Open",
+      "location": "San Antonio, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
+      "union_counsel": [
+        "Fennemore"
+      ],
+      "case_page_fetched": "2026-06-10"
+    },
+    "18-RC-388594": {
+      "case_number": "18-RC-388594",
+      "employer": "Alliant Energy",
+      "case_url": "https://www.nlrb.gov/case/18-RC-388594",
+      "case_type": "RC",
+      "date_filed": "2026-06-08",
+      "status": "Open",
+      "location": "Madison, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 1,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-10"
+    },
+    "18-RC-385103": {
+      "case_number": "18-RC-385103",
+      "employer": "Midwest Organic Services Association Inc.",
+      "case_url": "https://www.nlrb.gov/case/18-RC-385103",
+      "case_type": "RC",
+      "tally_date": "2026-06-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-17",
+      "status": "Open",
+      "location": "Viroqua, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 28,
+      "votes_against": 3,
+      "ballots_counted": 22,
+      "void_ballots": 0,
+      "votes_for": 19,
+      "union": "Office and Professional Employees International Union - Local 39",
+      "union_to_certify": "Office and Professional Employees International Union - Local 39",
+      "unit_description": "Included: All full-time and regular part-time Administrative Team Leaders, Administrative Specialists, Assistant Inspection Managers, Certification Compliance Specialists, Certification Customer Service Specialists, Certification Specialists, Client Services Coordinators, Client Services Specialists, Handler Customer Service Specialists, Inspection Coordinators, Inspection Specialists, IT Systems Analysts, Materials Review Specialists, and Program Managers (TOPP) employed by the Employer remotely and/or at its facility located in Viroqua, Wisconsin.\n\nExcluded: All confidential employees, Staff Inspector employees, managerial employees, and guards, and supervisors as defined under the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Retail"
     }
   }
 }
