@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12 14:55:53",
-  "total_cases": 697,
+  "last_updated": "2026-06-12 19:04:40",
+  "total_cases": 701,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15092,6 +15092,9 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "case_page_fetched": "2026-06-12"
     },
     "15-RC-388656": {
@@ -15146,6 +15149,9 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
+      "union_counsel": [
+        "IUOE Local 302"
+      ],
       "case_page_fetched": "2026-06-12"
     },
     "16-RC-388721": {
@@ -15189,6 +15195,68 @@
       "location": "Gallipolis, OH",
       "region": "Region 09, Cincinnati, Ohio",
       "eligible_voters": 45,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-12"
+    },
+    "06-RD-388746": {
+      "case_number": "06-RD-388746",
+      "employer": "UPMC Jameson",
+      "case_url": "https://www.nlrb.gov/case/06-RD-388746",
+      "case_type": "RD",
+      "date_filed": "2026-06-12",
+      "status": "Open",
+      "location": "New Castle, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-12"
+    },
+    "29-RC-388759": {
+      "case_number": "29-RC-388759",
+      "employer": "Progressive Maintenance, LLC",
+      "case_url": "https://www.nlrb.gov/case/29-RC-388759",
+      "case_type": "RC",
+      "date_filed": "2026-06-11",
+      "status": "Open",
+      "location": "Brooklyn, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Construction & Utilities",
+      "union_counsel": [
+        "Barnes Iaccarino Shepherd LLP"
+      ],
+      "case_page_fetched": "2026-06-12"
+    },
+    "19-RC-388758": {
+      "case_number": "19-RC-388758",
+      "employer": "Basin Disposal Inc.",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388758",
+      "case_type": "RC",
+      "date_filed": "2026-06-11",
+      "status": "Open",
+      "location": "Pasco, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 50,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Reid Ballew & Leahy, L.L.P."
+      ],
+      "case_page_fetched": "2026-06-12"
+    },
+    "32-RC-388749": {
+      "case_number": "32-RC-388749",
+      "employer": "Sutter Care at Home (SCAH) Alameda Hospice",
+      "case_url": "https://www.nlrb.gov/case/32-RC-388749",
+      "case_type": "RC",
+      "date_filed": "2026-06-11",
+      "status": "Open",
+      "location": "Alameda, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-06-12"
