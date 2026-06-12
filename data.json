@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12 06:44:46",
-  "total_cases": 694,
+  "last_updated": "2026-06-12 14:55:53",
+  "total_cases": 697,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15141,6 +15141,54 @@
       "location": "Renton, WA",
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "case_page_fetched": "2026-06-12"
+    },
+    "16-RC-388721": {
+      "case_number": "16-RC-388721",
+      "employer": "Pye-Barker Fire & Safety",
+      "case_url": "https://www.nlrb.gov/case/16-RC-388721",
+      "case_type": "RC",
+      "date_filed": "2026-06-11",
+      "status": "Open",
+      "location": "Schertz, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-06-12"
+    },
+    "16-RC-388722": {
+      "case_number": "16-RC-388722",
+      "employer": "MidSouth Electric Co-op",
+      "case_url": "https://www.nlrb.gov/case/16-RC-388722",
+      "case_type": "RC",
+      "date_filed": "2026-06-11",
+      "status": "Open",
+      "location": "Navasota, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 37,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-12"
+    },
+    "09-RC-388719": {
+      "case_number": "09-RC-388719",
+      "employer": "ARBORS AT GALLIPOLIS",
+      "case_url": "https://www.nlrb.gov/case/09-RC-388719",
+      "case_type": "RC",
+      "date_filed": "2026-06-11",
+      "status": "Open",
+      "location": "Gallipolis, OH",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 45,
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-06-12"
