@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 06:19:04",
+  "last_updated": "2026-06-13 13:56:52",
   "total_cases": 702,
   "cases": {
     "19-RC-386928": {
@@ -15027,7 +15027,7 @@
       "union_counsel": [
         "DEATS, DURST & OWEN, PLLC"
       ],
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "10-RC-388635": {
       "case_number": "10-RC-388635",
@@ -15132,7 +15132,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "19-RC-388709": {
       "case_number": "19-RC-388709",
@@ -15152,7 +15152,7 @@
       "union_counsel": [
         "IUOE Local 302"
       ],
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "16-RC-388721": {
       "case_number": "16-RC-388721",
@@ -15169,7 +15169,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "16-RC-388722": {
       "case_number": "16-RC-388722",
@@ -15183,7 +15183,7 @@
       "eligible_voters": 37,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "09-RC-388719": {
       "case_number": "09-RC-388719",
@@ -15197,7 +15197,7 @@
       "eligible_voters": 45,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "06-RD-388746": {
       "case_number": "06-RD-388746",
@@ -15211,7 +15211,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "29-RC-388759": {
       "case_number": "29-RC-388759",
@@ -15228,7 +15228,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "19-RC-388758": {
       "case_number": "19-RC-388758",
@@ -15245,7 +15245,7 @@
       "union_counsel": [
         "Reid Ballew & Leahy, L.L.P."
       ],
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     },
     "32-RC-388749": {
       "case_number": "32-RC-388749",
@@ -15259,7 +15259,10 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-12"
+      "employer_counsel": [
+        "Sutter Health CPMC"
+      ],
+      "case_page_fetched": "2026-06-13"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -15273,7 +15276,7 @@
       "eligible_voters": 31,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-12"
+      "case_page_fetched": "2026-06-13"
     }
   }
 }
