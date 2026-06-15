@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15 17:15:54",
-  "total_cases": 704,
+  "last_updated": "2026-06-15 20:28:16",
+  "total_cases": 706,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -131,7 +131,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -278,7 +278,7 @@
       "union_counsel": [
         "Bowman Legal Services, LLC"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "June 11 2026"
     },
     "25-RC-386676": {
@@ -493,7 +493,7 @@
         "National Right to Work Legal Defense Foundation, Inc.",
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "employer_counsel": [
         "Bucci Law"
       ]
@@ -513,7 +513,7 @@
       "union_counsel": [
         "Gilbert & Sackman, A Law Corporation"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "employer_counsel": [
         "Snell & Wilmer, LLP"
       ]
@@ -533,7 +533,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "May 28 2026",
       "employer_counsel": [
         "Cozen O'Connor"
@@ -661,7 +661,7 @@
       "union_counsel": [
         "Robert M. Cheverie & Associates, P.C."
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "04-RD-386553": {
       "case_number": "04-RD-386553",
@@ -682,7 +682,7 @@
         "National Right to Work Legal Defense Foundation, Inc.",
         "National Right to Work Legal Defense Foundation"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "15-RM-386557": {
       "case_number": "15-RM-386557",
@@ -801,7 +801,7 @@
       "union_counsel": [
         "Gursky, Wiens and Shanley"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "18-RC-386507": {
       "case_number": "18-RC-386507",
@@ -878,7 +878,7 @@
       "union_counsel": [
         "Herzfeld, Suetholz, Gastel, Leniski & Wall, PLLC"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "MAY 28 2026"
     },
     "14-RC-386407": {
@@ -993,7 +993,7 @@
       "employer_counsel": [
         "The Bennett Law Firm, P.A."
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "29-RM-386428": {
       "case_number": "29-RM-386428",
@@ -1147,7 +1147,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1237,7 +1237,7 @@
       "union_counsel": [
         "Soldon Mccoy LLC"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "18-RC-386425": {
       "case_number": "18-RC-386425",
@@ -1251,7 +1251,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -1288,7 +1288,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "02-RD-386210": {
       "case_number": "02-RD-386210",
@@ -1547,7 +1547,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1578,7 +1578,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "18-RC-386174": {
       "case_number": "18-RC-386174",
@@ -1635,7 +1635,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "election_date": "JUNE 2 2026",
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "07-RC-386420": {
       "case_number": "07-RC-386420",
@@ -1691,7 +1691,7 @@
       "employer_counsel": [
         "Godfrey & Kahn, S.C."
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "10-RC-385942": {
       "case_number": "10-RC-385942",
@@ -1711,7 +1711,7 @@
       "union_counsel": [
         "Stanford Fagan LLC"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "19-RC-385987": {
       "case_number": "19-RC-385987",
@@ -1729,7 +1729,7 @@
         "McNees Wallace & Nurick, LLC",
         "McNees Wallace & Nurick LLC"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "29-RC-386045": {
       "case_number": "29-RC-386045",
@@ -1913,7 +1913,7 @@
       "employer_counsel": [
         "Duane Morris LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "16-RC-385835": {
       "case_number": "16-RC-385835",
@@ -1973,7 +1973,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -2038,7 +2038,7 @@
       "employer_counsel": [
         "Fisher & Phillips, LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "16-RC-385772": {
       "case_number": "16-RC-385772",
@@ -2144,7 +2144,7 @@
         "Martenson, Hasbrouck & Simon LLP",
         "Martenson Hasbrouck & Simon LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "29-RC-385833": {
       "case_number": "29-RC-385833",
@@ -2181,7 +2181,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "03-RM-385757": {
       "case_number": "03-RM-385757",
@@ -11052,7 +11052,7 @@
       "union_counsel": [
         "Fuiman Mogila LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "31-RC-386895": {
       "case_number": "31-RC-386895",
@@ -11266,7 +11266,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -12018,7 +12018,7 @@
       "union_counsel": [
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "June 17 2026"
     },
     "13-RC-387295": {
@@ -12134,7 +12134,7 @@
       "employer_counsel": [
         "Morgan, Lewis & Bockius"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "June 5 2026"
     },
     "18-RC-387370": {
@@ -12369,7 +12369,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "employer_counsel": [
         "Jones Lang LaSalle Americas, Inc."
       ]
@@ -12389,7 +12389,7 @@
       "union_counsel": [
         "Doll, Jansen & Ford"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "31-RC-387468": {
       "case_number": "31-RC-387468",
@@ -13239,7 +13239,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -13472,7 +13472,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "July 1 2026",
       "employer_counsel": [
         "NYU Langone Health"
@@ -13497,7 +13497,7 @@
       "union_counsel": [
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "21-RC-387819": {
       "case_number": "21-RC-387819",
@@ -13785,7 +13785,7 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "employer_counsel": [
         "Felhaber Larson"
       ]
@@ -13825,7 +13825,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "01-RC-387950": {
       "case_number": "01-RC-387950",
@@ -13846,7 +13846,7 @@
         "Segal Roitman LLP",
         "Segal Roitman, LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "10-RC-384480": {
       "case_number": "10-RC-384480",
@@ -13887,7 +13887,7 @@
       "employer_counsel": [
         "FBT Gibbons, LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "19-RC-382945": {
       "case_number": "19-RC-382945",
@@ -13926,7 +13926,7 @@
       "employer_counsel": [
         "Seyfarth Shaw, LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "13-RC-388027": {
       "case_number": "13-RC-388027",
@@ -14416,7 +14416,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Hospitality & Food Service",
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -14436,7 +14436,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14571,7 +14571,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-06-11",
+      "case_page_fetched": "2026-06-15",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -14719,7 +14719,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "13-RC-388491": {
       "case_number": "13-RC-388491",
@@ -14816,7 +14816,7 @@
       "employer_counsel": [
         "Fox Rothschild, LLP"
       ],
-      "case_page_fetched": "2026-06-11"
+      "case_page_fetched": "2026-06-15"
     },
     "05-RC-388533": {
       "case_number": "05-RC-388533",
@@ -15321,6 +15321,40 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-06-15"
+    },
+    "19-RC-388851": {
+      "case_number": "19-RC-388851",
+      "employer": "Emerald Services",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388851",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-06-15"
+    },
+    "20-RC-388860": {
+      "case_number": "20-RC-388860",
+      "employer": "St. Helena Hospital d/b/a Adventist Health St. Helena",
+      "case_url": "https://www.nlrb.gov/case/20-RC-388860",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Saint Helena, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 230,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "California Nurses Association, National Nurses United"
+      ],
       "case_page_fetched": "2026-06-15"
     }
   }
