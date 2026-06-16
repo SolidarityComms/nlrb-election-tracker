@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16 07:29:52",
-  "total_cases": 706,
+  "last_updated": "2026-06-16 16:48:28",
+  "total_cases": 711,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15362,6 +15362,82 @@
       "union_counsel": [
         "California Nurses Association, National Nurses United"
       ],
+      "case_page_fetched": "2026-06-16"
+    },
+    "03-RC-388911": {
+      "case_number": "03-RC-388911",
+      "employer": "Guthrie Lourdes Hospital",
+      "case_url": "https://www.nlrb.gov/case/03-RC-388911",
+      "case_type": "RC",
+      "date_filed": "2026-06-16",
+      "status": "Open",
+      "location": "Binghamton, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 340,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Gladstein, Reif & Meginniss, LLP"
+      ],
+      "case_page_fetched": "2026-06-16"
+    },
+    "18-RC-388882": {
+      "case_number": "18-RC-388882",
+      "employer": "Siouxland Regional Transit System",
+      "case_url": "https://www.nlrb.gov/case/18-RC-388882",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Sioux City, IA",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 43,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "case_page_fetched": "2026-06-16"
+    },
+    "29-RC-388907": {
+      "case_number": "29-RC-388907",
+      "employer": "T J NIK Auto Corp. dba Smithtown KIA",
+      "case_url": "https://www.nlrb.gov/case/29-RC-388907",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Saint James, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-06-16"
+    },
+    "18-RC-388897": {
+      "case_number": "18-RC-388897",
+      "employer": "The Alliance for Metropolitan Stability",
+      "case_url": "https://www.nlrb.gov/case/18-RC-388897",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Minneapolis, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-16"
+    },
+    "29-RC-388909": {
+      "case_number": "29-RC-388909",
+      "employer": "Schneps Media",
+      "case_url": "https://www.nlrb.gov/case/29-RC-388909",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Brooklyn, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 27,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
       "case_page_fetched": "2026-06-16"
     }
   }
