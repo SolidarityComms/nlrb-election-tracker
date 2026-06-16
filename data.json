@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16 16:48:28",
-  "total_cases": 711,
+  "last_updated": "2026-06-16 20:12:46",
+  "total_cases": 712,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15311,6 +15311,9 @@
       "eligible_voters": 32,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Sheppard Mullin Richter & Hampton LLP"
+      ],
       "union_counsel": [
         "Cohen, Weiss and Simon, LLP"
       ],
@@ -15342,6 +15345,9 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ],
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
@@ -15438,6 +15444,20 @@
       "eligible_voters": 27,
       "stage": "just_filed",
       "sector": "Media & Entertainment",
+      "case_page_fetched": "2026-06-16"
+    },
+    "19-RC-388912": {
+      "case_number": "19-RC-388912",
+      "employer": "Legacy Health",
+      "case_url": "https://www.nlrb.gov/case/19-RC-388912",
+      "case_type": "RC",
+      "date_filed": "2026-06-15",
+      "status": "Open",
+      "location": "Portland, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-06-16"
     }
   }
