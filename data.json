@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17 19:25:53",
-  "total_cases": 721,
+  "last_updated": "2026-06-17 23:26:08",
+  "total_cases": 723,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15672,6 +15672,40 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Manufacturing"
+    },
+    "29-RC-389038": {
+      "case_number": "29-RC-389038",
+      "employer": "Barnes and Noble Booksellers, Inc.",
+      "case_url": "https://www.nlrb.gov/case/29-RC-389038",
+      "case_type": "RC",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "Massapequa Park, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Rothman Rocco LLP"
+      ],
+      "case_page_fetched": "2026-06-17"
+    },
+    "12-RC-389034": {
+      "case_number": "12-RC-389034",
+      "employer": "One Corps",
+      "case_url": "https://www.nlrb.gov/case/12-RC-389034",
+      "case_type": "RC",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "San Juan, PR",
+      "region": "Region 12, Tampa, Florida",
+      "eligible_voters": 81,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "International Union"
+      ],
+      "case_page_fetched": "2026-06-17"
     }
   }
 }
