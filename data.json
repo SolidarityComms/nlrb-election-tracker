@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17 07:13:31",
-  "total_cases": 713,
+  "last_updated": "2026-06-17 15:24:24",
+  "total_cases": 717,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15257,7 +15257,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-06-13"
+      "case_page_fetched": "2026-06-17"
     },
     "19-RC-388758": {
       "case_number": "19-RC-388758",
@@ -15295,7 +15295,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-06-13"
+      "case_page_fetched": "2026-06-17"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -15473,7 +15473,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-16"
+      "case_page_fetched": "2026-06-17"
     },
     "03-RC-388942": {
       "case_number": "03-RC-388942",
@@ -15486,7 +15486,79 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "First Student"
+      ],
+      "union_counsel": [
+        "Amalgamated Transit Union"
+      ],
+      "case_page_fetched": "2026-06-17"
+    },
+    "10-RC-388966": {
+      "case_number": "10-RC-388966",
+      "employer": "MV Transportation, Inc.",
+      "case_url": "https://www.nlrb.gov/case/10-RC-388966",
+      "case_type": "RC",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "Cary, NC",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 66,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "Amalgamated Transit Union, AFL-CIO/CLC"
+      ],
+      "case_page_fetched": "2026-06-17"
+    },
+    "25-RM-388968": {
+      "case_number": "25-RM-388968",
+      "employer": "Allied Power Services, LLC",
+      "case_url": "https://www.nlrb.gov/case/25-RM-388968",
+      "case_type": "RM",
+      "date_filed": "2026-06-16",
+      "status": "Open",
+      "location": "Byron, IL",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "case_page_fetched": "2026-06-17"
+    },
+    "25-RC-388978": {
+      "case_number": "25-RC-388978",
+      "employer": "Heidelberg Materials",
+      "case_url": "https://www.nlrb.gov/case/25-RC-388978",
+      "case_type": "RC",
+      "date_filed": "2026-06-16",
+      "status": "Open",
+      "location": "Logansport, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 65,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC"
+      ],
+      "case_page_fetched": "2026-06-17"
+    },
+    "03-RC-388986": {
+      "case_number": "03-RC-388986",
+      "employer": "Buffalo Center for Rehabilitation and Nursing",
+      "case_url": "https://www.nlrb.gov/case/03-RC-388986",
+      "case_type": "RC",
+      "date_filed": "2026-06-16",
+      "status": "Open",
+      "location": "Buffalo, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-17"
     }
   }
 }
