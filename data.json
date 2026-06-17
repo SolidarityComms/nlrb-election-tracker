@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17 15:24:24",
-  "total_cases": 717,
+  "last_updated": "2026-06-17 19:25:53",
+  "total_cases": 721,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -648,20 +648,24 @@
       "employer": "AMMEGA US, Inc.",
       "case_url": "https://www.nlrb.gov/case/03-RC-386550",
       "case_type": "RC",
+      "tally_date": "2026-06-16",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-07",
       "status": "Open",
       "location": "Beacon, NY",
       "region": "Region 03, Buffalo, New York",
-      "eligible_voters": 10,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Bond, Schoeneck & King, PLLC"
-      ],
-      "union_counsel": [
-        "Robert M. Cheverie & Associates, P.C."
-      ],
-      "case_page_fetched": "2026-06-15"
+      "eligible_voters": 9,
+      "votes_against": 2,
+      "ballots_counted": 9,
+      "void_ballots": 0,
+      "votes_for": 7,
+      "union": "Eastern New York Laborers District Council Local 235",
+      "union_to_certify": "Eastern New York Laborers District Council Local 235",
+      "unit_description": "INCLUDED: All full-time and regular part-time employees in the following titles: Maintenance Engineers, Electricians, Mechanics, Welders and Janitors employed by the Employer at its Beacon facility located at 483 Fishkill Ave., Beacon, NY 12508.\nEXCLUDED: Production employees, office clerical employees, confidential employees, managers, guards, professional employees and supervisors as defined by the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     },
     "04-RD-386553": {
       "case_number": "04-RD-386553",
@@ -2133,18 +2137,24 @@
       "employer": "Universal Protection Services, LP d/b/a Allied Universal Security Services",
       "case_url": "https://www.nlrb.gov/case/31-RC-385793",
       "case_type": "RC",
+      "tally_date": "2026-06-15",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-04-28",
       "status": "Open",
       "location": "Helendale, CA",
       "region": "Region 31, Los Angeles, California",
-      "eligible_voters": 9,
-      "stage": "pending",
-      "sector": "Security & Public Safety",
-      "employer_counsel": [
-        "Martenson, Hasbrouck & Simon LLP",
-        "Martenson Hasbrouck & Simon LLP"
-      ],
-      "case_page_fetched": "2026-06-15"
+      "eligible_voters": 8,
+      "votes_against": 0,
+      "ballots_counted": 5,
+      "void_ballots": 1,
+      "votes_for": 5,
+      "union": "SHIELD-Helendale Security Union",
+      "union_to_certify": "SHIELD-Helendale Security Union",
+      "unit_description": "INCLUDED: All full-time and regular part-time security professionals, officers, and guards.\n \nEXCLUDED: All other employees, site supervisor, acting site supervisor, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "29-RC-385833": {
       "case_number": "29-RC-385833",
@@ -12586,20 +12596,26 @@
     },
     "19-RC-387515": {
       "case_number": "19-RC-387515",
-      "employer": "Mountain View Funeral Home, Memorial Park and Crematory (Tacoma)",
+      "employer": "Mountain View Cemetery, Inc.",
       "case_url": "https://www.nlrb.gov/case/19-RC-387515",
       "case_type": "RC",
+      "tally_date": "2026-06-15",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-22",
       "status": "Open",
       "location": "Tacoma, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 12,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-06-17",
-      "employer_counsel": [
-        "Littler Mendelson, P.C."
-      ]
+      "eligible_voters": 10,
+      "votes_against": 2,
+      "ballots_counted": 8,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "Driver Salesmen & Warehousemen Local Union 117, affiliated with the International Brotherhood of Teamsters",
+      "union_to_certify": "Driver Salesmen & Warehousemen Local Union 117, affiliated with the International Brotherhood of Teamsters",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "19-RC-387518": {
       "case_number": "19-RC-387518",
@@ -13245,20 +13261,26 @@
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
-      "employer": "MMIL Associates, LLC d/b/a Hilton Chicago/Magnificent Mile Suites",
+      "employer": "MMIL Associates, LLC",
       "case_url": "https://www.nlrb.gov/case/13-RC-387730",
       "case_type": "RC",
+      "tally_date": "2026-06-17",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-27",
       "status": "Open",
       "location": "Chicago, IL",
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 3,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-06-14",
-      "employer_counsel": [
-        "Foley & Lardner LLP"
-      ]
+      "votes_against": 1,
+      "ballots_counted": 3,
+      "void_ballots": 0,
+      "votes_for": 2,
+      "union": "UNITE HERE Local 1",
+      "union_to_certify": "UNITE HERE Local 1",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "10-RD-387727": {
       "case_number": "10-RD-387727",
@@ -14031,18 +14053,27 @@
     },
     "02-RC-388070": {
       "case_number": "02-RC-388070",
-      "employer": "Broadway Housing Communities (Sugar Hill Museum Preschool)",
+      "employer": "Broadway Housing Communities",
       "case_url": "https://www.nlrb.gov/case/02-RC-388070",
       "case_type": "RC",
+      "tally_date": "2026-06-16",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-01",
       "status": "Open",
       "location": "Manhattan, NY",
       "region": "Region 02, New York, New York",
-      "eligible_voters": 19,
-      "stage": "just_filed",
-      "sector": "Education",
-      "case_page_fetched": "2026-06-15",
-      "election_date": "June 16 2026"
+      "eligible_voters": 18,
+      "votes_against": 2,
+      "ballots_counted": 16,
+      "void_ballots": 0,
+      "votes_for": 14,
+      "union": "District Council 37, American Federation of State, County & Municipal Employees, AFL-CIO",
+      "union_to_certify": "District Council 37, American Federation of State, County & Municipal Employees, AFL-CIO",
+      "unit_description": "Included: All full-time and regular part-time employees employed by the Employer as Family Assistant Coordinator, Assistant Teacher, Head Teacher, Administrative Assistant, School Aide, and Kitchen Aide, at the Sugar Hill Museum Preschool located at 898 St. Nicholas Ave. New York.\nExcluded: All other employees including office clerical employees, guards, professional employees and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "20-RC-388094": {
       "case_number": "20-RC-388094",
@@ -15397,6 +15428,9 @@
       "eligible_voters": 340,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Buchanan Ingersoll & Rooney, P.C."
+      ],
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
@@ -15414,7 +15448,7 @@
       "eligible_voters": 43,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
-      "case_page_fetched": "2026-06-16"
+      "case_page_fetched": "2026-06-17"
     },
     "29-RC-388907": {
       "case_number": "29-RC-388907",
@@ -15559,6 +15593,85 @@
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-06-17"
+    },
+    "16-RD-389005": {
+      "case_number": "16-RD-389005",
+      "employer": "Texas Public Radio",
+      "case_url": "https://www.nlrb.gov/case/16-RD-389005",
+      "case_type": "RD",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "San Antonio, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
+      "union_counsel": [
+        "NATIONAL RIGHT TO WORK LEGAL DEFENSE FOUNDATION, INC."
+      ],
+      "case_page_fetched": "2026-06-17"
+    },
+    "08-RC-389010": {
+      "case_number": "08-RC-389010",
+      "employer": "Advanced Healthcare Center",
+      "case_url": "https://www.nlrb.gov/case/08-RC-389010",
+      "case_type": "RC",
+      "date_filed": "2026-06-16",
+      "status": "Open",
+      "location": "Toledo, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-06-17"
+    },
+    "06-RC-384890": {
+      "case_number": "06-RC-384890",
+      "employer": "Urban Pittsburgh Downtown Hotel Tenant, LLC d/b/a The Industrialist Hotel Pittsburgh",
+      "case_url": "https://www.nlrb.gov/case/06-RC-384890",
+      "case_type": "RC",
+      "tally_date": "2026-06-16",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-04-15",
+      "status": "Open",
+      "location": "Pittsburgh, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 23,
+      "votes_against": 6,
+      "ballots_counted": 18,
+      "void_ballots": 0,
+      "votes_for": 12,
+      "union": "Unite Here Local 57",
+      "union_to_certify": "Unite Here Local 57",
+      "unit_description": "Included: All full-time and regular part-time Front Desk Agents, Night Auditors, Housekeeping Room Attendants, Housekeeping Housepersons, Housekeeping Room Inspectors, Bartenders, Servers, Cooks, Dishwashers, Public Area Cleaners, and Maintenance Engineers employed at the Employer\u2019s 405 Wood Street, Pittsburgh, PA 15222;\n\nExcluded: All guards, managerial employees, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Hospitality & Food Service"
+    },
+    "31-RC-383599": {
+      "case_number": "31-RC-383599",
+      "employer": "STALKR, LLC",
+      "case_url": "https://www.nlrb.gov/case/31-RC-383599",
+      "case_type": "RC",
+      "tally_date": "2026-06-15",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-03-25",
+      "status": "Open",
+      "location": "Los Angeles, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 10,
+      "votes_against": 1,
+      "ballots_counted": 7,
+      "void_ballots": 2,
+      "votes_for": 6,
+      "union": "Communications Workers of America Local 7901",
+      "union_to_certify": "Communications Workers of America Local 7901",
+      "unit_description": "Included: All full-time and regular part-time Visual Researchers employed by the Employer in the United States.\n\nExcluded: Supervisory Producers, Production Coordinators, and all other employees, guards and supervisors as defined in the Act, as amended.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     }
   }
 }
