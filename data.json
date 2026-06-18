@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18 19:28:17",
-  "total_cases": 732,
+  "last_updated": "2026-06-18 23:47:15",
+  "total_cases": 734,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15763,6 +15763,9 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
@@ -15811,6 +15814,9 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "McMahon Berger, PC"
+      ],
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
@@ -15843,6 +15849,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP",
         "O'Donoghue & O'Donoghue, LLP"
       ],
       "case_page_fetched": "2026-06-18"
@@ -15859,6 +15866,40 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-06-18"
+    },
+    "21-RC-389132": {
+      "case_number": "21-RC-389132",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/21-RC-389132",
+      "case_type": "RC",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Los Alamitos, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 29,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-06-18"
+    },
+    "28-RC-389115": {
+      "case_number": "28-RC-389115",
+      "employer": "Banner Medical Group",
+      "case_url": "https://www.nlrb.gov/case/28-RC-389115",
+      "case_type": "RC",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "Phoenix, AZ",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 243,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
       "case_page_fetched": "2026-06-18"
     }
   }
