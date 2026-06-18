@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18 15:21:00",
-  "total_cases": 727,
+  "last_updated": "2026-06-18 19:28:17",
+  "total_cases": 732,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15585,6 +15585,9 @@
       "eligible_voters": 65,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Heidelberg Materials Midwest Aggregates, Inc."
+      ],
       "union_counsel": [
         "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC"
       ],
@@ -15743,7 +15746,7 @@
       "eligible_voters": 48,
       "stage": "just_filed",
       "sector": "Other",
-      "employer_counsel": [
+      "union_counsel": [
         "Troutman Pepper Locke"
       ],
       "case_page_fetched": "2026-06-18"
@@ -15780,6 +15783,82 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
+      "case_page_fetched": "2026-06-18"
+    },
+    "14-RC-389087": {
+      "case_number": "14-RC-389087",
+      "employer": "Vibe Cannabis",
+      "case_url": "https://www.nlrb.gov/case/14-RC-389087",
+      "case_type": "RC",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Saint Louis, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 30,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-18"
+    },
+    "21-RC-389086": {
+      "case_number": "21-RC-389086",
+      "employer": "Transdev Services, Inc.",
+      "case_url": "https://www.nlrb.gov/case/21-RC-389086",
+      "case_type": "RC",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Chula Vista, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Amalgamated Transit Union"
+      ],
+      "case_page_fetched": "2026-06-18"
+    },
+    "04-RC-389103": {
+      "case_number": "04-RC-389103",
+      "employer": "Atlantic Aviation (PNE)",
+      "case_url": "https://www.nlrb.gov/case/04-RC-389103",
+      "case_type": "RC",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Philadelphia, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 18,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-18"
+    },
+    "07-RC-389079": {
+      "case_number": "07-RC-389079",
+      "employer": "Keyes Refrigeration, Inc.",
+      "case_url": "https://www.nlrb.gov/case/07-RC-389079",
+      "case_type": "RC",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "Grand Rapids, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 30,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue, LLP"
+      ],
+      "case_page_fetched": "2026-06-18"
+    },
+    "18-RC-389080": {
+      "case_number": "18-RC-389080",
+      "employer": "US Foods",
+      "case_url": "https://www.nlrb.gov/case/18-RC-389080",
+      "case_type": "RC",
+      "date_filed": "2026-06-16",
+      "status": "Open",
+      "location": "Menomonee Falls, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-06-18"
     }
   }
