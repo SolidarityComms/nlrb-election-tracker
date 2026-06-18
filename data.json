@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18 06:55:46",
-  "total_cases": 723,
+  "last_updated": "2026-06-18 15:21:00",
+  "total_cases": 727,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -12980,7 +12980,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-06-14",
+      "case_page_fetched": "2026-06-18",
       "election_date": "June 25 2026",
       "union_counsel": [
         "McDonald Lamond Canzoneri LLC"
@@ -15024,7 +15024,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-14"
+      "case_page_fetched": "2026-06-18"
     },
     "18-RC-385103": {
       "case_number": "18-RC-385103",
@@ -15278,7 +15278,10 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-14"
+      "case_page_fetched": "2026-06-18",
+      "employer_counsel": [
+        "Morgan, Lewis & Bockius, LLP"
+      ]
     },
     "29-RC-388759": {
       "case_number": "29-RC-388759",
@@ -15527,7 +15530,14 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "First Student"
+      ],
+      "union_counsel": [
+        "Amalgamated Transit Union"
+      ],
+      "case_page_fetched": "2026-06-18"
     },
     "10-RC-388966": {
       "case_number": "10-RC-388966",
@@ -15591,7 +15601,8 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-06-18"
     },
     "16-RD-389005": {
       "case_number": "16-RD-389005",
@@ -15687,7 +15698,7 @@
       "union_counsel": [
         "Rothman Rocco LLP"
       ],
-      "case_page_fetched": "2026-06-17"
+      "case_page_fetched": "2026-06-18"
     },
     "12-RC-389034": {
       "case_number": "12-RC-389034",
@@ -15704,7 +15715,72 @@
       "union_counsel": [
         "International Union"
       ],
-      "case_page_fetched": "2026-06-17"
+      "case_page_fetched": "2026-06-18"
+    },
+    "10-RC-389059": {
+      "case_number": "10-RC-389059",
+      "employer": "Georgia Power Company",
+      "case_url": "https://www.nlrb.gov/case/10-RC-389059",
+      "case_type": "RC",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Atlanta, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 44,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-18"
+    },
+    "10-RM-389062": {
+      "case_number": "10-RM-389062",
+      "employer": "Georgia Power Company",
+      "case_url": "https://www.nlrb.gov/case/10-RM-389062",
+      "case_type": "RM",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Atlanta, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 48,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Troutman Pepper Locke"
+      ],
+      "case_page_fetched": "2026-06-18"
+    },
+    "03-RC-389052": {
+      "case_number": "03-RC-389052",
+      "employer": "Vassar Brothers Medical Center",
+      "case_url": "https://www.nlrb.gov/case/03-RC-389052",
+      "case_type": "RC",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "Poughkeepsie, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Gladstein, Reif & Meginniss, LLP"
+      ],
+      "case_page_fetched": "2026-06-18"
+    },
+    "03-RM-389061": {
+      "case_number": "03-RM-389061",
+      "employer": "Buffalo Center for Rehabilitation and Nursing",
+      "case_url": "https://www.nlrb.gov/case/03-RM-389061",
+      "case_type": "RM",
+      "date_filed": "2026-06-17",
+      "status": "Open",
+      "location": "Buffalo, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Morris Tuchman, LLC"
+      ],
+      "case_page_fetched": "2026-06-18"
     }
   }
 }
