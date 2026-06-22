@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22 07:27:49",
-  "total_cases": 734,
+  "last_updated": "2026-06-22 16:53:04",
+  "total_cases": 736,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15039,7 +15039,8 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-18"
+      "case_page_fetched": "2026-06-22",
+      "election_date": "June 29 2026"
     },
     "18-RC-385103": {
       "case_number": "18-RC-385103",
@@ -15302,7 +15303,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-18",
+      "case_page_fetched": "2026-06-22",
       "employer_counsel": [
         "Morgan, Lewis & Bockius, LLP"
       ]
@@ -15574,7 +15575,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-06-18"
+      "case_page_fetched": "2026-06-22"
     },
     "10-RC-388966": {
       "case_number": "10-RC-388966",
@@ -15642,7 +15643,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-18"
+      "case_page_fetched": "2026-06-22"
     },
     "16-RD-389005": {
       "case_number": "16-RD-389005",
@@ -15938,6 +15939,40 @@
         "Weinberg, Roger & Rosenfeld"
       ],
       "case_page_fetched": "2026-06-19"
+    },
+    "21-RC-389161": {
+      "case_number": "21-RC-389161",
+      "employer": "SSA Terminals",
+      "case_url": "https://www.nlrb.gov/case/21-RC-389161",
+      "case_type": "RC",
+      "date_filed": "2026-06-22",
+      "status": "Open",
+      "location": "Long Beach, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
+      ],
+      "case_page_fetched": "2026-06-22"
+    },
+    "05-RM-389158": {
+      "case_number": "05-RM-389158",
+      "employer": "PNGI Charles Town Gaming, LLC",
+      "case_url": "https://www.nlrb.gov/case/05-RM-389158",
+      "case_type": "RM",
+      "date_filed": "2026-06-22",
+      "status": "Open",
+      "location": "Charles Town, WV",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Hospitality & Food Service",
+      "union_counsel": [
+        "Stevens & Lee, P.C."
+      ],
+      "case_page_fetched": "2026-06-22"
     }
   }
 }
