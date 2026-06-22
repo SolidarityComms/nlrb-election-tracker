@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22 20:08:27",
-  "total_cases": 738,
+  "last_updated": "2026-06-22 23:19:56",
+  "total_cases": 740,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15952,6 +15952,9 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Proskauer Rose LLP"
+      ],
       "union_counsel": [
         "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
       ],
@@ -15976,7 +15979,7 @@
     },
     "02-RC-389201": {
       "case_number": "02-RC-389201",
-      "employer": "The New York Public Library",
+      "employer": "The New York Public Library, Stavros Niarchos Foundation Library",
       "case_url": "https://www.nlrb.gov/case/02-RC-389201",
       "case_type": "RC",
       "date_filed": "2026-06-22",
@@ -16009,6 +16012,34 @@
       "union_counsel": [
         "James & Hoffman, P.C."
       ],
+      "case_page_fetched": "2026-06-22"
+    },
+    "25-RC-389212": {
+      "case_number": "25-RC-389212",
+      "employer": "Vestis",
+      "case_url": "https://www.nlrb.gov/case/25-RC-389212",
+      "case_type": "RC",
+      "date_filed": "2026-06-22",
+      "status": "Open",
+      "location": "Crystal Lake, IL",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 50,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-22"
+    },
+    "19-RC-389220": {
+      "case_number": "19-RC-389220",
+      "employer": "Clear Choice Cannabis",
+      "case_url": "https://www.nlrb.gov/case/19-RC-389220",
+      "case_type": "RC",
+      "date_filed": "2026-06-22",
+      "status": "Open",
+      "location": "Tacoma, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 32,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-06-22"
     }
   }
