@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24 18:52:41",
-  "total_cases": 769,
+  "last_updated": "2026-06-24 23:05:25",
+  "total_cases": 771,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16126,6 +16126,9 @@
       "eligible_voters": 400,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
@@ -16304,6 +16307,9 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "case_page_fetched": "2026-06-24"
     },
     "21-RC-389303": {
@@ -16428,6 +16434,9 @@
       "eligible_voters": 30,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ],
       "case_page_fetched": "2026-06-24"
     },
     "28-RC-389354": {
@@ -16566,6 +16575,37 @@
       "outcome": "tie",
       "stage": "tally_issued",
       "sector": "Hospitality & Food Service"
+    },
+    "28-RC-389402": {
+      "case_number": "28-RC-389402",
+      "employer": "ISS Action, Inc",
+      "case_url": "https://www.nlrb.gov/case/28-RC-389402",
+      "case_type": "RC",
+      "date_filed": "2026-06-24",
+      "status": "Open",
+      "location": "Tucson, AZ",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 58,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Gregory, Moore, Brooks, Clark & Helton, P.C."
+      ],
+      "case_page_fetched": "2026-06-24"
+    },
+    "19-RC-389386": {
+      "case_number": "19-RC-389386",
+      "employer": "Legacy Good Samaritan Health",
+      "case_url": "https://www.nlrb.gov/case/19-RC-389386",
+      "case_type": "RC",
+      "date_filed": "2026-06-23",
+      "status": "Open",
+      "location": "Portland, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-24"
     }
   }
 }
