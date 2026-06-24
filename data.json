@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24 06:10:26",
-  "total_cases": 756,
+  "last_updated": "2026-06-24 14:27:23",
+  "total_cases": 758,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -71,7 +71,7 @@
       "union_counsel": [
         "Brady McGuire & Steinberg, P.C."
       ],
-      "case_page_fetched": "2026-06-20",
+      "case_page_fetched": "2026-06-24",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -11031,7 +11031,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-06-20"
+      "case_page_fetched": "2026-06-24"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -12366,7 +12366,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-06-20"
+      "case_page_fetched": "2026-06-24"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12418,7 +12418,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-20",
+      "case_page_fetched": "2026-06-24",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -12807,7 +12807,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-06-20"
+      "case_page_fetched": "2026-06-24"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -14199,7 +14199,7 @@
       "union_counsel": [
         "Paisner Litvin Hauser"
       ],
-      "case_page_fetched": "2026-06-20"
+      "case_page_fetched": "2026-06-24"
     },
     "05-RC-388128": {
       "case_number": "05-RC-388128",
@@ -14237,7 +14237,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-06-20",
+      "case_page_fetched": "2026-06-24",
       "employer_counsel": [
         "Littler Mendelson P.C."
       ],
@@ -14258,7 +14258,7 @@
       "employer_counsel": [
         "Littler Mendelson P.C."
       ],
-      "case_page_fetched": "2026-06-20"
+      "case_page_fetched": "2026-06-24"
     },
     "19-RD-385346": {
       "case_number": "19-RD-385346",
@@ -15982,7 +15982,14 @@
       "region": "Region 21, Los Angeles, California",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Proskauer Rose LLP"
+      ],
+      "union_counsel": [
+        "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
+      ],
+      "case_page_fetched": "2026-06-24"
     },
     "05-RM-389158": {
       "case_number": "05-RM-389158",
@@ -16079,6 +16086,9 @@
       "eligible_voters": 120,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "Jackson Lewis PC"
+      ],
       "union_counsel": [
         "Beins, Axelrod & Keating, P.C."
       ],
@@ -16160,7 +16170,8 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-06-24"
     },
     "13-RC-389289": {
       "case_number": "13-RC-389289",
@@ -16260,7 +16271,7 @@
     },
     "15-RM-389315": {
       "case_number": "15-RM-389315",
-      "employer": "Build-A-Bear Workshop, Inc.",
+      "employer": "Build A Bear Workshop, Inc.",
       "case_url": "https://www.nlrb.gov/case/15-RM-389315",
       "case_type": "RM",
       "date_filed": "2026-06-23",
@@ -16270,6 +16281,9 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
+      "union_counsel": [
+        "Thompson Coburn LLP"
+      ],
       "case_page_fetched": "2026-06-24"
     },
     "13-RC-389317": {
@@ -16283,7 +16297,8 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-06-24"
     },
     "21-RC-389303": {
       "case_number": "21-RC-389303",
@@ -16313,7 +16328,42 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Gregory, Moore, Brooks, Clark & Helton, P.C."
+      ],
+      "case_page_fetched": "2026-06-24"
+    },
+    "10-RD-389328": {
+      "case_number": "10-RD-389328",
+      "employer": "Skyworks",
+      "case_url": "https://www.nlrb.gov/case/10-RD-389328",
+      "case_type": "RD",
+      "date_filed": "2026-06-23",
+      "status": "Open",
+      "location": "Decatur, AL",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-24"
+    },
+    "07-RC-389335": {
+      "case_number": "07-RC-389335",
+      "employer": "HarbisonWalker International",
+      "case_url": "https://www.nlrb.gov/case/07-RC-389335",
+      "case_type": "RC",
+      "date_filed": "2026-06-23",
+      "status": "Open",
+      "location": "White Cloud, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 112,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, AFL-CIO, CLC"
+      ],
+      "case_page_fetched": "2026-06-24"
     }
   }
 }
