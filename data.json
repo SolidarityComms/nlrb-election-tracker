@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25 19:06:15",
-  "total_cases": 783,
+  "last_updated": "2026-06-25 23:19:47",
+  "total_cases": 786,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16333,6 +16333,9 @@
       "eligible_voters": 29,
       "stage": "just_filed",
       "sector": "Social Services & Nonprofit",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Law Office of Florice Hoffman, L.C."
       ],
@@ -16426,6 +16429,9 @@
       "eligible_voters": 21,
       "stage": "just_filed",
       "sector": "Hospitality & Food Service",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
       "union_counsel": [
         "Teamsters Local Union No. 135"
       ],
@@ -16632,6 +16638,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
+        "Ogletree Deakins Nash Smoak & Stewart, PC",
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
       "case_page_fetched": "2026-06-25"
@@ -16719,6 +16726,9 @@
       "eligible_voters": 18,
       "stage": "just_filed",
       "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Paisner Litvin Hauser"
+      ],
       "case_page_fetched": "2026-06-25"
     },
     "22-RC-389446": {
@@ -16815,6 +16825,60 @@
       "sector": "Healthcare",
       "union_counsel": [
         "Rush & Nicholson P.C."
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "20-RC-389492": {
+      "case_number": "20-RC-389492",
+      "employer": "InDyne, Inc.",
+      "case_url": "https://www.nlrb.gov/case/20-RC-389492",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Beale AFB, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "32-RC-389486": {
+      "case_number": "32-RC-389486",
+      "employer": "Satellite Healthcare Mountain View",
+      "case_url": "https://www.nlrb.gov/case/32-RC-389486",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Mountain View, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "31-RC-389491": {
+      "case_number": "31-RC-389491",
+      "employer": "Brentwood School",
+      "case_url": "https://www.nlrb.gov/case/31-RC-389491",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Los Angeles, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Education",
+      "employer_counsel": [
+        "Liebert Cassidy Whitmore"
+      ],
+      "union_counsel": [
+        "Sethi Orchid Miner LLP"
       ],
       "case_page_fetched": "2026-06-25"
     }
