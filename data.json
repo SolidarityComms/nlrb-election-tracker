@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25 14:31:27",
-  "total_cases": 774,
+  "last_updated": "2026-06-25 19:06:15",
+  "total_cases": 783,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16614,6 +16614,9 @@
       "eligible_voters": 17,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Davis Wright Tremaine, LLP"
+      ],
       "case_page_fetched": "2026-06-25"
     },
     "19-RC-389407": {
@@ -16662,8 +16665,156 @@
       "eligible_voters": 27,
       "stage": "just_filed",
       "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Constangy Brooks Smith & Prophete LLP"
+      ],
       "union_counsel": [
         "O'Donoghue & O'Donoghue, LLP"
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "22-RC-389453": {
+      "case_number": "22-RC-389453",
+      "employer": "Yona Solutions",
+      "case_url": "https://www.nlrb.gov/case/22-RC-389453",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Matawan, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Gladstein, Reif & Meginniss, LLP"
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "01-RC-389460": {
+      "case_number": "01-RC-389460",
+      "employer": "First Student, Inc.",
+      "case_url": "https://www.nlrb.gov/case/01-RC-389460",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Danbury, CT",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Robert M. Cheverie & Associates, P.C."
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "06-RC-389428": {
+      "case_number": "06-RC-389428",
+      "employer": "NAES Power Contractors",
+      "case_url": "https://www.nlrb.gov/case/06-RC-389428",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "New Castle, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 18,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
+      "case_page_fetched": "2026-06-25"
+    },
+    "22-RC-389446": {
+      "case_number": "22-RC-389446",
+      "employer": "Complete Care at Madison",
+      "case_url": "https://www.nlrb.gov/case/22-RC-389446",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Matawan, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 65,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Gladstein, Reif & Meginniss, LLP"
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "03-RC-389463": {
+      "case_number": "03-RC-389463",
+      "employer": "Ambulnz by DocGo",
+      "case_url": "https://www.nlrb.gov/case/03-RC-389463",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Rensselaer, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 60,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-25"
+    },
+    "01-RC-389459": {
+      "case_number": "01-RC-389459",
+      "employer": "WTNH-TV",
+      "case_url": "https://www.nlrb.gov/case/01-RC-389459",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "New Haven, CT",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-06-25"
+    },
+    "27-RD-389431": {
+      "case_number": "27-RD-389431",
+      "employer": "Asplundh Tree Expert, LLC",
+      "case_url": "https://www.nlrb.gov/case/27-RD-389431",
+      "case_type": "RD",
+      "date_filed": "2026-06-24",
+      "status": "Open",
+      "location": "Fruitland, ID",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 87,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "National Right to Work Foundation"
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "05-RC-389429": {
+      "case_number": "05-RC-389429",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/05-RC-389429",
+      "case_type": "RC",
+      "date_filed": "2026-06-24",
+      "status": "Open",
+      "location": "Suffolk, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, PC",
+        "Littler Mendelson, P.C."
+      ],
+      "case_page_fetched": "2026-06-25"
+    },
+    "25-RC-389432": {
+      "case_number": "25-RC-389432",
+      "employer": "Bettendorf Healthcare Center LLC",
+      "case_url": "https://www.nlrb.gov/case/25-RC-389432",
+      "case_type": "RC",
+      "date_filed": "2026-06-24",
+      "status": "Open",
+      "location": "Bettendorf, IA",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Rush & Nicholson P.C."
       ],
       "case_page_fetched": "2026-06-25"
     }
