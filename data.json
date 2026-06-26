@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26 18:52:13",
-  "total_cases": 789,
+  "last_updated": "2026-06-26 23:07:58",
+  "total_cases": 790,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16713,6 +16713,9 @@
       "eligible_voters": 20,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Fisher Phillips"
+      ],
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
@@ -16882,6 +16885,9 @@
       "eligible_voters": 17,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Steward, P.C."
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -16936,6 +16942,9 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Clifton Budd & DeMaria, LLP"
+      ],
       "union_counsel": [
         "Law Office of Florice Hoffman, L.C."
       ],
@@ -16951,6 +16960,20 @@
       "location": "Richland, WA",
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-06-26"
+    },
+    "19-RC-389567": {
+      "case_number": "19-RC-389567",
+      "employer": "Providence Health and Services - Oregon dba Providence Milwaukie Hospital",
+      "case_url": "https://www.nlrb.gov/case/19-RC-389567",
+      "case_type": "RC",
+      "date_filed": "2026-06-26",
+      "status": "Open",
+      "location": "Milwaukie, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 57,
       "stage": "just_filed",
       "sector": "Healthcare",
       "case_page_fetched": "2026-06-26"
