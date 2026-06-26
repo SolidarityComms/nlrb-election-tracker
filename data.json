@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26 06:14:51",
+  "last_updated": "2026-06-26 14:23:16",
   "total_cases": 786,
   "cases": {
     "19-RC-386928": {
@@ -11357,7 +11357,7 @@
       "union_counsel": [
         "Isaacs Devasia Castro & Wien LLP"
       ],
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26"
     },
     "22-RC-387087": {
       "case_number": "22-RC-387087",
@@ -11528,7 +11528,7 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Arnall Golden Gregory LLP"
       ]
@@ -11789,7 +11789,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -11926,7 +11926,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Quarles & Brady LLP"
       ]
@@ -12127,7 +12127,7 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Husch Blackwell LLP"
       ],
@@ -12930,7 +12930,7 @@
       "employer_counsel": [
         "Littler Mendelson P.C."
       ],
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26"
     },
     "19-RC-387648": {
       "case_number": "19-RC-387648",
@@ -12987,7 +12987,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "election_date": "June 25 2026",
       "union_counsel": [
         "McDonald Lamond Canzoneri LLC"
@@ -13094,7 +13094,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Fisher & Phillips, LLP"
       ],
@@ -13115,7 +13115,7 @@
       "employer_counsel": [
         "McNees Wallace & Nurick LLC"
       ],
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -13595,7 +13595,7 @@
       "union_counsel": [
         "The Christen Law Group"
       ],
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -14604,7 +14604,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Epstein Becker & Green, PC"
       ]
@@ -14719,7 +14719,7 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Faegre Drinker Biddle & Reath LLP"
       ]
@@ -15051,7 +15051,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -15320,10 +15320,11 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22",
+      "case_page_fetched": "2026-06-26",
       "employer_counsel": [
         "Morgan, Lewis & Bockius, LLP"
-      ]
+      ],
+      "election_date": "July 07 2026"
     },
     "29-RC-388759": {
       "case_number": "29-RC-388759",
@@ -15594,12 +15595,13 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
-        "First Student"
+        "FIRST STUDENT"
       ],
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26",
+      "election_date": "July 17 2026"
     },
     "10-RC-388966": {
       "case_number": "10-RC-388966",
@@ -15670,7 +15672,10 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26",
+      "employer_counsel": [
+        "Morris Tuchman, LLC"
+      ]
     },
     "16-RD-389005": {
       "case_number": "16-RD-389005",
@@ -15701,7 +15706,10 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26",
+      "employer_counsel": [
+        "Gordon Rees Scully Mansukhani LLP"
+      ]
     },
     "06-RC-384890": {
       "case_number": "06-RC-384890",
@@ -15945,7 +15953,10 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-22"
+      "case_page_fetched": "2026-06-26",
+      "employer_counsel": [
+        "Seyfarth Shaw LLP"
+      ]
     },
     "21-RC-389132": {
       "case_number": "21-RC-389132",
@@ -16420,7 +16431,8 @@
       "region": "Region 06, Pittsburgh, Pennsylvania",
       "eligible_voters": 11,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-06-26"
     },
     "25-RC-389375": {
       "case_number": "25-RC-389375",
@@ -16659,7 +16671,11 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Hayes Dolce"
+      ],
+      "case_page_fetched": "2026-06-26"
     },
     "05-RC-389416": {
       "case_number": "05-RC-389416",
@@ -16709,7 +16725,11 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Robert M. Cheverie & Associates, P.C."
+      ],
+      "case_page_fetched": "2026-06-26"
     },
     "06-RC-389428": {
       "case_number": "06-RC-389428",
@@ -16761,7 +16781,7 @@
     },
     "01-RC-389459": {
       "case_number": "01-RC-389459",
-      "employer": "WTNH-TV",
+      "employer": "Nexstar Media Group, Inc.; WTNH",
       "case_url": "https://www.nlrb.gov/case/01-RC-389459",
       "case_type": "RC",
       "date_filed": "2026-06-25",
@@ -16770,7 +16790,11 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 9,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Constangy Brooks Smith & Prophete LLP"
+      ],
+      "case_page_fetched": "2026-06-26"
     },
     "27-RD-389431": {
       "case_number": "27-RD-389431",
@@ -16818,7 +16842,11 @@
       "region": "Region 25, Indianapolis, Indiana",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Rush & Nicholson P.C."
+      ],
+      "case_page_fetched": "2026-06-26"
     },
     "20-RC-389492": {
       "case_number": "20-RC-389492",
