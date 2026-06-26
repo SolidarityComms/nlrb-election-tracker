@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26 14:23:16",
-  "total_cases": 786,
+  "last_updated": "2026-06-26 18:52:13",
+  "total_cases": 789,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16432,6 +16432,9 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Blank Rome LLP"
+      ],
       "case_page_fetched": "2026-06-26"
     },
     "25-RC-389375": {
@@ -16690,6 +16693,7 @@
       "stage": "just_filed",
       "sector": "Media & Entertainment",
       "employer_counsel": [
+        "Constangy, Brooks, Smith & Prophete, LLP",
         "Constangy Brooks Smith & Prophete LLP"
       ],
       "union_counsel": [
@@ -16781,7 +16785,7 @@
     },
     "01-RC-389459": {
       "case_number": "01-RC-389459",
-      "employer": "Nexstar Media Group, Inc.; WTNH",
+      "employer": "Nexstar Media Group, Inc.; WTNH-TV",
       "case_url": "https://www.nlrb.gov/case/01-RC-389459",
       "case_type": "RC",
       "date_filed": "2026-06-25",
@@ -16792,6 +16796,7 @@
       "stage": "just_filed",
       "sector": "Media & Entertainment",
       "employer_counsel": [
+        "Constangy, Brooks, Smith & Prophete, LLP",
         "Constangy Brooks Smith & Prophete LLP"
       ],
       "case_page_fetched": "2026-06-26"
@@ -16900,6 +16905,54 @@
       "union_counsel": [
         "Sethi Orchid Miner LLP"
       ],
+      "case_page_fetched": "2026-06-26"
+    },
+    "19-RC-389507": {
+      "case_number": "19-RC-389507",
+      "employer": "CBRE INC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-389507",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "IUOE Local 302"
+      ],
+      "case_page_fetched": "2026-06-26"
+    },
+    "31-RC-389531": {
+      "case_number": "31-RC-389531",
+      "employer": "USC University Park Campus Clinic",
+      "case_url": "https://www.nlrb.gov/case/31-RC-389531",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Los Angeles, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Law Office of Florice Hoffman, L.C."
+      ],
+      "case_page_fetched": "2026-06-26"
+    },
+    "19-RC-389543": {
+      "case_number": "19-RC-389543",
+      "employer": "Kadlec Regional Medical Center",
+      "case_url": "https://www.nlrb.gov/case/19-RC-389543",
+      "case_type": "RC",
+      "date_filed": "2026-06-25",
+      "status": "Open",
+      "location": "Richland, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Healthcare",
       "case_page_fetched": "2026-06-26"
     }
   }
