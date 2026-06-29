@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29 19:03:59",
-  "total_cases": 797,
+  "last_updated": "2026-06-29 22:57:26",
+  "total_cases": 798,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17167,7 +17167,7 @@
     },
     "21-RC-389633": {
       "case_number": "21-RC-389633",
-      "employer": "US FOODS",
+      "employer": "US Foods",
       "case_url": "https://www.nlrb.gov/case/21-RC-389633",
       "case_type": "RC",
       "date_filed": "2026-06-29",
@@ -17196,6 +17196,23 @@
       "sector": "Other",
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-06-29"
+    },
+    "05-RC-389644": {
+      "case_number": "05-RC-389644",
+      "employer": "Triple Canopy, a Constellis Company",
+      "case_url": "https://www.nlrb.gov/case/05-RC-389644",
+      "case_type": "RC",
+      "date_filed": "2026-06-29",
+      "status": "Open",
+      "location": "Silver Spring, MD",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 240,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Wohlner Kaplon Cutler Halford and Rosenfeld"
       ],
       "case_page_fetched": "2026-06-29"
     }
