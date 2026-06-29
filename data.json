@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29 15:43:28",
-  "total_cases": 794,
+  "last_updated": "2026-06-29 19:03:59",
+  "total_cases": 797,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17145,6 +17145,57 @@
       "sector": "Healthcare",
       "employer_counsel": [
         "Greenberg Traurig, LLP"
+      ],
+      "case_page_fetched": "2026-06-29"
+    },
+    "03-RD-389607": {
+      "case_number": "03-RD-389607",
+      "employer": "Student Transportation of America",
+      "case_url": "https://www.nlrb.gov/case/03-RD-389607",
+      "case_type": "RD",
+      "date_filed": "2026-06-29",
+      "status": "Open",
+      "location": "Lockport, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 212,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation"
+      ],
+      "case_page_fetched": "2026-06-29"
+    },
+    "21-RC-389633": {
+      "case_number": "21-RC-389633",
+      "employer": "US FOODS",
+      "case_url": "https://www.nlrb.gov/case/21-RC-389633",
+      "case_type": "RC",
+      "date_filed": "2026-06-29",
+      "status": "Open",
+      "location": "Corona, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Kaplon Cutler Halford Rosenfeld & Levy"
+      ],
+      "case_page_fetched": "2026-06-29"
+    },
+    "22-RC-389631": {
+      "case_number": "22-RC-389631",
+      "employer": "Pye-Barker Fire & Safety",
+      "case_url": "https://www.nlrb.gov/case/22-RC-389631",
+      "case_type": "RC",
+      "date_filed": "2026-06-29",
+      "status": "Open",
+      "location": "Carlstadt, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
       ],
       "case_page_fetched": "2026-06-29"
     }
