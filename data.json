@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29 06:50:56",
-  "total_cases": 793,
+  "last_updated": "2026-06-29 15:43:28",
+  "total_cases": 794,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11023,7 +11023,7 @@
         "O'Donohue and O'Donoghue",
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "employer_counsel": [
         "Kostopoulos Rodriguez, PLLC"
       ]
@@ -11668,7 +11668,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
@@ -11768,7 +11768,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-25"
+      "case_page_fetched": "2026-06-29"
     },
     "01-RC-387216": {
       "case_number": "01-RC-387216",
@@ -11962,7 +11962,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "employer_counsel": [
         "Foster Garvey PC"
       ]
@@ -12555,7 +12555,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "election_date": "June 18 2026"
     },
     "21-RC-387503": {
@@ -12661,7 +12661,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Manufacturing",
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "employer_counsel": [
         "Scopelitis, Garvin, Light, Hanson & Feary, PC"
       ]
@@ -12793,7 +12793,7 @@
       "union_counsel": [
         "Sherrard, German & Kelly, P.C."
       ],
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "election_date": "June 30 2026",
       "employer_counsel": [
         "Peoples Natural Gas Company, LLC"
@@ -12811,7 +12811,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
@@ -14348,7 +14348,7 @@
       "employer_counsel": [
         "Baker Law PLC"
       ],
-      "case_page_fetched": "2026-06-25"
+      "case_page_fetched": "2026-06-29"
     },
     "01-RC-388165": {
       "case_number": "01-RC-388165",
@@ -14368,7 +14368,7 @@
       "union_counsel": [
         "Gursky Weins & Shanley"
       ],
-      "case_page_fetched": "2026-06-25"
+      "case_page_fetched": "2026-06-29"
     },
     "09-RC-388237": {
       "case_number": "09-RC-388237",
@@ -15390,10 +15390,11 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-06-25",
+      "case_page_fetched": "2026-06-29",
       "employer_counsel": [
         "Clifton Budd & DeMaria LLP"
-      ]
+      ],
+      "election_date": "July 22 2026"
     },
     "19-RC-388758": {
       "case_number": "19-RC-388758",
@@ -15430,7 +15431,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-06-25"
+      "case_page_fetched": "2026-06-29"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -16272,7 +16273,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-25"
+      "case_page_fetched": "2026-06-29"
     },
     "13-RC-389289": {
       "case_number": "13-RC-389289",
@@ -16450,7 +16451,7 @@
       "union_counsel": [
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
-      "case_page_fetched": "2026-06-25"
+      "case_page_fetched": "2026-06-29"
     },
     "10-RD-389328": {
       "case_number": "10-RD-389328",
@@ -17129,6 +17130,23 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Transportation & Logistics"
+    },
+    "01-RD-389594": {
+      "case_number": "01-RD-389594",
+      "employer": "Rhode Island CVS Pharmacy, LLC",
+      "case_url": "https://www.nlrb.gov/case/01-RD-389594",
+      "case_type": "RD",
+      "date_filed": "2026-06-29",
+      "status": "Open",
+      "location": "Middletown, RI",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Greenberg Traurig, LLP"
+      ],
+      "case_page_fetched": "2026-06-29"
     }
   }
 }
