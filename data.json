@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02 06:03:00",
-  "total_cases": 809,
+  "last_updated": "2026-07-02 13:55:54",
+  "total_cases": 810,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11044,7 +11044,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-06-28"
+      "case_page_fetched": "2026-07-02"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -12392,7 +12392,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-06-28"
+      "case_page_fetched": "2026-07-02"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12444,7 +12444,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-28",
+      "case_page_fetched": "2026-07-02",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -12836,7 +12836,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-06-28"
+      "case_page_fetched": "2026-07-02"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -16619,7 +16619,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-28",
+      "case_page_fetched": "2026-07-02",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -17362,7 +17362,14 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Delaware Resource Group of Oklahoma, LLC"
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-02"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -17427,7 +17434,8 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-07-02"
     },
     "08-RC-389810": {
       "case_number": "08-RC-389810",
@@ -17445,6 +17453,20 @@
         "Faulkner, Hoffman & Phillips, LLC"
       ],
       "case_page_fetched": "2026-07-01"
+    },
+    "18-RC-389870": {
+      "case_number": "18-RC-389870",
+      "employer": "Knife River Annandale",
+      "case_url": "https://www.nlrb.gov/case/18-RC-389870",
+      "case_type": "RC",
+      "date_filed": "2026-07-02",
+      "status": "Open",
+      "location": "Annandale, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-02"
     }
   }
 }
