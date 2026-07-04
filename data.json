@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 05:49:04",
+  "last_updated": "2026-07-04 13:22:45",
   "total_cases": 819,
   "cases": {
     "19-RC-386928": {
@@ -11373,7 +11373,7 @@
       "union_counsel": [
         "Isaacs Devasia Castro & Wien LLP"
       ],
-      "case_page_fetched": "2026-06-30"
+      "case_page_fetched": "2026-07-04"
     },
     "22-RC-387087": {
       "case_number": "22-RC-387087",
@@ -11546,7 +11546,7 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Arnall Golden Gregory LLP"
       ]
@@ -11809,7 +11809,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-06-30"
+      "case_page_fetched": "2026-07-04"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -13150,7 +13150,7 @@
       "employer_counsel": [
         "McNees Wallace & Nurick LLC"
       ],
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -14654,7 +14654,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Epstein Becker & Green, PC"
       ]
@@ -15101,7 +15101,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -15370,7 +15370,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Morgan, Lewis & Bockius, LLP"
       ],
@@ -15656,7 +15656,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -15729,7 +15729,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -15763,7 +15763,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Gordon Rees Scully Mansukhani LLP"
       ]
@@ -16022,7 +16022,7 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Seyfarth Shaw LLP"
       ],
@@ -16800,10 +16800,11 @@
       "union_counsel": [
         "Hayes Dolce"
       ],
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Morris Tuchman, LLC"
-      ]
+      ],
+      "election_date": "July 17 2026"
     },
     "05-RC-389416": {
       "case_number": "05-RC-389416",
@@ -16989,7 +16990,7 @@
       "union_counsel": [
         "Rush & Nicholson P.C."
       ],
-      "case_page_fetched": "2026-06-30",
+      "case_page_fetched": "2026-07-04",
       "employer_counsel": [
         "Baker Donelson",
         "BAKER, DONELSON, BEARMAN, CALDWELL & BERKOWITZ, PC"
@@ -17486,7 +17487,11 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Stinson LLP"
+      ],
+      "case_page_fetched": "2026-07-04"
     },
     "25-RC-389899": {
       "case_number": "25-RC-389899",
@@ -17516,7 +17521,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "O'Brien, Belland & Bushinsky, LLC"
+      ],
+      "case_page_fetched": "2026-07-04"
     },
     "01-RC-389901": {
       "case_number": "01-RC-389901",
@@ -17529,7 +17538,14 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Morgan Brown & Joy, LLP"
+      ],
+      "union_counsel": [
+        "Pyle Rome Ehrenberg PC"
+      ],
+      "case_page_fetched": "2026-07-04"
     },
     "02-RM-389897": {
       "case_number": "02-RM-389897",
