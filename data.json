@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06 15:27:42",
-  "total_cases": 819,
+  "last_updated": "2026-07-06 18:54:27",
+  "total_cases": 823,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17658,6 +17658,74 @@
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
       "case_page_fetched": "2026-07-03"
+    },
+    "14-RC-390006": {
+      "case_number": "14-RC-390006",
+      "employer": "Clean Harbors (dba, Safety-Kleen Systems, Inc.)",
+      "case_url": "https://www.nlrb.gov/case/14-RC-390006",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Independence, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Arnold, Newbold, Sollars & Hollins, P.C."
+      ],
+      "case_page_fetched": "2026-07-06"
+    },
+    "01-RC-389976": {
+      "case_number": "01-RC-389976",
+      "employer": "Justice Resource Institute",
+      "case_url": "https://www.nlrb.gov/case/01-RC-389976",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Needham Heights, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 340,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Pyle Rome Ehrenberg PC"
+      ],
+      "case_page_fetched": "2026-07-06"
+    },
+    "05-RC-389986": {
+      "case_number": "05-RC-389986",
+      "employer": "Brenntag Mid-South, Inc.",
+      "case_url": "https://www.nlrb.gov/case/05-RC-389986",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Richmond, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ],
+      "union_counsel": [
+        "Beins, Axelrod & Keating, P.C."
+      ],
+      "case_page_fetched": "2026-07-06"
+    },
+    "04-RC-390011": {
+      "case_number": "04-RC-390011",
+      "employer": "Whibco of New Jersey, Inc.",
+      "case_url": "https://www.nlrb.gov/case/04-RC-390011",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Port Elizabeth, NJ",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 29,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-06"
     }
   }
 }
