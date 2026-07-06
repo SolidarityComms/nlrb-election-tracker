@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06 18:54:27",
-  "total_cases": 823,
+  "last_updated": "2026-07-06 23:07:59",
+  "total_cases": 827,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17723,6 +17723,74 @@
       "location": "Port Elizabeth, NJ",
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 29,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-06"
+    },
+    "18-RC-390027": {
+      "case_number": "18-RC-390027",
+      "employer": "Starbucks",
+      "case_url": "https://www.nlrb.gov/case/18-RC-390027",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Verona, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
+      ],
+      "case_page_fetched": "2026-07-06"
+    },
+    "21-RC-390049": {
+      "case_number": "21-RC-390049",
+      "employer": "Gobain-Omniseal",
+      "case_url": "https://www.nlrb.gov/case/21-RC-390049",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Garden Grove, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 136,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-06"
+    },
+    "02-RC-390044": {
+      "case_number": "02-RC-390044",
+      "employer": "Montefiore Einstein Advanced Care",
+      "case_url": "https://www.nlrb.gov/case/02-RC-390044",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Manhattan, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Broadfield  U.S."
+      ],
+      "union_counsel": [
+        "Levy Ratner, P.C."
+      ],
+      "case_page_fetched": "2026-07-06"
+    },
+    "21-RC-390058": {
+      "case_number": "21-RC-390058",
+      "employer": "Reyes Fleet Management, LLC",
+      "case_url": "https://www.nlrb.gov/case/21-RC-390058",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Oceanside, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-07-06"
