@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07 14:30:42",
-  "total_cases": 827,
+  "last_updated": "2026-07-07 19:01:42",
+  "total_cases": 834,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17678,6 +17678,9 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
+      ],
       "union_counsel": [
         "Arnold, Newbold, Sollars & Hollins, P.C."
       ],
@@ -17732,6 +17735,9 @@
       "eligible_voters": 29,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Blaney Weinberg"
+      ],
       "case_page_fetched": "2026-07-07"
     },
     "18-RC-390027": {
@@ -17800,6 +17806,120 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Buchalter LLP"
+      ],
+      "case_page_fetched": "2026-07-07"
+    },
+    "06-RC-390093": {
+      "case_number": "06-RC-390093",
+      "employer": "Community Library Association",
+      "case_url": "https://www.nlrb.gov/case/06-RC-390093",
+      "case_type": "RC",
+      "date_filed": "2026-07-07",
+      "status": "Open",
+      "location": "Fox Chapel, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 21,
+      "stage": "just_filed",
+      "sector": "Social Services & Nonprofit",
+      "case_page_fetched": "2026-07-07"
+    },
+    "32-RC-390116": {
+      "case_number": "32-RC-390116",
+      "employer": "Edgecore Digital Infrastructure",
+      "case_url": "https://www.nlrb.gov/case/32-RC-390116",
+      "case_type": "RC",
+      "date_filed": "2026-07-07",
+      "status": "Open",
+      "location": "Santa Clara, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-07"
+    },
+    "01-RM-390082": {
+      "case_number": "01-RM-390082",
+      "employer": "UMass Memorial Medical Center, Inc.",
+      "case_url": "https://www.nlrb.gov/case/01-RM-390082",
+      "case_type": "RM",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Worcester, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Ogletree Deakin"
+      ],
+      "case_page_fetched": "2026-07-07"
+    },
+    "13-RC-390070": {
+      "case_number": "13-RC-390070",
+      "employer": "Universal Logistics / Parsec",
+      "case_url": "https://www.nlrb.gov/case/13-RC-390070",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Dolton, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 40,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
+      "case_page_fetched": "2026-07-07"
+    },
+    "18-RC-390075": {
+      "case_number": "18-RC-390075",
+      "employer": "HealthPartners Enterprise-Lakeview Hospice",
+      "case_url": "https://www.nlrb.gov/case/18-RC-390075",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Oak Park Heights, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 44,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-07"
+    },
+    "18-RC-390106": {
+      "case_number": "18-RC-390106",
+      "employer": "Knife River",
+      "case_url": "https://www.nlrb.gov/case/18-RC-390106",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Hutchinson, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-07"
+    },
+    "08-RC-390068": {
+      "case_number": "08-RC-390068",
+      "employer": "Tremco Inc.-Cleveland",
+      "case_url": "https://www.nlrb.gov/case/08-RC-390068",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Cleveland, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C.",
+        "Littler Mendelson, P.C"
+      ],
       "case_page_fetched": "2026-07-07"
     }
   }
