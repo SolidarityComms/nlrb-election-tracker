@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07 19:01:42",
-  "total_cases": 834,
+  "last_updated": "2026-07-07 23:02:17",
+  "total_cases": 835,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17787,7 +17787,8 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
-        "Broadfield  U.S."
+        "Broadfield  US LLP",
+        "Broadfield US LLP"
       ],
       "union_counsel": [
         "Levy Ratner, P.C."
@@ -17920,6 +17921,20 @@
         "Littler Mendelson, P.C.",
         "Littler Mendelson, P.C"
       ],
+      "case_page_fetched": "2026-07-07"
+    },
+    "15-RC-390139": {
+      "case_number": "15-RC-390139",
+      "employer": "Lockheed Martin",
+      "case_url": "https://www.nlrb.gov/case/15-RC-390139",
+      "case_type": "RC",
+      "date_filed": "2026-07-07",
+      "status": "Open",
+      "location": "Fort Smith, AR",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 85,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-07-07"
     }
   }
