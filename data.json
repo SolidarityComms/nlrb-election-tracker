@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08 14:02:24",
-  "total_cases": 840,
+  "last_updated": "2026-07-08 18:17:57",
+  "total_cases": 843,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17915,6 +17915,9 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Stinson LLP"
+      ],
       "case_page_fetched": "2026-07-08"
     },
     "08-RC-390068": {
@@ -17947,6 +17950,9 @@
       "eligible_voters": 85,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Lockheed Martin Corporation"
+      ],
       "case_page_fetched": "2026-07-08"
     },
     "28-RC-390142": {
@@ -18037,6 +18043,54 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Transportation & Logistics"
+    },
+    "05-RC-390184": {
+      "case_number": "05-RC-390184",
+      "employer": "Children's National Hospital",
+      "case_url": "https://www.nlrb.gov/case/05-RC-390184",
+      "case_type": "RC",
+      "date_filed": "2026-07-07",
+      "status": "Open",
+      "location": "Washington, DC",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Seyfarth Shaw LLP"
+      ],
+      "case_page_fetched": "2026-07-08"
+    },
+    "28-RC-390199": {
+      "case_number": "28-RC-390199",
+      "employer": "El Centro Family Health",
+      "case_url": "https://www.nlrb.gov/case/28-RC-390199",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Espanola, NM",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 215,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Youtz & Valdez Law Firm"
+      ],
+      "case_page_fetched": "2026-07-08"
+    },
+    "28-RC-390194": {
+      "case_number": "28-RC-390194",
+      "employer": "Lockheed Martin",
+      "case_url": "https://www.nlrb.gov/case/28-RC-390194",
+      "case_type": "RC",
+      "date_filed": "2026-07-06",
+      "status": "Open",
+      "location": "Luke Air Force Base, AZ",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 70,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-08"
     }
   }
 }
