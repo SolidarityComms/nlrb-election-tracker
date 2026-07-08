@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08 18:17:57",
-  "total_cases": 843,
+  "last_updated": "2026-07-08 23:08:51",
+  "total_cases": 849,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17717,7 +17717,7 @@
     },
     "05-RC-389986": {
       "case_number": "05-RC-389986",
-      "employer": "Brenntag Mid-South, Inc.",
+      "employer": "Brenntag Mid-South, LLC",
       "case_url": "https://www.nlrb.gov/case/05-RC-389986",
       "case_type": "RC",
       "date_filed": "2026-07-06",
@@ -17784,6 +17784,9 @@
       "eligible_voters": 136,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ],
       "case_page_fetched": "2026-07-08"
     },
     "02-RC-390044": {
@@ -18015,6 +18018,9 @@
       "eligible_voters": 71,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "McMahon Berger, PC"
+      ],
       "union_counsel": [
         "Blake & Uhlig PA"
       ],
@@ -18088,6 +18094,105 @@
       "location": "Luke Air Force Base, AZ",
       "region": "Region 28, Phoenix, Arizona",
       "eligible_voters": 70,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-08"
+    },
+    "29-RD-390233": {
+      "case_number": "29-RD-390233",
+      "employer": "Alray Car Parts Supply & Mfg., Corp",
+      "case_url": "https://www.nlrb.gov/case/29-RD-390233",
+      "case_type": "RD",
+      "date_filed": "2026-07-08",
+      "status": "Open",
+      "location": "Brentwood, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 38,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-08"
+    },
+    "20-RC-390238": {
+      "case_number": "20-RC-390238",
+      "employer": "Delaware Resource Group of Oklahoma LLC",
+      "case_url": "https://www.nlrb.gov/case/20-RC-390238",
+      "case_type": "RC",
+      "date_filed": "2026-07-08",
+      "status": "Open",
+      "location": "Travis Afb, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Delaware Resource Group of Oklahoma LLC"
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-08"
+    },
+    "32-RC-390231": {
+      "case_number": "32-RC-390231",
+      "employer": "The Boeing Company",
+      "case_url": "https://www.nlrb.gov/case/32-RC-390231",
+      "case_type": "RC",
+      "date_filed": "2026-07-08",
+      "status": "Open",
+      "location": "Fresno, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "The Boeing Company"
+      ],
+      "case_page_fetched": "2026-07-08"
+    },
+    "21-RC-390232": {
+      "case_number": "21-RC-390232",
+      "employer": "Ambry Genetics",
+      "case_url": "https://www.nlrb.gov/case/21-RC-390232",
+      "case_type": "RC",
+      "date_filed": "2026-07-08",
+      "status": "Open",
+      "location": "Aliso Viejo, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 84,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-08"
+    },
+    "29-RC-390223": {
+      "case_number": "29-RC-390223",
+      "employer": "Hornblower Group Inc.",
+      "case_url": "https://www.nlrb.gov/case/29-RC-390223",
+      "case_type": "RC",
+      "date_filed": "2026-07-07",
+      "status": "Open",
+      "location": "Brooklyn, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 48,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Colleran, O'Hara & Mills LLP"
+      ],
+      "case_page_fetched": "2026-07-08"
+    },
+    "09-RC-390230": {
+      "case_number": "09-RC-390230",
+      "employer": "101 13TH STREET OPERATIONS LLC D/B/A HERITAGE CENTER",
+      "case_url": "https://www.nlrb.gov/case/09-RC-390230",
+      "case_type": "RC",
+      "date_filed": "2026-07-07",
+      "status": "Open",
+      "location": "Huntington, WV",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 31,
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-07-08"
