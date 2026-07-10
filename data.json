@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10 18:25:21",
-  "total_cases": 872,
+  "last_updated": "2026-07-10 23:01:12",
+  "total_cases": 878,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -1166,7 +1166,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1270,24 +1270,30 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
       "employer": "The University of Chicago",
       "case_url": "https://www.nlrb.gov/case/13-RC-386170",
       "case_type": "RC",
+      "tally_date": "2026-07-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-04",
       "status": "Open",
       "location": "Chicago, IL",
       "region": "Region 13, Chicago, Illinois",
-      "eligible_voters": 139,
-      "stage": "just_filed",
-      "sector": "Education",
-      "employer_counsel": [
-        "Cozen O'Connor"
-      ],
-      "case_page_fetched": "2026-07-09"
+      "eligible_voters": 134,
+      "votes_against": 12,
+      "ballots_counted": 105,
+      "void_ballots": 0,
+      "votes_for": 93,
+      "union": "Chicago News Guild TNG-CWA Local 34071, AFL-CIO",
+      "union_to_certify": "Chicago News Guild TNG-CWA Local 34071, AFL-CIO",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "29-RC-386186": {
       "case_number": "29-RC-386186",
@@ -1567,7 +1573,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1994,7 +2000,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -2083,17 +2089,24 @@
       "employer": "Trailboss Enterprises, Inc.",
       "case_url": "https://www.nlrb.gov/case/28-RC-385902",
       "case_type": "RC",
+      "tally_date": "2026-07-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-04-28",
       "status": "Open",
       "location": "El Paso, TX",
       "region": "Region 28, Phoenix, Arizona",
-      "eligible_voters": 40,
-      "stage": "pending",
-      "sector": "Other",
-      "union_counsel": [
-        "Gregory, Moore, Brooks, Clark & Helton, P.C."
-      ],
-      "case_page_fetched": "2026-07-09"
+      "eligible_voters": 43,
+      "votes_against": 1,
+      "ballots_counted": 11,
+      "void_ballots": 1,
+      "votes_for": 10,
+      "union": "International Union, Security, Police and Fire Professionals of America (SPFPA)",
+      "union_to_certify": "International Union, Security, Police and Fire Professionals of America (SPFPA)",
+      "unit_description": "INCLUDED: All full-time and regular part-time Transportation Officers performing guard duties as defined in section 9(b)(3) of the National Labor Relations Act, employed by Trailboss Enterprises, Inc. under its El Paso Texas ICE contract. \n\nEXCLUDED: All other employees, office clerical employees, professional employees, managerial employees, confidential employees, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "19-RC-385838": {
       "case_number": "19-RC-385838",
@@ -11293,7 +11306,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -13307,7 +13320,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -13457,20 +13470,24 @@
       "employer": "Serendipity Center, Inc.",
       "case_url": "https://www.nlrb.gov/case/19-RC-387776",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-27",
       "status": "Open",
       "location": "Portland, OR",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 83,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Tedesco Law Group"
-      ],
-      "case_page_fetched": "2026-07-08",
-      "employer_counsel": [
-        "Miller Nash LLP"
-      ]
+      "eligible_voters": 74,
+      "votes_against": 10,
+      "ballots_counted": 36,
+      "void_ballots": 0,
+      "votes_for": 26,
+      "union": "International Longshore and Warehouse Union, Local 5",
+      "union_to_certify": "International Longshore and Warehouse Union, Local 5",
+      "unit_description": "Included: All full-time and regular part-time Art Therapists, Case Managers, \nHealth Teachers, Physical Education Teachers, Speech Language Pathologists (SLPs), Therapeutic Teachers, Tier 3 Behavior Specialists, and Transition Coordinators employed by the Employer at its Portland, Oregon facility. 1 \nExcluded: All other employees, non-professional employees, Accountants, Accounting Clerks, Admissions Coordinator, Compliance Managers, Development & Communication Specialists, Director of Advancement, Executive Assistants, Executive Directors, Facilities Coordinators, IT Coordinators, Principals, Program Secretaries, Program Supervisors, Receptionists, School Operations Supervisors, School Information Systems (SIS) Coordinators, Sped Administrative Assistants, Special Education (SPED) Directors, Training/Staff Development Managers, Treatment Directors, Vice Principals, Wellness Program Managers, Food Services Coordinators, Health Office Assistants, Nutrition Services Administrator, Special Education (SPED) Coordinators, Tier 1 Coaches, confidential employees, guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "32-RC-387790": {
       "case_number": "32-RC-387790",
@@ -13604,20 +13621,24 @@
       "employer": "Fred Hutchinson Cancer Center",
       "case_url": "https://www.nlrb.gov/case/19-RC-387828",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-28",
       "status": "Open",
       "location": "Seattle, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 150,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Littler Mendelson, P.C."
-      ],
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-09"
+      "eligible_voters": 121,
+      "votes_against": 54,
+      "ballots_counted": 108,
+      "void_ballots": 11,
+      "votes_for": 54,
+      "union": "Union of American Physicians and Dentists",
+      "union_to_certify": "Union of American Physicians and Dentists",
+      "unit_description": "Included: All full-time, regular part-time and per diem Nurse Practitioners and Physician Assistants (collectively \u201cAPPs\u201d) employed by the Fred Hutchinson Cancer Center and working at the following facilities: 1354 Aloha St. Seattle, WA 98109; 820 Yale Ave. N. Seattle, WA 98109; 1570 N. 115th St. Seattle, WA 98133; 1959 NE Pacific St. Seattle, WA 98195; 1560 N.115th St. Level G, Suite G16 Seattle, WA 98133-9733; 19917 Seventh Ave. NE Poulsbo, WA 98370; 1740 NW Maple St. Issaquah, WA 98027; 12040 NE 128th St. Kirkland, WA 98034; 1135 116th Ave NE Suite 250 Bellevue, WA 98004; 1100 Fairview Ave. N. Seattle, WA 98109; 1209 Valley St. Seattle, WA 98109 and 4800 Sand Point Way NE, Seattle WA 98105.\n\nExcluded: APP Fellows, APPs holding Medical Director Positions, APPs utilized and deployed outside of the FHCC APP Program (including VIDD APPs, ID APPs, Psychiatry APPs, Intake APPs, Transfusion Services APPs and Public Health Science Division APPs), nonprofessional employees, and all other employees, and guards and supervisors as defined in the Act.",
+      "outcome": "tie",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "08-RC-387814": {
       "case_number": "08-RC-387814",
@@ -13729,20 +13750,24 @@
       "employer": "AHMC Anaheim Regional Medical Center LP",
       "case_url": "https://www.nlrb.gov/case/21-RC-387877",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-28",
       "status": "Open",
       "location": "Anaheim, CA",
       "region": "Region 21, Los Angeles, California",
       "eligible_voters": 11,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "union_counsel": [
-        "Myers Law Group, APC"
-      ],
-      "case_page_fetched": "2026-07-09",
-      "employer_counsel": [
-        "Davis Wright Tremaine LLP"
-      ]
+      "votes_against": 1,
+      "ballots_counted": 7,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "Service Employees' International Union, Local 121RN",
+      "union_to_certify": "Service Employees' International Union, Local 121RN",
+      "unit_description": "Included: All full-time, regular part-time, and per diem RN Case Managers employed by the Employer at its facility currently located at 1111 West La Palma Avenue, Anaheim, California.\n\nAlso eligible to vote are all part-time employees who have worked an average of 4 hours or more per week during the 13 weeks immediately preceding the eligibility date for the election.\n\nExcluded: All other employees, registry nurses, traveling nurses, regularly assigned charge nurses, nurse practitioners, employees of outside registries and other agencies supplying labor to the Employer, already represented employees, physicians, residents, all other professional employees, technical employees, skilled maintenance employees, business office clerical employees, guards, all other non-professional employees, confidential employees, managerial employees, and supervisors as defined in the Act. \n\n\nIf  a  majority  of  valid  ballots  are  cast  for  the  Petitioner,  SERVICE  EMPLOYEES\u2019 INTERNATIONAL UNION, LOCAL 121RN, they will be taken to have indicated the employees\u2019 desire to be included in the existing unit of all full-time, regular part-time and per-diem registered nurses, including those who serve as relief charge nurses, as described in the collective-bargaining agreement between the Employer and Petitioner effective June 4, 2025 through June 5, 2029.\n\nIf a majority of valid ballots are not cast for representation, they will be taken to have \nindicated the employees\u2019 desire to remain unrepresented.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "32-RC-387871": {
       "case_number": "32-RC-387871",
@@ -13995,17 +14020,23 @@
       "employer": "College Utilities Corporation",
       "case_url": "https://www.nlrb.gov/case/19-RC-388023",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-01",
       "status": "Open",
       "location": "Fairbanks, AK",
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 7,
-      "stage": "just_filed",
-      "sector": "Education",
-      "employer_counsel": [
-        "Seyfarth Shaw, LLP"
-      ],
-      "case_page_fetched": "2026-07-10"
+      "votes_against": 4,
+      "ballots_counted": 7,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "union": "Local Union 1547 of the International Brotherhood of Electrical Workers",
+      "unit_description": "All full-time and regular part-time employees employed by the Employer, including\nutility operators, mechanics, assistant superintendents, and superintendents;\nexcluding all other employees and guards and supervisors as defined by the Act",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "13-RC-388027": {
       "case_number": "13-RC-388027",
@@ -14299,20 +14330,27 @@
     },
     "32-RC-388149": {
       "case_number": "32-RC-388149",
-      "employer": "NV Energy",
+      "employer": "Sierra Pacific Power Company d/b/a NV Energy",
       "case_url": "https://www.nlrb.gov/case/32-RC-388149",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-02",
       "status": "Open",
       "location": "Reno, NV",
       "region": "Region 32, Oakland, California",
       "eligible_voters": 7,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Littler Mendelson P.C."
-      ],
-      "case_page_fetched": "2026-07-10"
+      "votes_against": 2,
+      "ballots_counted": 7,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "International Brotherhood of Electrical Workers, Local Union 1245",
+      "union_to_certify": "International Brotherhood of Electrical Workers, Local Union 1245",
+      "unit_description": "All full-time and regular part-time EIM Operations Analysts and Senior EIM Operations Analysts employed by the Employer at its facility located 6100 Neil Rd, Reno, NV 89511; excluding employees represented by other labor organizations, confidential employees, office clerical employees, guards, and supervisors as defined by the National Labor Relations Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "19-RD-385346": {
       "case_number": "19-RD-385346",
@@ -14418,20 +14456,24 @@
       "employer": "unWired Broadband, Inc.",
       "case_url": "https://www.nlrb.gov/case/32-RC-388252",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-03",
       "status": "Open",
       "location": "Fresno, CA",
       "region": "Region 32, Oakland, California",
-      "eligible_voters": 11,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Honigman Miller Schwartz and Cohn, LLP"
-      ],
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-07"
+      "eligible_voters": 12,
+      "votes_against": 2,
+      "ballots_counted": 7,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "Communications Workers of America",
+      "union_to_certify": "Communications Workers of America",
+      "unit_description": "Included: All full-time and regular part-time Fiber Drop Assistants and Fiber Drop Specialists employed by the Employer at or from its facilities located at 4595 W Jacquelyn, Fresno, CA 9372 and 419 E Cross Ave, Tulare CA 93724.\n\nExcluded: All other employees, confidential employes, office clerical employees, guards, and supervisors as defined by the Act.\n\nOthers permitted to vote: The parties have agreed that fiber technicians and lead fiber technicians may vote in the election, but their ballots will be challenged since their eligibility has not been resolved. No decision has been made regarding whether the individuals in these classifications or groups are included in, or excluded from, the bargaining unit. The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "32-RM-388282": {
       "case_number": "32-RM-388282",
@@ -14543,7 +14585,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14678,7 +14720,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -14962,20 +15004,24 @@
       "employer": "Village Theatre",
       "case_url": "https://www.nlrb.gov/case/19-RC-388562",
       "case_type": "RC",
+      "tally_date": "2026-07-09",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-09",
       "status": "Open",
       "location": "Issaquah, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 12,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Seyfarth Shaw, LLP"
-      ],
-      "union_counsel": [
-        "Barnard Iglitzin & Lavitt LLP"
-      ],
-      "case_page_fetched": "2026-07-09"
+      "eligible_voters": 13,
+      "votes_against": 0,
+      "ballots_counted": 11,
+      "void_ballots": 0,
+      "votes_for": 11,
+      "union": "Local No. 15, International Alliance of Theatrical Stage Employees and Moving Picture Technicians, Artists, and Allied Crafts of the United States, Its Territories and Canada, AFL-CIO, CLC",
+      "union_to_certify": "Local No. 15, International Alliance of Theatrical Stage Employees and Moving Picture Technicians, Artists, and Allied Crafts of the United States, Its Territories and Canada, AFL-CIO, CLC",
+      "unit_description": "Included: All full-time and regular part-time Patron Services employees, including but not limited to Patron Services Associates, Lead Patron Services Associates, Lead Patron Services Associate & Group Sales Coordinators1, and Assistant Patron Services Managers2 employed by the Employer and working at or out of the Employer\u2019s facilities located at 303 Front Street North, Issaquah, WA 98027 and 2710 Wetmore Avenue, Everett, WA 98201. \n\nExcluded: All other employees, office clerical employees, managerial employees, confidential employees, and guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "02-RC-388564": {
       "case_number": "02-RC-388564",
@@ -15211,24 +15257,27 @@
     },
     "04-RD-388660": {
       "case_number": "04-RD-388660",
-      "employer": "Wells Fargo, NA",
+      "employer": "Wells Fargo Bank, N.A.",
       "case_url": "https://www.nlrb.gov/case/04-RD-388660",
       "case_type": "RD",
+      "tally_date": "2026-07-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-10",
       "status": "Open",
       "location": "Egg Harbor City, NJ",
       "region": "Region 04, Philadelphia, Pennsylvania",
-      "eligible_voters": 8,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "National Right to Work Legal Defense Foundation, Inc."
-      ],
-      "case_page_fetched": "2026-07-10",
-      "employer_counsel": [
-        "Littler Mendelson, P.C."
-      ],
-      "election_date": "July 08 2026"
+      "eligible_voters": 9,
+      "votes_against": 4,
+      "ballots_counted": 9,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "Wells Fargo Workers United affiliated with Communications Workers of America, AFL-CIO",
+      "union_to_certify": "Wells Fargo Workers United affiliated with Communications Workers of America, AFL-CIO",
+      "unit_description": "INCLUDED: All full-time and regular part-time Tellers, Personal Bankers, and Branch   Operations Coordinators employed by the Employer at its facility located at 273 W. White Horse Pike, Egg Harbor City, New Jersey.\n\nEXCLUDED: All other employees, Branch Managers, Branch Service Managers, Financial Advisors, Confidential Employees, Office Clerical Employees, Guards and Supervisors as defined in the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "13-RD-388662": {
       "case_number": "13-RD-388662",
@@ -15478,20 +15527,27 @@
     },
     "16-RC-388830": {
       "case_number": "16-RC-388830",
-      "employer": "Rusk County Electric Cooperative",
+      "employer": "Rusk County Electric Cooperative, Inc.",
       "case_url": "https://www.nlrb.gov/case/16-RC-388830",
       "case_type": "RC",
+      "tally_date": "2026-07-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-15",
       "status": "Open",
       "location": "Henderson, TX",
       "region": "Region 16, Fort Worth, Texas",
-      "eligible_voters": 15,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-07-07",
-      "employer_counsel": [
-        "CORNELL SMITH MIERL & BRUCATO, LLP"
-      ]
+      "eligible_voters": 13,
+      "votes_against": 0,
+      "ballots_counted": 13,
+      "void_ballots": 0,
+      "votes_for": 13,
+      "union": "International Brotherhood of Electrical Workers, Local 738",
+      "union_to_certify": "International Brotherhood of Electrical Workers, Local 738",
+      "unit_description": "INCLUDED:  All full-time and regular part-time apprentices, journeyman linemen (all classes), and line foremen. \n\nEXCLUDED: All other employees, including office clerical employees, professional employees, guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "19-RC-388851": {
       "case_number": "19-RC-388851",
@@ -18181,7 +18237,11 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "The Boeing Company"
+      ],
+      "case_page_fetched": "2026-07-10"
     },
     "21-RC-390232": {
       "case_number": "21-RC-390232",
@@ -18297,6 +18357,9 @@
       "eligible_voters": 18,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Fisher & Phillips, LLP"
+      ],
       "case_page_fetched": "2026-07-10"
     },
     "04-RM-390302": {
@@ -18499,6 +18562,9 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "Jackson Lewis, P.C."
+      ],
       "case_page_fetched": "2026-07-10"
     },
     "19-RC-390357": {
@@ -18512,7 +18578,11 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Heidelberg Materials Midwest Aggregates, Inc."
+      ],
+      "case_page_fetched": "2026-07-10"
     },
     "29-RD-390383": {
       "case_number": "29-RD-390383",
@@ -18530,7 +18600,7 @@
     },
     "16-RC-390359": {
       "case_number": "16-RC-390359",
-      "employer": "AEP-Texas",
+      "employer": "American Electric Power",
       "case_url": "https://www.nlrb.gov/case/16-RC-390359",
       "case_type": "RC",
       "date_filed": "2026-07-09",
@@ -18603,6 +18673,112 @@
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-07-10"
+    },
+    "31-RC-390401": {
+      "case_number": "31-RC-390401",
+      "employer": "Community Hospital of San Bernardino and St. Bernardine's Medical Center",
+      "case_url": "https://www.nlrb.gov/case/31-RC-390401",
+      "case_type": "RC",
+      "date_filed": "2026-07-10",
+      "status": "Open",
+      "location": "San Bernardino, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-10"
+    },
+    "04-RC-390404": {
+      "case_number": "04-RC-390404",
+      "employer": "University of Pennsylvania New Bolton Center Veterinary Hospital",
+      "case_url": "https://www.nlrb.gov/case/04-RC-390404",
+      "case_type": "RC",
+      "date_filed": "2026-07-10",
+      "status": "Open",
+      "location": "Kennett Square, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-07-10"
+    },
+    "32-RC-390411": {
+      "case_number": "32-RC-390411",
+      "employer": "Brenntag",
+      "case_url": "https://www.nlrb.gov/case/32-RC-390411",
+      "case_type": "RC",
+      "date_filed": "2026-07-10",
+      "status": "Open",
+      "location": "Fresno, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 21,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-07-10"
+    },
+    "32-RC-390416": {
+      "case_number": "32-RC-390416",
+      "employer": "Kay and Associates, Inc.",
+      "case_url": "https://www.nlrb.gov/case/32-RC-390416",
+      "case_type": "RC",
+      "date_filed": "2026-07-10",
+      "status": "Open",
+      "location": "Lemoore, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 33,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-10"
+    },
+    "27-RD-390414": {
+      "case_number": "27-RD-390414",
+      "employer": "Asplundh Tree Expert, LLC",
+      "case_url": "https://www.nlrb.gov/case/27-RD-390414",
+      "case_type": "RD",
+      "date_filed": "2026-07-09",
+      "status": "Open",
+      "location": "Fruitland, ID",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 87,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-10"
+    },
+    "03-RM-388809": {
+      "case_number": "03-RM-388809",
+      "employer": "Cornell University",
+      "case_url": "https://www.nlrb.gov/case/03-RM-388809",
+      "case_type": "RM",
+      "tally_date": "2026-07-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-06-12",
+      "status": "Open",
+      "location": "Ithaca, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 7,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "United Automobile, Aerospace, and Agricultural Implement Workers, Local 2300",
+      "union_to_certify": "United Automobile, Aerospace, and Agricultural Implement Workers, Local 2300",
+      "unit_description": "INCLUDED: All full-time, regular part-time, and per diem*  employees in Employer mail rooms located in Ithaca, New York in the title of Guest/Client Service Agent to join the existing non-exempt, non-academic service and maintenance employees\u2019 unit currently represented by United Automobile, Aerospace and Agricultural Implement Workers of America, Local 2300.  \n. \t\nEXCLUDED: All clerical employees, confidential employees, managerial employees, guards, professional employees, and supervisors as defined by the Act, and all other employees.\n\n*Eligible to vote are all part-time and per diem employees in the voting unit who have worked an average of four (4) hours or more per week during the 13 weeks immediately preceding the eligibility date for the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Education"
     }
   }
 }
