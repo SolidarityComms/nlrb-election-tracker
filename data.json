@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10 14:24:30",
-  "total_cases": 866,
+  "last_updated": "2026-07-10 18:25:21",
+  "total_cases": 872,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -138,7 +138,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -507,7 +507,7 @@
         "National Right to Work Legal Defense Foundation",
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "employer_counsel": [
         "Bucci Law"
       ]
@@ -1256,7 +1256,7 @@
       "union_counsel": [
         "Soldon Mccoy LLC"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "18-RC-386425": {
       "case_number": "18-RC-386425",
@@ -1307,7 +1307,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "02-RD-386210": {
       "case_number": "02-RD-386210",
@@ -1598,7 +1598,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "18-RC-386174": {
       "case_number": "18-RC-386174",
@@ -1732,7 +1732,7 @@
       "union_counsel": [
         "Stanford Fagan LLC"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "19-RC-385987": {
       "case_number": "19-RC-385987",
@@ -2208,7 +2208,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "03-RM-385757": {
       "case_number": "03-RM-385757",
@@ -12175,7 +12175,7 @@
       "employer_counsel": [
         "Morgan, Lewis & Bockius"
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "election_date": "June 5 2026"
     },
     "18-RC-387370": {
@@ -12393,7 +12393,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-06"
+      "case_page_fetched": "2026-07-10"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12410,7 +12410,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "employer_counsel": [
         "Jones Lang LaSalle Americas, Inc."
       ],
@@ -12431,7 +12431,10 @@
       "union_counsel": [
         "Doll, Jansen & Ford"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10",
+      "employer_counsel": [
+        "Fisher & Phillips, LLP"
+      ]
     },
     "31-RC-387468": {
       "case_number": "31-RC-387468",
@@ -12445,7 +12448,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-06",
+      "case_page_fetched": "2026-07-10",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -12837,7 +12840,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-07-06"
+      "case_page_fetched": "2026-07-10"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -13900,7 +13903,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "01-RC-387950": {
       "case_number": "01-RC-387950",
@@ -14520,7 +14523,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Hospitality & Food Service",
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -14828,7 +14831,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "13-RC-388491": {
       "case_number": "13-RC-388491",
@@ -14928,9 +14931,9 @@
       "employer_counsel": [
         "Fox Rothschild, LLP"
       ],
-      "case_page_fetched": "2026-07-05",
+      "case_page_fetched": "2026-07-10",
       "union_counsel": [
-        "National Right to Work Legal Defense Foundation"
+        "c/o National Right to Work Legal Defense Foundation"
       ]
     },
     "05-RC-388533": {
@@ -15930,7 +15933,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -16644,7 +16647,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-06",
+      "case_page_fetched": "2026-07-10",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -16876,7 +16879,10 @@
       "union_counsel": [
         "Robert M. Cheverie & Associates, P.C."
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10",
+      "employer_counsel": [
+        "First Student, Inc."
+      ]
     },
     "06-RC-389428": {
       "case_number": "06-RC-389428",
@@ -17086,9 +17092,9 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
-        "IUOE Local 302"
+        "IUOE Local 302, affiliated with the International Union of Operating Engineers, AFL-CIO"
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10"
     },
     "31-RC-389531": {
       "case_number": "31-RC-389531",
@@ -17108,7 +17114,8 @@
       "union_counsel": [
         "Law Office of Florice Hoffman, L.C."
       ],
-      "case_page_fetched": "2026-07-05"
+      "case_page_fetched": "2026-07-10",
+      "election_date": "August 05 2026"
     },
     "19-RC-389543": {
       "case_number": "19-RC-389543",
@@ -17419,7 +17426,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-06"
+      "case_page_fetched": "2026-07-10"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -17488,7 +17495,10 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-06"
+      "case_page_fetched": "2026-07-10",
+      "employer_counsel": [
+        "HINMAN HOWARD & KATTELL, LLP"
+      ]
     },
     "08-RC-389810": {
       "case_number": "08-RC-389810",
@@ -18089,7 +18099,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Seyfarth Shaw LLP"
+      ],
+      "case_page_fetched": "2026-07-10"
     },
     "28-RC-390199": {
       "case_number": "28-RC-390199",
@@ -18147,7 +18161,14 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Delaware Resource Group of Oklahoma LLC"
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-10"
     },
     "32-RC-390231": {
       "case_number": "32-RC-390231",
@@ -18174,6 +18195,9 @@
       "eligible_voters": 84,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Jones Day"
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -18239,6 +18263,9 @@
       "eligible_voters": 250,
       "stage": "just_filed",
       "sector": "Other",
+      "union_counsel": [
+        "Law Office of Stephen Goldblatt, P.C."
+      ],
       "case_page_fetched": "2026-07-10"
     },
     "20-RD-390241": {
@@ -18300,7 +18327,8 @@
       "region": "Region 15, New Orleans, Louisiana",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Technology & Professional"
+      "sector": "Technology & Professional",
+      "case_page_fetched": "2026-07-10"
     },
     "22-RC-390287": {
       "case_number": "22-RC-390287",
@@ -18401,7 +18429,12 @@
       "region": "Region 15, New Orleans, Louisiana",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Technology & Professional"
+      "sector": "Technology & Professional",
+      "employer_counsel": [
+        "Ogletree Deakins",
+        "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
+      ],
+      "case_page_fetched": "2026-07-10"
     },
     "25-RC-390329": {
       "case_number": "25-RC-390329",
@@ -18428,7 +18461,11 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-07-10"
     },
     "12-RC-390248": {
       "case_number": "12-RC-390248",
@@ -18476,6 +18513,96 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other"
+    },
+    "29-RD-390383": {
+      "case_number": "29-RD-390383",
+      "employer": "Clean Harbors Env. Services Inc.",
+      "case_url": "https://www.nlrb.gov/case/29-RD-390383",
+      "case_type": "RD",
+      "date_filed": "2026-07-10",
+      "status": "Open",
+      "location": "Amityville, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-10"
+    },
+    "16-RC-390359": {
+      "case_number": "16-RC-390359",
+      "employer": "AEP-Texas",
+      "case_url": "https://www.nlrb.gov/case/16-RC-390359",
+      "case_type": "RC",
+      "date_filed": "2026-07-09",
+      "status": "Open",
+      "location": "Uvalde, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-10"
+    },
+    "19-RC-390382": {
+      "case_number": "19-RC-390382",
+      "employer": "The Mockingbird Society",
+      "case_url": "https://www.nlrb.gov/case/19-RC-390382",
+      "case_type": "RC",
+      "date_filed": "2026-07-09",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-10"
+    },
+    "09-RC-390385": {
+      "case_number": "09-RC-390385",
+      "employer": "ABM INDUSTRIES",
+      "case_url": "https://www.nlrb.gov/case/09-RC-390385",
+      "case_type": "RC",
+      "date_filed": "2026-07-09",
+      "status": "Open",
+      "location": "Louisville, KY",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-10"
+    },
+    "21-RC-390372": {
+      "case_number": "21-RC-390372",
+      "employer": "USC Keck Norris Materials Management Department",
+      "case_url": "https://www.nlrb.gov/case/21-RC-390372",
+      "case_type": "RC",
+      "date_filed": "2026-07-09",
+      "status": "Open",
+      "location": "Los Angeles, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "USC Care Medical Group, Inc."
+      ],
+      "union_counsel": [
+        "Law Office of Florice Hoffman"
+      ],
+      "case_page_fetched": "2026-07-10"
+    },
+    "08-RD-390388": {
+      "case_number": "08-RD-390388",
+      "employer": "Ineos Pigments",
+      "case_url": "https://www.nlrb.gov/case/08-RD-390388",
+      "case_type": "RD",
+      "date_filed": "2026-07-09",
+      "status": "Open",
+      "location": "Ashtabula, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 130,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-10"
     }
   }
 }
