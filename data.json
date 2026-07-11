@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11 13:18:26",
+  "last_updated": "2026-07-11 17:55:25",
   "total_cases": 878,
   "cases": {
     "19-RC-386928": {
@@ -17685,9 +17685,9 @@
       "stage": "just_filed",
       "sector": "Technology & Professional",
       "union_counsel": [
-        "Beeson Tayer & Bodine"
+        "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-07",
+      "case_page_fetched": "2026-07-11",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -18579,7 +18579,11 @@
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Heidelberg Materials Midwest Aggregates, Inc."
+      ],
+      "case_page_fetched": "2026-07-11"
     },
     "29-RD-390383": {
       "case_number": "29-RD-390383",
