@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14 13:41:53",
-  "total_cases": 880,
+  "last_updated": "2026-07-14 18:02:18",
+  "total_cases": 884,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -138,7 +138,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -1166,7 +1166,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-07-10",
+      "case_page_fetched": "2026-07-14",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1270,7 +1270,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -1573,7 +1573,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -2000,7 +2000,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -11306,7 +11306,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -12406,7 +12406,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12461,7 +12461,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-10",
+      "case_page_fetched": "2026-07-14",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -13320,7 +13320,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -14585,7 +14585,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-07-10",
+      "case_page_fetched": "2026-07-14",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14720,7 +14720,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-07-10",
+      "case_page_fetched": "2026-07-14",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -14873,7 +14873,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "13-RC-388491": {
       "case_number": "13-RC-388491",
@@ -15633,21 +15633,23 @@
       "employer": "T J NIK Auto Corp. dba Smithtown KIA",
       "case_url": "https://www.nlrb.gov/case/29-RC-388907",
       "case_type": "RC",
+      "tally_date": "2026-07-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-15",
       "status": "Open",
       "location": "Saint James, NY",
       "region": "Region 29, Brooklyn, New York",
-      "eligible_voters": 11,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Spear Wilderman, P.C."
-      ],
-      "case_page_fetched": "2026-07-11",
-      "election_date": "July 13 2026",
-      "employer_counsel": [
-        "Milman Labuda Law Group, PLLC"
-      ]
+      "eligible_voters": 10,
+      "votes_against": 1,
+      "ballots_counted": 9,
+      "void_ballots": 0,
+      "votes_for": 8,
+      "union": "Local 259 UAW, AFL-CIO",
+      "union_to_certify": "Local 259 UAW, AFL-CIO",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "18-RC-388897": {
       "case_number": "18-RC-388897",
@@ -15989,7 +15991,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -16704,7 +16706,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-10",
+      "case_page_fetched": "2026-07-14",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -17491,7 +17493,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -18248,7 +18250,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "32-RC-390231": {
       "case_number": "32-RC-390231",
@@ -18265,7 +18267,7 @@
       "employer_counsel": [
         "The Boeing Company"
       ],
-      "case_page_fetched": "2026-07-10"
+      "case_page_fetched": "2026-07-14"
     },
     "21-RC-390232": {
       "case_number": "21-RC-390232",
@@ -18834,6 +18836,72 @@
         "Harter Secrest & Emery LLP"
       ],
       "case_page_fetched": "2026-07-14"
+    },
+    "10-RC-390592": {
+      "case_number": "10-RC-390592",
+      "employer": "Dark Horse Electric, LLC",
+      "case_url": "https://www.nlrb.gov/case/10-RC-390592",
+      "case_type": "RC",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Sunbright, TN",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-14"
+    },
+    "19-RC-390596": {
+      "case_number": "19-RC-390596",
+      "employer": "Gersh Autism Academy",
+      "case_url": "https://www.nlrb.gov/case/19-RC-390596",
+      "case_type": "RC",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Issaquah, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 75,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-14"
+    },
+    "06-RD-390577": {
+      "case_number": "06-RD-390577",
+      "employer": "Lenzner Lines LLC",
+      "case_url": "https://www.nlrb.gov/case/06-RD-390577",
+      "case_type": "RD",
+      "date_filed": "2026-07-13",
+      "status": "Open",
+      "location": "Sewickley, PA",
+      "region": "Region 06, Pittsburgh, Pennsylvania",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-14"
+    },
+    "19-RC-386775": {
+      "case_number": "19-RC-386775",
+      "employer": "Foss Maritime Company, LLC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-386775",
+      "case_type": "RC",
+      "tally_date": "2026-07-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-05-11",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 6,
+      "votes_against": 0,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "Inlandboatmen\u2019s Union of the Pacific, Marine Division, affiliated with International Longshore and Warehouse Union",
+      "union_to_certify": "Inlandboatmen\u2019s Union of the Pacific, Marine Division, affiliated with International Longshore and Warehouse Union",
+      "unit_description": "Included: All full-time and regular part-time Line superintendents employed by the Employer and working at or out of its Tacoma and Seattle, Washington facilities.\nExcluded: All confidential employees, office clerical employees, managers, and guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     }
   }
 }
