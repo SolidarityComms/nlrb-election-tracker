@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14 18:02:18",
-  "total_cases": 884,
+  "last_updated": "2026-07-14 22:56:57",
+  "total_cases": 888,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -18849,6 +18849,9 @@
       "eligible_voters": 19,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Jones Walker LLP"
+      ],
       "case_page_fetched": "2026-07-14"
     },
     "19-RC-390596": {
@@ -18863,6 +18866,9 @@
       "eligible_voters": 75,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Fisher & Phillips, LLP"
+      ],
       "case_page_fetched": "2026-07-14"
     },
     "06-RD-390577": {
@@ -18902,6 +18908,65 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Security & Public Safety"
+    },
+    "16-RC-390605": {
+      "case_number": "16-RC-390605",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/16-RC-390605",
+      "case_type": "RC",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Amarillo, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "DEATS, DURST & OWEN, PLLC"
+      ],
+      "case_page_fetched": "2026-07-14"
+    },
+    "03-RC-390616": {
+      "case_number": "03-RC-390616",
+      "employer": "Cimolai-HY",
+      "case_url": "https://www.nlrb.gov/case/03-RC-390616",
+      "case_type": "RC",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Olean, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 130,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-14"
+    },
+    "19-RC-390595": {
+      "case_number": "19-RC-390595",
+      "employer": "Mission Linen",
+      "case_url": "https://www.nlrb.gov/case/19-RC-390595",
+      "case_type": "RC",
+      "date_filed": "2026-07-13",
+      "status": "Open",
+      "location": "Bend, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-14"
+    },
+    "31-RC-390589": {
+      "case_number": "31-RC-390589",
+      "employer": "Sony Pictures Animation, Inc. and Chuck Productions, Inc. [as a single employer]",
+      "case_url": "https://www.nlrb.gov/case/31-RC-390589",
+      "case_type": "RC",
+      "date_filed": "2026-07-13",
+      "status": "Open",
+      "location": "Culver City, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 89,
+      "stage": "just_filed",
+      "sector": "Manufacturing",
+      "case_page_fetched": "2026-07-14"
     }
   }
 }
