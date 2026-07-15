@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15 13:42:25",
-  "total_cases": 889,
+  "last_updated": "2026-07-15 18:06:47",
+  "total_cases": 895,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17702,7 +17702,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-11",
+      "case_page_fetched": "2026-07-15",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -18626,7 +18626,7 @@
       "employer_counsel": [
         "Heidelberg Materials Midwest Aggregates, Inc."
       ],
-      "case_page_fetched": "2026-07-11"
+      "case_page_fetched": "2026-07-15"
     },
     "29-RD-390383": {
       "case_number": "29-RD-390383",
@@ -18939,6 +18939,9 @@
       "eligible_voters": 24,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "DEATS, DURST & OWEN, PLLC"
       ],
@@ -18984,6 +18987,9 @@
       "eligible_voters": 89,
       "stage": "just_filed",
       "sector": "Manufacturing",
+      "union_counsel": [
+        "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts of the United States, its Territories, and Canada (IATSE)"
+      ],
       "case_page_fetched": "2026-07-15"
     },
     "08-RD-390646": {
@@ -18998,6 +19004,102 @@
       "eligible_voters": 129,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-07-15"
+    },
+    "14-RD-390664": {
+      "case_number": "14-RD-390664",
+      "employer": "Missouri red quarry",
+      "case_url": "https://www.nlrb.gov/case/14-RD-390664",
+      "case_type": "RD",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Ironton, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-15"
+    },
+    "20-RC-390672": {
+      "case_number": "20-RC-390672",
+      "employer": "Mercy Hospital of Folsom",
+      "case_url": "https://www.nlrb.gov/case/20-RC-390672",
+      "case_type": "RC",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Folsom, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "CommonSpirit Health"
+      ],
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-15"
+    },
+    "21-RD-390677": {
+      "case_number": "21-RD-390677",
+      "employer": "Sweet Flower",
+      "case_url": "https://www.nlrb.gov/case/21-RD-390677",
+      "case_type": "RD",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Pasadena, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-15"
+    },
+    "05-RC-390668": {
+      "case_number": "05-RC-390668",
+      "employer": "Tatitlek",
+      "case_url": "https://www.nlrb.gov/case/05-RC-390668",
+      "case_type": "RC",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Catonsville, MD",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-15"
+    },
+    "27-RD-390667": {
+      "case_number": "27-RD-390667",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/27-RD-390667",
+      "case_type": "RD",
+      "date_filed": "2026-07-14",
+      "status": "Open",
+      "location": "Denver, CO",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation, Inc."
+      ],
+      "case_page_fetched": "2026-07-15"
+    },
+    "28-RC-390680": {
+      "case_number": "28-RC-390680",
+      "employer": "MSG The Sphere Las Vegas and Sphere Entertainment Co.",
+      "case_url": "https://www.nlrb.gov/case/28-RC-390680",
+      "case_type": "RC",
+      "date_filed": "2026-07-13",
+      "status": "Open",
+      "location": "Las Vegas, NV",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
+      ],
       "case_page_fetched": "2026-07-15"
     }
   }
