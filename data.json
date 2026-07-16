@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 13:49:11",
+  "last_updated": "2026-07-16 18:06:48",
   "total_cases": 908,
   "cases": {
     "19-RC-386928": {
@@ -11823,7 +11823,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -15159,7 +15159,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-12",
+      "case_page_fetched": "2026-07-16",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -15731,7 +15731,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-07-12",
+      "case_page_fetched": "2026-07-16",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -15808,7 +15808,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-12",
+      "case_page_fetched": "2026-07-16",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -16889,7 +16889,7 @@
       "union_counsel": [
         "Hayes Dolce"
       ],
-      "case_page_fetched": "2026-07-12",
+      "case_page_fetched": "2026-07-16",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ],
@@ -17616,7 +17616,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "25-RC-389899": {
       "case_number": "25-RC-389899",
@@ -17677,7 +17677,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "02-RM-389897": {
       "case_number": "02-RM-389897",
@@ -17948,7 +17948,7 @@
       "employer_counsel": [
         "Buchalter LLP"
       ],
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "06-RC-390093": {
       "case_number": "06-RC-390093",
@@ -18055,7 +18055,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "08-RC-390068": {
       "case_number": "08-RC-390068",
@@ -18657,7 +18657,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "16-RC-390359": {
       "case_number": "16-RC-390359",
@@ -18750,7 +18750,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-12"
+      "case_page_fetched": "2026-07-16"
     },
     "04-RC-390404": {
       "case_number": "04-RC-390404",
@@ -18859,7 +18859,11 @@
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Constangy, Brooks, Smith & Prophete, LLP"
+      ],
+      "case_page_fetched": "2026-07-16"
     },
     "03-RM-390516": {
       "case_number": "03-RM-390516",
@@ -19276,7 +19280,8 @@
       "region": "Region 02, New York, New York",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-07-16"
     },
     "07-RC-390728": {
       "case_number": "07-RC-390728",
