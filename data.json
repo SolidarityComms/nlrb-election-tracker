@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16 18:06:48",
-  "total_cases": 908,
+  "last_updated": "2026-07-16 22:58:06",
+  "total_cases": 911,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14871,17 +14871,27 @@
     },
     "05-RC-388516": {
       "case_number": "05-RC-388516",
-      "employer": "Amentum Services",
+      "employer": "Amentum Services, Inc.",
       "case_url": "https://www.nlrb.gov/case/05-RC-388516",
       "case_type": "RC",
+      "tally_date": "2026-07-16",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-09",
       "status": "Open",
       "location": "Andrews Air Force Base, MD",
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 3,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-07-14"
+      "votes_against": 0,
+      "ballots_counted": 2,
+      "void_ballots": 0,
+      "votes_for": 2,
+      "union": "International Association of Machinists and Aerospace Workers District 4, Local 24 a/w International Association of Machinists and Aerospace Workers AFL-CIO",
+      "union_to_certify": "International Association of Machinists and Aerospace Workers District 4, Local 24 a/w International Association of Machinists and Aerospace Workers AFL-CIO",
+      "unit_description": "All full-time and regular part-time Computer Support Technicians III and Computer Support Technicians IV employed by the Employer at the Executive Airlift aircraft maintenance and back shop support currently located at Joint Base Andrews in Maryland, but excluding all other employees, office clerical employees, professional employees, managerial employees, guards, and supervisors as defined in the Act.\n\nOthers permitted to vote: The parties have agreed that Secretary IV may vote in the election but their ballots will be challenged since their eligibility has not been resolved.  No decision has been made regarding whether the individuals in this classification or group are included in, or excluded from, the bargaining unit.  The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Construction & Utilities"
     },
     "13-RC-388491": {
       "case_number": "13-RC-388491",
@@ -19176,7 +19186,11 @@
       "eligible_voters": 50,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ],
       "union_counsel": [
+        "United Food and Commercial Workers International Union Local 7, AFL-CIO",
         "United Food and Commercial Workers International Union, Local 7, AFL-CIO"
       ],
       "case_page_fetched": "2026-07-16"
@@ -19193,6 +19207,10 @@
       "eligible_voters": 12,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Barnes & Thornburg LLP",
+        "Barnes & Thornburg, LLP"
+      ],
       "union_counsel": [
         "National Right to Work Legal Defense Foundation"
       ],
@@ -19323,6 +19341,9 @@
       "eligible_voters": 35,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "union_counsel": [
+        "McDonald Lamond Canzoneri LLC"
+      ],
       "case_page_fetched": "2026-07-16"
     },
     "10-RC-388386": {
@@ -19348,6 +19369,57 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Hospitality & Food Service"
+    },
+    "13-RC-390794": {
+      "case_number": "13-RC-390794",
+      "employer": "Enjoy Urban General Store",
+      "case_url": "https://www.nlrb.gov/case/13-RC-390794",
+      "case_type": "RC",
+      "date_filed": "2026-07-16",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Retail",
+      "union_counsel": [
+        "Jacobs, Burns, Orlove & Hernandez"
+      ],
+      "case_page_fetched": "2026-07-16"
+    },
+    "19-RD-390809": {
+      "case_number": "19-RD-390809",
+      "employer": "Sinclair Media of Seattle d/b/a KOMO TV",
+      "case_url": "https://www.nlrb.gov/case/19-RD-390809",
+      "case_type": "RD",
+      "date_filed": "2026-07-16",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 22,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation, Inc."
+      ],
+      "case_page_fetched": "2026-07-16"
+    },
+    "32-RC-390805": {
+      "case_number": "32-RC-390805",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/32-RC-390805",
+      "case_type": "RC",
+      "date_filed": "2026-07-15",
+      "status": "Open",
+      "location": "Oakland, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Law Office of Robert S. Giolito P.C."
+      ],
+      "case_page_fetched": "2026-07-16"
     }
   }
 }
