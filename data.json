@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17 18:06:59",
-  "total_cases": 913,
+  "last_updated": "2026-07-17 22:51:38",
+  "total_cases": 914,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14174,20 +14174,24 @@
       "employer": "San Francisco Opera",
       "case_url": "https://www.nlrb.gov/case/20-RC-388094",
       "case_type": "RC",
+      "tally_date": "2026-07-17",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-02",
       "status": "Open",
       "location": "San Francisco, CA",
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 9,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Seyfarth Shaw LLP"
-      ],
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-14"
+      "votes_against": 0,
+      "ballots_counted": 8,
+      "void_ballots": 0,
+      "votes_for": 8,
+      "union": "American Federation of Musicians Local 6",
+      "union_to_certify": "American Federation of Musicians Local 6",
+      "unit_description": "All full-time and regular part-time Music Staff, Masters, Ballet Pianists, Assistant Conductors, and Prompters employed by the Employer out of its facility located at 301 Van Ness Avenue, San Francisco, California. Excluding all other employees, Adler Fellows, Directors of Music Administration, guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "03-RC-388091": {
       "case_number": "03-RC-388091",
@@ -15474,23 +15478,26 @@
     },
     "19-RC-388758": {
       "case_number": "19-RC-388758",
-      "employer": "Basin Disposal Inc.",
+      "employer": "Basin Disposal, Inc. and Ed\u2019s Disposal Inc., stipulated to be a Single Employer",
       "case_url": "https://www.nlrb.gov/case/19-RC-388758",
       "case_type": "RC",
+      "tally_date": "2026-07-16",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-11",
       "status": "Open",
       "location": "Pasco, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 50,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Reid Ballew & Leahy, L.L.P."
-      ],
-      "case_page_fetched": "2026-07-15",
-      "employer_counsel": [
-        "Fisher & Phillips, LLP"
-      ]
+      "eligible_voters": 55,
+      "votes_against": 31,
+      "ballots_counted": 51,
+      "void_ballots": 0,
+      "votes_for": 20,
+      "union": "General Teamsters Local 839 affiliated with International Brotherhood of Teamsters",
+      "unit_description": "Included: All full-time and regular part-time drivers, mechanics, welders, and helpers employed by the Employer at its facility located at 2021 Commercial Avenue, Pasco, Washington 93301.\n\nExcluded: All other employees, lead drivers, confidential employees, professional employees, managers, and guards and supervisors as defined in the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "32-RC-388749": {
       "case_number": "32-RC-388749",
@@ -16889,21 +16896,23 @@
       "employer": "Buffalo Center for Rehabilitation and Nursing",
       "case_url": "https://www.nlrb.gov/case/03-RC-389413",
       "case_type": "RC",
+      "tally_date": "2026-07-17",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-24",
       "status": "Open",
       "location": "Buffalo, NY",
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 3,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Hayes Dolce"
-      ],
-      "case_page_fetched": "2026-07-16",
-      "employer_counsel": [
-        "Morris Tuchman, LLC"
-      ],
-      "election_date": "July 17 2026"
+      "votes_against": 0,
+      "ballots_counted": 3,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "union": "1199SEIU United Healthcare Workers East",
+      "union_to_certify": "1199SEIU United Healthcare Workers East",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "05-RC-389416": {
       "case_number": "05-RC-389416",
@@ -19183,6 +19192,9 @@
       "eligible_voters": 31,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Cozen O'Connor"
+      ],
       "union_counsel": [
         "Markowitz and Richman",
         "Markowitz & Richman"
@@ -19257,7 +19269,7 @@
       "case_url": "https://www.nlrb.gov/case/31-RC-390730",
       "case_type": "RC",
       "date_filed": "2026-07-15",
-      "status": "Open",
+      "status": "Closed",
       "location": "San Bernardino, CA",
       "region": "Region 31, Los Angeles, California",
       "eligible_voters": 6,
@@ -19417,6 +19429,9 @@
       "eligible_voters": 22,
       "stage": "just_filed",
       "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Sebris Busto James"
+      ],
       "union_counsel": [
         "National Right to Work Legal Defense Foundation, Inc."
       ],
@@ -19444,7 +19459,7 @@
     },
     "25-RC-390852": {
       "case_number": "25-RC-390852",
-      "employer": "Moultrie County Beacon",
+      "employer": "Moultrie County Beacon, Inc.",
       "case_url": "https://www.nlrb.gov/case/25-RC-390852",
       "case_type": "RC",
       "date_filed": "2026-07-17",
@@ -19473,6 +19488,23 @@
       "sector": "Other",
       "union_counsel": [
         "International Union of Operating Engineers Local 150, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-07-17"
+    },
+    "02-RC-390898": {
+      "case_number": "02-RC-390898",
+      "employer": "Northern Westchester Hospital",
+      "case_url": "https://www.nlrb.gov/case/02-RC-390898",
+      "case_type": "RC",
+      "date_filed": "2026-07-15",
+      "status": "Open",
+      "location": "Mount Kisco, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Gladstein, Reif & Meginniss, LLP"
       ],
       "case_page_fetched": "2026-07-17"
     }
