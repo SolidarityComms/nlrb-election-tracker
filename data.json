@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 13:16:14",
+  "last_updated": "2026-07-18 17:57:47",
   "total_cases": 914,
   "cases": {
     "19-RC-386928": {
@@ -138,7 +138,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -507,7 +507,7 @@
         "National Right to Work Legal Defense Foundation",
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "employer_counsel": [
         "Bucci Law"
       ]
@@ -1166,7 +1166,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1270,7 +1270,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -1573,7 +1573,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -2000,7 +2000,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -11306,7 +11306,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -12192,7 +12192,7 @@
       "employer_counsel": [
         "Morgan, Lewis & Bockius"
       ],
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "election_date": "June 5 2026"
     },
     "18-RC-387370": {
@@ -12410,7 +12410,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12465,7 +12465,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -13324,7 +13324,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -14597,7 +14597,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14732,7 +14732,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -16021,7 +16021,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -16736,7 +16736,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -17206,7 +17206,7 @@
       "union_counsel": [
         "Law Office of Florice Hoffman, L.C."
       ],
-      "case_page_fetched": "2026-07-14",
+      "case_page_fetched": "2026-07-18",
       "election_date": "August 05 2026"
     },
     "19-RC-389543": {
@@ -17525,7 +17525,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -18300,7 +18300,8 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18",
+      "election_date": "July 22 2026"
     },
     "32-RC-390231": {
       "case_number": "32-RC-390231",
@@ -18317,7 +18318,7 @@
       "employer_counsel": [
         "The Boeing Company"
       ],
-      "case_page_fetched": "2026-07-14"
+      "case_page_fetched": "2026-07-18"
     },
     "21-RC-390232": {
       "case_number": "21-RC-390232",
