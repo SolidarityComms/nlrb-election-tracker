@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20 18:51:31",
-  "total_cases": 916,
+  "last_updated": "2026-07-20 23:00:12",
+  "total_cases": 919,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -19582,6 +19582,57 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Education"
+    },
+    "16-RC-390987": {
+      "case_number": "16-RC-390987",
+      "employer": "Rusk County Electric Cooperative, Inc.",
+      "case_url": "https://www.nlrb.gov/case/16-RC-390987",
+      "case_type": "RC",
+      "date_filed": "2026-07-20",
+      "status": "Open",
+      "location": "Henderson, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 738"
+      ],
+      "case_page_fetched": "2026-07-20"
+    },
+    "31-RC-391013": {
+      "case_number": "31-RC-391013",
+      "employer": "Flowers Bakery Company",
+      "case_url": "https://www.nlrb.gov/case/31-RC-391013",
+      "case_type": "RC",
+      "date_filed": "2026-07-20",
+      "status": "Open",
+      "location": "Santa Maria, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-07-20"
+    },
+    "13-RC-391014": {
+      "case_number": "13-RC-391014",
+      "employer": "Trane US, Inc.",
+      "case_url": "https://www.nlrb.gov/case/13-RC-391014",
+      "case_type": "RC",
+      "date_filed": "2026-07-20",
+      "status": "Open",
+      "location": "Willowbrook, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Johnson & Krol, LLC"
+      ],
+      "case_page_fetched": "2026-07-20"
     }
   }
 }
