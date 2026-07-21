@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21 18:17:56",
-  "total_cases": 926,
+  "last_updated": "2026-07-21 22:57:26",
+  "total_cases": 928,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14092,22 +14092,27 @@
     },
     "15-RC-388053": {
       "case_number": "15-RC-388053",
-      "employer": "Swaybox Studios, Inc",
+      "employer": "Swaybox Studios, Inc.",
       "case_url": "https://www.nlrb.gov/case/15-RC-388053",
       "case_type": "RC",
+      "tally_date": "2026-07-21",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-02",
       "status": "Open",
       "location": "New Orleans, LA",
       "region": "Region 15, New Orleans, Louisiana",
-      "eligible_voters": 145,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Jackson Lewis, P.C.",
-        "Jackson Lewis PC",
-        "Jackson Lewis P.C."
-      ],
-      "case_page_fetched": "2026-07-18"
+      "eligible_voters": 137,
+      "votes_against": 35,
+      "ballots_counted": 119,
+      "void_ballots": 0,
+      "votes_for": 84,
+      "union": "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts of the United States, its Territories, and Canada (IATSE)",
+      "union_to_certify": "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts of the United States, its Territories, and Canada (IATSE)",
+      "unit_description": "Included: All full-time and regular part-time employees employed by Swaybox Studios, Inc. at or out of its facility located at 155 Brookhollow Esplanade, New Orleans, Louisiana, in the following classifications:\n \n\u2022       CG Environment Artist\n\u2022\tHair/Fur\n\u2022\tJunior Mold and Cast Fabricator\n\u2022\tCG Modeler\n\u2022\tMoMo Animation Performer Second\n\u2022\tSenior Story Artist\n\u2022\tMoMo Animation Performer Lead\n\u2022\tMoMo Animation Performer\n\u2022\tAnimator\n\u2022\tMid Level Carpenter\n\u2022\tDigital Puppetry Artist\n\u2022\tFabric Dyer/Print Tech\n\u2022\tJunior Fabricator Generalist\n\u2022\tJunior Set Painter\n\u2022\tLaser Cut/Water Jet Technician\n\u2022\tLead Puppet Painter\n\u2022\tSenior Fabricator Generalist\n\u2022\tSenior Face Lookdev Artist\n\u2022\tSenior Pipeline Developer/Engineer\n\u2022\tVehicle File Prep\n\u2022\tStory Artist\n\u2022\tVFX Data Wrangler\n\u2022\t1st Assistant Editor\n\u2022\t3D Pinter Technician\n\u2022\t3D Tracking Artist\n\u2022\tAccounting Clerk\n\u2022\tAction Board Junior Story A1tist\n\u2022\tAnimatic Comp Artist\n\u2022\tAnimatic Editor\n\u2022\tAnimation Performance / Rigging Coordinator\n\u2022\tAnimation Lead\n\u2022\tArt Department Production Assistant\n\u2022\tAssistant Accountant\n\u2022\tAssistant MoMo Animation Editor\n\u2022\tAssistant Production Manager\n\u2022\tAssistant Creative Technical Director\n\u2022\tBlendshape Artist\n\u2022\tCamera & Lighting Technician\n\u2022\tCarpenter\n\u2022\tCG Character Modeler\n\u2022\tCG Rigger\n\u2022\tCG Set Modeler\n\u2022\tCharacter Sculptor\n\u2022\tData Wrangler\n\u2022\tDigital Fabricator Generalist\n\u2022\tDigital Fabricator\n\u2022\tEditorial Production Assistant\n\u2022\tEditor\n\u2022\tFab1icator Generalist\n\u2022\tFacilities Associate\n\u2022\tFacilities Manager\n\u2022\tGrip\n\u2022\tHouse Runner\n\u2022\tIT Desktop Support\n\u2022\tJunior Costumer\n\u2022\tJunior Puppet Hair/Fur\n\u2022\tJunior Prop Fabricator\n\u2022\tJunior Prop Fabricator - Generalist\n\u2022\tJunior Puppet Generalist\n\u2022\tJunior Puppet Painter\n\u2022\tJunior Storyboard Artist\n\u2022\tLead CG Generalist\n\u2022\tLead Costumer\n\u2022\tLead Digital Fabricator\n\u2022\tLead Hair/Fur\n\u2022\tLead Puppet Fabricator\n\u2022\tLead Puppet Wrangler\n\u2022\tLead Set Painter\n\u2022\tLead Set Sculptor\n\u2022\tMaya Technical Director\n\u2022       Mid Level Costumer \n\u2022       Mold and Cast Fabricator\n\u2022\tMoMo Animation Editor\n\u2022\tNuke Technical Director\n\u2022\tOffice Production Assistant\n\u2022\tPayroll Accountant\n\u2022\tPrint Technician\n\u2022\tProp Fabricator\n\u2022\tPuppet Fabrication Coordinator\n\u2022\tPuppet Fabrication Production Assistant\n\u2022\tPuppet Generalist\n\u2022\tStudio Receptionist \n\u2022       Schedule Consultant\n\u2022       Script and Continuity Coordinator \n\u2022       Second Assistant Director\n\u2022       Senior Carpenter\n\u2022\tSenior CG Generalist\n\u2022\tSenior Costumer\n\u2022\tSenior Digital Fabricator\n\u2022\tSenior Mold and Cast Fabricator\n\u2022\tSenior Pipeline Integration Engineer\n\u2022\tSenior Prop Fabricator\n\u2022\tSenior Puppet Hair/Fur\n\u2022\tSenior System Administrator\n\u2022\tSenior Vehicle Engineer\n\u2022       Senior Vehicle Painter\n\u2022       Set Fabrication Asset Manager\n\u2022       Set Fabrication Coordinator\n\u2022\tSet Fabrication Production Assistant\n\u2022\tSet File Prep\n\u2022\tSets Graphic Designer\n\u2022\tSet Layout Designer\n\u2022\tSet Painter\n\u2022\tSets Painter\n\u2022\tSoftware Engineer \n\u2022       Animatic Sound Mix \n\u2022       Story/Edit/Art Coordinator \n\u2022       Studio Custodian\n\u2022       VFX Coordinator\n\u2022\tVideo Assist Lead\n\u2022\tVisual Development Artist\n\u2022\t1st Animator (Face)\n\u2022\tAction Board Story Artist\n\u2022\tAE Animatic Comp Artist\n\u2022\tAnimation Coordinator \n\u2022       Art Coordinator\n\u2022\tArt Director-Puppets\n\u2022\tArt Generalist\n\u2022       Assistant Editor\n\u2022       Assistant Facilities Manager\n\u2022       Boom Operator \n\u2022       Blendshapes Modeler\n\u2022\tCG Character Artist\n\u2022\tCharacter A1tist\n\u2022\tCharacter Designer\n\u2022\tClean Up Story Artist\n\u2022\tConcept Designer\n\u2022\tContinuity Coordinator\n\u2022\tCostume Design Illustrator \n\u2022       Creative Tech Assistant \n\u2022       Dimmer Board Operator \n\u2022       Electric Lighting Technician\n\u2022\tFace Sanding\n\u2022\tFirst Assistant Accountant\n\u2022\tFirst Assistant Director\n\u2022\tGaffer\n\u2022\tGraphic Artist\n\u2022\tSenior Graphic Artist\n\u2022       Junior AE Animatic Comp Artist \n\u2022       Junior Production Assistant\n\u2022\tJunior Prop Fabricator - Graphic Miniature\n\u2022\tJunior Sets Production Assistant\n\u2022\tLead Carpenter\n\u2022\tLead CG Rigger\n\u2022\tLead Mold and Cast\n\u2022\tLead Vehicle Engineer\n\u2022\tLighting Color Script\n\u2022       Look Development Artist\n\u2022       Look Development Coordinator\n\u2022\tMid Level Clay Sculptor\n\u2022\tMid Level Fabricator - Greens\n\u2022\tMid Level Fabricator - Lighting\n\u2022\tMid Level Mold and Cast\n\u2022\tMid Level Upholstery\n\u2022\tParts Trimmer/Sander \n\u2022       Payroll Clerk\n\u2022\tPipeline Developer\n\u2022\tPipeline Integration Engineer\n\u2022\tProduction Assistant\n\u2022\tProduction Designer\n\u2022\tScenic Painter\n\u2022\tScript Supervisor\n\u2022       Set Designer\n\u2022       Set Dresser\n\u2022       Sets Mold/Cast Fabricator\n\u2022\tStoryboard Artist\n\u2022\tSystem Administrator\n\u2022\tSystem Engineer\n\u2022\tVehicle Concept Designer\n\u2022\tVehicle Designer\n\u2022\tVehicle Production Assistant \n\u2022       Virtual Pipeline Technician \n\u2022       Sculptor\n\u2022\tVideo Engineer\n\nExcluded: All other employees, managers, confidential employees, guards, and supervisors as defined by the National Labor Relations Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     },
     "12-RC-388032": {
       "case_number": "12-RC-388032",
@@ -15990,21 +15995,24 @@
       "employer": "Vassar Brothers Medical Center",
       "case_url": "https://www.nlrb.gov/case/03-RC-389052",
       "case_type": "RC",
+      "tally_date": "2026-07-21",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-17",
       "status": "Open",
       "location": "Poughkeepsie, NY",
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 15,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "employer_counsel": [
-        "Littler Mendelson, P.C."
-      ],
-      "union_counsel": [
-        "Gladstein, Reif & Meginniss, LLP"
-      ],
-      "case_page_fetched": "2026-07-21",
-      "election_date": "July 21 2026"
+      "votes_against": 1,
+      "ballots_counted": 13,
+      "void_ballots": 0,
+      "votes_for": 12,
+      "union": "1199SEIU UNITED HEALTHCARE WORKERS EAST",
+      "union_to_certify": "1199SEIU UNITED HEALTHCARE WORKERS EAST",
+      "unit_description": "INCLUDED: All full-time, regular part-time, and per diem  employees employed by Vassar Brothers Medical Center at its acute care facility located at 45 Reade Place, Poughkeepsie, New York in the classification of hospitality aide, to join the existing bargaining unit currently represented by 1199SEIU United Healthcare Workers East. \n\nEXCLUDED: All confidential employees, managers, guards, supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "03-RM-389061": {
       "case_number": "03-RM-389061",
@@ -19725,6 +19733,9 @@
       "eligible_voters": 58,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "case_page_fetched": "2026-07-21"
     },
     "18-RM-384995": {
@@ -19774,6 +19785,37 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Hospitality & Food Service"
+    },
+    "03-RC-391108": {
+      "case_number": "03-RC-391108",
+      "employer": "Care Access",
+      "case_url": "https://www.nlrb.gov/case/03-RC-391108",
+      "case_type": "RC",
+      "date_filed": "2026-07-21",
+      "status": "Open",
+      "location": "Clifton Park, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-21"
+    },
+    "14-RM-391046": {
+      "case_number": "14-RM-391046",
+      "employer": "Woodard & Curran, Inc.",
+      "case_url": "https://www.nlrb.gov/case/14-RM-391046",
+      "case_type": "RM",
+      "date_filed": "2026-07-20",
+      "status": "Open",
+      "location": "Defiance, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Pierce Atwood LLP"
+      ],
+      "case_page_fetched": "2026-07-21"
     }
   }
 }
