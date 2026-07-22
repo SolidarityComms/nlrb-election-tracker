@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22 18:10:33",
-  "total_cases": 935,
+  "last_updated": "2026-07-22 23:04:10",
+  "total_cases": 940,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15075,23 +15075,27 @@
     },
     "18-RC-388563": {
       "case_number": "18-RC-388563",
-      "employer": "Brightspeed of Wisconsin, LLC",
+      "employer": "Brightspeed of Central Wisconsin, LLC \u2013 GTE, Brightspeed of North Central Wisconsin, LLC, and Brightspeed of Northeastern Wisconsin, LLC, subsidiaries of Brightspeed Holding, LLC",
       "case_url": "https://www.nlrb.gov/case/18-RC-388563",
       "case_type": "RC",
+      "tally_date": "2026-07-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-08",
       "status": "Open",
       "location": "La Crosse, WI",
       "region": "Region 18, Minneapolis, Minnesota",
-      "eligible_voters": 92,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Louris Marshall O'Brien, PA"
-      ],
-      "case_page_fetched": "2026-07-20",
-      "employer_counsel": [
-        "Foley Hoag LLP"
-      ]
+      "eligible_voters": 90,
+      "votes_against": 37,
+      "ballots_counted": 79,
+      "void_ballots": 3,
+      "votes_for": 42,
+      "union": "International Brotherhood of Electrical Workers, AFL-CIO, Local Union 953",
+      "union_to_certify": "International Brotherhood of Electrical Workers, AFL-CIO, Local Union 953",
+      "unit_description": "Included:\tAll full-time and regular part-time customer service technicians, cable technicians, and network technicians employed by the Employer within the State of Wisconsin. \n\nExcluded: All other employees, office clerical employees, confidential employees, managers, guards and professional employees, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "01-RC-388596": {
       "case_number": "01-RC-388596",
@@ -16302,24 +16306,27 @@
     },
     "10-RC-389226": {
       "case_number": "10-RC-389226",
-      "employer": "Universal Logistics",
+      "employer": "Westport Axel Co., LLC",
       "case_url": "https://www.nlrb.gov/case/10-RC-389226",
       "case_type": "RC",
+      "tally_date": "2026-07-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-22",
       "status": "Open",
       "location": "Cloverdale, VA",
       "region": "Region 10, Atlanta, Georgia",
-      "eligible_voters": 120,
-      "stage": "just_filed",
-      "sector": "Transportation & Logistics",
-      "employer_counsel": [
-        "Jackson Lewis PC"
-      ],
-      "union_counsel": [
-        "Beins, Axelrod & Keating, P.C."
-      ],
-      "case_page_fetched": "2026-07-22",
-      "election_date": "July 22 2026"
+      "eligible_voters": 124,
+      "votes_against": 57,
+      "ballots_counted": 106,
+      "void_ballots": 0,
+      "votes_for": 49,
+      "union": "International Brotherhood of Teamsters Local 171",
+      "union_to_certify": "International Brotherhood of Teamsters Local 171",
+      "unit_description": "All full-time and regular part-time employees who work as assemblers, material handlers, and quality inspectors employed by the Employer at its Cloverdale facility located at 1796 Lee Highway, Cloverdale, Virginia 24077, but excluding all other employees, maintenance employees, custodians, clericals, drivers, quality liaisons, safety coordinators, IT administrators and coordinators, managers, assistant managers, guards, supervisors, and all other statutory exclusions as defined by the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "09-RC-389230": {
       "case_number": "09-RC-389230",
@@ -19623,6 +19630,9 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "OGLETREE DEAKINS NASH SMOAK & STEWART"
+      ],
       "union_counsel": [
         "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 738"
       ],
@@ -19889,6 +19899,9 @@
       "eligible_voters": 66,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "First Student, Inc."
+      ],
       "union_counsel": [
         "Willig, Williams & Davidson"
       ],
@@ -19951,6 +19964,82 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Security & Public Safety"
+    },
+    "25-RM-391231": {
+      "case_number": "25-RM-391231",
+      "employer": "Static Media, Inc.",
+      "case_url": "https://www.nlrb.gov/case/25-RM-391231",
+      "case_type": "RM",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Fishers, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 60,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment",
+      "union_counsel": [
+        "Fisher & Phillips LLP"
+      ],
+      "case_page_fetched": "2026-07-22"
+    },
+    "02-RC-391241": {
+      "case_number": "02-RC-391241",
+      "employer": "New York Blood Center",
+      "case_url": "https://www.nlrb.gov/case/02-RC-391241",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Rye, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-22"
+    },
+    "29-RC-391239": {
+      "case_number": "29-RC-391239",
+      "employer": "A&E Properties I MGMT LLC",
+      "case_url": "https://www.nlrb.gov/case/29-RC-391239",
+      "case_type": "RC",
+      "date_filed": "2026-07-21",
+      "status": "Open",
+      "location": "Jackson Heights, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-22"
+    },
+    "19-RC-391260": {
+      "case_number": "19-RC-391260",
+      "employer": "Mud Bay",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391260",
+      "case_type": "RC",
+      "date_filed": "2026-07-21",
+      "status": "Open",
+      "location": "Olympia, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 26,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-22"
+    },
+    "21-RD-391230": {
+      "case_number": "21-RD-391230",
+      "employer": "Kinder Morgan, Inc.",
+      "case_url": "https://www.nlrb.gov/case/21-RD-391230",
+      "case_type": "RD",
+      "date_filed": "2026-07-21",
+      "status": "Open",
+      "location": "Imperial, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins Nash Smoak & Stewart P.C."
+      ],
+      "case_page_fetched": "2026-07-22"
     }
   }
 }
