@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23 13:55:43",
-  "total_cases": 940,
+  "last_updated": "2026-07-23 18:13:14",
+  "total_cases": 948,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11981,7 +11981,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-07-19",
+      "case_page_fetched": "2026-07-23",
       "employer_counsel": [
         "Foster Garvey PC"
       ]
@@ -15485,7 +15485,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-07-19",
+      "case_page_fetched": "2026-07-23",
       "employer_counsel": [
         "Clifton Budd & DeMaria LLP"
       ],
@@ -15529,7 +15529,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-07-19"
+      "case_page_fetched": "2026-07-23"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -17482,20 +17482,27 @@
     },
     "21-RC-389715": {
       "case_number": "21-RC-389715",
-      "employer": "Menifee Global Medical Center",
+      "employer": "KPC Global Medical Centers, Inc., dba Menifee Global Medical Center",
       "case_url": "https://www.nlrb.gov/case/21-RC-389715",
       "case_type": "RC",
+      "tally_date": "2026-07-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-29",
       "status": "Open",
       "location": "Menifee, CA",
       "region": "Region 21, Los Angeles, California",
       "eligible_voters": 21,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-21"
+      "votes_against": 0,
+      "ballots_counted": 13,
+      "void_ballots": 0,
+      "votes_for": 13,
+      "union": "Service Employees International Union, United Healthcare Workers-West (SEIU-UHW)",
+      "union_to_certify": "Service Employees International Union, United Healthcare Workers-West (SEIU-UHW)",
+      "unit_description": "INCLUDED: All full-time, regular part-time, and per diem Charge Nurses employed by the Employer at its facility currently located at 28400 McCall Boulevard, Menifee, California.\n\nEXCLUDED: All other employees, physicians, residents, all other professional employees, already represented employees, all other non-professional employees, skilled maintenance employees, confidential employees, managerial employees, guards, and supervisors as defined in the Act.\n\nAlso eligible to vote are all employees in the unit who have worked an average of four (4) hours or more per week during the 13 weeks immediately preceding the eligibility date for the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "19-RC-389725": {
       "case_number": "19-RC-389725",
@@ -17761,7 +17768,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-19",
+      "case_page_fetched": "2026-07-23",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -18519,7 +18526,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Technology & Professional",
-      "case_page_fetched": "2026-07-19"
+      "case_page_fetched": "2026-07-23"
     },
     "22-RC-390287": {
       "case_number": "22-RC-390287",
@@ -18637,7 +18644,7 @@
         "Ogletree Deakins",
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-07-19"
+      "case_page_fetched": "2026-07-23"
     },
     "25-RC-390329": {
       "case_number": "25-RC-390329",
@@ -18731,7 +18738,7 @@
       "employer_counsel": [
         "Heidelberg Materials Midwest Aggregates, Inc."
       ],
-      "case_page_fetched": "2026-07-19"
+      "case_page_fetched": "2026-07-23"
     },
     "29-RD-390383": {
       "case_number": "29-RD-390383",
@@ -19027,7 +19034,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-19"
+      "case_page_fetched": "2026-07-23"
     },
     "19-RC-386775": {
       "case_number": "19-RC-386775",
@@ -20065,6 +20072,130 @@
       "sector": "Other",
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart P.C."
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "10-RC-391298": {
+      "case_number": "10-RC-391298",
+      "employer": "AGL Services Company",
+      "case_url": "https://www.nlrb.gov/case/10-RC-391298",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Atlanta, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-23"
+    },
+    "09-RC-391290": {
+      "case_number": "09-RC-391290",
+      "employer": "CRESCO LABS, LLC, D/B/A SUNNYSIDE",
+      "case_url": "https://www.nlrb.gov/case/09-RC-391290",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Chillicothe, OH",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 18,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-23"
+    },
+    "05-RC-391323": {
+      "case_number": "05-RC-391323",
+      "employer": "Allied Universal",
+      "case_url": "https://www.nlrb.gov/case/05-RC-391323",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Linthicum, MD",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 120,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "International Union, Security, Police and Fire Professionals of America (SPFPA)"
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "14-RC-391327": {
+      "case_number": "14-RC-391327",
+      "employer": "Ford Motor Company",
+      "case_url": "https://www.nlrb.gov/case/14-RC-391327",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Kansas City, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 1,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-23"
+    },
+    "32-RC-391301": {
+      "case_number": "32-RC-391301",
+      "employer": "Mercy Medical Transportation",
+      "case_url": "https://www.nlrb.gov/case/32-RC-391301",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Sonora, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 46,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Beeson Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "03-RC-391296": {
+      "case_number": "03-RC-391296",
+      "employer": "Together for Youth",
+      "case_url": "https://www.nlrb.gov/case/03-RC-391296",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Albany, NY",
+      "region": "Region 03, Buffalo, New York",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Burdzinski & Partners, Inc."
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "32-RC-391322": {
+      "case_number": "32-RC-391322",
+      "employer": "Volvo Construction Equipment",
+      "case_url": "https://www.nlrb.gov/case/32-RC-391322",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Fresno, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Construction & Utilities",
+      "case_page_fetched": "2026-07-23"
+    },
+    "22-RM-391300": {
+      "case_number": "22-RM-391300",
+      "employer": "Princeton University Plasma Physics Laboratory",
+      "case_url": "https://www.nlrb.gov/case/22-RM-391300",
+      "case_type": "RM",
+      "date_filed": "2026-07-21",
+      "status": "Open",
+      "location": "Princeton, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 18,
+      "stage": "just_filed",
+      "sector": "Education",
+      "union_counsel": [
+        "Fox Rothschild LLP"
       ],
       "case_page_fetched": "2026-07-23"
     }
