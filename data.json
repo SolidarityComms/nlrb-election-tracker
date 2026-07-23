@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23 18:13:14",
-  "total_cases": 948,
+  "last_updated": "2026-07-23 22:58:02",
+  "total_cases": 954,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16070,21 +16070,24 @@
       "employer": "Transdev Services, Inc.",
       "case_url": "https://www.nlrb.gov/case/21-RC-389086",
       "case_type": "RC",
+      "tally_date": "2026-07-23",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-18",
       "status": "Open",
       "location": "Chula Vista, CA",
       "region": "Region 21, Los Angeles, California",
-      "eligible_voters": 8,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "McMahon Berger, PC"
-      ],
-      "union_counsel": [
-        "Amalgamated Transit Union"
-      ],
-      "case_page_fetched": "2026-07-22",
-      "election_date": "July 23 2026"
+      "eligible_voters": 6,
+      "votes_against": 1,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "San Diego Bus Drivers', Amalgamated Transit Union, Local 1309, A.F.L. - C.I.O.",
+      "union_to_certify": "San Diego Bus Drivers', Amalgamated Transit Union, Local 1309, A.F.L. - C.I.O.",
+      "unit_description": "Included: All full-time and regular part-time safety and training supervisors employed by the Employer at its facility currently located at 3610 Main Street, Chula Vista, California.\n\nExcluded: All other employees, drivers, mechanics, service workers, office clerical employees, confidential employees, professional employees, managerial employees, guards, and supervisors as defined in the Act.\n\nIf a majority of valid ballots are cast for the Petitioner, San Diego Bus Drivers', Amalgamated Transit Union, Local 1309, A.F.L. - C.I.O., they will be taken to have indicated the employees' desire to be included in the existing unit of non-supervisory radio dispatchers, non-supervisory desk dispatchers, and non-supervisory road supervisors currently represented by the Petitioner. \n\nIf a majority of valid ballots are not cast for representation, they will be taken to have indicated the employees' desire to remain unrepresented.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "04-RC-389103": {
       "case_number": "04-RC-389103",
@@ -17198,20 +17201,26 @@
     },
     "19-RC-389507": {
       "case_number": "19-RC-389507",
-      "employer": "CBRE INC",
+      "employer": "CBRE, Inc.",
       "case_url": "https://www.nlrb.gov/case/19-RC-389507",
       "case_type": "RC",
+      "tally_date": "2026-07-23",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-25",
       "status": "Open",
       "location": "Seattle, WA",
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 5,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "IUOE Local 302, affiliated with the International Union of Operating Engineers, AFL-CIO"
-      ],
-      "case_page_fetched": "2026-07-22"
+      "votes_against": 2,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "union": "IUOE Local 302, affiliated with the International Union of Operating Engineers, AFL-CIO",
+      "union_to_certify": "IUOE Local 302, affiliated with the International Union of Operating Engineers, AFL-CIO",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "31-RC-389531": {
       "case_number": "31-RC-389531",
@@ -17530,19 +17539,22 @@
       "employer": "New York Immigration Coalition",
       "case_url": "https://www.nlrb.gov/case/02-RM-389736",
       "case_type": "RM",
+      "tally_date": "2026-08-26",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-30",
       "status": "Open",
       "location": "New York, NY",
       "region": "Region 02, New York, New York",
-      "eligible_voters": 33,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Kauff, McGuire & Margolis, LLP",
-        "Kauff McGuire & Margolis LLP"
-      ],
-      "case_page_fetched": "2026-07-22",
-      "election_date": "August 04 2026"
+      "eligible_voters": 0,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "union": "New York Immigration Coalition United",
+      "union_to_certify": "New York Immigration Coalition United",
+      "outcome": "unknown",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "20-RC-389732": {
       "case_number": "20-RC-389732",
@@ -17775,23 +17787,27 @@
     },
     "32-RC-389905": {
       "case_number": "32-RC-389905",
-      "employer": "Cushman & Wakefield",
+      "employer": "Cushman & Wakefield U.S., Inc.",
       "case_url": "https://www.nlrb.gov/case/32-RC-389905",
       "case_type": "RC",
+      "tally_date": "2026-07-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-01",
       "status": "Open",
       "location": "Oakland, CA",
       "region": "Region 32, Oakland, California",
-      "eligible_voters": 3,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Ford Harrison, LLP"
-      ],
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-23"
+      "eligible_voters": 4,
+      "votes_against": 0,
+      "ballots_counted": 3,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "union": "International Union of Operating Engineers, Stationary Engineers, Local 39, AFL-CIO",
+      "union_to_certify": "International Union of Operating Engineers, Stationary Engineers, Local 39, AFL-CIO",
+      "unit_description": "All full-time and regular part-time Mobile Engineers employed by the Employer assigned to service the following Verizon account locations: 1999 Harrison St, Oakland, CA 94612;  1330 Broadway, Oakland, CA 94612;  274 Brannan St, San Francisco, CA 94107;  144 Harrison St, San Francisco, CA 94105;  3257 N Marks Ave, Fresno, CA 93722;  1315 Van Ness Ave, Fresno, CA 93721; 855 Mission Ct, Fremont, CA 94539;  125 Cyber Ct, Rocklin, CA 95765;  770 L St., Sacramento, CA 95814; 2820 Kory Dr, West Sacramento, CA 95605; 1280 Triangle Ct, West Sacramento, CA 95605; 1390 Lead Hill Blvd, Roseville, CA 95661; 2345 N Watney Way, Fairfield, CA 94533 ; 460 Oakmead Pkwy, Sunnyvale, CA 94085;  411 N Pastoria Ave, Sunnyvale, CA 94085;  55 S Market St, San Jose, CA 95113 ; 611 River Oaks Pkwy, San Jose, CA 95131;  500 Stockton Ave, San Jose, CA 95126; 397 W Trimble Rd, San Jose, CA 95131; 1503 Arbuckle Ct, Santa Clara, CA 95054;  230 Walsh Ave, Santa Clara, CA 95050;   1100 Space Park Dr, Santa Clara, CA 95054;  590 Brunken Ave, Salinas, CA 93901;   2770 Shadelands Dr, Walnut Creek, CA 94598;   21350 Cabot Blvd, Hayward, CA 94545;  950 Tower Ln #170 Foster City, CA 94404; 2700 Spring St, Redwood City, CA 94063;   525 University Ave, Ste 40, Palo Alto, CA 94301; 28455 Corral Hollow Rd, Tracy, CA 95377;   4440 Willow Rd Pleasanton, CA 94588;  17398 High School Rd, Jamestown, CA 95327;  17400 High School Rd, Jamestown, CA 95327;  5994 Gleason Dr Dublin, CA 94568; 2991 Gold Canal Dr., Rancho Cordova, CA 95670;  3202 Mountfield Ave, Stockton, CA 95206; 400 E Main Street, Stockton, CA 95206;  510 E. Magnolia Street, Stockton, CA 95202;  and 2425 Bisso Lane, Concord, CA 94520 excluding all other employees, managers, professional employees, confidential employees, office clerical employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "19-RC-389884": {
       "case_number": "19-RC-389884",
@@ -20028,6 +20044,9 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Epstein Becker & Green, P.C."
+      ],
       "case_page_fetched": "2026-07-23"
     },
     "29-RC-391239": {
@@ -20170,7 +20189,7 @@
     },
     "32-RC-391322": {
       "case_number": "32-RC-391322",
-      "employer": "Volvo Construction Equipment",
+      "employer": "Volvo Construction Equipment & Services",
       "case_url": "https://www.nlrb.gov/case/32-RC-391322",
       "case_type": "RC",
       "date_filed": "2026-07-22",
@@ -20180,6 +20199,9 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Construction & Utilities",
+      "employer_counsel": [
+        "Snell & Wilmer, LLP"
+      ],
       "case_page_fetched": "2026-07-23"
     },
     "22-RM-391300": {
@@ -20196,6 +20218,105 @@
       "sector": "Education",
       "union_counsel": [
         "Fox Rothschild LLP"
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "04-RD-391343": {
+      "case_number": "04-RD-391343",
+      "employer": "Airgas",
+      "case_url": "https://www.nlrb.gov/case/04-RD-391343",
+      "case_type": "RD",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Allentown, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation"
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "19-RC-391354": {
+      "case_number": "19-RC-391354",
+      "employer": "Domino's Supply Chain",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391354",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Kent, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 59,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-23"
+    },
+    "25-RC-391353": {
+      "case_number": "25-RC-391353",
+      "employer": "The Literary",
+      "case_url": "https://www.nlrb.gov/case/25-RC-391353",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Champaign, IL",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-23"
+    },
+    "19-RC-391329": {
+      "case_number": "19-RC-391329",
+      "employer": "MOI Seattle LLC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391329",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-23"
+    },
+    "27-RC-391349": {
+      "case_number": "27-RC-391349",
+      "employer": "Transdev Services, Inc.",
+      "case_url": "https://www.nlrb.gov/case/27-RC-391349",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Commerce City, CO",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "McMahon Berger, PC"
+      ],
+      "union_counsel": [
+        "Amalgamated Transit Union"
+      ],
+      "case_page_fetched": "2026-07-23"
+    },
+    "32-RC-391332": {
+      "case_number": "32-RC-391332",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/32-RC-391332",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Reno, NV",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Law Office of Robert S. Giolito P.C."
       ],
       "case_page_fetched": "2026-07-23"
     }
