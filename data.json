@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24 18:18:59",
-  "total_cases": 961,
+  "last_updated": "2026-07-24 23:04:27",
+  "total_cases": 969,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -20476,6 +20476,124 @@
       "eligible_voters": 26,
       "stage": "just_filed",
       "sector": "Manufacturing",
+      "case_page_fetched": "2026-07-24"
+    },
+    "01-RC-391445": {
+      "case_number": "01-RC-391445",
+      "employer": "UMass Memorial Medical Center",
+      "case_url": "https://www.nlrb.gov/case/01-RC-391445",
+      "case_type": "RC",
+      "date_filed": "2026-07-24",
+      "status": "Open",
+      "location": "Worcester, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-07-24"
+    },
+    "01-RC-391456": {
+      "case_number": "01-RC-391456",
+      "employer": "UMass Memorial Medical Center",
+      "case_url": "https://www.nlrb.gov/case/01-RC-391456",
+      "case_type": "RC",
+      "date_filed": "2026-07-24",
+      "status": "Open",
+      "location": "Worcester, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-07-24"
+    },
+    "31-RC-391469": {
+      "case_number": "31-RC-391469",
+      "employer": "Flowers Bakeries Foodservice",
+      "case_url": "https://www.nlrb.gov/case/31-RC-391469",
+      "case_type": "RC",
+      "date_filed": "2026-07-24",
+      "status": "Open",
+      "location": "Victorville, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Hayes, Ortega & Sanchez, LLP"
+      ],
+      "case_page_fetched": "2026-07-24"
+    },
+    "29-RC-391459": {
+      "case_number": "29-RC-391459",
+      "employer": "Eon Mechanical, Inc.",
+      "case_url": "https://www.nlrb.gov/case/29-RC-391459",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Fresh Meadows, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Colleran, O\u2019Hara & Mills, LLP"
+      ],
+      "case_page_fetched": "2026-07-24"
+    },
+    "19-RC-391429": {
+      "case_number": "19-RC-391429",
+      "employer": "Mud Bay",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391429",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Shoreline, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-24"
+    },
+    "19-RC-391430": {
+      "case_number": "19-RC-391430",
+      "employer": "Mud Bay",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391430",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Lynnwood, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-24"
+    },
+    "19-RC-391431": {
+      "case_number": "19-RC-391431",
+      "employer": "Mud Bay",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391431",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-24"
+    },
+    "18-RC-391475": {
+      "case_number": "18-RC-391475",
+      "employer": "3M",
+      "case_url": "https://www.nlrb.gov/case/18-RC-391475",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "Prairie du Chien, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 465,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-07-24"
     }
   }
