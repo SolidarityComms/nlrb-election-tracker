@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24 13:43:30",
-  "total_cases": 956,
+  "last_updated": "2026-07-24 18:18:59",
+  "total_cases": 961,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11823,7 +11823,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -14717,7 +14717,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-20",
+      "case_page_fetched": "2026-07-24",
       "employer_counsel": [
         "Epstein Becker & Green, PC"
       ]
@@ -15185,7 +15185,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-20",
+      "case_page_fetched": "2026-07-24",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -15548,23 +15548,27 @@
     },
     "04-RC-388814": {
       "case_number": "04-RC-388814",
-      "employer": "QVC, Inc.",
+      "employer": "QVC, Inc. and HSNi, LLC, wholly owned indirect subsidiaries of QVC Group, Inc.",
       "case_url": "https://www.nlrb.gov/case/04-RC-388814",
       "case_type": "RC",
+      "tally_date": "2026-07-23",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-15",
       "status": "Open",
       "location": "West Chester, PA",
       "region": "Region 04, Philadelphia, Pennsylvania",
-      "eligible_voters": 32,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Sheppard Mullin Richter & Hampton LLP"
-      ],
-      "union_counsel": [
-        "Cohen, Weiss and Simon, LLP"
-      ],
-      "case_page_fetched": "2026-07-23"
+      "eligible_voters": 53,
+      "votes_against": 9,
+      "ballots_counted": 46,
+      "void_ballots": 0,
+      "votes_for": 37,
+      "union": "Screen Actors Guild - American Federation of Television and Radio Artists",
+      "union_to_certify": "Screen Actors Guild - American Federation of Television and Radio Artists",
+      "unit_description": "Included: All full-time and regular part-time QVC hosts and HSN hosts employed by the Employers at their 1200 Wilson Drive, West Chester, PA facility.\n\nExcluded: All other employees, managerial employees, confidential employees, office clerical/administrative employees, guards and supervisors as defined in the Act.\n\nOthers permitted to vote: The parties have agreed that the Omni Hosts may vote in the election, but their ballots will be challenged since their eligibility has not been resolved. No decision has been made regarding whether the individuals in these classifications or group are included in, or excluded from, the bargaining unit. The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "16-RC-388830": {
       "case_number": "16-RC-388830",
@@ -15766,7 +15770,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-07-20",
+      "case_page_fetched": "2026-07-24",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -15843,7 +15847,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-20",
+      "case_page_fetched": "2026-07-24",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -16133,21 +16137,27 @@
     },
     "18-RC-389080": {
       "case_number": "18-RC-389080",
-      "employer": "US Foods",
+      "employer": "US Foods, Inc.",
       "case_url": "https://www.nlrb.gov/case/18-RC-389080",
       "case_type": "RC",
+      "tally_date": "2026-07-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-16",
       "status": "Open",
       "location": "Menomonee Falls, WI",
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 8,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-07-24",
-      "employer_counsel": [
-        "Seyfarth Shaw LLP"
-      ],
-      "election_date": "July 22 2026"
+      "votes_against": 2,
+      "ballots_counted": 7,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "International Brotherhood of Teamsters, Local 200",
+      "union_to_certify": "International Brotherhood of Teamsters, Local 200",
+      "unit_description": "Included: All full-time and regular part-time Operations Coordinator, Warehouse Coordinator, Inventory Control Clerk, Senior Operations Coordinator, and Truck Builder employed by the Employer at its facility currently located at W137 Highway 145, Menomonee Falls, Wisconsin.\nExcluded: All other employees, office clerical employees, professional employees, and guards and supervisors as defined in the National Labor Relations Act, as amended.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "21-RC-389132": {
       "case_number": "21-RC-389132",
@@ -17685,7 +17695,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-07-20",
+      "case_page_fetched": "2026-07-24",
       "election_date": "July 24 2026"
     },
     "25-RC-389899": {
@@ -17747,7 +17757,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24"
     },
     "02-RM-389897": {
       "case_number": "02-RM-389897",
@@ -18087,7 +18097,7 @@
       "union_counsel": [
         "Ogletree Deakin"
       ],
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24"
     },
     "13-RC-390070": {
       "case_number": "13-RC-390070",
@@ -18143,7 +18153,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24"
     },
     "08-RC-390068": {
       "case_number": "08-RC-390068",
@@ -18574,18 +18584,23 @@
       "employer": "Invenergy Services Thermal US, LLC",
       "case_url": "https://www.nlrb.gov/case/27-RD-390293",
       "case_type": "RD",
+      "tally_date": "2026-07-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-08",
       "status": "Open",
       "location": "Fort Lupton, CO",
       "region": "Region 27, Denver, Colorado",
       "eligible_voters": 7,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-07-22",
-      "election_date": "July 22 2026",
-      "employer_counsel": [
-        "Invenergy LLC"
-      ]
+      "votes_against": 6,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "union": "International Brotherhood of Electrical Workers Local 111",
+      "union_to_certify": "International Brotherhood of Electrical Workers Local 111",
+      "unit_description": "Included: All full-time and regular part-time Operation technicians, Maintenance technicians, and \nControl Room Operators employed by the Employe at its Ft. Lupton facility.\n\nExcluded: All office clerical employees, confidential employes, managerial employees, professional \nemployees, guards, and supervisors, as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Construction & Utilities"
     },
     "19-RC-390296": {
       "case_number": "19-RC-390296",
@@ -18772,7 +18787,10 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ]
     },
     "16-RC-390359": {
       "case_number": "16-RC-390359",
@@ -18869,7 +18887,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24"
     },
     "04-RC-390404": {
       "case_number": "04-RC-390404",
@@ -18988,7 +19006,8 @@
       "employer_counsel": [
         "Constangy, Brooks, Smith & Prophete, LLP"
       ],
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24",
+      "election_date": "August 12 2026"
     },
     "03-RM-390516": {
       "case_number": "03-RM-390516",
@@ -19454,7 +19473,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-07-20"
+      "case_page_fetched": "2026-07-24"
     },
     "07-RC-390728": {
       "case_number": "07-RC-390728",
@@ -20126,6 +20145,9 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "case_page_fetched": "2026-07-24"
     },
     "09-RC-391290": {
@@ -20173,7 +20195,11 @@
       "region": "Region 14, Saint Louis, Missouri",
       "eligible_voters": 1,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
+      ],
+      "case_page_fetched": "2026-07-24"
     },
     "32-RC-391301": {
       "case_number": "32-RC-391301",
@@ -20220,7 +20246,11 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Construction & Utilities"
+      "sector": "Construction & Utilities",
+      "employer_counsel": [
+        "Snell & Wilmer, LLP"
+      ],
+      "case_page_fetched": "2026-07-24"
     },
     "22-RM-391300": {
       "case_number": "22-RM-391300",
@@ -20251,6 +20281,9 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins"
+      ],
       "union_counsel": [
         "National Right to Work Legal Defense Foundation"
       ],
@@ -20367,6 +20400,82 @@
       "union_counsel": [
         "Wright, Ryon & Maher, P.A."
       ],
+      "case_page_fetched": "2026-07-24"
+    },
+    "27-RC-391415": {
+      "case_number": "27-RC-391415",
+      "employer": "Colorado Coalition for the Homeless",
+      "case_url": "https://www.nlrb.gov/case/27-RC-391415",
+      "case_type": "RC",
+      "date_filed": "2026-07-24",
+      "status": "Open",
+      "location": "Denver, CO",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 31,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Rosenblatt, Gosch & Reinken, PLLC"
+      ],
+      "case_page_fetched": "2026-07-24"
+    },
+    "19-RC-391428": {
+      "case_number": "19-RC-391428",
+      "employer": "Mud Bay",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391428",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-24"
+    },
+    "19-RC-391426": {
+      "case_number": "19-RC-391426",
+      "employer": "Mud Bay",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391426",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-24"
+    },
+    "12-RC-391438": {
+      "case_number": "12-RC-391438",
+      "employer": "Walden Security",
+      "case_url": "https://www.nlrb.gov/case/12-RC-391438",
+      "case_type": "RC",
+      "date_filed": "2026-07-23",
+      "status": "Open",
+      "location": "Jacksonville, FL",
+      "region": "Region 12, Tampa, Florida",
+      "eligible_voters": 22,
+      "stage": "just_filed",
+      "sector": "Security & Public Safety",
+      "union_counsel": [
+        "Cohen Weiss and Simon, LLP"
+      ],
+      "case_page_fetched": "2026-07-24"
+    },
+    "02-RC-391390": {
+      "case_number": "02-RC-391390",
+      "employer": "DXO East Productions, LLC; Counterpart Studios",
+      "case_url": "https://www.nlrb.gov/case/02-RC-391390",
+      "case_type": "RC",
+      "date_filed": "2026-07-22",
+      "status": "Open",
+      "location": "New York, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 26,
+      "stage": "just_filed",
+      "sector": "Manufacturing",
       "case_page_fetched": "2026-07-24"
     }
   }
