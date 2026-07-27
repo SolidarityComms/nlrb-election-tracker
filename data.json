@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27 14:31:45",
-  "total_cases": 971,
+  "last_updated": "2026-07-27 18:23:41",
+  "total_cases": 974,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -15529,7 +15529,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-07-23"
+      "case_page_fetched": "2026-07-27"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -17795,7 +17795,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-23",
+      "case_page_fetched": "2026-07-27",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -18777,7 +18777,7 @@
       "employer_counsel": [
         "Heidelberg Materials Midwest Aggregates, Inc."
       ],
-      "case_page_fetched": "2026-07-23"
+      "case_page_fetched": "2026-07-27"
     },
     "29-RD-390383": {
       "case_number": "29-RD-390383",
@@ -20662,9 +20662,59 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, PC",
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Deats, Durst & Owen, PLLC"
       ],
+      "case_page_fetched": "2026-07-27"
+    },
+    "04-RC-391531": {
+      "case_number": "04-RC-391531",
+      "employer": "Brightview Holdings DBA Brightview Landscaping",
+      "case_url": "https://www.nlrb.gov/case/04-RC-391531",
+      "case_type": "RC",
+      "date_filed": "2026-07-27",
+      "status": "Open",
+      "location": "Allentown, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-27"
+    },
+    "13-RC-391537": {
+      "case_number": "13-RC-391537",
+      "employer": "Accel Entertainment Gaming, LLC",
+      "case_url": "https://www.nlrb.gov/case/13-RC-391537",
+      "case_type": "RC",
+      "date_filed": "2026-07-27",
+      "status": "Open",
+      "location": "Burr Ridge, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 23,
+      "stage": "just_filed",
+      "sector": "Hospitality & Food Service",
+      "union_counsel": [
+        "Bush Gottlieb, ALC",
+        "Willig, Williams & Davidson"
+      ],
+      "case_page_fetched": "2026-07-27"
+    },
+    "01-RC-391510": {
+      "case_number": "01-RC-391510",
+      "employer": "Maine Monitor",
+      "case_url": "https://www.nlrb.gov/case/01-RC-391510",
+      "case_type": "RC",
+      "date_filed": "2026-07-27",
+      "status": "Open",
+      "location": "Hallowell, ME",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-07-27"
     }
   }
