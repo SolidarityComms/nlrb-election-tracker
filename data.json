@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27 18:23:41",
-  "total_cases": 974,
+  "last_updated": "2026-07-27 23:01:35",
+  "total_cases": 977,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17847,23 +17847,27 @@
     },
     "19-RC-389872": {
       "case_number": "19-RC-389872",
-      "employer": "Japanese Garden Society of Oregon, d/b/a Portland Japanese Garden",
+      "employer": "Japanese Garden Society of Oregon d/b/a Portland Japanese Garden",
       "case_url": "https://www.nlrb.gov/case/19-RC-389872",
       "case_type": "RC",
+      "tally_date": "2026-07-27",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-30",
       "status": "Open",
       "location": "Portland, OR",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 20,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Stoel Rives, LLP"
-      ],
-      "union_counsel": [
-        "Bennett Hartman"
-      ],
-      "case_page_fetched": "2026-07-26"
+      "eligible_voters": 23,
+      "votes_against": 6,
+      "ballots_counted": 22,
+      "void_ballots": 0,
+      "votes_for": 16,
+      "union": "Laborer's International Union of North America, Local 483",
+      "union_to_certify": "Laborer's International Union of North America, Local 483",
+      "unit_description": "Included: All full-time and regular part-time Visitor Relations employees, including Visitor Relations Associates, Seasonal Visitor Relations Associates, Visitor Relations Supervisors,  employed by the Employer at its facility located at 611 Southwest Kingston Avenue in Portland, Oregon.\n\nExcluded: All other employees, assistant managers, managers, and guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "18-RC-389924": {
       "case_number": "18-RC-389924",
@@ -20645,6 +20649,9 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Reed Smith"
+      ],
       "union_counsel": [
         "John F. Dascoli, PLLC"
       ],
@@ -20716,6 +20723,58 @@
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-07-27"
+    },
+    "05-RC-391511": {
+      "case_number": "05-RC-391511",
+      "employer": "Camden-Wyoming Fire Company",
+      "case_url": "https://www.nlrb.gov/case/05-RC-391511",
+      "case_type": "RC",
+      "date_filed": "2026-07-27",
+      "status": "Open",
+      "location": "Camden, DE",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-27"
+    },
+    "32-RD-391577": {
+      "case_number": "32-RD-391577",
+      "employer": "Cargill, Incorporated",
+      "case_url": "https://www.nlrb.gov/case/32-RD-391577",
+      "case_type": "RD",
+      "date_filed": "2026-07-27",
+      "status": "Open",
+      "location": "Newark, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 100,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-27"
+    },
+    "13-RC-372880": {
+      "case_number": "13-RC-372880",
+      "employer": "Constellation Energy Generation, LLC",
+      "case_url": "https://www.nlrb.gov/case/13-RC-372880",
+      "case_type": "RC",
+      "tally_date": "2026-07-27",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2025-09-08",
+      "status": "Open",
+      "location": "Warrenville, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 181,
+      "votes_against": 73,
+      "ballots_counted": 160,
+      "void_ballots": 0,
+      "votes_for": 87,
+      "union": "International Brotherhood of Electrical Workers Local 15",
+      "union_to_certify": "International Brotherhood of Electrical Workers Local 15",
+      "unit_description": "Included: All full-time and regular part-time ILT Trainees, Manager \nDevelopmental SROs, Operations Shift Supervisors, Supervisor of Field \nOperations, and WEC Coordinators employed by the Employer at its facilities \nlocated at its Braidwood Clean Energy Center in Braceville, IL, Byron Clean \nEnergy Center in Byron, IL, Dresden Clean Energy Center in Morris, IL, LaSalle \nClean Energy Center in Marseilles, IL, and Quad Cities Clean Energy Center in \nCordova, IL. \n\nExcluded:  Shift Managers, and guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     }
   }
 }
