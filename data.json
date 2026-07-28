@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28 14:05:45",
-  "total_cases": 979,
+  "last_updated": "2026-07-28 18:14:58",
+  "total_cases": 981,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11822,7 +11822,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-07-24"
+      "case_page_fetched": "2026-07-28"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -15184,7 +15184,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-24",
+      "case_page_fetched": "2026-07-28",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -15769,7 +15769,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-07-24",
+      "case_page_fetched": "2026-07-28",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -15846,7 +15846,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-24",
+      "case_page_fetched": "2026-07-28",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -17699,7 +17699,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-07-24",
+      "case_page_fetched": "2026-07-28",
       "election_date": "July 24 2026"
     },
     "25-RC-389899": {
@@ -17761,7 +17761,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-07-24"
+      "case_page_fetched": "2026-07-28"
     },
     "02-RM-389897": {
       "case_number": "02-RM-389897",
@@ -18795,7 +18795,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-24",
+      "case_page_fetched": "2026-07-28",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ]
@@ -18895,7 +18895,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-24"
+      "case_page_fetched": "2026-07-28"
     },
     "04-RC-390404": {
       "case_number": "04-RC-390404",
@@ -19014,7 +19014,7 @@
       "employer_counsel": [
         "Constangy, Brooks, Smith & Prophete, LLP"
       ],
-      "case_page_fetched": "2026-07-24",
+      "case_page_fetched": "2026-07-28",
       "election_date": "August 12 2026"
     },
     "03-RM-390516": {
@@ -19486,7 +19486,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-07-24"
+      "case_page_fetched": "2026-07-28"
     },
     "07-RC-390728": {
       "case_number": "07-RC-390728",
@@ -20293,7 +20293,7 @@
       "employer_counsel": [
         "Snell & Wilmer, LLP"
       ],
-      "case_page_fetched": "2026-07-24"
+      "case_page_fetched": "2026-07-28"
     },
     "22-RM-391300": {
       "case_number": "22-RM-391300",
@@ -20699,6 +20699,9 @@
       "eligible_voters": 20,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ],
       "case_page_fetched": "2026-07-28"
     },
     "13-RC-391537": {
@@ -20713,6 +20716,9 @@
       "eligible_voters": 23,
       "stage": "just_filed",
       "sector": "Hospitality & Food Service",
+      "employer_counsel": [
+        "Goldberg Kohn Ltd"
+      ],
       "union_counsel": [
         "Bush Gottlieb, ALC",
         "Willig, Williams & Davidson"
@@ -20759,6 +20765,9 @@
       "eligible_voters": 100,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Cozen O'Connor"
+      ],
       "case_page_fetched": "2026-07-28"
     },
     "13-RC-372880": {
@@ -20814,6 +20823,37 @@
       "eligible_voters": 41,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
+      "case_page_fetched": "2026-07-28"
+    },
+    "01-RC-391619": {
+      "case_number": "01-RC-391619",
+      "employer": "Rhode Island School of Design - Cafeteria",
+      "case_url": "https://www.nlrb.gov/case/01-RC-391619",
+      "case_type": "RC",
+      "date_filed": "2026-07-28",
+      "status": "Open",
+      "location": "Providence, RI",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 62,
+      "stage": "just_filed",
+      "sector": "Education",
+      "union_counsel": [
+        "Gursky, Wiens and Shanley"
+      ],
+      "case_page_fetched": "2026-07-28"
+    },
+    "18-RC-391617": {
+      "case_number": "18-RC-391617",
+      "employer": "Service Sanitation",
+      "case_url": "https://www.nlrb.gov/case/18-RC-391617",
+      "case_type": "RC",
+      "date_filed": "2026-07-27",
+      "status": "Open",
+      "location": "New Berlin, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 17,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-07-28"
     }
   }
