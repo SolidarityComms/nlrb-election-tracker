@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28 18:14:58",
-  "total_cases": 981,
+  "last_updated": "2026-07-28 22:59:14",
+  "total_cases": 987,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -19670,20 +19670,23 @@
       "employer": "Northern Westchester Hospital",
       "case_url": "https://www.nlrb.gov/case/02-RC-390898",
       "case_type": "RC",
+      "tally_date": "2026-08-14",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-15",
       "status": "Open",
       "location": "Mount Kisco, NY",
       "region": "Region 02, New York, New York",
-      "eligible_voters": 15,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "union_counsel": [
-        "Gladstein, Reif & Meginniss, LLP"
-      ],
-      "case_page_fetched": "2026-07-25",
-      "employer_counsel": [
-        "Littler Mendelson, P.C."
-      ]
+      "eligible_voters": 0,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "union": "1199 SEIU United Healthcare Workers East",
+      "union_to_certify": "1199 SEIU United Healthcare Workers East",
+      "unit_description": "Included: All full-time and regular part-time, and per-diem,* surgical supply\nassistants and telecommunications employees, including leads,\nemployed by the Employer at its facility located at 400 East Main\nStreet, Mount Kisco, New York, residual to the existing unit of\nservice and maintenance employees represented by 1199SEIU\nUnited Healthcare Workers East and who were employed by the employer in the pay period ending on July 18, 2026.\n\nExcluded: All other employees, including office clerical and administrative\nemployees, confidential employees, enterprise communications\ntechnicians, managers, guards, and professional employees, and\nsupervisors as defined by the Act.",
+      "outcome": "unknown",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "19-RC-390982": {
       "case_number": "19-RC-390982",
@@ -20737,6 +20740,9 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Preti Flaherty, LLP"
+      ],
       "case_page_fetched": "2026-07-28"
     },
     "05-RC-391511": {
@@ -20855,6 +20861,115 @@
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-07-28"
+    },
+    "04-RC-391653": {
+      "case_number": "04-RC-391653",
+      "employer": "Delaware Valley Community Health, Inc.",
+      "case_url": "https://www.nlrb.gov/case/04-RC-391653",
+      "case_type": "RC",
+      "date_filed": "2026-07-28",
+      "status": "Open",
+      "location": "Philadelphia, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Social Services & Nonprofit",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue, LLP"
+      ],
+      "case_page_fetched": "2026-07-28"
+    },
+    "01-RC-391656": {
+      "case_number": "01-RC-391656",
+      "employer": "Shred-IT Pawtucket",
+      "case_url": "https://www.nlrb.gov/case/01-RC-391656",
+      "case_type": "RC",
+      "date_filed": "2026-07-28",
+      "status": "Open",
+      "location": "Pawtucket, RI",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Technology & Professional",
+      "union_counsel": [
+        "Gursky, Wiens and Shanley"
+      ],
+      "case_page_fetched": "2026-07-28"
+    },
+    "16-RC-391655": {
+      "case_number": "16-RC-391655",
+      "employer": "Vestis",
+      "case_url": "https://www.nlrb.gov/case/16-RC-391655",
+      "case_type": "RC",
+      "date_filed": "2026-07-28",
+      "status": "Open",
+      "location": "Dallas, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Teamsters Local 745"
+      ],
+      "case_page_fetched": "2026-07-28"
+    },
+    "31-RC-391682": {
+      "case_number": "31-RC-391682",
+      "employer": "Ventura Transit System - Smart Shuttle",
+      "case_url": "https://www.nlrb.gov/case/31-RC-391682",
+      "case_type": "RC",
+      "date_filed": "2026-07-28",
+      "status": "Open",
+      "location": "Camarillo, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 37,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "Bush Gottlieb, a Law Corporation"
+      ],
+      "case_page_fetched": "2026-07-28"
+    },
+    "19-RC-391671": {
+      "case_number": "19-RC-391671",
+      "employer": "Avamere Cascade Park",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391671",
+      "case_type": "RC",
+      "date_filed": "2026-07-28",
+      "status": "Open",
+      "location": "Vancouver, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 35,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
+      ],
+      "case_page_fetched": "2026-07-28"
+    },
+    "15-RC-389145": {
+      "case_number": "15-RC-389145",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/15-RC-389145",
+      "case_type": "RC",
+      "tally_date": "2026-07-27",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-06-18",
+      "status": "Open",
+      "location": "Navarre, FL",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 20,
+      "votes_against": 9,
+      "ballots_counted": 19,
+      "void_ballots": 1,
+      "votes_for": 10,
+      "union": "Workers United a/w Service Employees International Union",
+      "union_to_certify": "Workers United a/w Service Employees International Union",
+      "unit_description": "Included: All full-time and regular part-time Baristas and Shift Supervisors employed by\nthe Employer at its facility located at 8252 Navarre Parkway, Navarre, Florida 32566.\nExcluded: All other employees, including all office clerical employees, professional\nemployees, store managers, coffeehouse leaders, assistant store managers, guards, and\nsupervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Hospitality & Food Service"
     }
   }
 }
