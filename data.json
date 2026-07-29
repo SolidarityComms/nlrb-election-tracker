@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29 18:09:15",
-  "total_cases": 998,
+  "last_updated": "2026-07-29 23:01:49",
+  "total_cases": 1003,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -13740,17 +13740,24 @@
       "employer": "Providence Regional Medical Center Everett",
       "case_url": "https://www.nlrb.gov/case/19-RC-387865",
       "case_type": "RC",
+      "tally_date": "2026-07-28",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-28",
       "status": "Open",
       "location": "Everett, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 44,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "case_page_fetched": "2026-07-29",
-      "employer_counsel": [
-        "Providence Health and Services"
-      ]
+      "eligible_voters": 72,
+      "votes_against": 23,
+      "ballots_counted": 63,
+      "void_ballots": 0,
+      "votes_for": 40,
+      "union": "The Pharmacy Guild/International Association of Machinists and Aerospace Workers",
+      "union_to_certify": "The Pharmacy Guild/International Association of Machinists and Aerospace Workers",
+      "unit_description": "Included: All full-time, regular part-time, and per-diem Pharmacists, including Clinical Pharmacists, Senior Clinical Pharmacists, Clinical Pharmacy Specialists, and Lead Clinical Pharmacists, employed by the Employer at Providence Regional Medical Center Everett located in Everett, Washington.\n\nExcluded: Pharmacy Managers, Clinical Pharmacy Managers, Clinical Pharmacy Supervisors, Pharmacy Residents, Pharmacy Interns, Pharmacy Technicians, Pharmacy Technician Supervisors, employees represented by other labor organizations, office clerical employees, all other employees, and guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "21-RC-387877": {
       "case_number": "21-RC-387877",
@@ -14683,23 +14690,27 @@
     },
     "15-RC-388329": {
       "case_number": "15-RC-388329",
-      "employer": "Centerra Group, a Constellis Company",
+      "employer": "Centerra Group, LLC",
       "case_url": "https://www.nlrb.gov/case/15-RC-388329",
       "case_type": "RC",
+      "tally_date": "2026-07-29",
+      "tally_type": "Initial",
+      "ballot_type": "Two Labor Organizations",
       "date_filed": "2026-06-04",
       "status": "Open",
       "location": "New Orleans, LA",
       "region": "Region 15, New Orleans, Louisiana",
       "eligible_voters": 47,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Centerra Group, a Constellis Company"
-      ],
-      "union_counsel": [
-        "Cohen Weiss and Simon, LLP"
-      ],
-      "case_page_fetched": "2026-07-28"
+      "votes_against": 0,
+      "ballots_counted": 43,
+      "void_ballots": 0,
+      "votes_for": 42,
+      "union": "United States Court Security Officers",
+      "union_to_certify": "United States Court Security Officers",
+      "unit_description": "Included: All full-time and shared-time Court Security Officers (CSOs) and Lead Court Security Officers (LCSOs) employed by Centerra Group, LLC, in the 5th Circuit, in the Eastern District of Louisiana, in the City of New Orleans.\n\nExcluded: All other employees, office clerical employees, professional employees, and supervisors as defined in the National Labor Relations Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "32-RC-388321": {
       "case_number": "32-RC-388321",
@@ -14774,7 +14785,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-07-25",
+      "case_page_fetched": "2026-07-29",
       "employer_counsel": [
         "Sutter Health CPMC"
       ]
@@ -15170,7 +15181,7 @@
       "union_counsel": [
         "Fennemore"
       ],
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29"
     },
     "18-RC-388594": {
       "case_number": "18-RC-388594",
@@ -15866,7 +15877,7 @@
       "union_counsel": [
         "NATIONAL RIGHT TO WORK LEGAL DEFENSE FOUNDATION, INC."
       ],
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29"
     },
     "08-RC-389010": {
       "case_number": "08-RC-389010",
@@ -18470,21 +18481,27 @@
     },
     "18-RC-390251": {
       "case_number": "18-RC-390251",
-      "employer": "Knife River",
+      "employer": "Knife River Corporation - North Central",
       "case_url": "https://www.nlrb.gov/case/18-RC-390251",
       "case_type": "RC",
+      "tally_date": "2026-07-29",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-09",
       "status": "Open",
       "location": "Hutchinson, MN",
       "region": "Region 18, Minneapolis, Minnesota",
-      "eligible_voters": 18,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Stinson LLP"
-      ],
-      "case_page_fetched": "2026-07-27",
-      "election_date": "July 29 2026"
+      "eligible_voters": 6,
+      "votes_against": 0,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "International Brotherhood of Teamsters, Local 120",
+      "union_to_certify": "International Brotherhood of Teamsters, Local 120",
+      "unit_description": "Included: All full-time and regular part-time drivers employed by the Employer at its Hutchinson, Minnesota facility. \n\nExcluded: All other employees, managerial employees, clerical employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "02-RC-390260": {
       "case_number": "02-RC-390260",
@@ -18956,20 +18973,24 @@
       "employer": "Kay and Associates, Inc.",
       "case_url": "https://www.nlrb.gov/case/32-RC-390416",
       "case_type": "RC",
+      "tally_date": "2026-07-29",
+      "tally_type": "",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-10",
       "status": "Open",
       "location": "Lemoore, CA",
       "region": "Region 32, Oakland, California",
-      "eligible_voters": 33,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-28",
-      "employer_counsel": [
-        "Seyfarth Shaw, LLP"
-      ]
+      "eligible_voters": 36,
+      "votes_against": 0,
+      "ballots_counted": 34,
+      "void_ballots": 0,
+      "votes_for": 34,
+      "union": "International Association of Machinists and Aerospace Workers District 725",
+      "union_to_certify": "International Association of Machinists and Aerospace Workers District 725",
+      "unit_description": "All full-time and regular part-time Mechanic 3\u2019s, Mechanic 2\u2019s, Mechanic 1\u2019s and Aircraft Workers employed by the Employer at VFA-125, O Level Flight Line Division, Hanger 5, NAS Lemoore, CA, excluding all other employees, confidential employees, office clerical employees, guards, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "27-RD-390414": {
       "case_number": "27-RD-390414",
@@ -19448,7 +19469,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29"
     },
     "21-RD-390732": {
       "case_number": "21-RD-390732",
@@ -19465,7 +19486,7 @@
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart P.C."
       ],
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29"
     },
     "02-RC-390706": {
       "case_number": "02-RC-390706",
@@ -19528,7 +19549,7 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25",
+      "case_page_fetched": "2026-07-29",
       "employer_counsel": [
         "Miller Canfield"
       ]
@@ -20208,7 +20229,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29"
     },
     "09-RC-391290": {
       "case_number": "09-RC-391290",
@@ -20350,7 +20371,7 @@
       "union_counsel": [
         "National Right to Work Legal Defense Foundation"
       ],
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29"
     },
     "19-RC-391354": {
       "case_number": "19-RC-391354",
@@ -20456,7 +20477,10 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29",
+      "employer_counsel": [
+        "The Kullman Firm"
+      ]
     },
     "05-RC-391384": {
       "case_number": "05-RC-391384",
@@ -20504,7 +20528,10 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ]
     },
     "19-RC-391426": {
       "case_number": "19-RC-391426",
@@ -20518,7 +20545,10 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ]
     },
     "12-RC-391438": {
       "case_number": "12-RC-391438",
@@ -20625,7 +20655,10 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ]
     },
     "19-RC-391430": {
       "case_number": "19-RC-391430",
@@ -20639,7 +20672,10 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ]
     },
     "19-RC-391431": {
       "case_number": "19-RC-391431",
@@ -20653,7 +20689,10 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-25"
+      "case_page_fetched": "2026-07-29",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ]
     },
     "18-RC-391475": {
       "case_number": "18-RC-391475",
@@ -20683,7 +20722,14 @@
       "region": "Region 06, Pittsburgh, Pennsylvania",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Reed Smith LLP"
+      ],
+      "union_counsel": [
+        "John F. Dascoli, PLLC"
+      ],
+      "case_page_fetched": "2026-07-29"
     },
     "15-RC-391499": {
       "case_number": "15-RC-391499",
@@ -20721,6 +20767,9 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
+      "union_counsel": [
+        "Law Office of Stephen Goldblatt, P.C."
+      ],
       "case_page_fetched": "2026-07-29"
     },
     "13-RC-391537": {
@@ -20755,7 +20804,11 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Preti Flaherty, LLP"
+      ],
+      "case_page_fetched": "2026-07-29"
     },
     "05-RC-391511": {
       "case_number": "05-RC-391511",
@@ -20824,6 +20877,9 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Quinn, Connor, Weaver, Davies & Rouco LLP"
       ],
@@ -20848,7 +20904,7 @@
     },
     "01-RC-391619": {
       "case_number": "01-RC-391619",
-      "employer": "Rhode Island School of Design - Cafeteria",
+      "employer": "Rhode Island School of Design",
       "case_url": "https://www.nlrb.gov/case/01-RC-391619",
       "case_type": "RC",
       "date_filed": "2026-07-28",
@@ -20909,7 +20965,11 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Technology & Professional"
+      "sector": "Technology & Professional",
+      "union_counsel": [
+        "Gursky, Wiens and Shanley"
+      ],
+      "case_page_fetched": "2026-07-29"
     },
     "16-RC-391655": {
       "case_number": "16-RC-391655",
@@ -20922,7 +20982,11 @@
       "region": "Region 16, Fort Worth, Texas",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Teamsters Local 745"
+      ],
+      "case_page_fetched": "2026-07-29"
     },
     "31-RC-391682": {
       "case_number": "31-RC-391682",
@@ -20996,7 +21060,8 @@
       "region": "Region 15, New Orleans, Louisiana",
       "eligible_voters": 10,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-07-29"
     },
     "05-RC-391697": {
       "case_number": "05-RC-391697",
@@ -21009,7 +21074,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Seyfarth Shaw LLP"
+      ],
+      "case_page_fetched": "2026-07-29"
     },
     "10-RC-391711": {
       "case_number": "10-RC-391711",
@@ -21039,7 +21108,8 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-07-29"
     },
     "01-RC-391728": {
       "case_number": "01-RC-391728",
@@ -21083,7 +21153,11 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-07-29"
     },
     "10-RD-391750": {
       "case_number": "10-RD-391750",
@@ -21144,7 +21218,100 @@
       "region": "Region 20, San Francisco, California",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-07-29"
+    },
+    "02-RC-391785": {
+      "case_number": "02-RC-391785",
+      "employer": "Auto Zone, Inc.",
+      "case_url": "https://www.nlrb.gov/case/02-RC-391785",
+      "case_type": "RC",
+      "date_filed": "2026-07-29",
+      "status": "Open",
+      "location": "White Plains, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-07-29"
+    },
+    "12-RC-391766": {
+      "case_number": "12-RC-391766",
+      "employer": "YMCA South Florida",
+      "case_url": "https://www.nlrb.gov/case/12-RC-391766",
+      "case_type": "RC",
+      "date_filed": "2026-07-29",
+      "status": "Open",
+      "location": "Pembroke Pines, FL",
+      "region": "Region 12, Tampa, Florida",
+      "eligible_voters": 40,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Sugarman, Susskind, Braswell & Herrera, P.A."
+      ],
+      "case_page_fetched": "2026-07-29"
+    },
+    "19-RC-391789": {
+      "case_number": "19-RC-391789",
+      "employer": "Sunoco",
+      "case_url": "https://www.nlrb.gov/case/19-RC-391789",
+      "case_type": "RC",
+      "date_filed": "2026-07-29",
+      "status": "Open",
+      "location": "Portland, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-29"
+    },
+    "19-RD-391788": {
+      "case_number": "19-RD-391788",
+      "employer": "Seattle Roots Community Health",
+      "case_url": "https://www.nlrb.gov/case/19-RD-391788",
+      "case_type": "RD",
+      "date_filed": "2026-07-29",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 139,
+      "stage": "just_filed",
+      "sector": "Social Services & Nonprofit",
+      "employer_counsel": [
+        "Davis Grimm Payne & Marra"
+      ],
+      "case_page_fetched": "2026-07-29"
+    },
+    "22-RC-390478": {
+      "case_number": "22-RC-390478",
+      "employer": "CBS STUDIOS, INC.",
+      "case_url": "https://www.nlrb.gov/case/22-RC-390478",
+      "case_type": "RC",
+      "tally_date": "2026-07-29",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-07-10",
+      "status": "Open",
+      "location": "Kearny, NJ",
+      "region": "Region 22, Newark, New Jersey",
+      "eligible_voters": 25,
+      "votes_against": 0,
+      "ballots_counted": 13,
+      "void_ballots": 0,
+      "votes_for": 13,
+      "union": "LABORERS INTERNATIONAL UNION OF NORTH AMERICA, LOCAL 724",
+      "union_to_certify": "LABORERS INTERNATIONAL UNION OF NORTH AMERICA, LOCAL 724",
+      "unit_description": "INCLUDED:  \tAll full-time and regular part-time Production Assistants (\"PA\") including 1st Team Production Assistants, Art Department Production Assistants, Construction Production Assistants, Costume Department Production Assistants, Office Production Assistants, Key Set Production Assistants, Set Production Assistants, Additional Set Production Assistants, Paperwork Production Assistants, Unit Production Assistants, and Walkie Production Assistants employed by the Employer on the episodic television production entitled \u201cCupertino\u201d at its 10 Basin Drive, Kearny, New Jersey facility. \nEXCLUDED:  \tAll Office Clerical Employees, Guards, Professional Employees, and Supervisors as defined in the Act, and all other employees.\nOTHERS PERMITTED TO VOTE: The parties have agreed that the following employees may vote in the election but their ballots will be challenged since their eligibility has not been resolved: Executive Producers\u2019 Assistants, Producers\u2019 Assistants, Production Secretaries, and Showrunners\u2019 Assistants.\nNo decision has been made regarding whether these classifications are included or excluded from the bargaining unit(s). The eligibility or inclusion of these employees will be resolved, including any community of interest issues, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     }
   }
 }
