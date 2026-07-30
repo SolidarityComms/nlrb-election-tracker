@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30 18:17:08",
-  "total_cases": 1014,
+  "last_updated": "2026-07-30 23:10:21",
+  "total_cases": 1015,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -138,7 +138,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -506,7 +506,7 @@
         "National Right to Work Legal Defense Foundation",
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "employer_counsel": [
         "Bucci Law"
       ]
@@ -1165,7 +1165,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1572,7 +1572,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1999,7 +1999,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -11305,7 +11305,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -12191,7 +12191,7 @@
       "employer_counsel": [
         "Morgan, Lewis & Bockius"
       ],
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "election_date": "June 5 2026"
     },
     "18-RC-387370": {
@@ -12409,7 +12409,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12464,7 +12464,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -13323,7 +13323,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -14229,23 +14229,26 @@
     },
     "19-RC-388104": {
       "case_number": "19-RC-388104",
-      "employer": "NASSCO-Bremerton",
+      "employer": "Metro Machine Corp. d/b/a General Dynamics NASSCO-Bremerton",
       "case_url": "https://www.nlrb.gov/case/19-RC-388104",
       "case_type": "RC",
+      "tally_date": "2026-07-30",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-02",
       "status": "Open",
       "location": "Bremerton, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 39,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
-      ],
-      "union_counsel": [
-        "Weinberg, Roger & Rosenfeld"
-      ],
-      "case_page_fetched": "2026-07-30"
+      "eligible_voters": 47,
+      "votes_against": 12,
+      "ballots_counted": 44,
+      "void_ballots": 0,
+      "votes_for": 24,
+      "union": "International Brotherhood of Boilermakers, Iron Shipbuilders, Blacksmith, Forgers and Helpers Local 104",
+      "union_to_certify": "International Brotherhood of Boilermakers, Iron Shipbuilders, Blacksmith, Forgers and Helpers Local 104",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Other"
     },
     "14-RC-388116": {
       "case_number": "14-RC-388116",
@@ -14608,7 +14611,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14747,7 +14750,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -14977,22 +14980,20 @@
       "employer": "Heathers USA LLC",
       "case_url": "https://www.nlrb.gov/case/02-RC-385027",
       "case_type": "RC",
-      "tally_date": "2026-06-08",
-      "tally_type": "Initial",
+      "tally_date": "2026-08-19",
+      "tally_type": "Rerun",
       "ballot_type": "Single Labor Organization",
       "date_filed": "2026-04-16",
       "status": "Open",
       "location": "New York, NY",
       "region": "Region 02, New York, New York",
-      "eligible_voters": 17,
+      "eligible_voters": 0,
       "votes_against": 0,
-      "ballots_counted": 8,
+      "ballots_counted": 0,
       "void_ballots": 0,
-      "votes_for": 7,
       "union": "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts, of the United States, its Territories and Canada, AFL-CIO, CLC",
-      "union_to_certify": "International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists and Allied Crafts, of the United States, its Territories and Canada, AFL-CIO, CLC",
       "unit_description": "Included: \nAll full-time, regular part-time, and on-call A1s, A2s, Light Board Operators, Follow Spot Operators, Deck Run Crew, Props Run Crew, Wardrobe Assistants, Laundry Person, and Hair Supervisors employed by the Employer in connection with the theatrical production known as \u201cHeathers\u201d at New World Stages, 340 W 50th Street, New York, NY 10019, who were employed during the payroll period ending on April 26, 2026,\n\nExcluded: \nAll other employees, clerical employees, guards and supervisors as defined by the Act.\n\nOthers permitted to vote: \nThe parties have agreed that the Wardrobe Supervisor may vote in the election, but their ballots will be challenged since their eligibility has not been resolved. No decision has been made regarding whether the individuals in this classification or group are included in, or excluded from, the bargaining unit. The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
-      "outcome": "union_won",
+      "outcome": "unknown",
       "stage": "tally_issued",
       "sector": "Manufacturing"
     },
@@ -16056,7 +16057,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -16786,7 +16787,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -17268,7 +17269,7 @@
       "union_counsel": [
         "Law Office of Florice Hoffman, L.C."
       ],
-      "case_page_fetched": "2026-07-26",
+      "case_page_fetched": "2026-07-30",
       "election_date": "August 05 2026"
     },
     "19-RC-389543": {
@@ -17605,7 +17606,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -18236,18 +18237,24 @@
       "employer": "Amentum Services, Inc.",
       "case_url": "https://www.nlrb.gov/case/28-RC-390142",
       "case_type": "RC",
+      "tally_date": "2026-07-29",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-06",
       "status": "Open",
       "location": "Holloman AFB, NM",
       "region": "Region 28, Phoenix, Arizona",
       "eligible_voters": 32,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "International Association of Machinists and Aerospace Workers, AFL-CIO"
-      ],
-      "case_page_fetched": "2026-07-28",
-      "election_date": "July 29 2026"
+      "votes_against": 5,
+      "ballots_counted": 30,
+      "void_ballots": 0,
+      "votes_for": 21,
+      "union": "International Association of Machinists & Aerospace Workers, AFL-CIO, Local Lodge 2515",
+      "union_to_certify": "International Association of Machinists & Aerospace Workers, AFL-CIO, Local Lodge 2515",
+      "unit_description": "INCLUDED: All full-time and regular part-time Supply Clerks, Supply Techs, Logistic Specialists, Workload Specialists, Fuels Support Equipment Mechanics, Fuels Support Equipment Technicians, Mobile AC Arresting Systems Technicians, Traffic Management Specialists, QA\u2019s, Property Specialists, Heavy Equipment Mechanics, Fabrication Technicians, Power Pro Technician/Ground Support Equipment Mechanics, and Packing and Crating employed by the Employer at its Holloman AFB operation.\n\nOthers permitted to vote: The parties have agreed that Technical Order Distribution Office (TODO) and Procurement Specialists may vote in the election but their ballots will be challenged\nsince their eligibility has not been resolved. No decision has been made regarding whether the individuals in these classifications or groups are included in, or excluded from, the bargaining unit. The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.\n\nEXCLUDED: All other employees, clerical employees, confidential employees, temporary employees, seasonal employees, managerial employees, guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "13-RD-390169": {
       "case_number": "13-RD-390169",
@@ -18435,7 +18442,7 @@
       "employer_counsel": [
         "The Boeing Company"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "21-RC-390232": {
       "case_number": "21-RC-390232",
@@ -19894,9 +19901,9 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
-        "Reed Smith"
+        "Reed Smith LLP"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30"
     },
     "28-RC-391053": {
       "case_number": "28-RC-391053",
@@ -20617,7 +20624,10 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30",
+      "employer_counsel": [
+        "Ogletree Deakin"
+      ]
     },
     "01-RC-391456": {
       "case_number": "01-RC-391456",
@@ -20631,7 +20641,10 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-30",
+      "employer_counsel": [
+        "Ogletree Deakin"
+      ]
     },
     "31-RC-391469": {
       "case_number": "31-RC-391469",
@@ -20977,6 +20990,9 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Social Services & Nonprofit",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "O'Donoghue & O'Donoghue, LLP"
       ],
@@ -20993,7 +21009,11 @@
       "region": "Region 01, Boston, Massachusetts",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Technology & Professional"
+      "sector": "Technology & Professional",
+      "union_counsel": [
+        "Gursky, Wiens and Shanley"
+      ],
+      "case_page_fetched": "2026-07-30"
     },
     "16-RC-391655": {
       "case_number": "16-RC-391655",
@@ -21139,7 +21159,8 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-07-30"
     },
     "01-RC-391728": {
       "case_number": "01-RC-391728",
@@ -21201,6 +21222,9 @@
       "eligible_voters": 40,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Fisher & Phillips LLP"
+      ],
       "case_page_fetched": "2026-07-30"
     },
     "16-RC-391718": {
@@ -21472,6 +21496,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
+        "Gregory Moore Brooks Clark & Helton, PC",
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
       "case_page_fetched": "2026-07-30"
@@ -21488,6 +21513,9 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree Deakins Nash Smoak & Stewart P.C."
+      ],
       "case_page_fetched": "2026-07-30"
     },
     "28-RC-391837": {
@@ -21530,6 +21558,23 @@
       "eligible_voters": 344,
       "stage": "just_filed",
       "sector": "Other",
+      "case_page_fetched": "2026-07-30"
+    },
+    "09-RM-391876": {
+      "case_number": "09-RM-391876",
+      "employer": "OHIOHEALTH NELSONVILLE HEALTH CENTER",
+      "case_url": "https://www.nlrb.gov/case/09-RM-391876",
+      "case_type": "RM",
+      "date_filed": "2026-07-29",
+      "status": "Open",
+      "location": "Nelsonville, OH",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Baker & Hostetler LLP"
+      ],
       "case_page_fetched": "2026-07-30"
     }
   }
