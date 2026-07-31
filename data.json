@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31 14:03:16",
-  "total_cases": 1019,
+  "last_updated": "2026-07-31 18:22:11",
+  "total_cases": 1024,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11037,7 +11037,7 @@
         "O'Donohue and O'Donoghue",
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Kostopoulos Rodriguez, PLLC"
       ]
@@ -11682,7 +11682,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
@@ -11782,7 +11782,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "01-RC-387216": {
       "case_number": "01-RC-387216",
@@ -11980,7 +11980,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Foster Garvey PC"
       ]
@@ -12576,7 +12576,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "election_date": "June 18 2026"
     },
     "21-RC-387503": {
@@ -12682,7 +12682,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Manufacturing",
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Scopelitis, Garvin, Light, Hanson & Feary, PC"
       ]
@@ -12814,7 +12814,7 @@
       "union_counsel": [
         "Sherrard, German & Kelly, P.C."
       ],
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "election_date": "June 30 2026",
       "employer_counsel": [
         "Peoples Natural Gas Company, LLC"
@@ -12832,7 +12832,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
@@ -14417,7 +14417,7 @@
       "employer_counsel": [
         "Baker Law PLC"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "01-RC-388165": {
       "case_number": "01-RC-388165",
@@ -14437,7 +14437,7 @@
       "union_counsel": [
         "Gursky Weins & Shanley"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "09-RC-388237": {
       "case_number": "09-RC-388237",
@@ -15403,7 +15403,7 @@
       "union_counsel": [
         "IUOE Local 302, affiliated with the International Union of Operating Engineers, AFL-CIO"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "16-RC-388721": {
       "case_number": "16-RC-388721",
@@ -15722,7 +15722,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "29-RC-388909": {
       "case_number": "29-RC-388909",
@@ -16447,7 +16447,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart P.C."
       ]
@@ -16595,7 +16595,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "21-RC-389303": {
       "case_number": "21-RC-389303",
@@ -16633,7 +16633,7 @@
       "union_counsel": [
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "10-RD-389328": {
       "case_number": "10-RD-389328",
@@ -16993,23 +16993,26 @@
     },
     "22-RC-389453": {
       "case_number": "22-RC-389453",
-      "employer": "Yona Solutions",
+      "employer": "YONA EAGLE STAFF LEASING, LLC",
       "case_url": "https://www.nlrb.gov/case/22-RC-389453",
       "case_type": "RC",
+      "tally_date": "2026-07-30",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-25",
       "status": "Open",
       "location": "Matawan, NJ",
       "region": "Region 22, Newark, New Jersey",
-      "eligible_voters": 20,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Fisher Phillips"
-      ],
-      "union_counsel": [
-        "Gladstein, Reif & Meginniss, LLP"
-      ],
-      "case_page_fetched": "2026-07-29"
+      "eligible_voters": 0,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "union": "1199 SEIU UNITED HEALTHCARE WORKERS EAST",
+      "union_to_certify": "1199 SEIU UNITED HEALTHCARE WORKERS EAST",
+      "unit_description": "INCLUDING: \tAll full-time, regular part-time and per diem* housekeeping aides, porters, laundry aides, dietary aides, and cooks employees employed by the Employer at its 625 Route 34, Matawan, New Jersey location.\n\n\tEXCLUDING: \tAll office clerical employees, managerial employees, guards, professional employees and supervisors as defined in the Act, and all other employees.\n\n*Eligible to vote are those employees who averaged 4 hours or more per week during the 13 weeks prior to the pay period ending June 27, 2026.  Davison-Paxson, 185 NLRB 21 (1970).",
+      "outcome": "unknown",
+      "stage": "tally_issued",
+      "sector": "Hospitality & Food Service"
     },
     "01-RC-389460": {
       "case_number": "01-RC-389460",
@@ -17051,23 +17054,27 @@
     },
     "22-RC-389446": {
       "case_number": "22-RC-389446",
-      "employer": "Complete Care at Madison",
+      "employer": "COMPLETE CARE AT MADISON, LLC",
       "case_url": "https://www.nlrb.gov/case/22-RC-389446",
       "case_type": "RC",
+      "tally_date": "2026-07-30",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-25",
       "status": "Open",
       "location": "Matawan, NJ",
       "region": "Region 22, Newark, New Jersey",
-      "eligible_voters": 65,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Gladstein, Reif & Meginniss, LLP"
-      ],
-      "case_page_fetched": "2026-07-29",
-      "employer_counsel": [
-        "Genova Burns, LLC"
-      ]
+      "eligible_voters": 67,
+      "votes_against": 2,
+      "ballots_counted": 46,
+      "void_ballots": 1,
+      "votes_for": 44,
+      "union": "1199 SEIU UNITED HEALTHCARE WORKERS EAST",
+      "union_to_certify": "1199 SEIU UNITED HEALTHCARE WORKERS EAST",
+      "unit_description": "INCLUDED:\tAll full-time, regular part-time, and per diem* Non-Professional Employees, including: Licensed Practical Nurses (LPNs), Certified Nursing Assistants (CNAs), Recreation Aides, Unit Secretaries, and Maintenance employees, employed by the Employer at its 625 Route 34, Matawan, New Jersey facility.\n\n\tEXCLUDED:\tAll Clerical Employees, Managerial Employees, Guards, Professionals and Supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "03-RC-389463": {
       "case_number": "03-RC-389463",
@@ -18609,7 +18616,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Technology & Professional",
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "22-RC-390287": {
       "case_number": "22-RC-390287",
@@ -18732,7 +18739,7 @@
         "Ogletree Deakins",
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "25-RC-390329": {
       "case_number": "25-RC-390329",
@@ -18764,7 +18771,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Ballard Spahr LLP"
       ]
@@ -19145,7 +19152,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "19-RC-386775": {
       "case_number": "19-RC-386775",
@@ -19713,21 +19720,24 @@
       "employer": "Interstate Power Systems, Inc.",
       "case_url": "https://www.nlrb.gov/case/25-RC-390875",
       "case_type": "RC",
+      "tally_date": "2026-07-31",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-17",
       "status": "Open",
       "location": "Rockford, IL",
       "region": "Region 25, Indianapolis, Indiana",
-      "eligible_voters": 10,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "International Union of Operating Engineers Local 150, AFL-CIO"
-      ],
-      "case_page_fetched": "2026-07-31",
-      "employer_counsel": [
-        "Felhaber Larson"
-      ],
-      "election_date": "July 31 2026"
+      "eligible_voters": 9,
+      "votes_against": 1,
+      "ballots_counted": 9,
+      "void_ballots": 0,
+      "votes_for": 8,
+      "union": "International Union of Operating Engineers Local 150, AFL-CIO",
+      "union_to_certify": "International Union of Operating Engineers Local 150, AFL-CIO",
+      "unit_description": "Included:  All full-time and regular part-time apprentices, technician Is, technician IIs, senior technicians, field technician Is, field technician IIs, field service technicians, senior field technicians, and service foremen employed by the Employer out of its facility located at 3736 11th Street Rockford, Illinois.\n\nExcluded:  All parts counter employees, service advisors, sales representatives, branch administrators, office clerical employees, guards, professional employees and supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "02-RC-390898": {
       "case_number": "02-RC-390898",
@@ -19890,7 +19900,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "06-RC-391026": {
       "case_number": "06-RC-391026",
@@ -20046,7 +20056,7 @@
       "union_counsel": [
         "Blake & Uhlig PA"
       ],
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Polsinelli P.C."
       ]
@@ -20142,7 +20152,11 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31",
+      "employer_counsel": [
+        "Fisher & Phillips, LLP",
+        "Fisher Phillips LLP"
+      ]
     },
     "18-RC-389251": {
       "case_number": "18-RC-389251",
@@ -20214,7 +20228,14 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31",
+      "election_date": "August 25 2026",
+      "employer_counsel": [
+        "Clifton Budd & DeMaria, LLP"
+      ],
+      "union_counsel": [
+        "Pitta, LLP"
+      ]
     },
     "19-RC-391260": {
       "case_number": "19-RC-391260",
@@ -21167,7 +21188,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Jones Lang LaSalle Americas, Inc."
+      ],
+      "case_page_fetched": "2026-07-31"
     },
     "01-RC-391728": {
       "case_number": "01-RC-391728",
@@ -21211,7 +21236,11 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue LLP"
+      ],
+      "case_page_fetched": "2026-07-31"
     },
     "10-RD-391750": {
       "case_number": "10-RD-391750",
@@ -21219,7 +21248,7 @@
       "case_url": "https://www.nlrb.gov/case/10-RD-391750",
       "case_type": "RD",
       "date_filed": "2026-07-29",
-      "status": "Open",
+      "status": "Closed",
       "location": "Louisville, KY",
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 40,
@@ -21391,7 +21420,7 @@
       "union_counsel": [
         "CDR Labor Law, LLC"
       ],
-      "case_page_fetched": "2026-07-30"
+      "case_page_fetched": "2026-07-31"
     },
     "07-RC-349280": {
       "case_number": "07-RC-349280",
@@ -21452,7 +21481,8 @@
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-07-31"
     },
     "22-RC-391825": {
       "case_number": "22-RC-391825",
@@ -21473,7 +21503,7 @@
     },
     "21-RC-391845": {
       "case_number": "21-RC-391845",
-      "employer": "Allied Universal",
+      "employer": "Universal Protection Service, LP d/b/a Allied Universal Security Services",
       "case_url": "https://www.nlrb.gov/case/21-RC-391845",
       "case_type": "RC",
       "date_filed": "2026-07-30",
@@ -21482,8 +21512,12 @@
       "region": "Region 21, Los Angeles, California",
       "eligible_voters": 22,
       "stage": "just_filed",
-      "sector": "Other",
+      "sector": "Security & Public Safety",
+      "employer_counsel": [
+        "Martenson, Hasbrouck & Simon LLP"
+      ],
       "union_counsel": [
+        "International Union, Security, Police and Fire Professionals of America (SPFPA)",
         "Gregory, Moore., Brooks, Clark & Helton, P.C."
       ],
       "case_page_fetched": "2026-07-31"
@@ -21534,7 +21568,8 @@
       "region": "Region 28, Phoenix, Arizona",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-07-31"
     },
     "28-RC-391836": {
       "case_number": "28-RC-391836",
@@ -21645,6 +21680,78 @@
       "union_counsel": [
         "Willig, Williams & Davidson"
       ],
+      "case_page_fetched": "2026-07-31"
+    },
+    "01-RC-391936": {
+      "case_number": "01-RC-391936",
+      "employer": "Cherry Pi d/b/a Catalpa Cafe",
+      "case_url": "https://www.nlrb.gov/case/01-RC-391936",
+      "case_type": "RC",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "Northampton, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Pyle Rome Ehrenberg PC"
+      ],
+      "case_page_fetched": "2026-07-31"
+    },
+    "15-RC-391950": {
+      "case_number": "15-RC-391950",
+      "employer": "Jazz Casino Company LLC d/b/a Caesars New Orleans",
+      "case_url": "https://www.nlrb.gov/case/15-RC-391950",
+      "case_type": "RC",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "New Orleans, LA",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 325,
+      "stage": "just_filed",
+      "sector": "Hospitality & Food Service",
+      "case_page_fetched": "2026-07-31"
+    },
+    "14-RC-391928": {
+      "case_number": "14-RC-391928",
+      "employer": "Ford Motor Company",
+      "case_url": "https://www.nlrb.gov/case/14-RC-391928",
+      "case_type": "RC",
+      "date_filed": "2026-07-30",
+      "status": "Open",
+      "location": "Kansas City, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 1,
+      "stage": "just_filed",
+      "sector": "Other"
+    },
+    "29-RD-391934": {
+      "case_number": "29-RD-391934",
+      "employer": "Senior Transportation Town of Babylon",
+      "case_url": "https://www.nlrb.gov/case/29-RD-391934",
+      "case_type": "RD",
+      "date_filed": "2026-07-30",
+      "status": "Open",
+      "location": "Amityville, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 28,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "case_page_fetched": "2026-07-31"
+    },
+    "05-RC-391944": {
+      "case_number": "05-RC-391944",
+      "employer": "Measured Threats Applications and Consulting, Inc. (MTAC)",
+      "case_url": "https://www.nlrb.gov/case/05-RC-391944",
+      "case_type": "RC",
+      "date_filed": "2026-07-30",
+      "status": "Open",
+      "location": "Sterling, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-07-31"
     }
   }
