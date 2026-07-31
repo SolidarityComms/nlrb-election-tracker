@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31 18:22:11",
-  "total_cases": 1024,
+  "last_updated": "2026-07-31 23:02:10",
+  "total_cases": 1030,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -1269,7 +1269,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-31"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -15497,7 +15497,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Clifton Budd & DeMaria LLP"
       ],
@@ -15541,7 +15541,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -17824,7 +17824,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-07-27",
+      "case_page_fetched": "2026-07-31",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -18743,18 +18743,27 @@
     },
     "25-RC-390329": {
       "case_number": "25-RC-390329",
-      "employer": "Pointcore - OSF St. Joseph Medical Center",
+      "employer": "Pointcore, Inc.",
       "case_url": "https://www.nlrb.gov/case/25-RC-390329",
       "case_type": "RC",
+      "tally_date": "2026-07-30",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-09",
       "status": "Open",
       "location": "Bloomington, IL",
       "region": "Region 25, Indianapolis, Indiana",
       "eligible_voters": 14,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "case_page_fetched": "2026-07-31",
-      "election_date": "July 30 2026"
+      "votes_against": 4,
+      "ballots_counted": 14,
+      "void_ballots": 0,
+      "votes_for": 10,
+      "union": "International Union of Operating Engineers Local 399",
+      "union_to_certify": "International Union of Operating Engineers Local 399",
+      "unit_description": "Included: All full-time and regular part-time skilled maintenance employees including maintenance techs, boiler operators, and painters employed by the Employer at the facility located at 2200 E. Washington Street, Bloomington, IL.\n\nExcluded: All officer clerical employees, temporary employees, managerial employees and professional employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Construction & Utilities"
     },
     "19-RC-390342": {
       "case_number": "19-RC-390342",
@@ -18833,7 +18842,7 @@
       "employer_counsel": [
         "Heidelberg Materials Midwest Aggregates, Inc."
       ],
-      "case_page_fetched": "2026-07-27"
+      "case_page_fetched": "2026-07-31"
     },
     "29-RD-390383": {
       "case_number": "29-RD-390383",
@@ -20340,7 +20349,10 @@
       "union_counsel": [
         "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
       ],
-      "case_page_fetched": "2026-07-26"
+      "case_page_fetched": "2026-07-31",
+      "employer_counsel": [
+        "Ford Motor Company"
+      ]
     },
     "32-RC-391301": {
       "case_number": "32-RC-391301",
@@ -21724,7 +21736,14 @@
       "region": "Region 14, Saint Louis, Missouri",
       "eligible_voters": 1,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Ford Motor Company"
+      ],
+      "union_counsel": [
+        "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
+      ],
+      "case_page_fetched": "2026-07-31"
     },
     "29-RD-391934": {
       "case_number": "29-RD-391934",
@@ -21750,6 +21769,102 @@
       "location": "Sterling, VA",
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-31"
+    },
+    "18-RC-391968": {
+      "case_number": "18-RC-391968",
+      "employer": "M Health Fairview",
+      "case_url": "https://www.nlrb.gov/case/18-RC-391968",
+      "case_type": "RC",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "Edina, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 44,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "M Health Fairview"
+      ],
+      "case_page_fetched": "2026-07-31"
+    },
+    "10-RC-391969": {
+      "case_number": "10-RC-391969",
+      "employer": "Vestis",
+      "case_url": "https://www.nlrb.gov/case/10-RC-391969",
+      "case_type": "RC",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "Greensboro, NC",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-31"
+    },
+    "31-RC-391985": {
+      "case_number": "31-RC-391985",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/31-RC-391985",
+      "case_type": "RC",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "San Luis Obispo, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Law Office of Robert S. Giolito PC"
+      ],
+      "case_page_fetched": "2026-07-31"
+    },
+    "21-RC-391965": {
+      "case_number": "21-RC-391965",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/21-RC-391965",
+      "case_type": "RC",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "San Diego, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Law Office of Robert S. Giolito PC"
+      ],
+      "case_page_fetched": "2026-07-31"
+    },
+    "05-RC-391933": {
+      "case_number": "05-RC-391933",
+      "employer": "Measured Threats Applications and Consulting, Inc. (MTAC)",
+      "case_url": "https://www.nlrb.gov/case/05-RC-391933",
+      "case_type": "RC",
+      "date_filed": "2026-07-30",
+      "status": "Open",
+      "location": "Sterling, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-07-31"
+    },
+    "28-RC-391959": {
+      "case_number": "28-RC-391959",
+      "employer": "Magnificus Corporation",
+      "case_url": "https://www.nlrb.gov/case/28-RC-391959",
+      "case_type": "RC",
+      "date_filed": "2026-07-29",
+      "status": "Open",
+      "location": "Fort Bliss, TX",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 37,
       "stage": "just_filed",
       "sector": "Other",
       "case_page_fetched": "2026-07-31"
