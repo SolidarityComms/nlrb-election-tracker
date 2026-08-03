@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03 18:51:55",
-  "total_cases": 1032,
+  "last_updated": "2026-08-03 22:59:51",
+  "total_cases": 1034,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -21924,6 +21924,37 @@
       "sector": "Other",
       "union_counsel": [
         "Levy Ratner, P.C."
+      ],
+      "case_page_fetched": "2026-08-03"
+    },
+    "07-RD-392081": {
+      "case_number": "07-RD-392081",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/07-RD-392081",
+      "case_type": "RD",
+      "date_filed": "2026-08-03",
+      "status": "Open",
+      "location": "Brighton, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 27,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-03"
+    },
+    "31-RC-392088": {
+      "case_number": "31-RC-392088",
+      "employer": "Boeing LAX / Millennium Space Services",
+      "case_url": "https://www.nlrb.gov/case/31-RC-392088",
+      "case_type": "RC",
+      "date_filed": "2026-08-03",
+      "status": "Open",
+      "location": "El Segundo, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 530,
+      "stage": "just_filed",
+      "sector": "Manufacturing",
+      "employer_counsel": [
+        "Blank Rome LLP"
       ],
       "case_page_fetched": "2026-08-03"
     }
