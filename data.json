@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04 18:27:31",
-  "total_cases": 1039,
+  "last_updated": "2026-08-04 23:03:37",
+  "total_cases": 1042,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -22024,11 +22024,14 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
+      "employer_counsel": [
+        "Downs Rachlin Martin PLLC"
+      ],
       "case_page_fetched": "2026-08-04"
     },
     "10-RD-392151": {
       "case_number": "10-RD-392151",
-      "employer": "LGE AND KU ENERGY LLC",
+      "employer": "LG&E AND KU ENERGY LLC",
       "case_url": "https://www.nlrb.gov/case/10-RD-392151",
       "case_type": "RD",
       "date_filed": "2026-08-04",
@@ -22055,6 +22058,48 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
+      "case_page_fetched": "2026-08-04"
+    },
+    "10-RM-392172": {
+      "case_number": "10-RM-392172",
+      "employer": "Volunteer Ministry Center (VMC)",
+      "case_url": "https://www.nlrb.gov/case/10-RM-392172",
+      "case_type": "RM",
+      "date_filed": "2026-08-04",
+      "status": "Open",
+      "location": "Knoxville, TN",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-04"
+    },
+    "10-RC-392179": {
+      "case_number": "10-RC-392179",
+      "employer": "Butterball",
+      "case_url": "https://www.nlrb.gov/case/10-RC-392179",
+      "case_type": "RC",
+      "date_filed": "2026-08-04",
+      "status": "Open",
+      "location": "Raeford, NC",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 50,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-04"
+    },
+    "31-RD-392203": {
+      "case_number": "31-RD-392203",
+      "employer": "Sweet Flower",
+      "case_url": "https://www.nlrb.gov/case/31-RD-392203",
+      "case_type": "RD",
+      "date_filed": "2026-08-04",
+      "status": "Open",
+      "location": "Pasadena, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 53,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-08-04"
     }
   }
