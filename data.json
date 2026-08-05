@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05 18:22:10",
-  "total_cases": 1049,
+  "last_updated": "2026-08-05 22:59:24",
+  "total_cases": 1051,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -12356,25 +12356,27 @@
     },
     "32-RC-387441": {
       "case_number": "32-RC-387441",
-      "employer": "Simplot Grower Solutions",
+      "employer": "J.R. Simplot Company, LLC",
       "case_url": "https://www.nlrb.gov/case/32-RC-387441",
       "case_type": "RC",
+      "tally_date": "2026-08-05",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-05-21",
       "status": "Open",
       "location": "Kerman, CA",
       "region": "Region 32, Oakland, California",
-      "eligible_voters": 13,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Beeson, Tayer & Bodine"
-      ],
-      "case_page_fetched": "2026-08-03",
-      "employer_counsel": [
-        "Ogletree Deakins Nash Smoak & Stewart, PC",
-        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
-        "Ogletree Deakins"
-      ]
+      "eligible_voters": 16,
+      "votes_against": 3,
+      "ballots_counted": 16,
+      "void_ballots": 0,
+      "votes_for": 13,
+      "union": "Teamsters Local 431",
+      "union_to_certify": "Teamsters Local 431",
+      "unit_description": "EMPLOYEES ELIGIBLE TO VOTE: \nThose eligible to vote are: All full-time and regular part-time drivers, including Operations Support 3 Helm SGS AB and Seasonal DOT Operations Support Helm SGS AB, working out of the Employer\u2019s 16429 W  Kamm Ave., Helm, CA 93627 facility, who were employed by the Employer during the payroll period  ending July 19, 2026. \n\nEMPLOYEES NOT ELIGIBLE TO VOTE: \nThose not eligible to vote are: All other employees, office clerical employees, managerial employees, professional employees, guards, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "31-RC-387458": {
       "case_number": "31-RC-387458",
@@ -15813,17 +15815,24 @@
       "employer": "Allied Power Services, LLC",
       "case_url": "https://www.nlrb.gov/case/25-RM-388968",
       "case_type": "RM",
+      "tally_date": "2026-08-05",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-16",
       "status": "Open",
       "location": "Byron, IL",
       "region": "Region 25, Indianapolis, Indiana",
-      "eligible_voters": 17,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Littler Mendelson, P.C."
-      ],
-      "case_page_fetched": "2026-08-05"
+      "eligible_voters": 18,
+      "votes_against": 2,
+      "ballots_counted": 13,
+      "void_ballots": 0,
+      "votes_for": 11,
+      "union": "United Association of Journeymen & Pipefitters - Local Union 597",
+      "union_to_certify": "United Association of Journeymen & Pipefitters - Local Union 597",
+      "unit_description": "Included:  All full-time and regular part-time mechanical planners employed by the Employer at its jobsites located in Braidwood, Illinois; Byron, Illinois; Clinton, Illinois; Cordova, Illinois; Dresden, Illinois; and La Salle, Illinois.\n\nExcluded:  All office clerical employees, guards, professional employees and supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "25-RC-388978": {
       "case_number": "25-RC-388978",
@@ -16474,18 +16483,24 @@
       "employer": "CHS, Inc.",
       "case_url": "https://www.nlrb.gov/case/27-RC-389262",
       "case_type": "RC",
+      "tally_date": "2026-08-04",
+      "tally_type": "Initial",
+      "ballot_type": "Two Labor Organizations",
       "date_filed": "2026-06-22",
       "status": "Open",
       "location": "Laurel, MT",
       "region": "Region 27, Denver, Colorado",
       "eligible_voters": 24,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-08-03",
-      "employer_counsel": [
-        "Lathrop GPM, LLP."
-      ],
-      "election_date": "July 15 2026"
+      "votes_against": 8,
+      "ballots_counted": 24,
+      "void_ballots": 0,
+      "votes_for": 14,
+      "union": "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC",
+      "union_to_certify": "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC",
+      "unit_description": "Included: All field employees and controllers of CHS Inc. Laurel Pipeline & Terminals\nDivision at its Laurel, Billings, Glendive, and Minot locations.\nExcluded: Office, clerical, professional and technical employees, and all executives, and\nall supervisors and guards as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "20-RC-389273": {
       "case_number": "20-RC-389273",
@@ -16971,25 +16986,27 @@
     },
     "05-RC-389416": {
       "case_number": "05-RC-389416",
-      "employer": "Nexstar Media Group, Inc. WDCW-TV/WDVM-TV",
+      "employer": "Nexstar Media Group, Inc. d/b/a WDCW-TV/WDVM-TV",
       "case_url": "https://www.nlrb.gov/case/05-RC-389416",
       "case_type": "RC",
+      "tally_date": "2026-08-04",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-24",
       "status": "Open",
       "location": "Washington, DC",
       "region": "Region 05, Baltimore, Maryland",
-      "eligible_voters": 27,
-      "stage": "just_filed",
-      "sector": "Media & Entertainment",
-      "employer_counsel": [
-        "Constangy, Brooks, Smith & Prophete, LLP",
-        "Constangy Brooks Smith & Prophete LLP"
-      ],
-      "union_counsel": [
-        "O'Donoghue & O'Donoghue, LLP"
-      ],
-      "case_page_fetched": "2026-08-05",
-      "election_date": "August 4 2026"
+      "eligible_voters": 28,
+      "votes_against": 5,
+      "ballots_counted": 24,
+      "void_ballots": 0,
+      "votes_for": 19,
+      "union": "National Association of Broadcast Employees & Technicians, Local 31",
+      "union_to_certify": "National Association of Broadcast Employees & Technicians, Local 31",
+      "unit_description": "All full-time and regular part-time digital producers, engineers, production technicians, feed room operators, photographers, directors, OBS directors, and assistant directors employed by the Employer at its facility currently located at 2121 Wisconsin Avenue, NW, Washington, DC; but excluding all other employees, guards, professional employees, clerical employees, managerial employees, and supervisors as defined by the Act. \n\nOthers permitted to vote: The parties have agreed that the following classifications may vote in the election, but their ballots will be challenged since their eligibility has not been resolved: senior directors.  No decision has been made regarding whether the individuals in these classifications or groups are included in, or excluded from, the bargaining unit.  The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     },
     "22-RC-389453": {
       "case_number": "22-RC-389453",
@@ -17284,20 +17301,24 @@
       "employer": "Kadlec Regional Medical Center",
       "case_url": "https://www.nlrb.gov/case/19-RC-389543",
       "case_type": "RC",
+      "tally_date": "2026-08-05",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-25",
       "status": "Open",
       "location": "Richland, WA",
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 9,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "case_page_fetched": "2026-08-03",
-      "employer_counsel": [
-        "Providence Health and Services"
-      ],
-      "union_counsel": [
-        "SEIU Healthcare 1199NW"
-      ]
+      "votes_against": 1,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "SEIU Healthcare 1199NW, affiliated with AFL-CIO",
+      "union_to_certify": "SEIU Healthcare 1199NW, affiliated with AFL-CIO",
+      "unit_description": "Included: All full time, regular part time, and per diem PBX Switchboard Operators and Lead PBX Switchboard Operators employed by the Employer at its facility located at 88 Swift Blvd., Richland, Washington 99352.\n\nExcluded: All other employees, physicians, managers, confidential employees, and guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "19-RC-389567": {
       "case_number": "19-RC-389567",
@@ -17962,21 +17983,24 @@
       "employer": "Brenntag Mid-South, LLC",
       "case_url": "https://www.nlrb.gov/case/05-RC-389986",
       "case_type": "RC",
+      "tally_date": "2026-08-05",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-06",
       "status": "Open",
       "location": "Richmond, VA",
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 17,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Ogletree Deakins"
-      ],
-      "union_counsel": [
-        "Beins, Axelrod & Keating, P.C."
-      ],
-      "case_page_fetched": "2026-08-05",
-      "election_date": "August 05 2026"
+      "votes_against": 5,
+      "ballots_counted": 16,
+      "void_ballots": 0,
+      "votes_for": 11,
+      "union": "Teamsters Local Union No. 592 a/w the International Brotherhood of Teamsters",
+      "union_to_certify": "Teamsters Local Union No. 592 a/w the International Brotherhood of Teamsters",
+      "unit_description": "Included:\tAll full-time and regular part-time drivers, production operators, and warehouse operators\n\nExcluded:\tAll other employees, managerial employees, confidential employees, office clerical employees, guards, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "04-RC-390011": {
       "case_number": "04-RC-390011",
@@ -18046,21 +18070,21 @@
       "employer": "Montefiore Einstein Advanced Care",
       "case_url": "https://www.nlrb.gov/case/02-RC-390044",
       "case_type": "RC",
+      "tally_date": "2026-08-03",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-06",
       "status": "Open",
       "location": "Manhattan, NY",
       "region": "Region 02, New York, New York",
-      "eligible_voters": 14,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Broadfield  US LLP",
-        "Broadfield US LLP"
-      ],
-      "union_counsel": [
-        "Levy Ratner, P.C."
-      ],
-      "case_page_fetched": "2026-08-05"
+      "eligible_voters": 0,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "unit_description": "INCLUDED: All full-time and regular part-time Licensed Practical Nurses, Medical Assistants and X-Ray Technicians employed by the Employer at its 385 9th Avenue New York, NY location.\n\nEXCLUED: All professional employees, confidential employees, guards, managerial employees, and supervisors as defined in the Act.",
+      "outcome": "unknown",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "21-RC-390058": {
       "case_number": "21-RC-390058",
@@ -18808,25 +18832,27 @@
     },
     "10-RC-390354": {
       "case_number": "10-RC-390354",
-      "employer": "MV Transportation Inc",
+      "employer": "MV Transportation Inc.",
       "case_url": "https://www.nlrb.gov/case/10-RC-390354",
       "case_type": "RC",
+      "tally_date": "2026-08-04",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-09",
       "status": "Open",
       "location": "Augusta, GA",
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 11,
-      "stage": "just_filed",
-      "sector": "Transportation & Logistics",
-      "employer_counsel": [
-        "Jackson Lewis, P.C."
-      ],
-      "case_page_fetched": "2026-08-04",
-      "union_counsel": [
-        "INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL 728",
-        "Stanford Fagan LLC"
-      ],
-      "election_date": "August 4 2026"
+      "votes_against": 1,
+      "ballots_counted": 11,
+      "void_ballots": 0,
+      "votes_for": 10,
+      "union": "Teamsters Local 528",
+      "union_to_certify": "Teamsters Local 528",
+      "unit_description": "All full-time and regular part-time Road Supervisors and Dispatchers employed by the Employer at its 2844 Regency Road Blvd, Augusta, Georgia, facility, but excluding all drivers, mechanics, guards, managers and supervisors, as defined in the Act",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "19-RC-390357": {
       "case_number": "19-RC-390357",
@@ -22093,7 +22119,7 @@
       "case_url": "https://www.nlrb.gov/case/10-RM-392172",
       "case_type": "RM",
       "date_filed": "2026-08-04",
-      "status": "Open",
+      "status": "Closed",
       "location": "Knoxville, TN",
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 9,
@@ -22113,6 +22139,9 @@
       "eligible_voters": 50,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
       "case_page_fetched": "2026-08-05"
     },
     "31-RD-392203": {
@@ -22243,6 +22272,43 @@
       "sector": "Other",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-05"
+    },
+    "29-RC-392268": {
+      "case_number": "29-RC-392268",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/29-RC-392268",
+      "case_type": "RC",
+      "date_filed": "2026-08-05",
+      "status": "Open",
+      "location": "Queens, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 23,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Levy Ratner, P.C."
+      ],
+      "case_page_fetched": "2026-08-05"
+    },
+    "28-RC-392293": {
+      "case_number": "28-RC-392293",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/28-RC-392293",
+      "case_type": "RC",
+      "date_filed": "2026-08-04",
+      "status": "Open",
+      "location": "Tempe, AZ",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
       "case_page_fetched": "2026-08-05"
     }
