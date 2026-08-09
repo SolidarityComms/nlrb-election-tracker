@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 12:48:13",
+  "last_updated": "2026-08-09 17:31:04",
   "total_cases": 1066,
   "cases": {
     "19-RC-386928": {
@@ -11823,7 +11823,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -15198,7 +15198,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -15783,7 +15783,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -15867,7 +15867,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -17754,7 +17754,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "election_date": "July 24 2026"
     },
     "25-RC-389899": {
@@ -17816,7 +17816,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "02-RM-389897": {
       "case_number": "02-RM-389897",
@@ -18243,7 +18243,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "08-RC-390068": {
       "case_number": "08-RC-390068",
@@ -18921,7 +18921,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ]
@@ -19034,7 +19034,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "04-RC-390404": {
       "case_number": "04-RC-390404",
@@ -19157,7 +19157,7 @@
       "employer_counsel": [
         "Constangy, Brooks, Smith & Prophete, LLP"
       ],
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "election_date": "August 12 2026"
     },
     "03-RM-390516": {
@@ -19636,7 +19636,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "07-RC-390728": {
       "case_number": "07-RC-390728",
@@ -20480,7 +20480,7 @@
       "employer_counsel": [
         "Snell & Wilmer, LLP"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "22-RM-391300": {
       "case_number": "22-RM-391300",
@@ -21631,10 +21631,11 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-05",
+      "case_page_fetched": "2026-08-09",
       "employer_counsel": [
         "Jackson Lewis P.C."
-      ]
+      ],
+      "election_date": "September 4 2026"
     },
     "22-RC-391825": {
       "case_number": "22-RC-391825",
@@ -21915,7 +21916,7 @@
       "union_counsel": [
         "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "29-RD-391934": {
       "case_number": "29-RD-391934",
@@ -22168,7 +22169,7 @@
       "employer_counsel": [
         "UGI Corporation"
       ],
-      "case_page_fetched": "2026-08-05"
+      "case_page_fetched": "2026-08-09"
     },
     "01-RC-392118": {
       "case_number": "01-RC-392118",
