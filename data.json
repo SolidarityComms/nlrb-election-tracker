@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10 13:04:31",
-  "total_cases": 1066,
+  "last_updated": "2026-08-10 17:49:53",
+  "total_cases": 1069,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -14982,7 +14982,7 @@
       "case_url": "https://www.nlrb.gov/case/02-RC-385027",
       "case_type": "RC",
       "tally_date": "2026-08-19",
-      "tally_type": "Rerun",
+      "tally_type": "Initial",
       "ballot_type": "Single Labor Organization",
       "date_filed": "2026-04-16",
       "status": "Open",
@@ -22698,6 +22698,51 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Healthcare"
+    },
+    "05-RC-392497": {
+      "case_number": "05-RC-392497",
+      "employer": "Jones, Lang, LaSalle Americas, Inc.",
+      "case_url": "https://www.nlrb.gov/case/05-RC-392497",
+      "case_type": "RC",
+      "date_filed": "2026-08-10",
+      "status": "Open",
+      "location": "McLean, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-10"
+    },
+    "05-RC-392498": {
+      "case_number": "05-RC-392498",
+      "employer": "Cushman Wakefield",
+      "case_url": "https://www.nlrb.gov/case/05-RC-392498",
+      "case_type": "RC",
+      "date_filed": "2026-08-10",
+      "status": "Open",
+      "location": "Arlington, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-10"
+    },
+    "13-RC-392489": {
+      "case_number": "13-RC-392489",
+      "employer": "The Adler Planetarium",
+      "case_url": "https://www.nlrb.gov/case/13-RC-392489",
+      "case_type": "RC",
+      "date_filed": "2026-08-10",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 1,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
+      ],
+      "case_page_fetched": "2026-08-10"
     }
   }
 }
