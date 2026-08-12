@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12 17:58:45",
-  "total_cases": 1088,
+  "last_updated": "2026-08-12 22:41:54",
+  "total_cases": 1094,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -1166,7 +1166,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-08-07",
+      "case_page_fetched": "2026-08-12",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1270,7 +1270,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-08"
+      "case_page_fetched": "2026-08-12"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -15001,23 +15001,26 @@
     },
     "19-RD-388539": {
       "case_number": "19-RD-388539",
-      "employer": "Holaday-Parks, Inc.",
+      "employer": "Holaday-Parks-Fabricators, Inc. d/b/a Holaday-Parks, Inc.",
       "case_url": "https://www.nlrb.gov/case/19-RD-388539",
       "case_type": "RD",
+      "tally_date": "2026-08-12",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-09",
       "status": "Open",
       "location": "Richland, WA",
       "region": "Region 19, Seattle, Washington",
       "eligible_voters": 5,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Fox Rothschild, LLP"
-      ],
-      "case_page_fetched": "2026-08-11",
-      "union_counsel": [
-        "National Right to Work Legal Defense Foundation"
-      ]
+      "votes_against": 4,
+      "ballots_counted": 4,
+      "void_ballots": 0,
+      "union": "International Association of Sheet Metal, Air, Rail & Transportation Workers, Local 55",
+      "union_to_certify": "International Association of Sheet Metal, Air, Rail & Transportation Workers, Local 55",
+      "unit_description": "Included: All full-time and regular part-time Technician I, Technician II, Specialist I, Specialist II, Controls Specialist I, and Controls Specialist II employed by the Employer and working out of the Employer\u2019s Richland, WA facility located at 2920 George Washington Way, Suite 103, Richland, WA 99354.\n\nExcluded: All other employees, including Field Supervisor, Panel Shop Technician, Project Manager, Senior Project Manager, Regional Service Manager, Project Engineer, confidential employees, office clerical employees, managerial employees, and guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     },
     "05-RC-388533": {
       "case_number": "05-RC-388533",
@@ -17684,23 +17687,27 @@
     },
     "21-RC-389766": {
       "case_number": "21-RC-389766",
-      "employer": "USC Keck Norris Materials Management Department",
+      "employer": "Keck Medical Center of USC",
       "case_url": "https://www.nlrb.gov/case/21-RC-389766",
       "case_type": "RC",
+      "tally_date": "2026-08-12",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-30",
       "status": "Open",
       "location": "Los Angeles, CA",
       "region": "Region 21, Los Angeles, California",
-      "eligible_voters": 18,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Clifton Budd & DeMaria, LLP"
-      ],
-      "union_counsel": [
-        "Law Office of Florice Hoffman"
-      ],
-      "case_page_fetched": "2026-08-11"
+      "eligible_voters": 8,
+      "votes_against": 0,
+      "ballots_counted": 8,
+      "void_ballots": 0,
+      "votes_for": 8,
+      "union": "National Union of Healthcare Workers",
+      "union_to_certify": "National Union of Healthcare Workers",
+      "unit_description": "INCLUDED:   All full-time and regular part-time Specialist, Procedural Supply Chain employees in the USC Keck Norris \n                      Material Management Department employed by the Employer at its facilities located at 1500 San Pablo \n                      Street, Los Angeles California 90033, 1510 San Pablo Street, Los Angeles, California 90033, 1516 San \n                      Pablo Street, Los Angeles, California 90033, and 1441 Eastlake Avenue, Los Angeles, California 90089.\n\nEXCLUDED: All other employees, other represented employees, managerial employees, confidential employees, \n                     physicians, skilled maintenance employees, Registered Nurses, other professional employees, business \n                     office clerical employees, guards and supervisors as defined in the Act.\n\nIf a majority of valid ballots are cast for National Union of Healthcare Workers (NUHW), they\nwill be taken to have indicated the employees' desire to be included in the existing bargaining unit\nas described in the collective-bargaining agreement between the Employer and the Petitioner\neffective December 20, 2024 through June 30, 2027 that is currently represented by National Union\nof Healthcare Workers (NUHW).\n\nIf a majority of valid ballots are not cast for representation, they will be taken to have indicated\nthe employees' desire to remain unrepresented.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "05-RC-389786": {
       "case_number": "05-RC-389786",
@@ -17868,7 +17875,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-08-08",
+      "case_page_fetched": "2026-08-12",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -20024,7 +20031,7 @@
       "employer_counsel": [
         "Reed Smith LLP"
       ],
-      "case_page_fetched": "2026-08-07"
+      "case_page_fetched": "2026-08-12"
     },
     "28-RC-391053": {
       "case_number": "28-RC-391053",
@@ -20450,7 +20457,7 @@
       "union_counsel": [
         "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
       ],
-      "case_page_fetched": "2026-08-08",
+      "case_page_fetched": "2026-08-12",
       "employer_counsel": [
         "Ford Motor Company"
       ]
@@ -20783,7 +20790,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-07",
+      "case_page_fetched": "2026-08-12",
       "employer_counsel": [
         "Ogletree Deakin"
       ]
@@ -22779,7 +22786,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Proskauer Rose LLP"
+      ],
+      "case_page_fetched": "2026-08-12"
     },
     "13-RC-392489": {
       "case_number": "13-RC-392489",
@@ -22792,7 +22803,11 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 1,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
+      ],
+      "case_page_fetched": "2026-08-12"
     },
     "10-RC-392521": {
       "case_number": "10-RC-392521",
@@ -22860,6 +22875,10 @@
       "eligible_voters": 200,
       "stage": "just_filed",
       "sector": "Technology & Professional",
+      "employer_counsel": [
+        "Husch Blackwell, LLP",
+        "Husch Blackwell LLP"
+      ],
       "union_counsel": [
         "Altshuler Berzon LLP"
       ],
@@ -22899,6 +22918,9 @@
       "eligible_voters": 80,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Blank Rome LLP"
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -22929,7 +22951,8 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-12"
     },
     "05-RC-392580": {
       "case_number": "05-RC-392580",
@@ -23021,7 +23044,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Jones Lang LaSalle Americas, Inc."
+      ],
+      "case_page_fetched": "2026-08-12"
     },
     "02-RC-392612": {
       "case_number": "02-RC-392612",
@@ -23066,6 +23093,9 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Eckert, Seamans, Cherin & Mellott, LLC"
+      ],
       "union_counsel": [
         "Operating Engineers Local Union No. 3"
       ],
@@ -23099,7 +23129,107 @@
       "region": "Region 22, Newark, New Jersey",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Kroll, Heineman, Ptasiewicz, Parsons & Jameson, LLC"
+      ],
+      "case_page_fetched": "2026-08-12"
+    },
+    "21-RC-392710": {
+      "case_number": "21-RC-392710",
+      "employer": "Reyes Fleet Management",
+      "case_url": "https://www.nlrb.gov/case/21-RC-392710",
+      "case_type": "RC",
+      "date_filed": "2026-08-12",
+      "status": "Open",
+      "location": "Walnut, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Hayes, Ortega & Sanchez, LLP"
+      ],
+      "case_page_fetched": "2026-08-12"
+    },
+    "07-RC-392708": {
+      "case_number": "07-RC-392708",
+      "employer": "Solar Technology, LLC",
+      "case_url": "https://www.nlrb.gov/case/07-RC-392708",
+      "case_type": "RC",
+      "date_filed": "2026-08-11",
+      "status": "Open",
+      "location": "Hemlock, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 1200,
+      "stage": "just_filed",
+      "sector": "Technology & Professional",
+      "case_page_fetched": "2026-08-12"
+    },
+    "18-RD-392707": {
+      "case_number": "18-RD-392707",
+      "employer": "MiEnergy Electric Cooperative",
+      "case_url": "https://www.nlrb.gov/case/18-RD-392707",
+      "case_type": "RD",
+      "date_filed": "2026-08-11",
+      "status": "Open",
+      "location": "Rushford, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 25,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-12"
+    },
+    "20-RC-392723": {
+      "case_number": "20-RC-392723",
+      "employer": "MarinHealth Medical Center",
+      "case_url": "https://www.nlrb.gov/case/20-RC-392723",
+      "case_type": "RC",
+      "date_filed": "2026-08-11",
+      "status": "Open",
+      "location": "Greenbrae, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 86,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-08-12"
+    },
+    "20-RC-392725": {
+      "case_number": "20-RC-392725",
+      "employer": "Prima Medical Foundation, dba MarinHealth Medical Network",
+      "case_url": "https://www.nlrb.gov/case/20-RC-392725",
+      "case_type": "RC",
+      "date_filed": "2026-08-11",
+      "status": "Open",
+      "location": "Greenbrae, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-08-12"
+    },
+    "20-RC-392724": {
+      "case_number": "20-RC-392724",
+      "employer": "MarinHealth Medical Group",
+      "case_url": "https://www.nlrb.gov/case/20-RC-392724",
+      "case_type": "RC",
+      "date_filed": "2026-08-11",
+      "status": "Open",
+      "location": "Greenbrae, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 56,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-08-12"
     }
   }
 }
