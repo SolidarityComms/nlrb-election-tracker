@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13 17:58:13",
-  "total_cases": 1099,
+  "last_updated": "2026-08-13 22:41:40",
+  "total_cases": 1102,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17222,20 +17222,24 @@
       "employer": "InDyne, Inc.",
       "case_url": "https://www.nlrb.gov/case/20-RC-389492",
       "case_type": "RC",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-25",
       "status": "Open",
       "location": "Beale AFB, CA",
       "region": "Region 20, San Francisco, California",
-      "eligible_voters": 16,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Beeson, Tayer & Bodine"
-      ],
-      "case_page_fetched": "2026-08-11",
-      "employer_counsel": [
-        "Ballard Spahr LLP"
-      ]
+      "eligible_voters": 12,
+      "votes_against": 0,
+      "ballots_counted": 8,
+      "void_ballots": 0,
+      "votes_for": 8,
+      "union": "Teamsters Local 137",
+      "union_to_certify": "Teamsters Local 137",
+      "unit_description": "All full-time and regular part-time UEWR System Analysts, UEWR System Administrators, and LRDR System Analysts employed by the Employer and working at 7400 Spencer Paul Road on Beale Air Force Base (AFB) in Yuba County, California; excluding all LAN Technicians, LRDR Operations Managers, Civil Engineer Managers, Communications Electronics Managers, Station Managers, Computer Technicians, Radar Technicians, Power Plant Technicians, HVAC Technicians, Plumbers, Custodians, Logistics Specialists, guards, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "32-RC-389486": {
       "case_number": "32-RC-389486",
@@ -20193,23 +20197,27 @@
     },
     "19-RC-391115": {
       "case_number": "19-RC-391115",
-      "employer": "MV Transportation",
+      "employer": "MV Public Transportation, Inc.",
       "case_url": "https://www.nlrb.gov/case/19-RC-391115",
       "case_type": "RC",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-20",
       "status": "Open",
       "location": "Shoreline, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 17,
-      "stage": "just_filed",
-      "sector": "Transportation & Logistics",
-      "union_counsel": [
-        "Vanguard Law Firm, LLC"
-      ],
-      "case_page_fetched": "2026-08-11",
-      "employer_counsel": [
-        "Jackson Lewis"
-      ]
+      "eligible_voters": 19,
+      "votes_against": 4,
+      "ballots_counted": 11,
+      "void_ballots": 0,
+      "votes_for": 7,
+      "union": "Teamsters Local Union No. 117, affiliated with International Brotherhood of Teamsters",
+      "union_to_certify": "Teamsters Local Union No. 117, affiliated with International Brotherhood of Teamsters",
+      "unit_description": "Included: All full-time and regular part-time technicians and maintenance foremen\nemployed by the Employer and working at or out of its Shoreline, Bellevue, and\nKent locations.\n\nExcluded: Superintendents, utilities employees, fleet coordinators, all other\nemployees, and guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "07-RC-391125": {
       "case_number": "07-RC-391125",
@@ -22962,7 +22970,7 @@
       "employer": "ATE Management of Duluth as managers for the Duluth Transit Authority",
       "case_url": "https://www.nlrb.gov/case/18-RC-392554",
       "case_type": "RC",
-      "date_filed": "2026-08-11",
+      "date_filed": "2026-08-13",
       "status": "Open",
       "location": "Duluth, MN",
       "region": "Region 18, Minneapolis, Minnesota",
@@ -23062,6 +23070,9 @@
       "eligible_voters": 17,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ],
       "case_page_fetched": "2026-08-13"
     },
     "05-RC-392565": {
@@ -23144,6 +23155,9 @@
       "eligible_voters": 28,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Greenberg Traurig, LLP"
+      ],
       "union_counsel": [
         "International Union of Operating Engineers, Local 150, AFL-CIO"
       ],
@@ -23178,6 +23192,9 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Buchalter LLP"
+      ],
       "union_counsel": [
         "Hayes, Ortega & Sanchez, LLP"
       ],
@@ -23209,6 +23226,9 @@
       "eligible_voters": 25,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Sullivan & Ward, P.C."
+      ],
       "case_page_fetched": "2026-08-13"
     },
     "20-RC-392723": {
@@ -23288,6 +23308,10 @@
       "eligible_voters": 30,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Jackson Lewis, P.C.",
+        "Jackson Lewis LLP"
+      ],
       "case_page_fetched": "2026-08-13"
     },
     "21-RD-392771": {
@@ -23340,6 +23364,57 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Other"
+    },
+    "32-RC-392801": {
+      "case_number": "32-RC-392801",
+      "employer": "Stanford Health Care",
+      "case_url": "https://www.nlrb.gov/case/32-RC-392801",
+      "case_type": "RC",
+      "date_filed": "2026-08-13",
+      "status": "Open",
+      "location": "Stanford, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 55,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-13"
+    },
+    "32-RC-392783": {
+      "case_number": "32-RC-392783",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/32-RC-392783",
+      "case_type": "RC",
+      "date_filed": "2026-08-12",
+      "status": "Open",
+      "location": "El Cerrito, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 21,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Law Office of Robert S. Giolito PC"
+      ],
+      "case_page_fetched": "2026-08-13"
+    },
+    "32-RD-392789": {
+      "case_number": "32-RD-392789",
+      "employer": "CalPortland",
+      "case_url": "https://www.nlrb.gov/case/32-RD-392789",
+      "case_type": "RD",
+      "date_filed": "2026-08-12",
+      "status": "Open",
+      "location": "San Jose, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-13"
     }
   }
 }
