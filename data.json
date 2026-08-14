@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14 17:51:55",
-  "total_cases": 1106,
+  "last_updated": "2026-08-14 22:22:39",
+  "total_cases": 1109,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -17975,25 +17975,27 @@
     },
     "14-RC-390006": {
       "case_number": "14-RC-390006",
-      "employer": "Clean Harbors (dba, Safety-Kleen Systems, Inc.)",
+      "employer": "Clean Harbors Environmental Services, Inc.",
       "case_url": "https://www.nlrb.gov/case/14-RC-390006",
       "case_type": "RC",
+      "tally_date": "2026-08-14",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-06",
       "status": "Open",
       "location": "Independence, MO",
       "region": "Region 14, Saint Louis, Missouri",
-      "eligible_voters": 14,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Ogletree Deakins",
-        "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
-      ],
-      "union_counsel": [
-        "Arnold, Newbold, Sollars & Hollins, P.C."
-      ],
-      "case_page_fetched": "2026-08-13",
-      "election_date": "August 14 2026"
+      "eligible_voters": 13,
+      "votes_against": 6,
+      "ballots_counted": 12,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "International Brotherhood of Teamsters, Local No. 541",
+      "union_to_certify": "International Brotherhood of Teamsters, Local No. 541",
+      "unit_description": "Included: All full-time and regular part-time Class A CDL Drivers, Class A CDL Liquid\nDrivers, Class B CDL Drivers, Retail Technician/CDL, Van/Flatbed Operators, Wet Vac Trailer Operators, Transporter Trailer Operator, CleanPack Chemists, and CleanPack Chemist/CDLs employed by the Employer at the Independence, Missouri location.\n\nExcluded: Administrator, District Administrator, National Transportation Driver Tankers,\nTruck to Truck Technicians, office clerical employees, professional employees, confidential\nemployees, guards and supervisors as defined in the Act and all other employees.",
+      "outcome": "tie",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "01-RC-389976": {
       "case_number": "01-RC-389976",
@@ -18386,21 +18388,24 @@
       "employer": "Herzog Transit Services, Inc.",
       "case_url": "https://www.nlrb.gov/case/14-RC-390166",
       "case_type": "RC",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-07",
       "status": "Open",
       "location": "Kansas City, MO",
       "region": "Region 14, Saint Louis, Missouri",
-      "eligible_voters": 71,
-      "stage": "just_filed",
-      "sector": "Transportation & Logistics",
-      "employer_counsel": [
-        "McMahon Berger, PC"
-      ],
-      "union_counsel": [
-        "Blake & Uhlig PA"
-      ],
-      "case_page_fetched": "2026-08-14",
-      "election_date": "August 13 2026"
+      "eligible_voters": 69,
+      "votes_against": 11,
+      "ballots_counted": 52,
+      "void_ballots": 0,
+      "votes_for": 41,
+      "union": "International Brotherhood of Teamsters, Local No. 955",
+      "union_to_certify": "International Brotherhood of Teamsters, Local No. 955",
+      "unit_description": "Included: All full-time and regular part\u2014time operators, technicians, laborers, leads, and\nservice maintainers employed by the Employer from its facility located at 600 East 3\u201c! Street,\nKansas City, Missouri.\nExcluded: Office clerical employees, professional employees, confidential employees,\nguards and supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "02-RC-385989": {
       "case_number": "02-RC-385989",
@@ -19907,23 +19912,26 @@
     },
     "19-RC-390982": {
       "case_number": "19-RC-390982",
-      "employer": "Gold Seal Plumbing",
+      "employer": "Gold Seal Mechanical Inc. d/b/a Gold Seal Plumbing",
       "case_url": "https://www.nlrb.gov/case/19-RC-390982",
       "case_type": "RC",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-20",
       "status": "Open",
       "location": "Spokane Valley, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 19,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "O'Donoghue & O'Donoghue LLP"
-      ],
-      "case_page_fetched": "2026-08-11",
-      "employer_counsel": [
-        "LUKINS & ANNIS, PS"
-      ]
+      "eligible_voters": 20,
+      "votes_against": 13,
+      "ballots_counted": 17,
+      "void_ballots": 0,
+      "votes_for": 4,
+      "union": "Plumbers & Steamfitters Local 44, affiliated with United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry of the United States and Canada",
+      "unit_description": "Included: All full time and regular part time Plumbers within the Service Department, including Journeymen Plumbers, Plumber Apprentices, Plumber Trainees, and Plumber Helpers, employed by the Employer at its facility located at 5603 E. Boone Ave, Spokane, WA 99202. \n\nExcluded: All other employees, including Journeymen Plumbers, Plumber Apprentices, Plumber Trainees and Plumber Helpers employed in any other department, Drain Cleaners, office clerical employees, professional employees, and guards and supervisors as defined by the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Construction & Utilities"
     },
     "18-RD-389880": {
       "case_number": "18-RD-389880",
@@ -23196,7 +23204,7 @@
     },
     "21-RC-392710": {
       "case_number": "21-RC-392710",
-      "employer": "Reyes Fleet Management",
+      "employer": "Reyes Fleet Management, LLC",
       "case_url": "https://www.nlrb.gov/case/21-RC-392710",
       "case_type": "RC",
       "date_filed": "2026-08-12",
@@ -23435,7 +23443,7 @@
     },
     "01-RC-392819": {
       "case_number": "01-RC-392819",
-      "employer": "Jones Lang LaSalle",
+      "employer": "Jones Lang LaSalle Americas, Inc.",
       "case_url": "https://www.nlrb.gov/case/01-RC-392819",
       "case_type": "RC",
       "date_filed": "2026-08-14",
@@ -23503,6 +23511,51 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Healthcare"
+    },
+    "32-RC-392868": {
+      "case_number": "32-RC-392868",
+      "employer": "US Foods",
+      "case_url": "https://www.nlrb.gov/case/32-RC-392868",
+      "case_type": "RC",
+      "date_filed": "2026-08-14",
+      "status": "Open",
+      "location": "Reno, NV",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 4,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-14"
+    },
+    "10-RC-392876": {
+      "case_number": "10-RC-392876",
+      "employer": "St. Martin's In The Pines",
+      "case_url": "https://www.nlrb.gov/case/10-RC-392876",
+      "case_type": "RC",
+      "date_filed": "2026-08-14",
+      "status": "Open",
+      "location": "Birmingham, AL",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 58,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-14"
+    },
+    "18-RC-392855": {
+      "case_number": "18-RC-392855",
+      "employer": "WDC Acquisition LLC D/B/A Wellman",
+      "case_url": "https://www.nlrb.gov/case/18-RC-392855",
+      "case_type": "RC",
+      "date_filed": "2026-08-12",
+      "status": "Open",
+      "location": "Creston, IA",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 70,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-14"
     }
   }
 }
