@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14 13:03:53",
-  "total_cases": 1102,
+  "last_updated": "2026-08-14 17:51:55",
+  "total_cases": 1106,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -18704,24 +18704,27 @@
     },
     "22-RC-390287": {
       "case_number": "22-RC-390287",
-      "employer": "Image Care of Sussex",
+      "employer": "SUSSEX COUNTY IMAGING, LLC D/B/A IMAGECARE CENTERS",
       "case_url": "https://www.nlrb.gov/case/22-RC-390287",
       "case_type": "RC",
+      "tally_date": "2026-08-14",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-08",
       "status": "Open",
       "location": "Sparta, NJ",
       "region": "Region 22, Newark, New Jersey",
       "eligible_voters": 11,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Brach Eichler, LLC"
-      ],
-      "union_counsel": [
-        "Oxfeld Cohen, P.C.",
-        "OXFELD COHEN, PC"
-      ],
-      "case_page_fetched": "2026-08-11"
+      "votes_against": 1,
+      "ballots_counted": 7,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL NO. 125",
+      "union_to_certify": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL NO. 125",
+      "unit_description": "INCLUDED:  \tAll Full-Time and Regular Part-Time, Seasonal, and Per Diem* Assistant Technicians employed by the Employer at its 89 Sparta Avenue, Suites 110 and 120, Sparta, New Jersey and 222 High Street, Suite 101, Newton, NJ locations.\nEXCLUDED:  \tAll Office Clerical Employees, Guards, Professional Employees, and Supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "27-RD-390293": {
       "case_number": "27-RD-390293",
@@ -19321,21 +19324,27 @@
     },
     "03-RC-390616": {
       "case_number": "03-RC-390616",
-      "employer": "Cimolai-HY",
+      "employer": "Cimolai-HY LLC",
       "case_url": "https://www.nlrb.gov/case/03-RC-390616",
       "case_type": "RC",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-14",
       "status": "Open",
       "location": "Olean, NY",
       "region": "Region 03, Buffalo, New York",
-      "eligible_voters": 130,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-08-13",
-      "election_date": "August 13 2026",
-      "union_counsel": [
-        "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC"
-      ]
+      "eligible_voters": 118,
+      "votes_against": 47,
+      "ballots_counted": 111,
+      "void_ballots": 3,
+      "votes_for": 60,
+      "union": "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC",
+      "union_to_certify": "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC",
+      "unit_description": "INCLUDED: All full-time and regular part-time production and maintenance employees employed by the Employer at its Olean, New York facility. \n\nEXCLUDED: All temporary employees, agency employees, joint employees, office clerical employees, professional employees, supervisors as defined in the Act, and all other employees. \n\nOthers permitted to vote: The parties have agreed that Quality Inspectors and Quality Associates may vote in the election, but their ballots will be challenged since their eligibility has not been resolved.  No decision has been made regarding whether the individuals in these classifications or groups are included in, or excluded from, the bargaining unit.  The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     },
     "19-RC-390595": {
       "case_number": "19-RC-390595",
@@ -20055,25 +20064,26 @@
     },
     "28-RC-391053": {
       "case_number": "28-RC-391053",
-      "employer": "On Guard Fire Protection",
+      "employer": "Residential Fire Protection d/b/a On Guard Fire Protection",
       "case_url": "https://www.nlrb.gov/case/28-RC-391053",
       "case_type": "RC",
+      "tally_date": "2026-08-14",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-20",
       "status": "Open",
       "location": "Las Vegas, NV",
       "region": "Region 28, Phoenix, Arizona",
-      "eligible_voters": 22,
-      "stage": "just_filed",
-      "sector": "Security & Public Safety",
-      "union_counsel": [
-        "O'Donohue and O'Donoghue",
-        "O'Donoghue & O'Donoghue, LLP"
-      ],
-      "case_page_fetched": "2026-08-11",
-      "employer_counsel": [
-        "Kamer Zucker & Abbott"
-      ],
-      "election_date": "August 14 2026"
+      "eligible_voters": 17,
+      "votes_against": 8,
+      "ballots_counted": 21,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "Road Sprinkler Fitters Local 669",
+      "unit_description": "INCLUDED: All full-time and regular part-time Fire Sprinkler Foreman, Fire Sprinkler Fitter, Fire Sprinkler Installer, and Fire Sprinkler Apprentice employees employed by the Employer in the Employer's Commercial Division at its facility located in Las Vegas, Nevada.\n\nEXCLUDED: All other employees, office clerical employees, professional employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "05-RC-391059": {
       "case_number": "05-RC-391059",
@@ -20261,21 +20271,24 @@
       "employer": "NewYork-Presbyterian Queens Hospital",
       "case_url": "https://www.nlrb.gov/case/29-RC-391174",
       "case_type": "RC",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-21",
       "status": "Open",
       "location": "Flushing, NY",
       "region": "Region 29, Brooklyn, New York",
-      "eligible_voters": 132,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "union_counsel": [
-        "Levy Ratner, P.C."
-      ],
-      "case_page_fetched": "2026-08-12",
-      "election_date": "August 13 2026",
-      "employer_counsel": [
-        "Epstein Becker & Green PC"
-      ]
+      "eligible_voters": 163,
+      "votes_against": 5,
+      "ballots_counted": 118,
+      "void_ballots": 0,
+      "votes_for": 92,
+      "union": "1199 SEIU Healthcare Workers East",
+      "union_to_certify": "1199 SEIU Healthcare Workers East",
+      "unit_description": "Included: All full-time and regular part-time employees in the titles of Administrative Clerk,\nCafe Cashier, Clerk Receptionist, Clerk Typist, Clerk Typist/Inventory Clerk, Client Services Representative, Distribution Clerk, Laboratory Aide, Patient Access Representative\u2014Rehabilitation, Patient Access Representative\u2014Orthopedics, Patient Navigator, Patient Navigator\u2014GI, Patient Navigator\u2014Cardiac Catheter, Patient Registrar and Senior Patient Registrar, at New York-Presbyterian Queens Hospital located at 56-45 Main Street, Flushing, NY 11355, as residual to the existing service unit represented by 1199 SEIU United Healthcare Workers East.\n\nExcluded: All guards, managers, confidential employees and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "20-RC-391197": {
       "case_number": "20-RC-391197",
@@ -22977,7 +22990,8 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Transportation & Logistics"
+      "sector": "Transportation & Logistics",
+      "case_page_fetched": "2026-08-14"
     },
     "13-RC-392561": {
       "case_number": "13-RC-392561",
@@ -23174,7 +23188,11 @@
       "region": "Region 22, Newark, New Jersey",
       "eligible_voters": 2,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Kroll, Heineman, Ptasiewicz, Parsons & Jameson, LLC"
+      ],
+      "case_page_fetched": "2026-08-14"
     },
     "21-RC-392710": {
       "case_number": "21-RC-392710",
@@ -23187,7 +23205,14 @@
       "region": "Region 21, Los Angeles, California",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Buchalter LLP"
+      ],
+      "union_counsel": [
+        "Hayes, Ortega & Sanchez, LLP"
+      ],
+      "case_page_fetched": "2026-08-14"
     },
     "07-RC-392708": {
       "case_number": "07-RC-392708",
@@ -23282,7 +23307,8 @@
       "region": "Region 25, Indianapolis, Indiana",
       "eligible_voters": 13,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-14"
     },
     "01-RC-392776": {
       "case_number": "01-RC-392776",
@@ -23327,7 +23353,8 @@
       "region": "Region 14, Saint Louis, Missouri",
       "eligible_voters": 3,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-14"
     },
     "07-RC-390084": {
       "case_number": "07-RC-390084",
@@ -23364,6 +23391,9 @@
       "eligible_voters": 55,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Jones Day"
+      ],
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
@@ -23380,7 +23410,14 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 21,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Law Office of Robert S. Giolito PC"
+      ],
+      "case_page_fetched": "2026-08-14"
     },
     "32-RD-392789": {
       "case_number": "32-RD-392789",
@@ -23393,7 +23430,79 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-14"
+    },
+    "01-RC-392819": {
+      "case_number": "01-RC-392819",
+      "employer": "Jones Lang LaSalle",
+      "case_url": "https://www.nlrb.gov/case/01-RC-392819",
+      "case_type": "RC",
+      "date_filed": "2026-08-14",
+      "status": "Open",
+      "location": "West Greenwich, RI",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Fuiman Mogila LLP"
+      ],
+      "case_page_fetched": "2026-08-14"
+    },
+    "10-RC-392839": {
+      "case_number": "10-RC-392839",
+      "employer": "RATP Dev, Inc.",
+      "case_url": "https://www.nlrb.gov/case/10-RC-392839",
+      "case_type": "RC",
+      "date_filed": "2026-08-14",
+      "status": "Open",
+      "location": "Asheville, NC",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 85,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Amalgamated Transit Union, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-08-14"
+    },
+    "09-RC-392848": {
+      "case_number": "09-RC-392848",
+      "employer": "MEINEKE CAR CARE CENTER",
+      "case_url": "https://www.nlrb.gov/case/09-RC-392848",
+      "case_type": "RC",
+      "date_filed": "2026-08-14",
+      "status": "Open",
+      "location": "New Albany, IN",
+      "region": "Region 09, Cincinnati, Ohio",
+      "eligible_voters": 3,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-14"
+    },
+    "10-RD-357883": {
+      "case_number": "10-RD-357883",
+      "employer": "Neuro Tour Physical Therapy",
+      "case_url": "https://www.nlrb.gov/case/10-RD-357883",
+      "case_type": "RD",
+      "tally_date": "2026-08-13",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2025-01-07",
+      "status": "Open",
+      "location": "Marietta, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 22,
+      "votes_against": 11,
+      "ballots_counted": 16,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "International Alliance of Theatrical Stage Employees (IATSE)",
+      "unit_description": "All full-time physical therapists, athletic trainers, and massage therapists employed by the Employer who work on tours, but excluding all other employees, office clerical employees, managerial employees, guards, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     }
   }
 }
