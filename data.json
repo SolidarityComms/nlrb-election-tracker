@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 17:20:19",
+  "last_updated": "2026-08-16 22:20:30",
   "total_cases": 1109,
   "cases": {
     "19-RC-386928": {
@@ -1270,7 +1270,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-12"
+      "case_page_fetched": "2026-08-16"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -17879,7 +17879,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-08-12",
+      "case_page_fetched": "2026-08-16",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -20502,7 +20502,7 @@
       "union_counsel": [
         "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
       ],
-      "case_page_fetched": "2026-08-12",
+      "case_page_fetched": "2026-08-16",
       "employer_counsel": [
         "Ford Motor Company"
       ]
@@ -22883,7 +22883,7 @@
       "union_counsel": [
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
-      "case_page_fetched": "2026-08-12"
+      "case_page_fetched": "2026-08-16"
     },
     "10-RC-392521": {
       "case_number": "10-RC-392521",
