@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17 17:25:51",
-  "total_cases": 1110,
+  "last_updated": "2026-08-17 22:23:26",
+  "total_cases": 1113,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -23592,8 +23592,59 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "First Student, Inc."
+      ],
       "union_counsel": [
         "ROBERT M. CHEVERIE & ASSOCIATES, P.C."
+      ],
+      "case_page_fetched": "2026-08-17"
+    },
+    "02-RC-392985": {
+      "case_number": "02-RC-392985",
+      "employer": "Auto Zone, Inc.",
+      "case_url": "https://www.nlrb.gov/case/02-RC-392985",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "White Plains, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-08-17"
+    },
+    "14-RC-392987": {
+      "case_number": "14-RC-392987",
+      "employer": "Echo Electric",
+      "case_url": "https://www.nlrb.gov/case/14-RC-392987",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Edwardsville, IL",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-17"
+    },
+    "15-RC-392967": {
+      "case_number": "15-RC-392967",
+      "employer": "Transit Management of Montgomery",
+      "case_url": "https://www.nlrb.gov/case/15-RC-392967",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Montgomery, AL",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 25,
+      "stage": "just_filed",
+      "sector": "Transportation & Logistics",
+      "union_counsel": [
+        "Amalgamated Transit Union"
       ],
       "case_page_fetched": "2026-08-17"
     }
