@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18 12:42:56",
-  "total_cases": 1113,
+  "last_updated": "2026-08-18 17:24:58",
+  "total_cases": 1116,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -23219,7 +23219,10 @@
       "union_counsel": [
         "Kroll, Heineman, Ptasiewicz, Parsons & Jameson, LLC"
       ],
-      "case_page_fetched": "2026-08-14"
+      "case_page_fetched": "2026-08-18",
+      "employer_counsel": [
+        "Littler Mendelson, PC"
+      ]
     },
     "21-RC-392710": {
       "case_number": "21-RC-392710",
@@ -23462,7 +23465,10 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-14"
+      "case_page_fetched": "2026-08-18",
+      "employer_counsel": [
+        "Davis Grimm Payne & Marra"
+      ]
     },
     "01-RC-392819": {
       "case_number": "01-RC-392819",
@@ -23628,7 +23634,8 @@
       "region": "Region 14, Saint Louis, Missouri",
       "eligible_voters": 5,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-18"
     },
     "15-RC-392967": {
       "case_number": "15-RC-392967",
@@ -23644,6 +23651,57 @@
       "sector": "Transportation & Logistics",
       "union_counsel": [
         "Amalgamated Transit Union"
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "05-RC-393004": {
+      "case_number": "05-RC-393004",
+      "employer": "Eurovision News Americas",
+      "case_url": "https://www.nlrb.gov/case/05-RC-393004",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Washington, DC",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-18"
+    },
+    "05-RD-393003": {
+      "case_number": "05-RD-393003",
+      "employer": "Penske Truck Leasing Co., L.P.",
+      "case_url": "https://www.nlrb.gov/case/05-RD-393003",
+      "case_type": "RD",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Sandston, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Penske Truck Leasing"
+      ],
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation"
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "16-RD-393022": {
+      "case_number": "16-RD-393022",
+      "employer": "Wells Fargo",
+      "case_url": "https://www.nlrb.gov/case/16-RD-393022",
+      "case_type": "RD",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Fort Worth, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
       ],
       "case_page_fetched": "2026-08-18"
     }
