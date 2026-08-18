@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18 17:24:58",
-  "total_cases": 1116,
+  "last_updated": "2026-08-18 22:23:16",
+  "total_cases": 1124,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -16531,20 +16531,27 @@
     },
     "19-RM-389274": {
       "case_number": "19-RM-389274",
-      "employer": "Vancouver Symphony Orchestra",
+      "employer": "The Vancouver Symphony Orchestra",
       "case_url": "https://www.nlrb.gov/case/19-RM-389274",
       "case_type": "RM",
+      "tally_date": "2026-08-17",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-06-22",
       "status": "Open",
       "location": "Vancouver, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 110,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Miller Nash LLP"
-      ],
-      "case_page_fetched": "2026-08-15"
+      "eligible_voters": 125,
+      "votes_against": 13,
+      "ballots_counted": 95,
+      "void_ballots": 0,
+      "votes_for": 82,
+      "union": "American Federation of Musicians Local 99",
+      "union_to_certify": "American Federation of Musicians Local 99",
+      "unit_description": "Included: All probationary and non-probationary core musicians, as well as substitute musicians  employed by the Employer.\n\nExcluded:  All other administrative employees including, but not limited to, the Chief Executive Officer, Personnel Manager, Marketing Director, Development Director, Vancouver Symphony Orchestra (\u201cVSO\u201d) Board Members, clerical employees, confidential employees, managers, guards and supervisors as defined by the Act",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "19-RC-389291": {
       "case_number": "19-RC-389291",
@@ -17523,20 +17530,24 @@
       "employer": "Triple Canopy, a Constellis Company",
       "case_url": "https://www.nlrb.gov/case/05-RC-389644",
       "case_type": "RC",
+      "tally_date": "2026-08-18",
+      "tally_type": "Initial",
+      "ballot_type": "Three Labor Organizations",
       "date_filed": "2026-06-29",
       "status": "Open",
       "location": "Silver Spring, MD",
       "region": "Region 05, Baltimore, Maryland",
-      "eligible_voters": 240,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Wohlner Kaplon Cutler Halford and Rosenfeld"
-      ],
-      "case_page_fetched": "2026-08-18",
-      "employer_counsel": [
-        "Triple Canopy, LLC, a Constellis Company"
-      ]
+      "eligible_voters": 248,
+      "votes_against": 1,
+      "ballots_counted": 75,
+      "void_ballots": 20,
+      "votes_for": 52,
+      "union": "International Guards Union of America (IGUA)",
+      "union_to_certify": "International Guards Union of America (IGUA)",
+      "unit_description": "Included: All full-time and regular part-time security officers employed by the Employer at the White Oak Research Center facilities currently located at 10903 New Hampshire Ave, Silver Spring, Maryland, 8455 Colesville Rd, Silver Spring, Maryland, and 10001 New Hampshire Ave, Silver Spring, Maryland. \n\nExcluded: Office clerical employees, professional employees, managerial employees, Project Managers, Assistant Project Managers, Captains, and Supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "19-RC-389654": {
       "case_number": "19-RC-389654",
@@ -23704,6 +23715,144 @@
         "Littler Mendelson, P.C."
       ],
       "case_page_fetched": "2026-08-18"
+    },
+    "16-RD-393059": {
+      "case_number": "16-RD-393059",
+      "employer": "Starbucks Coffee Company",
+      "case_url": "https://www.nlrb.gov/case/16-RD-393059",
+      "case_type": "RD",
+      "date_filed": "2026-08-18",
+      "status": "Open",
+      "location": "San Antonio, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, PC",
+        "Littler Mendelson, P.C."
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "32-RC-393063": {
+      "case_number": "32-RC-393063",
+      "employer": "CBRE, Inc.",
+      "case_url": "https://www.nlrb.gov/case/32-RC-393063",
+      "case_type": "RC",
+      "date_filed": "2026-08-18",
+      "status": "Open",
+      "location": "Sunnyvale, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "21-RM-393080": {
+      "case_number": "21-RM-393080",
+      "employer": "Zoological Society of San Diego dba San Diego Zoo Wildlife Alliance",
+      "case_url": "https://www.nlrb.gov/case/21-RM-393080",
+      "case_type": "RM",
+      "date_filed": "2026-08-18",
+      "status": "Open",
+      "location": "San Diego, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Bush Gottlieb, A Law Corporation",
+        "Zoological Society of San Diego dba San Diego Zoo Wildlife Alliance"
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "31-RC-393040": {
+      "case_number": "31-RC-393040",
+      "employer": "Kindred Ontario",
+      "case_url": "https://www.nlrb.gov/case/31-RC-393040",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Ontario, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 24,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "10-RC-393052": {
+      "case_number": "10-RC-393052",
+      "employer": "Vestis",
+      "case_url": "https://www.nlrb.gov/case/10-RC-393052",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Canton, NC",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-18"
+    },
+    "19-RD-393065": {
+      "case_number": "19-RD-393065",
+      "employer": "Darigold",
+      "case_url": "https://www.nlrb.gov/case/19-RD-393065",
+      "case_type": "RD",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "Spokane, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-18"
+    },
+    "31-RC-393064": {
+      "case_number": "31-RC-393064",
+      "employer": "Community Hospital of San Bernardino",
+      "case_url": "https://www.nlrb.gov/case/31-RC-393064",
+      "case_type": "RC",
+      "date_filed": "2026-08-17",
+      "status": "Open",
+      "location": "San Bernardino, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-18"
+    },
+    "02-RC-390576": {
+      "case_number": "02-RC-390576",
+      "employer": "Brightview Holdings, Inc.",
+      "case_url": "https://www.nlrb.gov/case/02-RC-390576",
+      "case_type": "RC",
+      "tally_date": "2026-08-18",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-07-08",
+      "status": "Open",
+      "location": "Bronx, NY",
+      "region": "Region 02, New York, New York",
+      "eligible_voters": 10,
+      "votes_against": 5,
+      "ballots_counted": 10,
+      "void_ballots": 0,
+      "votes_for": 2,
+      "union": "Progressive Workers Union Local 311",
+      "unit_description": "Included: All full-time and regular part-time maintenance and landscaping employees including but not limited to crew leaders, landscapers, and gardeners working at or based out of the 2600 Lafayette Ave, Bronx, NY 10465 facility.\n\nExcluded: All managerial employees, including production managers, enhancement managers, specialty services managers, account managers, administrative employees, sales employee , per-diem/casual employees, confidential employees and professional employees, guards and supervisors as defined in the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Manufacturing"
     }
   }
 }
