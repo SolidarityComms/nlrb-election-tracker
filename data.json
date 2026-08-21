@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21 17:29:28",
-  "total_cases": 1151,
+  "last_updated": "2026-08-21 22:27:01",
+  "total_cases": 1154,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -138,7 +138,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -1572,7 +1572,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1999,7 +1999,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -11305,7 +11305,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -11980,7 +11980,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Foster Garvey PC"
       ]
@@ -13325,7 +13325,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -14419,7 +14419,7 @@
       "employer_counsel": [
         "Baker Law PLC"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "01-RC-388165": {
       "case_number": "01-RC-388165",
@@ -14613,7 +14613,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14752,7 +14752,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -15504,7 +15504,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Clifton Budd & DeMaria LLP"
       ],
@@ -15548,7 +15548,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -15788,7 +15788,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-08-17",
+      "case_page_fetched": "2026-08-21",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -15872,7 +15872,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-17",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -16071,7 +16071,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-08-15"
+      "case_page_fetched": "2026-08-21"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -16825,7 +16825,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-15",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -17686,7 +17686,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -17805,7 +17805,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-08-17",
+      "case_page_fetched": "2026-08-21",
       "election_date": "July 24 2026"
     },
     "25-RC-389899": {
@@ -18742,7 +18742,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Technology & Professional",
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "22-RC-390287": {
       "case_number": "22-RC-390287",
@@ -18872,7 +18872,7 @@
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "25-RC-390329": {
       "case_number": "25-RC-390329",
@@ -19317,7 +19317,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -19740,7 +19740,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-17"
+      "case_page_fetched": "2026-08-21"
     },
     "07-RC-390728": {
       "case_number": "07-RC-390728",
@@ -20110,7 +20110,7 @@
       "employer_counsel": [
         "Reed Smith LLP"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "28-RC-391053": {
       "case_number": "28-RC-391053",
@@ -20891,7 +20891,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Ogletree Deakin"
       ]
@@ -20908,7 +20908,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-21",
       "employer_counsel": [
         "Ogletree Deakin"
       ]
@@ -21136,21 +21136,27 @@
     },
     "05-RC-391511": {
       "case_number": "05-RC-391511",
-      "employer": "Camden-Wyoming Fire Company",
+      "employer": "Camden Wyoming Fire Company, Inc.",
       "case_url": "https://www.nlrb.gov/case/05-RC-391511",
       "case_type": "RC",
+      "tally_date": "2026-08-21",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-27",
       "status": "Open",
       "location": "Camden, DE",
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 12,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-08-19",
-      "election_date": "August 21 2026",
-      "employer_counsel": [
-        "Giordano & Gagne LLC"
-      ]
+      "votes_against": 0,
+      "ballots_counted": 5,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "Kent Sussex Professional Firefighters, International Association of Fire Fighters (IAFF) Local 5121 a/w International Association of Fire Fighters",
+      "union_to_certify": "Kent Sussex Professional Firefighters, International Association of Fire Fighters (IAFF) Local 5121 a/w International Association of Fire Fighters",
+      "unit_description": "Included: All full-time and regular part-time fire fighters and emergency medical technicians (EMTs) employed by the Employer.\n\nExcluded: Chief Officers, volunteers, office clerical employees, managerial employees, guards, and supervisors as defined by the National Labor Relations Act. \n\nOthers permitted to vote:  The parties have agreed that captains and lieutenants may vote in the election, but their ballots will be challenged since their eligibility has not been resolved. No decision has been made regarding whether the individuals in this classification or group are included in, or excluded from, the bargaining unit.  The eligibility or inclusion of these individuals will be resolved, if necessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "32-RD-391577": {
       "case_number": "32-RD-391577",
@@ -22906,7 +22912,8 @@
       "employer_counsel": [
         "Jones Lang LaSalle Americas, Inc."
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21",
+      "election_date": "September 09 2026"
     },
     "05-RC-392498": {
       "case_number": "05-RC-392498",
@@ -22923,7 +22930,7 @@
       "employer_counsel": [
         "Proskauer Rose LLP"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "13-RC-392489": {
       "case_number": "13-RC-392489",
@@ -23087,7 +23094,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-17"
+      "case_page_fetched": "2026-08-21"
     },
     "05-RC-392580": {
       "case_number": "05-RC-392580",
@@ -23121,7 +23128,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "32-RD-392595": {
       "case_number": "32-RD-392595",
@@ -23474,7 +23481,11 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-15"
+      "case_page_fetched": "2026-08-21",
+      "election_date": "September 23 2026",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ]
     },
     "07-RC-390084": {
       "case_number": "07-RC-390084",
@@ -23571,7 +23582,7 @@
       "union_counsel": [
         "Fuiman Mogila LLP"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21"
     },
     "10-RC-392839": {
       "case_number": "10-RC-392839",
@@ -23605,7 +23616,11 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-21",
+      "election_date": "SEPTEMBER 25 2026",
+      "employer_counsel": [
+        "Ogletree Deakins Nash Smoak & Stewart, PC"
+      ]
     },
     "10-RD-357883": {
       "case_number": "10-RD-357883",
@@ -24425,6 +24440,65 @@
       "sector": "Other",
       "employer_counsel": [
         "Greenberg Traurig, LLP"
+      ],
+      "union_counsel": [
+        "International Union of Operating Engineers, Local 150, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-08-21"
+    },
+    "13-RC-393345": {
+      "case_number": "13-RC-393345",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/13-RC-393345",
+      "case_type": "RC",
+      "date_filed": "2026-08-21",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, PC",
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Workers United a/w Service Employees International Union AFL-CIO"
+      ],
+      "case_page_fetched": "2026-08-21"
+    },
+    "27-RC-393359": {
+      "case_number": "27-RC-393359",
+      "employer": "Integrity National Corporation",
+      "case_url": "https://www.nlrb.gov/case/27-RC-393359",
+      "case_type": "RC",
+      "date_filed": "2026-08-21",
+      "status": "Open",
+      "location": "Denver, CO",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 11,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-21"
+    },
+    "27-RC-393360": {
+      "case_number": "27-RC-393360",
+      "employer": "Filius Corporation and Allen Corporation of America as joint employers",
+      "case_url": "https://www.nlrb.gov/case/27-RC-393360",
+      "case_type": "RC",
+      "date_filed": "2026-08-21",
+      "status": "Open",
+      "location": "Hill Afb, UT",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 46,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Ray, Quinney & Nebeker, P.C.",
+        "Morgan, Brown & Joy, LLP"
+      ],
+      "union_counsel": [
+        "International Association of Machinists and Aerospace Workers, AFL-CIO"
       ],
       "case_page_fetched": "2026-08-21"
     }
