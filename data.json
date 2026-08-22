@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 12:51:07",
+  "last_updated": "2026-08-22 17:22:27",
   "total_cases": 1155,
   "cases": {
     "19-RC-386928": {
@@ -1166,7 +1166,7 @@
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ],
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-22",
       "union_counsel": [
         "Washington State Nurses Association, a/w the American Federation of Teachers"
       ]
@@ -1270,7 +1270,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-22"
     },
     "13-RC-386170": {
       "case_number": "13-RC-386170",
@@ -15203,7 +15203,7 @@
       "eligible_voters": 1,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-17",
+      "case_page_fetched": "2026-08-22",
       "election_date": "June 29 2026"
     },
     "18-RC-385103": {
@@ -17901,7 +17901,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-22",
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ]
@@ -20546,7 +20546,7 @@
       "union_counsel": [
         "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
       ],
-      "case_page_fetched": "2026-08-16",
+      "case_page_fetched": "2026-08-22",
       "employer_counsel": [
         "Ford Motor Company"
       ]
@@ -22067,7 +22067,7 @@
       "union_counsel": [
         "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America"
       ],
-      "case_page_fetched": "2026-08-17"
+      "case_page_fetched": "2026-08-22"
     },
     "29-RD-391934": {
       "case_number": "29-RD-391934",
@@ -22947,7 +22947,7 @@
       "union_counsel": [
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-22"
     },
     "10-RC-392521": {
       "case_number": "10-RC-392521",
@@ -23200,7 +23200,7 @@
       "employer_counsel": [
         "Jones Lang LaSalle Americas, Inc."
       ],
-      "case_page_fetched": "2026-08-16"
+      "case_page_fetched": "2026-08-22"
     },
     "02-RC-392612": {
       "case_number": "02-RC-392612",
@@ -23294,7 +23294,7 @@
       "union_counsel": [
         "Kroll, Heineman, Ptasiewicz, Parsons & Jameson, LLC"
       ],
-      "case_page_fetched": "2026-08-18",
+      "case_page_fetched": "2026-08-22",
       "employer_counsel": [
         "Littler Mendelson, PC"
       ]
@@ -23317,7 +23317,7 @@
       "union_counsel": [
         "Hayes, Ortega & Sanchez, LLP"
       ],
-      "case_page_fetched": "2026-08-18"
+      "case_page_fetched": "2026-08-22"
     },
     "07-RC-392708": {
       "case_number": "07-RC-392708",
@@ -23548,7 +23548,7 @@
       "union_counsel": [
         "Law Office of Robert S. Giolito PC"
       ],
-      "case_page_fetched": "2026-08-18"
+      "case_page_fetched": "2026-08-22"
     },
     "32-RD-392789": {
       "case_number": "32-RD-392789",
@@ -23562,7 +23562,7 @@
       "eligible_voters": 7,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-18",
+      "case_page_fetched": "2026-08-22",
       "employer_counsel": [
         "Davis Grimm Payne & Marra"
       ]
@@ -24341,7 +24341,12 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 19,
       "stage": "just_filed",
-      "sector": "Security & Public Safety"
+      "sector": "Security & Public Safety",
+      "union_counsel": [
+        "Gregory Moore Brooks Clark & Helton, PC",
+        "International Union, Security, Police and Fire Professionals of America (SPFPA)"
+      ],
+      "case_page_fetched": "2026-08-22"
     },
     "05-RC-393242": {
       "case_number": "05-RC-393242",
@@ -24388,7 +24393,8 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-22"
     },
     "03-RM-393266": {
       "case_number": "03-RM-393266",
@@ -24401,7 +24407,11 @@
       "region": "Region 03, Buffalo, New York",
       "eligible_voters": 6,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Harris Beach Murtha Cullina PLLC"
+      ],
+      "case_page_fetched": "2026-08-22"
     },
     "05-RM-393320": {
       "case_number": "05-RM-393320",
@@ -24414,7 +24424,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Media & Entertainment"
+      "sector": "Media & Entertainment",
+      "union_counsel": [
+        "Baker & Hostetler, LLP"
+      ],
+      "case_page_fetched": "2026-08-22"
     },
     "25-RC-393288": {
       "case_number": "25-RC-393288",
@@ -24447,7 +24461,15 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 13,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, PC",
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Workers United a/w Service Employees International Union AFL-CIO"
+      ],
+      "case_page_fetched": "2026-08-22"
     },
     "27-RC-393359": {
       "case_number": "27-RC-393359",
@@ -24460,7 +24482,8 @@
       "region": "Region 27, Denver, Colorado",
       "eligible_voters": 11,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-08-22"
     },
     "27-RC-393360": {
       "case_number": "27-RC-393360",
