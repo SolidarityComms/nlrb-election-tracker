@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 17:22:06",
+  "last_updated": "2026-08-23 22:21:48",
   "total_cases": 1155,
   "cases": {
     "19-RC-386928": {
@@ -818,7 +818,7 @@
       "union_counsel": [
         "Gursky, Wiens and Shanley"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "18-RC-386507": {
       "case_number": "18-RC-386507",
@@ -1313,7 +1313,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "02-RD-386210": {
       "case_number": "02-RD-386210",
@@ -1603,7 +1603,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "18-RC-386174": {
       "case_number": "18-RC-386174",
@@ -2220,7 +2220,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "03-RM-385757": {
       "case_number": "03-RM-385757",
@@ -11057,7 +11057,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "25-RD-386827": {
       "case_number": "25-RD-386827",
@@ -12449,7 +12449,7 @@
       "union_counsel": [
         "Doll, Jansen & Ford"
       ],
-      "case_page_fetched": "2026-08-19",
+      "case_page_fetched": "2026-08-23",
       "employer_counsel": [
         "Fisher & Phillips, LLP"
       ]
@@ -12858,7 +12858,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -13577,7 +13577,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-08-19",
+      "case_page_fetched": "2026-08-23",
       "election_date": "July 1 2026",
       "employer_counsel": [
         "NYU Langone Health"
@@ -17578,7 +17578,7 @@
       "union_counsel": [
         "Rosenblatt, Gosch & Reinken, PLLC"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "01-RC-389662": {
       "case_number": "01-RC-389662",
@@ -19688,7 +19688,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "21-RD-390732": {
       "case_number": "21-RD-390732",
@@ -20491,7 +20491,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "09-RC-391290": {
       "case_number": "09-RC-391290",
@@ -20757,7 +20757,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-19",
+      "case_page_fetched": "2026-08-23",
       "employer_counsel": [
         "The Kullman Firm"
       ]
@@ -20964,7 +20964,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-19",
+      "case_page_fetched": "2026-08-23",
       "employer_counsel": [
         "Littler Mendelson, P.C.",
         "Littler Mendelson P.C."
@@ -22499,7 +22499,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "09-RC-392237": {
       "case_number": "09-RC-392237",
@@ -23953,7 +23953,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-19"
+      "case_page_fetched": "2026-08-23"
     },
     "02-RC-390576": {
       "case_number": "02-RC-390576",
@@ -24436,7 +24436,11 @@
       "region": "Region 05, Baltimore, Maryland",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Media & Entertainment"
+      "sector": "Media & Entertainment",
+      "union_counsel": [
+        "Baker & Hostetler, LLP"
+      ],
+      "case_page_fetched": "2026-08-23"
     },
     "25-RC-393288": {
       "case_number": "25-RC-393288",
