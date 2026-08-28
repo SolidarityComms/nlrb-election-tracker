@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28 13:53:59",
-  "total_cases": 1190,
+  "last_updated": "2026-08-28 21:46:31",
+  "total_cases": 1206,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -818,7 +818,7 @@
       "union_counsel": [
         "Gursky, Wiens and Shanley"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "18-RC-386507": {
       "case_number": "18-RC-386507",
@@ -1313,7 +1313,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "02-RD-386210": {
       "case_number": "02-RD-386210",
@@ -1603,7 +1603,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "18-RC-386174": {
       "case_number": "18-RC-386174",
@@ -2220,7 +2220,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "03-RM-385757": {
       "case_number": "03-RM-385757",
@@ -11037,7 +11037,7 @@
         "O'Donohue and O'Donoghue",
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "Kostopoulos Rodriguez, PLLC"
       ]
@@ -12449,7 +12449,7 @@
       "union_counsel": [
         "Doll, Jansen & Ford"
       ],
-      "case_page_fetched": "2026-08-23",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "Fisher & Phillips, LLP"
       ]
@@ -12578,7 +12578,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "election_date": "June 18 2026"
     },
     "21-RC-387503": {
@@ -12816,7 +12816,7 @@
       "union_counsel": [
         "Sherrard, German & Kelly, P.C."
       ],
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "election_date": "June 30 2026",
       "employer_counsel": [
         "Peoples Natural Gas Company, LLC"
@@ -12858,7 +12858,7 @@
       "union_counsel": [
         "Blank Rome LLP"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "02-RC-387608": {
       "case_number": "02-RC-387608",
@@ -13577,7 +13577,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-08-23",
+      "case_page_fetched": "2026-08-28",
       "election_date": "July 1 2026",
       "employer_counsel": [
         "NYU Langone Health"
@@ -14593,7 +14593,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Hospitality & Food Service",
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ]
@@ -15729,7 +15729,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-24"
+      "case_page_fetched": "2026-08-28"
     },
     "29-RC-388909": {
       "case_number": "29-RC-388909",
@@ -17078,7 +17078,7 @@
       "union_counsel": [
         "Robert M. Cheverie & Associates, P.C."
       ],
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "First Student, Inc."
       ]
@@ -17581,7 +17581,7 @@
       "union_counsel": [
         "Rosenblatt, Gosch & Reinken, PLLC"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "01-RC-389662": {
       "case_number": "01-RC-389662",
@@ -17767,7 +17767,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "HINMAN HOWARD & KATTELL, LLP"
       ]
@@ -18474,7 +18474,7 @@
       "employer_counsel": [
         "Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-08-24"
+      "case_page_fetched": "2026-08-28"
     },
     "28-RC-390199": {
       "case_number": "28-RC-390199",
@@ -18916,7 +18916,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "Ballard Spahr LLP"
       ]
@@ -19704,7 +19704,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "21-RD-390732": {
       "case_number": "21-RD-390732",
@@ -20032,7 +20032,7 @@
       "union_counsel": [
         "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 738"
       ],
-      "case_page_fetched": "2026-08-24"
+      "case_page_fetched": "2026-08-28"
     },
     "31-RC-391013": {
       "case_number": "31-RC-391013",
@@ -20113,7 +20113,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-08-24"
+      "case_page_fetched": "2026-08-28"
     },
     "06-RC-391026": {
       "case_number": "06-RC-391026",
@@ -20468,7 +20468,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-24",
+      "case_page_fetched": "2026-08-28",
       "election_date": "August 25 2026",
       "employer_counsel": [
         "Clifton Budd & DeMaria, LLP"
@@ -20526,7 +20526,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "09-RC-391290": {
       "case_number": "09-RC-391290",
@@ -20802,7 +20802,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-23",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "The Kullman Firm"
       ]
@@ -21009,7 +21009,7 @@
       "eligible_voters": 6,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-23",
+      "case_page_fetched": "2026-08-28",
       "employer_counsel": [
         "Littler Mendelson, P.C.",
         "Littler Mendelson P.C."
@@ -21484,18 +21484,22 @@
       "employer": "Children\u2019s Hospital t/a Children\u2019s National Hospital",
       "case_url": "https://www.nlrb.gov/case/05-RC-391697",
       "case_type": "RC",
+      "tally_date": "2026-08-28",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-28",
       "status": "Open",
       "location": "Washington, DC",
       "region": "Region 05, Baltimore, Maryland",
-      "eligible_voters": 5,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "employer_counsel": [
-        "Seyfarth Shaw LLP"
-      ],
-      "case_page_fetched": "2026-08-24",
-      "election_date": "August 28 2026"
+      "eligible_voters": 0,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 0,
+      "union_to_certify": "District of Columbia Nurses Association a/w National Nurses United, AFL-CIO",
+      "unit_description": "All full-time, regular part-time, and PRN registered nurses employed by the Employer in its Shepard Park Primary Care Cost Center currently located at its facility 7125 13th Place NW, Washington, D.C., but excluding all other employees, shift coordinators, office clerical employees, other professional employees, confidential employees, temporary employees, managerial employees, guards, and supervisors as defined in the Act.",
+      "outcome": "unknown",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "10-RC-391711": {
       "case_number": "10-RC-391711",
@@ -21580,20 +21584,24 @@
       "employer": "DND Fire Protection, Inc.",
       "case_url": "https://www.nlrb.gov/case/13-RC-391745",
       "case_type": "RC",
+      "tally_date": "2026-08-28",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-29",
       "status": "Open",
       "location": "Glenview, IL",
       "region": "Region 13, Chicago, Illinois",
-      "eligible_voters": 7,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "O'Donoghue & O'Donoghue LLP"
-      ],
-      "case_page_fetched": "2026-08-28",
-      "employer_counsel": [
-        "Navigant Law Group, LLC"
-      ]
+      "eligible_voters": 9,
+      "votes_against": 0,
+      "ballots_counted": 9,
+      "void_ballots": 0,
+      "votes_for": 9,
+      "union": "Sprinkler Fitters and Apprentices Union Local 281 U.A.",
+      "union_to_certify": "Sprinkler Fitters and Apprentices Union Local 281 U.A.",
+      "unit_description": "Included: All full-time and regular part-time Service Techs, Pipe Fitters, Helpers, and Apprentices employed by the Employer at its facility currently located at 4310 Regency Drive, Glenview, IL.  \n\nExcluded: All other employees, office clerical employees, confidential employees, managerial employees, professional employees, guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "10-RD-391750": {
       "case_number": "10-RD-391750",
@@ -22599,7 +22607,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28"
     },
     "09-RC-392237": {
       "case_number": "09-RC-392237",
@@ -22874,21 +22882,27 @@
     },
     "10-RC-392402": {
       "case_number": "10-RC-392402",
-      "employer": "Karns Volunteer Fire Department, Inc.",
+      "employer": "Karns Fire Department",
       "case_url": "https://www.nlrb.gov/case/10-RC-392402",
       "case_type": "RC",
+      "tally_date": "2026-08-28",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-08-06",
       "status": "Open",
       "location": "Knoxville, TN",
       "region": "Region 10, Atlanta, Georgia",
-      "eligible_voters": 19,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-08-28",
-      "union_counsel": [
-        "Mooney, Green, Saindon, Murphy & Welch"
-      ],
-      "election_date": "August 28 2026"
+      "eligible_voters": 29,
+      "votes_against": 0,
+      "ballots_counted": 14,
+      "void_ballots": 0,
+      "votes_for": 14,
+      "union": "United Firefighters of Karns Local 4900",
+      "union_to_certify": "United Firefighters of Karns Local 4900",
+      "unit_description": "Including: All full time and regular part time Engineers and Fire Fighters employed by\nthe Employer\nExcluding: All Volunteers, Fire Chiefs, Assistant Fire Chiefs, Training Captains, guards,\nand supervisors as defined by the National Labor Relations Board\n\nOthers permitted to vote: The parties have agreed that full time and part time\nCaptains may vote in the election but their ballots will be challenged since their\neligibility has not been resolved. No decision has been made regarding whether the\nindividuals in these classifications or groups are included in, or excluded from, the\nbargaining unit. The eligibility or inclusion of these individuals will be resolved, if\nnecessary, following the election.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "32-RC-392419": {
       "case_number": "32-RC-392419",
@@ -24065,7 +24079,8 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-23"
+      "case_page_fetched": "2026-08-28",
+      "election_date": "September 04 2026"
     },
     "02-RC-390576": {
       "case_number": "02-RC-390576",
@@ -25053,6 +25068,9 @@
       "eligible_voters": 60,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
@@ -25087,6 +25105,9 @@
       "eligible_voters": 140,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
@@ -25253,6 +25274,9 @@
       "eligible_voters": 28,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Foley Hoag LLP"
+      ],
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
@@ -25291,6 +25315,279 @@
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
       "case_page_fetched": "2026-08-28"
+    },
+    "10-RC-393781": {
+      "case_number": "10-RC-393781",
+      "employer": "Ryder System, Inc.",
+      "case_url": "https://www.nlrb.gov/case/10-RC-393781",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Lithia Springs, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Stanford Fagan LLC"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "13-RC-393821": {
+      "case_number": "13-RC-393821",
+      "employer": "Juvenile Protective Association",
+      "case_url": "https://www.nlrb.gov/case/13-RC-393821",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Security & Public Safety",
+      "case_page_fetched": "2026-08-28"
+    },
+    "25-RC-393814": {
+      "case_number": "25-RC-393814",
+      "employer": "Banfield Pet Hospital",
+      "case_url": "https://www.nlrb.gov/case/25-RC-393814",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Indianapolis, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-08-28"
+    },
+    "25-RC-393797": {
+      "case_number": "25-RC-393797",
+      "employer": "Banfield Pet Hospital",
+      "case_url": "https://www.nlrb.gov/case/25-RC-393797",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Indianapolis, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-08-28"
+    },
+    "01-RC-393777": {
+      "case_number": "01-RC-393777",
+      "employer": "Boston IVF",
+      "case_url": "https://www.nlrb.gov/case/01-RC-393777",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Waltham, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 45,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Jones Day"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "15-RC-393800": {
+      "case_number": "15-RC-393800",
+      "employer": "LaSalle Corrections West, LLC",
+      "case_url": "https://www.nlrb.gov/case/15-RC-393800",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Ferriday, LA",
+      "region": "Region 15, New Orleans, Louisiana",
+      "eligible_voters": 55,
+      "stage": "just_filed",
+      "sector": "Security & Public Safety",
+      "union_counsel": [
+        "Gregory, Moore, Brooks, Clark & Helton, P.C."
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "05-RC-393832": {
+      "case_number": "05-RC-393832",
+      "employer": "ETI Environmental, Inc.",
+      "case_url": "https://www.nlrb.gov/case/05-RC-393832",
+      "case_type": "RC",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Virginia Beach, VA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 20,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "John F. Dascoli, PLLC"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "13-RD-393819": {
+      "case_number": "13-RD-393819",
+      "employer": "Turning Point Behavioral Health Care Center",
+      "case_url": "https://www.nlrb.gov/case/13-RD-393819",
+      "case_type": "RD",
+      "date_filed": "2026-08-28",
+      "status": "Open",
+      "location": "Skokie, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 22,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-08-28"
+    },
+    "14-RC-393782": {
+      "case_number": "14-RC-393782",
+      "employer": "EquipmentShare.com, Inc.",
+      "case_url": "https://www.nlrb.gov/case/14-RC-393782",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Cape Girardeau, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Hartnett Reyes-Jones, L.L.C."
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "19-RC-393773": {
+      "case_number": "19-RC-393773",
+      "employer": "Rock Hill Health and Rehabilitation",
+      "case_url": "https://www.nlrb.gov/case/19-RC-393773",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Bellingham, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP",
+        "Barnard Iglitzin & Lavitt, LLP"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "19-RC-393780": {
+      "case_number": "19-RC-393780",
+      "employer": "Avamere Pacific Ridge",
+      "case_url": "https://www.nlrb.gov/case/19-RC-393780",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Tacoma, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 21,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP",
+        "Barnard Iglitzin & Lavitt, LLP"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "29-RC-393799": {
+      "case_number": "29-RC-393799",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/29-RC-393799",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Glen Cove, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Levy Ratner, P.C."
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "19-RC-393816": {
+      "case_number": "19-RC-393816",
+      "employer": "Philips North America, LLC",
+      "case_url": "https://www.nlrb.gov/case/19-RC-393816",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Cle Elum, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 23,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Philips North America LLC"
+      ],
+      "union_counsel": [
+        "International Association of Machinists and Aerospace Workers, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "31-RC-393795": {
+      "case_number": "31-RC-393795",
+      "employer": "Warner Bros. Discovery",
+      "case_url": "https://www.nlrb.gov/case/31-RC-393795",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Burbank, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 40,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "14-RC-393759": {
+      "case_number": "14-RC-393759",
+      "employer": "Southern Glazer's Wine & Spirits (SGWS)",
+      "case_url": "https://www.nlrb.gov/case/14-RC-393759",
+      "case_type": "RC",
+      "date_filed": "2026-08-27",
+      "status": "Open",
+      "location": "Tulsa, OK",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 116,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Constangy Brooks Smith & Prophete"
+      ],
+      "union_counsel": [
+        "Godwin, Morris, Laurenzi, & Bloomfield, P.C."
+      ],
+      "case_page_fetched": "2026-08-28"
+    },
+    "13-RC-392011": {
+      "case_number": "13-RC-392011",
+      "employer": "Wheeling Skilled Nursing Facility, LLC d/b/a Bella Terra Wheeling",
+      "case_url": "https://www.nlrb.gov/case/13-RC-392011",
+      "case_type": "RC",
+      "tally_date": "2026-08-27",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-07-31",
+      "status": "Open",
+      "location": "Wheeling, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 32,
+      "votes_against": 1,
+      "ballots_counted": 27,
+      "void_ballots": 0,
+      "votes_for": 26,
+      "unit_description": "VOTING GROUP A - PROFESSIONAL EMPLOYEES\nIncluded: All full-time and regular part-time Registered Nurses employed by the Employer at its facility currently located at 730 W. Hintz Road, Wheeling, IL. \n\nExcluded: All non-professional employees, Directors of Nursing, Assistant Directors of Nursing, Nurse Managers, Psychotropic Nurses, Infection Preventionists, MDS/Care Plan Coordinators, Restorative/Rehab Nurses, Wound Care Nurses, office clerical employees, confidential employees, managerial employees, guards and supervisors as defined by the Act. \n\n\nVOTING GROUP B - NON-PROFESSIONAL EMPLOYEES\n\nIncluded: All full-time and regular part-time Licensed Practical Nurses employed by the Employer at its facility currently located at 730 W. Hintz Road, Wheeling, IL. \n\nExcluded: All professional employees, Directors of Nursing, Assistant Directors of Nursing, Nurse Managers, Psychotropic Nurses, Infection Preventionists, MDS/Care Plan Coordinators, Restorative/Rehab Nurses, Wound Care Nurses, office clerical employees, confidential employees, managerial employees, guards and supervisors as defined by the Act. \n\n\nIf a majority of the professional employees voting in Unit A vote \u201cYes\u201d to the first question, indicating their desire to be included in a unit with non-professional employees, they will be so included, and their votes on the second question will be counted together with the votes of the non-professional employees in Group B to decide the question concerning representation for the overall unit consisting of the employees in Groups A and B.  If on the other hand, a majority of the professional employees voting in Group A do not vote \u201cYes\u201d to the first question, their ballots will be counted separately to decide the question concerning representation in a separate Group A.\n\nIf a majority of the professional employees voting in Unit A vote \u201cYes\u201d to the first question, the overall unit consisting of the employees in Units A and B and thereby the following employees will constitute a unit appropriate for the purposes of collective bargaining within the meaning of 9(b) of the Act. \nUnit C\n\nIncluded: All full-time and regular part-time Registered Nurses and Licensed Practical Nurses employed by the Employer at its facility currently located at 730 W. Hintz Road, Wheeling, IL.\n\nExcluded: All Directors of Nursing, Assistant Directors of Nursing, Nurse Managers, Psychotropic Nurses, Infection Preventionists, MDS/Care Plan Coordinators, Restorative/Rehab Nurses, Wound Care Nurses, office clerical employees, confidential employees, managerial employees, guards and supervisors as defined by the Act. \nIf a majority of valid ballots for Units B or C are cast for SEIU Healthcare Illinois and Indiana, they will be taken to have indicated the employees\u2019 desire to be included in the existing unit currently represented by that labor organization.  If a majority of valid ballots are not cast for representation, they will be taken to have indicated the employees\u2019 desire to remain unrepresented.\n\nIf a majority of the professional employees in Voting Group A do not vote for inclusion in a unit with nonprofessional employees, but the majority of valid ballots in that voting group are cast for representation by SEIU Healthcare Illinois and Indiana, then the professional employees will be an appropriate unit unto themselves.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     }
   }
 }
