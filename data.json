@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 16:14:50",
+  "last_updated": "2026-08-29 19:39:36",
   "total_cases": 1209,
   "cases": {
     "19-RC-386928": {
@@ -138,7 +138,7 @@
       "union_counsel": [
         "Siegel LeWitter Malkani"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "18-RC-386842": {
       "case_number": "18-RC-386842",
@@ -1572,7 +1572,7 @@
       "union_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "19-RD-386247": {
       "case_number": "19-RD-386247",
@@ -1999,7 +1999,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "32-RC-385859": {
       "case_number": "32-RC-385859",
@@ -11305,7 +11305,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "20-RM-387033": {
       "case_number": "20-RM-387033",
@@ -11980,7 +11980,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "employer_counsel": [
         "Foster Garvey PC"
       ]
@@ -13325,7 +13325,7 @@
       "employer_counsel": [
         "Prime Comms Retail, LLC"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "13-RC-387730": {
       "case_number": "13-RC-387730",
@@ -14613,7 +14613,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "employer_counsel": [
         "Cozen O'Connor"
       ]
@@ -14752,7 +14752,7 @@
       "employer_counsel": [
         "American Electric Power"
       ],
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "election_date": "JULY 7 2026"
     },
     "19-RC-388354": {
@@ -15504,7 +15504,7 @@
       "union_counsel": [
         "Barnes Iaccarino Shepherd LLP"
       ],
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "employer_counsel": [
         "Clifton Budd & DeMaria LLP"
       ],
@@ -15548,7 +15548,7 @@
       "employer_counsel": [
         "Sutter Health CPMC"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "08-RC-388780": {
       "case_number": "08-RC-388780",
@@ -15788,7 +15788,7 @@
       "union_counsel": [
         "Amalgamated Transit Union"
       ],
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "election_date": "July 17 2026"
     },
     "10-RC-388966": {
@@ -16071,7 +16071,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -16828,7 +16828,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -17689,7 +17689,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "21-RD-389754": {
       "case_number": "21-RD-389754",
@@ -17808,7 +17808,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "election_date": "July 24 2026"
     },
     "25-RC-389899": {
@@ -18745,7 +18745,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Technology & Professional",
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "22-RC-390287": {
       "case_number": "22-RC-390287",
@@ -18875,7 +18875,7 @@
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "25-RC-390329": {
       "case_number": "25-RC-390329",
@@ -19763,7 +19763,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "07-RC-390728": {
       "case_number": "07-RC-390728",
@@ -20137,7 +20137,7 @@
       "employer_counsel": [
         "Reed Smith LLP"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "28-RC-391053": {
       "case_number": "28-RC-391053",
@@ -20943,7 +20943,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "employer_counsel": [
         "Ogletree Deakin"
       ]
@@ -20960,7 +20960,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "employer_counsel": [
         "Ogletree Deakin"
       ]
@@ -23034,7 +23034,7 @@
       "employer_counsel": [
         "Jones Lang LaSalle Americas, Inc."
       ],
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "election_date": "September 09 2026"
     },
     "05-RC-392498": {
@@ -23052,7 +23052,7 @@
       "employer_counsel": [
         "Proskauer Rose LLP"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "13-RC-392489": {
       "case_number": "13-RC-392489",
@@ -23216,7 +23216,7 @@
       "eligible_voters": 2,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "05-RC-392580": {
       "case_number": "05-RC-392580",
@@ -23250,7 +23250,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "32-RD-392595": {
       "case_number": "32-RD-392595",
@@ -23614,7 +23614,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "election_date": "September 23 2026",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
@@ -23715,7 +23715,7 @@
       "union_counsel": [
         "Fuiman Mogila LLP"
       ],
-      "case_page_fetched": "2026-08-25"
+      "case_page_fetched": "2026-08-29"
     },
     "10-RC-392839": {
       "case_number": "10-RC-392839",
@@ -23749,7 +23749,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-08-25",
+      "case_page_fetched": "2026-08-29",
       "election_date": "SEPTEMBER 25 2026",
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart, PC"
