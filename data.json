@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31 18:47:58",
-  "total_cases": 1215,
+  "last_updated": "2026-08-31 21:44:38",
+  "total_cases": 1219,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -22600,23 +22600,27 @@
     },
     "01-RC-392267": {
       "case_number": "01-RC-392267",
-      "employer": "Summit School Services d/b/a Durham School Services (Easthampton Public Schools)",
+      "employer": "Durham School Services, L.P.",
       "case_url": "https://www.nlrb.gov/case/01-RC-392267",
       "case_type": "RC",
+      "tally_date": "2026-08-31",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-08-05",
       "status": "Open",
       "location": "Easthampton, MA",
       "region": "Region 01, Boston, Massachusetts",
-      "eligible_voters": 6,
-      "stage": "just_filed",
-      "sector": "Education",
-      "employer_counsel": [
-        "Summit LLC"
-      ],
-      "union_counsel": [
-        "Pyle Rome Ehrenberg PC"
-      ],
-      "case_page_fetched": "2026-08-28"
+      "eligible_voters": 5,
+      "votes_against": 0,
+      "ballots_counted": 5,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "United Food and Commercial Workers Union, Local 1459",
+      "union_to_certify": "United Food and Commercial Workers Union, Local 1459",
+      "unit_description": "Included: All full-time and regular part-time drivers working out of the Employer\u2019s Easthampton, MA facility, driving for Easthampton Public Schools. \n\nExcluded:  All office clerical employees, confidential employees, managers, guards, professional employees and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "09-RC-392237": {
       "case_number": "09-RC-392237",
@@ -25806,8 +25810,79 @@
       "eligible_voters": 441,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Quarles & Brady LLP"
+      ],
       "union_counsel": [
         "Beins, Axelrod & Keating, P.C."
+      ],
+      "case_page_fetched": "2026-08-31"
+    },
+    "10-RC-393924": {
+      "case_number": "10-RC-393924",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/10-RC-393924",
+      "case_type": "RC",
+      "date_filed": "2026-08-31",
+      "status": "Open",
+      "location": "Vidalia, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Quinn, Connor, Weaver, Davies & Rouco LLP"
+      ],
+      "case_page_fetched": "2026-08-31"
+    },
+    "01-RC-393917": {
+      "case_number": "01-RC-393917",
+      "employer": "Sunrise Northeast, Inc.",
+      "case_url": "https://www.nlrb.gov/case/01-RC-393917",
+      "case_type": "RC",
+      "date_filed": "2026-08-31",
+      "status": "Open",
+      "location": "Hartford, CT",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 37,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-08-31"
+    },
+    "21-RC-393929": {
+      "case_number": "21-RC-393929",
+      "employer": "Philips North America, LLC",
+      "case_url": "https://www.nlrb.gov/case/21-RC-393929",
+      "case_type": "RC",
+      "date_filed": "2026-08-31",
+      "status": "Open",
+      "location": "Anaheim, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-08-31"
+    },
+    "19-RC-393932": {
+      "case_number": "19-RC-393932",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/19-RC-393932",
+      "case_type": "RC",
+      "date_filed": "2026-08-31",
+      "status": "Open",
+      "location": "Portland, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 13,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, PC"
+      ],
+      "union_counsel": [
+        "Barnard Iglitzin & Lavitt LLP"
       ],
       "case_page_fetched": "2026-08-31"
     }
