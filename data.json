@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04 19:20:47",
-  "total_cases": 1246,
+  "last_updated": "2026-09-04 23:46:11",
+  "total_cases": 1247,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -26365,6 +26365,12 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Michael Best & Friedrich LLP"
+      ],
+      "union_counsel": [
+        "Fern Steiner Law, APC"
+      ],
       "case_page_fetched": "2026-09-04"
     },
     "04-RC-394166": {
@@ -26500,6 +26506,9 @@
       "eligible_voters": 30,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Providence Health and Services"
+      ],
       "case_page_fetched": "2026-09-04"
     },
     "28-RC-392523": {
@@ -26524,6 +26533,23 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Security & Public Safety"
+    },
+    "31-RC-394245": {
+      "case_number": "31-RC-394245",
+      "employer": "84 Lumber Company",
+      "case_url": "https://www.nlrb.gov/case/31-RC-394245",
+      "case_type": "RC",
+      "date_filed": "2026-09-04",
+      "status": "Open",
+      "location": "Bakersfield, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 28,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Reich Adell & Cvitan, A PLC"
+      ],
+      "case_page_fetched": "2026-09-04"
     }
   }
 }
