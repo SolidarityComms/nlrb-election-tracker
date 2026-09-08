@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08 19:44:28",
-  "total_cases": 1254,
+  "last_updated": "2026-09-08 23:52:14",
+  "total_cases": 1257,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -26701,6 +26701,54 @@
       "eligible_voters": 543,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "case_page_fetched": "2026-09-08"
+    },
+    "29-RC-394350": {
+      "case_number": "29-RC-394350",
+      "employer": "Hornblower Group Inc.",
+      "case_url": "https://www.nlrb.gov/case/29-RC-394350",
+      "case_type": "RC",
+      "date_filed": "2026-09-08",
+      "status": "Open",
+      "location": "Brooklyn, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 70,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Colleran, O'Hara & Mills LLP"
+      ],
+      "case_page_fetched": "2026-09-08"
+    },
+    "19-RC-394367": {
+      "case_number": "19-RC-394367",
+      "employer": "Waste Connections",
+      "case_url": "https://www.nlrb.gov/case/19-RC-394367",
+      "case_type": "RC",
+      "date_filed": "2026-09-08",
+      "status": "Open",
+      "location": "Coos Bay, OR",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 37,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-09-08"
+    },
+    "32-RC-394372": {
+      "case_number": "32-RC-394372",
+      "employer": "CertainTeed",
+      "case_url": "https://www.nlrb.gov/case/32-RC-394372",
+      "case_type": "RC",
+      "date_filed": "2026-09-08",
+      "status": "Open",
+      "location": "Chowchilla, CA",
+      "region": "Region 32, Oakland, California",
+      "eligible_voters": 166,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
       "case_page_fetched": "2026-09-08"
     }
   }
