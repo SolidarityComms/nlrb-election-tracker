@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02 17:31:03",
-  "total_cases": 1426,
+  "last_updated": "2026-10-02 21:12:59",
+  "total_cases": 1431,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -95,7 +95,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Barnes & Thornburgh LLP"
       ]
@@ -203,7 +203,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "08-RC-386788": {
       "case_number": "08-RC-386788",
@@ -288,7 +288,7 @@
       "union_counsel": [
         "Bowman Legal Services, LLC"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "election_date": "June 11 2026"
     },
     "25-RC-386676": {
@@ -550,7 +550,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "election_date": "May 28 2026",
       "employer_counsel": [
         "Cozen O'Connor"
@@ -703,7 +703,7 @@
         "National Right to Work Legal Defense Foundation, Inc.",
         "c/o National Right to Work Legal Defense Foundation"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "15-RM-386557": {
       "case_number": "15-RM-386557",
@@ -899,7 +899,7 @@
       "union_counsel": [
         "Herzfeld, Suetholz, Gastel, Leniski & Wall, PLLC"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "election_date": "MAY 28 2026"
     },
     "14-RC-386407": {
@@ -1666,7 +1666,7 @@
       "stage": "just_filed",
       "sector": "Other",
       "election_date": "JUNE 2 2026",
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "07-RC-386420": {
       "case_number": "07-RC-386420",
@@ -1722,7 +1722,7 @@
       "employer_counsel": [
         "Godfrey & Kahn, S.C."
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "10-RC-385942": {
       "case_number": "10-RC-385942",
@@ -1760,7 +1760,7 @@
         "McNees Wallace & Nurick, LLC",
         "McNees Wallace & Nurick LLC"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "29-RC-386045": {
       "case_number": "29-RC-386045",
@@ -15152,7 +15152,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Holland & Knight LLP,",
         "Holland & Knight LLP"
@@ -17187,7 +17187,7 @@
         "Constangy, Brooks, Smith & Prophete, LLP",
         "Constangy Brooks Smith & Prophete LLP"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "27-RD-389431": {
       "case_number": "27-RD-389431",
@@ -17790,7 +17790,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-26",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "HINMAN HOWARD & KATTELL, LLP"
       ]
@@ -18267,7 +18267,7 @@
       "union_counsel": [
         "Ogletree Deakin"
       ],
-      "case_page_fetched": "2026-09-26"
+      "case_page_fetched": "2026-10-02"
     },
     "13-RC-390070": {
       "case_number": "13-RC-390070",
@@ -18332,7 +18332,7 @@
       "employer_counsel": [
         "Stinson LLP"
       ],
-      "case_page_fetched": "2026-09-26"
+      "case_page_fetched": "2026-10-02"
     },
     "08-RC-390068": {
       "case_number": "08-RC-390068",
@@ -18502,7 +18502,7 @@
       "employer_counsel": [
         "Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-09-26"
+      "case_page_fetched": "2026-10-02"
     },
     "28-RC-390199": {
       "case_number": "28-RC-390199",
@@ -18945,7 +18945,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-09-26",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Ballard Spahr LLP"
       ]
@@ -19757,7 +19757,7 @@
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart P.C."
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "02-RC-390706": {
       "case_number": "02-RC-390706",
@@ -19884,7 +19884,7 @@
         "Jacobs, Burns, Orlove & Hernandez",
         "Jacobs Burns Orlove & Hernandez"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Akerman LLP"
       ]
@@ -20067,7 +20067,7 @@
       "union_counsel": [
         "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 738"
       ],
-      "case_page_fetched": "2026-09-27"
+      "case_page_fetched": "2026-10-02"
     },
     "31-RC-391013": {
       "case_number": "31-RC-391013",
@@ -20148,7 +20148,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-09-27"
+      "case_page_fetched": "2026-10-02"
     },
     "06-RC-391026": {
       "case_number": "06-RC-391026",
@@ -20426,7 +20426,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-09-27",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Fisher & Phillips, LLP",
         "Fisher Phillips LLP"
@@ -21097,7 +21097,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-27",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Littler Mendelson, P.C.",
         "Littler Mendelson P.C."
@@ -21246,7 +21246,7 @@
       "employer_counsel": [
         "Preti Flaherty, LLP"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "union_counsel": [
         "Communication Workers of America"
       ]
@@ -21949,7 +21949,7 @@
       "eligible_voters": 5,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-27",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Jackson Lewis P.C."
       ],
@@ -22636,7 +22636,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "10-RC-392179": {
       "case_number": "10-RC-392179",
@@ -24071,7 +24071,7 @@
       "union_counsel": [
         "ROBERT M. CHEVERIE & ASSOCIATES, P.C."
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-02"
     },
     "02-RC-392985": {
       "case_number": "02-RC-392985",
@@ -24091,7 +24091,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "election_date": "September 25 2026"
     },
     "14-RC-392987": {
@@ -24560,7 +24560,7 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
@@ -24965,7 +24965,7 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Littler Mendelson, PC",
         "Littler Mendelson, P.C."
@@ -25341,7 +25341,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "election_date": "September 21 2026"
     },
     "32-RC-393536": {
@@ -25689,24 +25689,27 @@
     },
     "05-RC-393726": {
       "case_number": "05-RC-393726",
-      "employer": "MCP OPCO, LLC d/b/a District Cannabis",
+      "employer": "DCM Inc. d/b/a District Cannabis",
       "case_url": "https://www.nlrb.gov/case/05-RC-393726",
       "case_type": "RC",
+      "tally_date": "2026-10-02",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-08-26",
       "status": "Open",
       "location": "Hagerstown, MD",
       "region": "Region 05, Baltimore, Maryland",
-      "eligible_voters": 28,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Foley Hoag LLP"
-      ],
-      "union_counsel": [
-        "O\u2019Brien, Belland & Bushinsky, LLC"
-      ],
-      "case_page_fetched": "2026-09-29",
-      "election_date": "October 02 2026"
+      "eligible_voters": 8,
+      "votes_against": 2,
+      "ballots_counted": 8,
+      "void_ballots": 0,
+      "votes_for": 6,
+      "union": "United Food and Commercial Workers Union Local 27 a/w United Food and Commercial Workers International Union, AFL-CIO",
+      "union_to_certify": "United Food and Commercial Workers Union Local 27 a/w United Food and Commercial Workers International Union, AFL-CIO",
+      "unit_description": "Included: All Pre-Roll Associates, Packaging & Processing Supervisors, Packaging Machine Operators, Packaging Associates, and Inventory Specialists employed by the Employer at its facility currently located at 560 Western Maryland Parkway, Hagerstown, Maryland 21740 \n\nExcluded: All other employees, office clerical employees, professional employees, confidential employees, temporary employees, managerial employees, guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "29-RC-393718": {
       "case_number": "29-RC-393718",
@@ -26046,23 +26049,27 @@
     },
     "14-RC-393759": {
       "case_number": "14-RC-393759",
-      "employer": "Southern Glazer's Wine & Spirits (SGWS)",
+      "employer": "SGOK Holdings, LLC",
       "case_url": "https://www.nlrb.gov/case/14-RC-393759",
       "case_type": "RC",
+      "tally_date": "2026-10-01",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-08-27",
       "status": "Open",
       "location": "Tulsa, OK",
       "region": "Region 14, Saint Louis, Missouri",
-      "eligible_voters": 116,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "employer_counsel": [
-        "Constangy Brooks Smith & Prophete"
-      ],
-      "union_counsel": [
-        "Godwin, Morris, Laurenzi, & Bloomfield, P.C."
-      ],
-      "case_page_fetched": "2026-09-30"
+      "eligible_voters": 118,
+      "votes_against": 21,
+      "ballots_counted": 96,
+      "void_ballots": 0,
+      "votes_for": 75,
+      "union": "Chauffeurs, Teamsters, and Helpers Union Local No. 516",
+      "union_to_certify": "Chauffeurs, Teamsters, and Helpers Union Local No. 516",
+      "unit_description": "Included: All full time and regular part-time drivers, relay drivers and warehousemen,\nemployed by the Employer at its facilities located at 315 S. 85th E Avenue Tulsa, Oklahoma and\nat 11300 Partnership Dr. Ste. A Oklahoma City, Oklahoma.\n\nExcluded: All office clerical employees, facilities technicians/maintenance employees,\nprofessional employees, managerial employees, guards and supervisors as defined in the Act and\nall other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "13-RC-392011": {
       "case_number": "13-RC-392011",
@@ -26387,22 +26394,24 @@
       "employer": "Health Federation of Philadelphia",
       "case_url": "https://www.nlrb.gov/case/04-RC-394004",
       "case_type": "RC",
+      "tally_date": "2026-10-02",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-09-01",
       "status": "Open",
       "location": "Philadelphia, PA",
       "region": "Region 04, Philadelphia, Pennsylvania",
-      "eligible_voters": 21,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Spear Wilderman, P.C."
-      ],
-      "case_page_fetched": "2026-10-01",
-      "election_date": "October 02 2026",
-      "employer_counsel": [
-        "The Law Office of Guy Vilim",
-        "The Law Office of Guy Vilim, LLC"
-      ]
+      "eligible_voters": 16,
+      "votes_against": 4,
+      "ballots_counted": 15,
+      "void_ballots": 0,
+      "votes_for": 11,
+      "union": "Teamsters Local Union No. 500 a/w International Brotherhood of Teamsters",
+      "union_to_certify": "Teamsters Local Union No. 500 a/w International Brotherhood of Teamsters",
+      "unit_description": "Included: All full-time and regular part-time Health Federation Employees working in the City of Philadelphia Division of Disease Control pursuant to contract agreements with the City of Philadelphia.\n\nExcluded: All other employees, clerical, secretary and administrative assistance staff, confidential employees, managerial employees, guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "13-RC-394009": {
       "case_number": "13-RC-394009",
@@ -28012,7 +28021,7 @@
       "union_counsel": [
         "International Brotherhood of Teamsters (IBT), Local 175"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-02",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
         "Ogletree Deakins"
@@ -29785,7 +29794,14 @@
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Constangy Brooks Smith & Prophete"
+      ],
+      "union_counsel": [
+        "Amalgamated Transit Union"
+      ],
+      "case_page_fetched": "2026-10-02"
     },
     "27-RC-395994": {
       "case_number": "27-RC-395994",
@@ -29988,7 +30004,14 @@
       "region": "Region 32, Oakland, California",
       "eligible_voters": 11,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson P.C."
+      ],
+      "union_counsel": [
+        "Beeson Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-10-02"
     },
     "31-RD-396014": {
       "case_number": "31-RD-396014",
@@ -30141,7 +30164,11 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 7,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Fisher & Phillips LLP"
+      ],
+      "case_page_fetched": "2026-10-02"
     },
     "06-RD-396134": {
       "case_number": "06-RD-396134",
@@ -30155,6 +30182,9 @@
       "eligible_voters": 84,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Morgan, Lewis & Bockius, LLP"
+      ],
       "case_page_fetched": "2026-10-02"
     },
     "16-RD-396111": {
@@ -30257,6 +30287,82 @@
       "union_counsel": [
         "Blake & Uhlig, P.A."
       ],
+      "case_page_fetched": "2026-10-02"
+    },
+    "25-RC-396213": {
+      "case_number": "25-RC-396213",
+      "employer": "tk accelis Supply Chain Solutions USA, LLC",
+      "case_url": "https://www.nlrb.gov/case/25-RC-396213",
+      "case_type": "RC",
+      "date_filed": "2026-10-02",
+      "status": "Open",
+      "location": "Plainfield, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 83,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-02"
+    },
+    "08-RC-396202": {
+      "case_number": "08-RC-396202",
+      "employer": "(BCS) Builders Concrete Supply",
+      "case_url": "https://www.nlrb.gov/case/08-RC-396202",
+      "case_type": "RC",
+      "date_filed": "2026-10-02",
+      "status": "Open",
+      "location": "Garfield Heights, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 10,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-02"
+    },
+    "27-RC-396224": {
+      "case_number": "27-RC-396224",
+      "employer": "System Service Specialist",
+      "case_url": "https://www.nlrb.gov/case/27-RC-396224",
+      "case_type": "RC",
+      "date_filed": "2026-10-02",
+      "status": "Open",
+      "location": "Layton, UT",
+      "region": "Region 27, Denver, Colorado",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "O'Donoghue & O'Donoghue, LLP"
+      ],
+      "case_page_fetched": "2026-10-02"
+    },
+    "28-RC-396212": {
+      "case_number": "28-RC-396212",
+      "employer": "El Paso Electric",
+      "case_url": "https://www.nlrb.gov/case/28-RC-396212",
+      "case_type": "RC",
+      "date_filed": "2026-10-01",
+      "status": "Open",
+      "location": "El Paso, TX",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "International Brotherhood of Electrical Workers Union"
+      ],
+      "case_page_fetched": "2026-10-02"
+    },
+    "05-RC-396205": {
+      "case_number": "05-RC-396205",
+      "employer": "New Enterprise Stone & Lime Co., Inc.",
+      "case_url": "https://www.nlrb.gov/case/05-RC-396205",
+      "case_type": "RC",
+      "date_filed": "2026-10-01",
+      "status": "Open",
+      "location": "Chambersburg, PA",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
       "case_page_fetched": "2026-10-02"
     }
   }
