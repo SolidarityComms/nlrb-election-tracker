@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07 18:29:39",
-  "total_cases": 1453,
+  "last_updated": "2026-10-07 21:49:45",
+  "total_cases": 1456,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -510,7 +510,7 @@
         "National Right to Work Legal Defense Foundation",
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Bucci Law"
       ]
@@ -2069,7 +2069,7 @@
       "employer_counsel": [
         "Fisher & Phillips, LLP"
       ],
-      "case_page_fetched": "2026-10-03"
+      "case_page_fetched": "2026-10-07"
     },
     "16-RC-385772": {
       "case_number": "16-RC-385772",
@@ -11827,7 +11827,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-07"
     },
     "10-RC-387258": {
       "case_number": "10-RC-387258",
@@ -12074,7 +12074,7 @@
       "union_counsel": [
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-10-03",
+      "case_page_fetched": "2026-10-07",
       "election_date": "June 17 2026"
     },
     "13-RC-387295": {
@@ -12196,7 +12196,7 @@
       "employer_counsel": [
         "Morgan, Lewis & Bockius"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-07",
       "election_date": "June 5 2026"
     },
     "18-RC-387370": {
@@ -12416,7 +12416,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-07"
     },
     "20-RC-387427": {
       "case_number": "20-RC-387427",
@@ -12471,7 +12471,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-07",
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ]
@@ -12689,7 +12689,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Manufacturing",
-      "case_page_fetched": "2026-09-27",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Scopelitis, Garvin, Light, Hanson & Feary, PC"
       ]
@@ -14423,7 +14423,7 @@
       "employer_counsel": [
         "Baker Law PLC"
       ],
-      "case_page_fetched": "2026-09-27"
+      "case_page_fetched": "2026-10-07"
     },
     "01-RC-388165": {
       "case_number": "01-RC-388165",
@@ -15391,7 +15391,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-10-03",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "H. Sanford Rudnick & Associates"
       ]
@@ -15414,7 +15414,7 @@
       "union_counsel": [
         "IUOE Local 302, affiliated with the International Union of Operating Engineers, AFL-CIO"
       ],
-      "case_page_fetched": "2026-10-03"
+      "case_page_fetched": "2026-10-07"
     },
     "16-RC-388721": {
       "case_number": "16-RC-388721",
@@ -15876,7 +15876,7 @@
       "eligible_voters": 3,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-27",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Morris Tuchman, LLC"
       ]
@@ -16075,7 +16075,7 @@
       "union_counsel": [
         "Morris Tuchman, LLC"
       ],
-      "case_page_fetched": "2026-09-27"
+      "case_page_fetched": "2026-10-07"
     },
     "14-RC-389087": {
       "case_number": "14-RC-389087",
@@ -20096,7 +20096,7 @@
       "union_counsel": [
         "Beeson Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-10-03",
+      "case_page_fetched": "2026-10-07",
       "election_date": "August 21 2026"
     },
     "13-RC-391014": {
@@ -21837,17 +21837,24 @@
       "employer": "Seattle Roots Community Health",
       "case_url": "https://www.nlrb.gov/case/19-RD-391788",
       "case_type": "RD",
+      "tally_date": "2026-10-07",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-29",
       "status": "Open",
       "location": "Seattle, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 139,
-      "stage": "just_filed",
-      "sector": "Social Services & Nonprofit",
-      "employer_counsel": [
-        "Davis Grimm Payne & Marra"
-      ],
-      "case_page_fetched": "2026-10-07"
+      "eligible_voters": 137,
+      "votes_against": 36,
+      "ballots_counted": 87,
+      "void_ballots": 1,
+      "votes_for": 51,
+      "union": "SEIU Healthcare 1199NW",
+      "union_to_certify": "SEIU Healthcare 1199NW",
+      "unit_description": "Included: All full-time, regular part-time, and per diem professional employees employed by the Employer at its facilities located in Seattle, Washington in the following classifications: Clinic Registered Nurse/Triage, Community Health Registered Nurse, Behavioral Health 2, Behavioral Health 3, Behavioral Health Counselor (Bachelors), Behavioral Health Consultant MSW (Masters), Behavioral Health MSW Licensed Clinical, Pharmacist, HIV Case Manager, Registered Nurse/OB Coordinator, Registered Nurse/HIV Care Coordinator, Registered Dietician.\n\nExcluded: All other employees, nonprofessional employees, managerial employees, confidential employees, and guards and supervisors as defined in the Act. \n\nVOTING GROUP \u2013 UNIT B (NONPROFESSIONAL UNIT)\n\nIncluded: All full-time, regular part-time, and per diem employees employed by the Employer at its facilities located in Seattle, Washington in the following classifications: Medical Interpreter, Medical Assistant, Medical Assistant Lead, Medical Records Clerk, Lab Technologist, Dental Assistant, Dental Assistant Lead, Dental Hygienist, Phlebotomist. Patient Accounts Representative I, Patient Accounts Representative I Lead, Patient Accounts Representative Lead, Patient Accounts Representative I Dental, Patient Accounts Representative II Dental Lead, Billing and Coding Specialist, Coding and Reimbursement Specialist, Coding and Reimbursement Specialist Lead, Peer Support Specialist, Pharmacy Technician, Pharmacy Technician Lead, Diabetes Management Coordinator, Credentialing Specialist, Epic Site Specialist, Epic Analyst, Clinic Operations Coordinator, Community Health Worker, Eligibility Specialist, Eligibility Specialist Lead, Managed Care Coordinator, Referral Coordinator, Gender Care Navigator, PrEP Navigator, Office Assistant/Mail, Patient Care Coordinator, Behavioral Health Coordinator, Behavioral Health 1, Parental Peer Support/CHW/Nutrition, Community Patient Ed Coordinator, Health Educator, Certified Nursing Assistant, Dental Sterilization Technician, and Vaccine Coordinator.\n\nExcluded: All other employees, professional employees, managerial employees, confidential employees, and guards and supervisors as defined in the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "22-RC-390478": {
       "case_number": "22-RC-390478",
@@ -22064,7 +22071,7 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-10-03",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Vedder Price P.C."
       ],
@@ -23429,7 +23436,7 @@
       "union_counsel": [
         "O\u2019Brien, Belland & Bushinsky, LLC"
       ],
-      "case_page_fetched": "2026-10-03",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Epstein Becker & Green, PC"
       ]
@@ -24383,17 +24390,23 @@
       "employer": "KR Contracting, Inc.",
       "case_url": "https://www.nlrb.gov/case/05-RC-393113",
       "case_type": "RC",
+      "tally_date": "2026-10-07",
+      "tally_type": "Initial",
+      "ballot_type": "Two Labor Organizations",
       "date_filed": "2026-08-19",
       "status": "Open",
       "location": "Washington, DC",
       "region": "Region 05, Baltimore, Maryland",
-      "eligible_voters": 11,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "KR Contracting, Inc."
-      ],
-      "case_page_fetched": "2026-10-04"
+      "eligible_voters": 14,
+      "votes_against": 0,
+      "ballots_counted": 0,
+      "void_ballots": 1,
+      "votes_for": 1,
+      "union": "Union Rights for Security Officers (URSO)",
+      "unit_description": "Included: All full-time and part-time Protective Service Officers performing guard duties as defined in Section 9(b)(3) of the Act, employed by the Employer providing services at the United States Department of the Treasury facility currently located at 717 14th Street NW Washington, DC 20005; \n\nExcluded: All other employees, office clerical employees, professional employees, confidential employees, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "03-RC-393123": {
       "case_number": "03-RC-393123",
@@ -25325,10 +25338,9 @@
       "sector": "Media & Entertainment",
       "union_counsel": [
         "Baker & Hostetler LLP",
-        "Baker & Hostetler, LLP",
-        "Baker Hostetler LLP"
+        "Baker & Hostetler, LLP"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-07"
     },
     "15-RC-393541": {
       "case_number": "15-RC-393541",
@@ -25514,7 +25526,7 @@
       "employer_counsel": [
         "Faegre Drinker Biddle & Reath LLP"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-07"
     },
     "19-RC-393627": {
       "case_number": "19-RC-393627",
@@ -26267,7 +26279,7 @@
       "union_counsel": [
         "Pyle Rome Ehrenberg PC"
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-07"
     },
     "05-RC-393887": {
       "case_number": "05-RC-393887",
@@ -26838,7 +26850,7 @@
       "employer_counsel": [
         "Waste Management of Washington, Inc."
       ],
-      "case_page_fetched": "2026-09-28"
+      "case_page_fetched": "2026-10-07"
     },
     "08-RC-394209": {
       "case_number": "08-RC-394209",
@@ -26979,7 +26991,7 @@
       "union_counsel": [
         "O\u2019Donoghue & O\u2019Donoghue LLP"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-07",
       "election_date": "October 9 2026"
     },
     "25-RC-394298": {
@@ -27086,23 +27098,27 @@
     },
     "01-RC-394328": {
       "case_number": "01-RC-394328",
-      "employer": "Merrimack Health Lawrence Hospital",
+      "employer": "Lawrence General Hospital d/b/a Merrimack Health Lawrence Hospital",
       "case_url": "https://www.nlrb.gov/case/01-RC-394328",
       "case_type": "RC",
+      "tally_date": "2026-10-05",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-09-08",
       "status": "Open",
       "location": "Lawrence, MA",
       "region": "Region 01, Boston, Massachusetts",
-      "eligible_voters": 543,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "case_page_fetched": "2026-10-04",
-      "employer_counsel": [
-        "Littler Mendelson, P.C."
-      ],
-      "union_counsel": [
-        "McDonald Lamond Canzoneri LLC"
-      ]
+      "eligible_voters": 5,
+      "votes_against": 0,
+      "ballots_counted": 5,
+      "void_ballots": 0,
+      "votes_for": 5,
+      "union": "Massachusetts Nurses Association",
+      "union_to_certify": "Massachusetts Nurses Association",
+      "unit_description": "Included: All full-time, regular part-time, and per diem non invasive cardiology specialist registered nurses employed by the Employer at its 1 General Street, Lawrence, Massachusetts facility. \n\nExcluded: All business office clerical employees, physicians, skilled maintenance employees, technical employees, confidential employees, managers, guards, nonprofessional employees, and all other professional employees and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "29-RC-394350": {
       "case_number": "29-RC-394350",
@@ -27976,7 +27992,7 @@
       "union_counsel": [
         "Kastner, Westman & Wilkins LLC"
       ],
-      "case_page_fetched": "2026-10-03",
+      "case_page_fetched": "2026-10-07",
       "election_date": "October 22 2026"
     },
     "10-RC-394931": {
@@ -28028,7 +28044,7 @@
       "eligible_voters": 4,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-09-27",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Jones Lang LaSalle Americas, Inc."
       ]
@@ -28709,7 +28725,7 @@
       "union_counsel": [
         "Hayes, Ortega and Sanchez LLP"
       ],
-      "case_page_fetched": "2026-09-28",
+      "case_page_fetched": "2026-10-07",
       "employer_counsel": [
         "Ballard Spahr LLP"
       ]
@@ -29297,7 +29313,7 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-03"
+      "case_page_fetched": "2026-10-07"
     },
     "25-RC-393953": {
       "case_number": "25-RC-393953",
@@ -29877,7 +29893,8 @@
       "region": "Region 27, Denver, Colorado",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-10-07"
     },
     "29-RC-395969": {
       "case_number": "29-RC-395969",
@@ -30120,7 +30137,14 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "Husch Blackwell LLP"
+      ],
+      "union_counsel": [
+        "International Union of Operating Engineers Local 150, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-10-07"
     },
     "19-RD-396051": {
       "case_number": "19-RD-396051",
@@ -30293,7 +30317,11 @@
       "region": "Region 27, Denver, Colorado",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "Snell & Wilmer, LLP"
+      ],
+      "case_page_fetched": "2026-10-07"
     },
     "32-RD-396136": {
       "case_number": "32-RD-396136",
@@ -30434,7 +30462,7 @@
       "union_counsel": [
         "International Brotherhood of Electrical Workers Union"
       ],
-      "case_page_fetched": "2026-10-03"
+      "case_page_fetched": "2026-10-07"
     },
     "05-RC-396205": {
       "case_number": "05-RC-396205",
@@ -30467,7 +30495,8 @@
       "region": "Region 16, Fort Worth, Texas",
       "eligible_voters": 4,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "case_page_fetched": "2026-10-07"
     },
     "13-RD-396326": {
       "case_number": "13-RD-396326",
@@ -30610,7 +30639,11 @@
       "region": "Region 09, Cincinnati, Ohio",
       "eligible_voters": 8,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "employer_counsel": [
+        "United Dairy Farmers Inc. #120"
+      ],
+      "case_page_fetched": "2026-10-07"
     },
     "03-RC-396440": {
       "case_number": "03-RC-396440",
@@ -30638,6 +30671,9 @@
       "eligible_voters": 25,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "case_page_fetched": "2026-10-07"
     },
     "22-RC-396443": {
@@ -30652,6 +30688,9 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Kauff McGuire & Margolis, LLP"
+      ],
       "union_counsel": [
         "Meyer, Suozzi, English and Klein, PC"
       ],
@@ -30669,6 +30708,9 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Media & Entertainment",
+      "employer_counsel": [
+        "Kauff McGuire & Margolis, LLP"
+      ],
       "union_counsel": [
         "Meyer, Suozzi, English and Klein, PC"
       ],
@@ -30730,6 +30772,9 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Obermayer Rebmann Maxwell & Hippel LLP"
+      ],
       "union_counsel": [
         "Fuiman Mogila LLP"
       ],
@@ -30811,6 +30856,54 @@
       "sector": "Other",
       "union_counsel": [
         "Teamsters Local 745"
+      ],
+      "case_page_fetched": "2026-10-07"
+    },
+    "25-RC-396545": {
+      "case_number": "25-RC-396545",
+      "employer": "GFX Solutions, LLC",
+      "case_url": "https://www.nlrb.gov/case/25-RC-396545",
+      "case_type": "RC",
+      "date_filed": "2026-10-07",
+      "status": "Open",
+      "location": "Roanoke, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 260,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-07"
+    },
+    "19-RC-396538": {
+      "case_number": "19-RC-396538",
+      "employer": "Wizards of the Coast",
+      "case_url": "https://www.nlrb.gov/case/19-RC-396538",
+      "case_type": "RC",
+      "date_filed": "2026-10-06",
+      "status": "Open",
+      "location": "Renton, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 83,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Communications Workers of America, AFL-CIO"
+      ],
+      "case_page_fetched": "2026-10-07"
+    },
+    "19-RC-396537": {
+      "case_number": "19-RC-396537",
+      "employer": "Wizards of the Coast",
+      "case_url": "https://www.nlrb.gov/case/19-RC-396537",
+      "case_type": "RC",
+      "date_filed": "2026-10-06",
+      "status": "Open",
+      "location": "Renton, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 242,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Communications Workers of America, AFL-CIO"
       ],
       "case_page_fetched": "2026-10-07"
     }
