@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08 18:29:14",
-  "total_cases": 1471,
+  "last_updated": "2026-10-08 21:53:23",
+  "total_cases": 1478,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11968,7 +11968,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Quarles & Brady LLP"
       ]
@@ -12157,7 +12157,7 @@
       "union_counsel": [
         "Perera & Fedele"
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
@@ -12175,7 +12175,7 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Husch Blackwell LLP"
       ],
@@ -12986,7 +12986,7 @@
       "employer_counsel": [
         "Littler Mendelson P.C."
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08"
     },
     "19-RC-387648": {
       "case_number": "19-RC-387648",
@@ -14852,7 +14852,7 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Faegre Drinker Biddle & Reath LLP"
       ]
@@ -19536,7 +19536,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "election_date": "July 30 2026"
     },
     "21-RD-390677": {
@@ -19551,7 +19551,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Sagaser, Watkins & Wieland PC"
       ]
@@ -20596,23 +20596,27 @@
     },
     "05-RC-391323": {
       "case_number": "05-RC-391323",
-      "employer": "Allied Universal",
+      "employer": "Universal Protection Service, LLC d/b/a Allied Universal Security Services",
       "case_url": "https://www.nlrb.gov/case/05-RC-391323",
       "case_type": "RC",
+      "tally_date": "2026-10-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-23",
       "status": "Open",
       "location": "Linthicum, MD",
       "region": "Region 05, Baltimore, Maryland",
-      "eligible_voters": 120,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "International Union, Security, Police and Fire Professionals of America (SPFPA)"
-      ],
-      "case_page_fetched": "2026-10-05",
-      "employer_counsel": [
-        "Martenson, Hasbrouck & Simon LLP"
-      ]
+      "eligible_voters": 143,
+      "votes_against": 0,
+      "ballots_counted": 33,
+      "void_ballots": 4,
+      "votes_for": 33,
+      "union": "International Union, Security, Police and Fire Professionals of America (SPFPA)",
+      "union_to_certify": "International Union, Security, Police and Fire Professionals of America (SPFPA)",
+      "unit_description": "Included: All employees performing guard duties as defined in Section 9(b)(3) of the Act, employed by the Employer providing services for Northrop Grumman at sites presently located at:  \n\n\u2022\t900 International Drive, Linthicum, Maryland 21090; \n\u2022\t7323 Aviation Boulevard, Glen Burnie, Maryland 21240; \n\u2022\t1508A West Nursery Road, Linthicum, Maryland 21090; \n\u2022\t1508B West Nursery Road, Linthicum, Maryland 21090; \n\u2022\t1508C West Nursery Road, Linthicum, Maryland 21090; \n\u2022\t1508D West Nursery Road, Linthicum, Maryland 21090;\n\u2022\t793 Elkridge Landing Road, Linthicum, Maryland 21090;\n\u2022\t1212 Winterson Road, Linthicum, Maryland 21090; \n\u2022\t1304 Concourse Drive, Linthicum, Maryland 21090;\n\u2022\t1306 Concourse Drive, Linthicum, Maryland 21090; \n\u2022\t1745-A West Nursery Road, Linthicum, Maryland 21090; \n\u2022\t800 International Drive, Linthicum, Maryland 21090; \n\u2022\t7147 Ridge Road, Hanover, Maryland 21076; \n\u2022\t880 Elkridge Landing Road, Linthicum, Maryland 21090; \n\u2022\t55 Thiokol Road, Elkton, Maryland 21921; \n\u2022\t7040 Troy Hill Drive, Elkridge, Maryland 21075; \n\u2022\t7301 Sykesville Road, Sykesville, Maryland 21748;\n\u2022\t7401 Coca Cola Drive, Hanover, Maryland 21076; \n\u2022\t895 Oceanic Drive, Annapolis, Maryland 21409; \n\u2022\t9030 Junction Drive, Annapolis Junction, Maryland 20701; and \n\u2022\t7621 Energy Parkway, Curtis Bay, Maryland 21226\n\nExcluded: All other employees, office clerical employees, professional employees, confidential employees, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "14-RC-391327": {
       "case_number": "14-RC-391327",
@@ -22590,7 +22594,7 @@
       "employer_counsel": [
         "Downs Rachlin Martin PLLC"
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08"
     },
     "10-RD-392151": {
       "case_number": "10-RD-392151",
@@ -24604,7 +24608,7 @@
       "union_counsel": [
         "Teamsters Local 745"
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Harris Young Kayser LC"
       ]
@@ -24625,7 +24629,7 @@
         "Littler Mendelson, P.C.",
         "Littler Mendelson P.C."
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08"
     },
     "25-RC-393179": {
       "case_number": "25-RC-393179",
@@ -26025,7 +26029,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "employer_counsel": [
         "Littler Mendelson, PC",
         "Littler Mendelson, P.C."
@@ -26208,7 +26212,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "election_date": "October 06 2026"
     },
     "03-RC-393884": {
@@ -26332,7 +26336,7 @@
       "union_counsel": [
         "Quinn, Connor, Weaver, Davies & Rouco LLP"
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "election_date": "October 2 2026"
     },
     "01-RC-393917": {
@@ -26392,7 +26396,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08"
     },
     "01-RC-393962": {
       "case_number": "01-RC-393962",
@@ -26677,21 +26681,24 @@
       "employer": "Perma-Pipe, Inc.",
       "case_url": "https://www.nlrb.gov/case/08-RC-394130",
       "case_type": "RC",
+      "tally_date": "2026-10-07",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-09-02",
       "status": "Open",
       "location": "Hebron, OH",
       "region": "Region 08, Cleveland, Ohio",
       "eligible_voters": 22,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Jackson Lewis PC",
-        "Jackson Lewis P.C."
-      ],
-      "union_counsel": [
-        "O'Donoghue & O'Donoghue, LLP"
-      ],
-      "case_page_fetched": "2026-10-06"
+      "votes_against": 10,
+      "ballots_counted": 22,
+      "void_ballots": 0,
+      "votes_for": 12,
+      "union": "Local 189, United Association of Journeymen and Apprentices in the Plumbing and Pipefitting Industry of the U.S. and Canada",
+      "union_to_certify": "Local 189, United Association of Journeymen and Apprentices in the Plumbing and Pipefitting Industry of the U.S. and Canada",
+      "unit_description": "All full-time and regular part-time employees employed by the Employer at its facility located at 116 Enterprise Dr., Hebron, OH 43025, excluding all office clerical employees, professional employees, managerial employees, confidential employees, guards, and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "04-RM-394147": {
       "case_number": "04-RM-394147",
@@ -27420,7 +27427,7 @@
         "Jones Day",
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08"
     },
     "03-RC-394511": {
       "case_number": "03-RC-394511",
@@ -27736,20 +27743,27 @@
     },
     "13-RC-394657": {
       "case_number": "13-RC-394657",
-      "employer": "Sunrise Transportation",
+      "employer": "Lakeview Bus Lines, Inc.",
       "case_url": "https://www.nlrb.gov/case/13-RC-394657",
       "case_type": "RC",
+      "tally_date": "2026-10-08",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-09-11",
       "status": "Open",
       "location": "Bellwood, IL",
       "region": "Region 13, Chicago, Illinois",
-      "eligible_voters": 220,
-      "stage": "just_filed",
-      "sector": "Transportation & Logistics",
-      "case_page_fetched": "2026-10-07",
-      "employer_counsel": [
-        "Lewis Brisbois Bisgaard & Smith, LLP"
-      ]
+      "eligible_voters": 295,
+      "votes_against": 29,
+      "ballots_counted": 196,
+      "void_ballots": 0,
+      "votes_for": 167,
+      "union": "International Brotherhood of Teamsters, Local  777",
+      "union_to_certify": "International Brotherhood of Teamsters, Local  777",
+      "unit_description": "Included: All full-time and regular part-time School Bus Drivers, School Bus Aides, and Bus Monitors/Aides employed by the Employer at its facility currently located at 2400 S. Maywood Drive, Bellwood, IL. \n\nExcluded: All Drivers-in-Training, dispatchers, mechanics, office clerical employees, confidential employees, managerial employees, professional employees, guards and supervisors as defined by the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Education"
     },
     "01-RD-394670": {
       "case_number": "01-RD-394670",
@@ -28377,7 +28391,7 @@
       "union_counsel": [
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "election_date": "November 04 2026"
     },
     "02-RD-395129": {
@@ -29234,7 +29248,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-10-04",
+      "case_page_fetched": "2026-10-08",
       "election_date": "October 23 2026"
     },
     "04-RC-395600": {
@@ -29800,7 +29814,10 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08",
+      "employer_counsel": [
+        "Jackson Lewis, P.C."
+      ]
     },
     "09-RC-395917": {
       "case_number": "09-RC-395917",
@@ -29859,7 +29876,7 @@
       "employer_counsel": [
         "Student Transportation of America"
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08"
     },
     "19-RC-395941": {
       "case_number": "19-RC-395941",
@@ -30471,7 +30488,10 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-10-04"
+      "case_page_fetched": "2026-10-08",
+      "employer_counsel": [
+        "Tycksen & Shattuck, L.C."
+      ]
     },
     "28-RC-396212": {
       "case_number": "28-RC-396212",
@@ -30850,7 +30870,11 @@
       "region": "Region 18, Minneapolis, Minnesota",
       "eligible_voters": 13,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "SEIU Healthcare Minnesota & Iowa"
+      ],
+      "case_page_fetched": "2026-10-08"
     },
     "32-RC-396514": {
       "case_number": "32-RC-396514",
@@ -31002,7 +31026,11 @@
       "region": "Region 13, Chicago, Illinois",
       "eligible_voters": 12,
       "stage": "just_filed",
-      "sector": "Other"
+      "sector": "Other",
+      "union_counsel": [
+        "National Right to Work Legal Defense Foundation Inc."
+      ],
+      "case_page_fetched": "2026-10-08"
     },
     "13-RC-396616": {
       "case_number": "13-RC-396616",
@@ -31016,6 +31044,10 @@
       "eligible_voters": 1000,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Ogletree Deakins Nash Smoak & Stewart, PC",
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ],
       "case_page_fetched": "2026-10-08"
     },
     "20-RC-396643": {
@@ -31177,6 +31209,111 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Healthcare"
+    },
+    "01-RC-396653": {
+      "case_number": "01-RC-396653",
+      "employer": "First Student, Inc.",
+      "case_url": "https://www.nlrb.gov/case/01-RC-396653",
+      "case_type": "RC",
+      "date_filed": "2026-10-08",
+      "status": "Open",
+      "location": "Ridgefield, CT",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 2,
+      "stage": "just_filed",
+      "sector": "Other"
+    },
+    "21-RC-396657": {
+      "case_number": "21-RC-396657",
+      "employer": "Providence St. Joseph Hospital Orange",
+      "case_url": "https://www.nlrb.gov/case/21-RC-396657",
+      "case_type": "RC",
+      "date_filed": "2026-10-08",
+      "status": "Open",
+      "location": "Orange, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 1000,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-08"
+    },
+    "28-RC-396689": {
+      "case_number": "28-RC-396689",
+      "employer": "JT4 LLC",
+      "case_url": "https://www.nlrb.gov/case/28-RC-396689",
+      "case_type": "RC",
+      "date_filed": "2026-10-08",
+      "status": "Open",
+      "location": "Indian Springs, NV",
+      "region": "Region 28, Phoenix, Arizona",
+      "eligible_voters": 21,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-08"
+    },
+    "07-RC-396652": {
+      "case_number": "07-RC-396652",
+      "employer": "Allied Building Service",
+      "case_url": "https://www.nlrb.gov/case/07-RC-396652",
+      "case_type": "RC",
+      "date_filed": "2026-10-07",
+      "status": "Open",
+      "location": "Detroit, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Building Services"
+    },
+    "16-RC-396649": {
+      "case_number": "16-RC-396649",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/16-RC-396649",
+      "case_type": "RC",
+      "date_filed": "2026-10-07",
+      "status": "Open",
+      "location": "Forest Hill, TX",
+      "region": "Region 16, Fort Worth, Texas",
+      "eligible_voters": 23,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
+      "union_counsel": [
+        "Deats, Durst & Owen, PLLC"
+      ],
+      "case_page_fetched": "2026-10-08"
+    },
+    "31-RC-396659": {
+      "case_number": "31-RC-396659",
+      "employer": "CR&R Incorporated Solid Waste Division",
+      "case_url": "https://www.nlrb.gov/case/31-RC-396659",
+      "case_type": "RC",
+      "date_filed": "2026-10-07",
+      "status": "Open",
+      "location": "Phelan, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 25,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Bush Gottlieb, ALC"
+      ],
+      "case_page_fetched": "2026-10-08"
+    },
+    "05-RD-396647": {
+      "case_number": "05-RD-396647",
+      "employer": "Pepsi Beverage Company",
+      "case_url": "https://www.nlrb.gov/case/05-RD-396647",
+      "case_type": "RD",
+      "date_filed": "2026-10-07",
+      "status": "Open",
+      "location": "Williamsport, MD",
+      "region": "Region 05, Baltimore, Maryland",
+      "eligible_voters": 66,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-08"
     }
   }
 }
