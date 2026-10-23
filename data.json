@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23 07:05:33",
-  "total_cases": 1589,
+  "last_updated": "2026-10-23 16:31:53",
+  "total_cases": 1595,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -11329,7 +11329,7 @@
       "union_counsel": [
         "Partner, Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "19-RC-386937": {
       "case_number": "19-RC-386937",
@@ -11433,7 +11433,7 @@
       "union_counsel": [
         "Keating, Muething, & Klecamp, P.L.L."
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "19-RC-384772": {
       "case_number": "19-RC-384772",
@@ -11867,7 +11867,7 @@
       "union_counsel": [
         "Perera & Fedele"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
@@ -11892,7 +11892,7 @@
       "union_counsel": [
         "The Law Offices of Leonard S. Sigall"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "27-RD-387246": {
       "case_number": "27-RD-387246",
@@ -12213,7 +12213,7 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Nyemaster Goode, P.C."
       ]
@@ -12899,7 +12899,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "19-RC-384759": {
       "case_number": "19-RC-384759",
@@ -13002,7 +13002,7 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Dunlap Bennett & Ludwig, PLLC",
         "Dunlap, Bennett & Ludwig"
@@ -13097,7 +13097,7 @@
       "eligible_voters": 18,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -15435,9 +15435,9 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
-        "O'Donoghue & O'Donoghue LLP"
+        "O'DONOGHUE & O'DONOGHUE LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -15775,7 +15775,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Davis Wright Tremaine, LLP"
       ]
@@ -16824,7 +16824,7 @@
       "union_counsel": [
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "29-RC-389380": {
       "case_number": "29-RC-389380",
@@ -17504,7 +17504,7 @@
       "employer_counsel": [
         "Greenberg Traurig, LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "03-RD-389607": {
       "case_number": "03-RD-389607",
@@ -17924,7 +17924,7 @@
       "union_counsel": [
         "Kauff McGuire & Margolis, LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "32-RC-389895": {
       "case_number": "32-RC-389895",
@@ -19094,7 +19094,7 @@
       "eligible_voters": 12,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Louis A. Falcone Attorney at Law"
       ]
@@ -19310,7 +19310,7 @@
       "union_counsel": [
         "Harter Secrest & Emery LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "July 28 2026"
     },
     "10-RC-390592": {
@@ -20326,23 +20326,20 @@
       "employer": "Nickell Electric Company, Inc.",
       "case_url": "https://www.nlrb.gov/case/14-RC-391107",
       "case_type": "RC",
-      "tally_date": "2026-08-26",
-      "tally_type": "Initial",
+      "tally_date": "2026-10-21",
+      "tally_type": "",
       "ballot_type": "Single Labor Organization",
       "date_filed": "2026-07-21",
-      "status": "Open",
+      "status": "Closed",
       "location": "Greenwood, MO",
       "region": "Region 14, Saint Louis, Missouri",
-      "eligible_voters": 10,
+      "eligible_voters": 0,
       "votes_against": 0,
-      "ballots_counted": 1,
+      "ballots_counted": 0,
       "void_ballots": 0,
-      "votes_for": 1,
-      "union": "International Brotherhood of Electrical Workers, Local Union No. 124",
-      "union_to_certify": "International Brotherhood of Electrical Workers, Local Union No. 124",
       "unit_description": "Included: All full-time and regular part-time electricians employed by the Employer from its facility located at 1606 West Main Street, Greenwood, Missouri.\n\nExcluded: Office clerical employees, professional employees, confidential employees, guards and supervisors as defined in the Act, and all other employees.",
-      "outcome": "union_won",
-      "stage": "tally_issued",
+      "outcome": "unknown",
+      "stage": "certified",
       "sector": "Construction & Utilities"
     },
     "19-RC-391115": {
@@ -20723,7 +20720,7 @@
       "union_counsel": [
         "Fox Rothschild LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "04-RD-391343": {
       "case_number": "04-RD-391343",
@@ -21802,7 +21799,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "12-RC-391766": {
       "case_number": "12-RC-391766",
@@ -22984,7 +22981,7 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Foley & Lardner LLP"
       ]
@@ -23319,7 +23316,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "SEPTEMBER 17 2026"
     },
     "31-RC-392541": {
@@ -23615,7 +23612,7 @@
       "union_counsel": [
         "Operating Engineers Local Union No. 3"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "13-RC-392694": {
       "case_number": "13-RC-392694",
@@ -24242,7 +24239,7 @@
         "Littler Mendelson, PC",
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "32-RC-393063": {
       "case_number": "32-RC-393063",
@@ -24525,7 +24522,7 @@
       "union_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "02-RC-393140": {
       "case_number": "02-RC-393140",
@@ -24729,7 +24726,7 @@
       "union_counsel": [
         "Hoffman & Dao LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ]
@@ -24749,7 +24746,7 @@
       "union_counsel": [
         "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Enterprise Holdings"
       ],
@@ -25706,7 +25703,7 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Dykema"
       ],
@@ -26401,9 +26398,9 @@
       "status": "Open",
       "location": "Anaheim, CA",
       "region": "Region 21, Los Angeles, California",
-      "eligible_voters": 0,
+      "eligible_voters": 16,
       "votes_against": 2,
-      "ballots_counted": 0,
+      "ballots_counted": 14,
       "void_ballots": 0,
       "votes_for": 12,
       "union": "International Association of Machinists & Aerospace Workers, District 725, Local 946",
@@ -26921,7 +26918,7 @@
       "eligible_voters": 11,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Burr & Forman, LLP",
         "Burr & Forman LLP"
@@ -27806,7 +27803,7 @@
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich, LLP",
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Jackson Lewis LLP"
       ]
@@ -29360,7 +29357,7 @@
       "union_counsel": [
         "Jubelirer, Pass and Intrieri"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "October 21 2026"
     },
     "32-RC-395573": {
@@ -29691,22 +29688,27 @@
     },
     "04-RC-395717": {
       "case_number": "04-RC-395717",
-      "employer": "Canteen/Compass Group",
+      "employer": "Canteen, a division of Compass Group, USA",
       "case_url": "https://www.nlrb.gov/case/04-RC-395717",
       "case_type": "RC",
+      "tally_date": "2026-10-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-09-25",
       "status": "Open",
       "location": "Allentown, PA",
       "region": "Region 04, Philadelphia, Pennsylvania",
-      "eligible_voters": 25,
-      "stage": "just_filed",
-      "sector": "Other",
-      "case_page_fetched": "2026-10-21",
-      "employer_counsel": [
-        "Canteen, a division of Compass Group, USA",
-        "Jackson Lewis P.C."
-      ],
-      "election_date": "October 22 2026"
+      "eligible_voters": 26,
+      "votes_against": 7,
+      "ballots_counted": 26,
+      "void_ballots": 0,
+      "votes_for": 19,
+      "union": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 677",
+      "union_to_certify": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 677",
+      "unit_description": "INCLUDED: All full time and regular part time Vending, Avenue C, and Utility Drivers employed by the Employer at its 7350 Williams Avenue, Allentown, Pennsylvania facility.\n\nEXCLUDED: All other employees, confidential employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "08-RM-395709": {
       "case_number": "08-RM-395709",
@@ -29810,19 +29812,24 @@
       "employer": "Canteen, a division of Compass Group, USA",
       "case_url": "https://www.nlrb.gov/case/04-RM-395862",
       "case_type": "RM",
+      "tally_date": "2026-10-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-09-29",
       "status": "Open",
       "location": "Allentown, PA",
       "region": "Region 04, Philadelphia, Pennsylvania",
-      "eligible_voters": 25,
-      "stage": "just_filed",
-      "sector": "Other",
-      "election_date": "October 22 2026",
-      "union_counsel": [
-        "Canteen, a division of Compass Group, USA",
-        "Jackson Lewis, P.C."
-      ],
-      "case_page_fetched": "2026-10-21"
+      "eligible_voters": 26,
+      "votes_against": 7,
+      "ballots_counted": 26,
+      "void_ballots": 0,
+      "votes_for": 19,
+      "union": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 677",
+      "union_to_certify": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 677",
+      "unit_description": "INCLUDED: All full time and regular part time Vending, Avenue C, and Utility Drivers employed by the Employer at its 7350 Williams Avenue, Allentown, Pennsylvania facility.\n\nEXCLUDED: All other employees, confidential employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "12-RC-395869": {
       "case_number": "12-RC-395869",
@@ -30623,7 +30630,7 @@
       "union_counsel": [
         "Blake & Uhlig, P.A."
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "October 27 2026"
     },
     "25-RC-396213": {
@@ -30717,7 +30724,7 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "McNees Wallace & Nurick LLC"
       ],
@@ -31997,7 +32004,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "HEBAN SOMMER & MURPHREE, LLC"
       ]
@@ -32092,7 +32099,7 @@
       "union_counsel": [
         "Deats, Durst & Owen, PLLC"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "20-RC-396876": {
       "case_number": "20-RC-396876",
@@ -33221,6 +33228,9 @@
       "eligible_voters": 73,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Littler Mendelson, P.C."
+      ],
       "union_counsel": [
         "Beins, Axelrod & Keating, P.C"
       ],
@@ -33297,7 +33307,8 @@
       "region": "Region 12, Tampa, Florida",
       "eligible_voters": 12,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
     },
     "13-RD-397460": {
       "case_number": "13-RD-397460",
@@ -33369,7 +33380,7 @@
       "union_counsel": [
         "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
       ],
-      "case_page_fetched": "2026-10-22"
+      "case_page_fetched": "2026-10-23"
     },
     "32-RC-394764": {
       "case_number": "32-RC-394764",
@@ -33419,7 +33430,14 @@
       "region": "Region 04, Philadelphia, Pennsylvania",
       "eligible_voters": 14,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "employer_counsel": [
+        "Ballard Spahr LLP"
+      ],
+      "union_counsel": [
+        "Spear Wilderman, P.C."
+      ],
+      "case_page_fetched": "2026-10-23"
     },
     "01-RC-397546": {
       "case_number": "01-RC-397546",
@@ -33556,7 +33574,8 @@
       "region": "Region 08, Cleveland, Ohio",
       "eligible_voters": 14,
       "stage": "just_filed",
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
     },
     "19-RC-397641": {
       "case_number": "19-RC-397641",
@@ -33583,6 +33602,108 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Healthcare"
+    },
+    "01-RC-397669": {
+      "case_number": "01-RC-397669",
+      "employer": "First Student",
+      "case_url": "https://www.nlrb.gov/case/01-RC-397669",
+      "case_type": "RC",
+      "date_filed": "2026-10-23",
+      "status": "Open",
+      "location": "Warwick, RI",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 6,
+      "stage": "just_filed",
+      "sector": "Other"
+    },
+    "29-RC-397657": {
+      "case_number": "29-RC-397657",
+      "employer": "Unifi Aviation - JFK",
+      "case_url": "https://www.nlrb.gov/case/29-RC-397657",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Jamaica, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 35,
+      "stage": "just_filed",
+      "sector": "Other",
+      "employer_counsel": [
+        "FordHarrison LLP"
+      ],
+      "union_counsel": [
+        "Phillips Richard & Rind, P.A."
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "14-RC-397680": {
+      "case_number": "14-RC-397680",
+      "employer": "Baldwin Automotive Group",
+      "case_url": "https://www.nlrb.gov/case/14-RC-397680",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Poplar Bluff, MO",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 19,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-23"
+    },
+    "08-RC-397676": {
+      "case_number": "08-RC-397676",
+      "employer": "Superior Beverage Group",
+      "case_url": "https://www.nlrb.gov/case/08-RC-397676",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Lewis Center, OH",
+      "region": "Region 08, Cleveland, Ohio",
+      "eligible_voters": 48,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Wentz, McInerney, Peifer & Petroff, LLC"
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "07-RC-397661": {
+      "case_number": "07-RC-397661",
+      "employer": "Hearn Industrial Services",
+      "case_url": "https://www.nlrb.gov/case/07-RC-397661",
+      "case_type": "RC",
+      "date_filed": "2026-10-21",
+      "status": "Open",
+      "location": "Canton, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 48,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
+    },
+    "25-RC-395815": {
+      "case_number": "25-RC-395815",
+      "employer": "Decatur County Rural Electric Membership Corporation",
+      "case_url": "https://www.nlrb.gov/case/25-RC-395815",
+      "case_type": "RC",
+      "tally_date": "2026-10-23",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-09-25",
+      "status": "Open",
+      "location": "Greensburg, IN",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 2,
+      "votes_against": 0,
+      "ballots_counted": 2,
+      "void_ballots": 0,
+      "votes_for": 2,
+      "union": "International Brotherhood of Electrical Workers, Local 1393",
+      "union_to_certify": "International Brotherhood of Electrical Workers, Local 1393",
+      "unit_description": "Included: All full-time and regular part-time Fiber Technicians employed by the Employer at its facility located in Greensburg, Indiana.\n\nExcluded: All office clerical employees, professional employees, managerial employees, guards and supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     }
   }
 }
