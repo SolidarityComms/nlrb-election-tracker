@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23 16:31:53",
-  "total_cases": 1595,
+  "last_updated": "2026-10-23 20:15:58",
+  "total_cases": 1610,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -531,7 +531,7 @@
       "union_counsel": [
         "Gilbert & Sackman, A Law Corporation"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Snell & Wilmer, LLP"
       ]
@@ -900,7 +900,7 @@
       "union_counsel": [
         "Herzfeld, Suetholz, Gastel, Leniski & Wall, PLLC"
       ],
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "election_date": "MAY 28 2026"
     },
     "14-RC-386407": {
@@ -1946,7 +1946,7 @@
       "employer_counsel": [
         "Duane Morris LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "16-RC-385835": {
       "case_number": "16-RC-385835",
@@ -11023,7 +11023,7 @@
       "union_counsel": [
         "Gladstein, Reif & Meginniss, LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Capozzi Adler, P.C."
       ]
@@ -11098,7 +11098,7 @@
       "union_counsel": [
         "Fuiman Mogila LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "31-RC-386895": {
       "case_number": "31-RC-386895",
@@ -11372,7 +11372,7 @@
       "union_counsel": [
         "Blitman & King LLP"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "June 25 2026"
     },
     "22-RC-387064": {
@@ -12879,7 +12879,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Peckar & Abramson, P.C."
       ]
@@ -15154,7 +15154,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Holland & Knight LLP,",
         "Holland & Knight LLP"
@@ -15640,7 +15640,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "20-RC-388860": {
       "case_number": "20-RC-388860",
@@ -16626,7 +16626,7 @@
       "union_counsel": [
         "Thompson Coburn LLP"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "13-RC-389317": {
       "case_number": "13-RC-389317",
@@ -16838,7 +16838,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "July 30 2026",
       "employer_counsel": [
         "NYU Langone Health"
@@ -17200,7 +17200,7 @@
         "Constangy, Brooks, Smith & Prophete, LLP",
         "Constangy Brooks Smith & Prophete LLP"
       ],
-      "case_page_fetched": "2026-10-18"
+      "case_page_fetched": "2026-10-23"
     },
     "27-RD-389431": {
       "case_number": "27-RD-389431",
@@ -19111,7 +19111,7 @@
       "eligible_voters": 10,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "election_date": "JULY 23 2026",
       "employer_counsel": [
         "ABM Industries"
@@ -19135,7 +19135,7 @@
       "union_counsel": [
         "Law Office of Florice Hoffman"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "08-RD-390388": {
       "case_number": "08-RD-390388",
@@ -19902,7 +19902,7 @@
         "Jacobs, Burns, Orlove & Hernandez",
         "Jacobs Burns Orlove & Hernandez"
       ],
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Akerman LLP"
       ]
@@ -20565,7 +20565,7 @@
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart P.C."
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "10-RC-391298": {
       "case_number": "10-RC-391298",
@@ -22664,7 +22664,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-10-18"
+      "case_page_fetched": "2026-10-23"
     },
     "10-RC-392179": {
       "case_number": "10-RC-392179",
@@ -25077,7 +25077,7 @@
       "employer_counsel": [
         "Faegre Drinker Biddle & Reath LLP"
       ],
-      "case_page_fetched": "2026-10-18"
+      "case_page_fetched": "2026-10-23"
     },
     "01-RC-393424": {
       "case_number": "01-RC-393424",
@@ -25386,7 +25386,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "election_date": "September 21 2026"
     },
     "32-RC-393536": {
@@ -25810,9 +25810,9 @@
       "stage": "just_filed",
       "sector": "Other",
       "union_counsel": [
-        "hhh"
+        "Stanford Fagan LLC"
       ],
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
       ]
@@ -25853,7 +25853,7 @@
       "eligible_voters": 9,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Jackson Lewis P.C.",
         "Medical Management International, Inc. dba Banfield Pet Hospital"
@@ -26295,7 +26295,7 @@
       "employer_counsel": [
         "Fisher & Phillips LLP"
       ],
-      "case_page_fetched": "2026-10-18"
+      "case_page_fetched": "2026-10-23"
     },
     "01-RC-393867": {
       "case_number": "01-RC-393867",
@@ -28157,7 +28157,7 @@
       "union_counsel": [
         "Kroll Heineman Ptasiewicz Jameson Marra"
       ],
-      "case_page_fetched": "2026-10-19",
+      "case_page_fetched": "2026-10-23",
       "employer_counsel": [
         "Martone Legal, LLC"
       ]
@@ -29243,7 +29243,7 @@
       "employer_counsel": [
         "Greenberg Traurig, LLP"
       ],
-      "case_page_fetched": "2026-10-18",
+      "case_page_fetched": "2026-10-23",
       "union_counsel": [
         "Karmel & Torres, LLC"
       ],
@@ -30811,7 +30811,7 @@
       "union_counsel": [
         "Beeson, Tayer & Bodine"
       ],
-      "case_page_fetched": "2026-10-19"
+      "case_page_fetched": "2026-10-23"
     },
     "06-RC-393883": {
       "case_number": "06-RC-393883",
@@ -33605,7 +33605,7 @@
     },
     "01-RC-397669": {
       "case_number": "01-RC-397669",
-      "employer": "First Student",
+      "employer": "First Student-Warwick",
       "case_url": "https://www.nlrb.gov/case/01-RC-397669",
       "case_type": "RC",
       "date_filed": "2026-10-23",
@@ -33679,6 +33679,9 @@
       "eligible_voters": 48,
       "stage": "just_filed",
       "sector": "Healthcare",
+      "employer_counsel": [
+        "Dinsmore & Shohl LLP"
+      ],
       "case_page_fetched": "2026-10-23"
     },
     "25-RC-395815": {
@@ -33704,6 +33707,241 @@
       "outcome": "union_won",
       "stage": "tally_issued",
       "sector": "Security & Public Safety"
+    },
+    "29-RC-397699": {
+      "case_number": "29-RC-397699",
+      "employer": "Citibus NYC - In State Bus Corp.",
+      "case_url": "https://www.nlrb.gov/case/29-RC-397699",
+      "case_type": "RC",
+      "date_filed": "2026-10-23",
+      "status": "Open",
+      "location": "Whitestone, NY",
+      "region": "Region 29, Brooklyn, New York",
+      "eligible_voters": 29,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Meyer, Suozzi, English & Klein, P.C."
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "10-RC-397687": {
+      "case_number": "10-RC-397687",
+      "employer": "CommonSpirit - Memorial Hospital - Hixson",
+      "case_url": "https://www.nlrb.gov/case/10-RC-397687",
+      "case_type": "RC",
+      "date_filed": "2026-10-23",
+      "status": "Open",
+      "location": "Hixson, TN",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 150,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "National Nurses Organizing Committee/National Nurses United"
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "04-RC-397717": {
+      "case_number": "04-RC-397717",
+      "employer": "Random Productions, LLC (Task)",
+      "case_url": "https://www.nlrb.gov/case/04-RC-397717",
+      "case_type": "RC",
+      "date_filed": "2026-10-23",
+      "status": "Open",
+      "location": "Chester, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Manufacturing",
+      "employer_counsel": [
+        "Home Box Office HBO"
+      ],
+      "union_counsel": [
+        "Willig, Williams & Davidson"
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "01-RC-397703": {
+      "case_number": "01-RC-397703",
+      "employer": "AMERICAN MEDICAL RESPONSE Bridgeport",
+      "case_url": "https://www.nlrb.gov/case/01-RC-397703",
+      "case_type": "RC",
+      "date_filed": "2026-10-23",
+      "status": "Open",
+      "location": "Bridgeport, CT",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 120,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
+    },
+    "19-RC-397689": {
+      "case_number": "19-RC-397689",
+      "employer": "Providence Swedish Medical Group",
+      "case_url": "https://www.nlrb.gov/case/19-RC-397689",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 26,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
+    },
+    "19-RC-397701": {
+      "case_number": "19-RC-397701",
+      "employer": "Providence Swedish Medical Group",
+      "case_url": "https://www.nlrb.gov/case/19-RC-397701",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
+    },
+    "19-RC-397712": {
+      "case_number": "19-RC-397712",
+      "employer": "Providence Swedish Medical Group",
+      "case_url": "https://www.nlrb.gov/case/19-RC-397712",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 12,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
+    },
+    "07-RC-397686": {
+      "case_number": "07-RC-397686",
+      "employer": "Domino's Michigan Supply Chain Center",
+      "case_url": "https://www.nlrb.gov/case/07-RC-397686",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "New Boston, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 31,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-10-23"
+    },
+    "31-RC-397688": {
+      "case_number": "31-RC-397688",
+      "employer": "CBS Media Ventures, a Division of CBS Studios, Inc. d/b/a CBS Studios",
+      "case_url": "https://www.nlrb.gov/case/31-RC-397688",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Los Angeles, CA",
+      "region": "Region 31, Los Angeles, California",
+      "eligible_voters": 5,
+      "stage": "just_filed",
+      "sector": "Media & Entertainment"
+    },
+    "18-RC-397691": {
+      "case_number": "18-RC-397691",
+      "employer": "Equipment Share.Com, Inc.",
+      "case_url": "https://www.nlrb.gov/case/18-RC-397691",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Milwaukee, WI",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Baum Sigman"
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "19-RC-397722": {
+      "case_number": "19-RC-397722",
+      "employer": "Providence Swedish Medical Group",
+      "case_url": "https://www.nlrb.gov/case/19-RC-397722",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 8,
+      "stage": "just_filed",
+      "sector": "Healthcare"
+    },
+    "25-RC-397710": {
+      "case_number": "25-RC-397710",
+      "employer": "USIC Locating Services, LLC",
+      "case_url": "https://www.nlrb.gov/case/25-RC-397710",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Aurora, IL",
+      "region": "Region 25, Indianapolis, Indiana",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich, LLP"
+      ],
+      "case_page_fetched": "2026-10-23"
+    },
+    "19-RC-397731": {
+      "case_number": "19-RC-397731",
+      "employer": "Providence Swedish Medical Group",
+      "case_url": "https://www.nlrb.gov/case/19-RC-397731",
+      "case_type": "RC",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Seattle, WA",
+      "region": "Region 19, Seattle, Washington",
+      "eligible_voters": 9,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-10-23"
+    },
+    "18-RD-397695": {
+      "case_number": "18-RD-397695",
+      "employer": "Macalester College",
+      "case_url": "https://www.nlrb.gov/case/18-RD-397695",
+      "case_type": "RD",
+      "date_filed": "2026-10-22",
+      "status": "Open",
+      "location": "Saint Paul, MN",
+      "region": "Region 18, Minneapolis, Minnesota",
+      "eligible_voters": 219,
+      "stage": "just_filed",
+      "sector": "Education",
+      "case_page_fetched": "2026-10-23"
+    },
+    "14-RD-394287": {
+      "case_number": "14-RD-394287",
+      "employer": "Starbucks Corporation",
+      "case_url": "https://www.nlrb.gov/case/14-RD-394287",
+      "case_type": "RD",
+      "tally_date": "2026-10-22",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
+      "date_filed": "2026-09-04",
+      "status": "Open",
+      "location": "Wichita, KS",
+      "region": "Region 14, Saint Louis, Missouri",
+      "eligible_voters": 16,
+      "votes_against": 7,
+      "ballots_counted": 14,
+      "void_ballots": 0,
+      "votes_for": 7,
+      "union": "Central and Rock Partners Union",
+      "unit_description": "Included: All full-time and regular part-time baristas and shift supervisors employed by the Employer at Employer Store 2675, located at 8008 East Central Avenue, Wichita Kansas \n\nExcluded: Office clerical employees, store managers, professional employees, guards, and supervisors as defined in the Act.",
+      "outcome": "tie",
+      "stage": "tally_issued",
+      "sector": "Hospitality & Food Service"
     }
   }
 }
