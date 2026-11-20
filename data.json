@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20 09:47:20",
-  "total_cases": 1787,
+  "last_updated": "2026-11-20 19:40:24",
+  "total_cases": 1795,
   "cases": {
     "19-RC-386928": {
       "case_number": "19-RC-386928",
@@ -1595,7 +1595,7 @@
       "employer_counsel": [
         "Sebris Busto James"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "12-RC-386146": {
       "case_number": "12-RC-386146",
@@ -11329,7 +11329,7 @@
       "union_counsel": [
         "Partner, Seyfarth Shaw LLP"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "19-RC-386937": {
       "case_number": "19-RC-386937",
@@ -11433,7 +11433,7 @@
       "union_counsel": [
         "Keating, Muething, & Klecamp, P.L.L."
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "19-RC-384772": {
       "case_number": "19-RC-384772",
@@ -11970,7 +11970,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Quarles & Brady LLP"
       ]
@@ -12213,7 +12213,7 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Transportation & Logistics",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Nyemaster Goode, P.C."
       ]
@@ -12988,7 +12988,7 @@
       "employer_counsel": [
         "Littler Mendelson P.C."
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "19-RC-387648": {
       "case_number": "19-RC-387648",
@@ -13002,7 +13002,7 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Dunlap Bennett & Ludwig, PLLC",
         "Dunlap, Bennett & Ludwig"
@@ -13097,7 +13097,7 @@
       "eligible_voters": 18,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -15440,7 +15440,7 @@
       "union_counsel": [
         "O'DONOGHUE & O'DONOGHUE LLP"
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ]
@@ -15778,7 +15778,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Davis Wright Tremaine, LLP"
       ]
@@ -16705,7 +16705,7 @@
       "eligible_voters": 19,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "07-RC-389335": {
       "case_number": "07-RC-389335",
@@ -16827,7 +16827,7 @@
       "union_counsel": [
         "Gregory, Moore, Brooks, Clark & Helton, P.C."
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "29-RC-389380": {
       "case_number": "29-RC-389380",
@@ -19316,7 +19316,7 @@
       "union_counsel": [
         "Harter Secrest & Emery LLP"
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "election_date": "July 28 2026"
     },
     "10-RC-390592": {
@@ -19570,7 +19570,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Sagaser, Watkins & Wieland PC"
       ]
@@ -20728,7 +20728,7 @@
       "union_counsel": [
         "Fox Rothschild LLP"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "04-RD-391343": {
       "case_number": "04-RD-391343",
@@ -21807,7 +21807,7 @@
       "union_counsel": [
         "Spear Wilderman, P.C."
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "12-RC-391766": {
       "case_number": "12-RC-391766",
@@ -21996,21 +21996,24 @@
       "employer": "Richard Grubb and Associates",
       "case_url": "https://www.nlrb.gov/case/22-RC-391825",
       "case_type": "RC",
+      "tally_date": "2026-11-20",
+      "tally_type": "Initial",
+      "ballot_type": "Revised Single Labor Org",
       "date_filed": "2026-07-30",
       "status": "Open",
       "location": "Cranbury, NJ",
       "region": "Region 22, Newark, New Jersey",
-      "eligible_voters": 24,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Kroll Heineman Ptasiewicz Parsons & Jameson, LLC",
-        "Kroll, Heineman, Ptasiewiez & Parsons"
-      ],
-      "case_page_fetched": "2026-11-18",
-      "employer_counsel": [
-        "Fox Rothschild LLP"
-      ]
+      "eligible_voters": 6,
+      "votes_against": 2,
+      "ballots_counted": 6,
+      "void_ballots": 0,
+      "votes_for": 4,
+      "union": "Teamsters Local 469",
+      "union_to_certify": "Teamsters Local 469",
+      "unit_description": "INCLUDED: All full-time and regular part-time archeological field technicians and crew chiefs employed by the Employer out of its facility located at 259 Prospect Plains Road, Building D, Cranbury, New Jersey. \n\nEXCLUDED: All other employees, including all managerial and confidential employees, lab technicians, and other non-field staff, and guards and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "21-RC-391845": {
       "case_number": "21-RC-391845",
@@ -22611,7 +22614,7 @@
       "employer_counsel": [
         "Downs Rachlin Martin PLLC"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "10-RD-392151": {
       "case_number": "10-RD-392151",
@@ -22989,7 +22992,7 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Foley & Lardner LLP"
       ]
@@ -23620,7 +23623,7 @@
       "union_counsel": [
         "Operating Engineers Local Union No. 3"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "13-RC-392694": {
       "case_number": "13-RC-392694",
@@ -23804,7 +23807,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Faegre Drinker Biddle & Reath LLP"
       ]
@@ -24247,7 +24250,7 @@
         "Littler Mendelson, PC",
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "32-RC-393063": {
       "case_number": "32-RC-393063",
@@ -24531,7 +24534,7 @@
       "union_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "02-RC-393140": {
       "case_number": "02-RC-393140",
@@ -24651,7 +24654,7 @@
         "Littler Mendelson, P.C.",
         "Littler Mendelson P.C."
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "25-RC-393179": {
       "case_number": "25-RC-393179",
@@ -24755,7 +24758,7 @@
       "union_counsel": [
         "Wohlner Kaplon Cutler Halford Rosenfeld & Levy"
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Enterprise Holdings"
       ],
@@ -25715,7 +25718,7 @@
       "eligible_voters": 16,
       "stage": "just_filed",
       "sector": "Healthcare",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Dykema"
       ],
@@ -26439,7 +26442,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "01-RC-393962": {
       "case_number": "01-RC-393962",
@@ -26674,7 +26677,7 @@
       "union_counsel": [
         "Barr & Camens"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "05-UD-389440": {
       "case_number": "05-UD-389440",
@@ -27510,7 +27513,7 @@
       "eligible_voters": 13,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Nixon Peabody LLP"
       ],
@@ -27823,7 +27826,7 @@
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich, LLP",
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "employer_counsel": [
         "Jackson Lewis LLP"
       ]
@@ -28104,7 +28107,7 @@
       "union_counsel": [
         "Fox Rothschild LLP"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "19-RC-394914": {
       "case_number": "19-RC-394914",
@@ -29443,7 +29446,7 @@
       "union_counsel": [
         "Jubelirer, Pass and Intrieri"
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "election_date": "October 21 2026"
     },
     "32-RC-395573": {
@@ -29464,7 +29467,7 @@
       "union_counsel": [
         "Law Office of Robert S. Giolito, PC"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "04-RC-395593": {
       "case_number": "04-RC-395593",
@@ -30649,18 +30652,24 @@
       "employer": "UPMC Somerset",
       "case_url": "https://www.nlrb.gov/case/06-RD-396134",
       "case_type": "RD",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-01",
       "status": "Open",
       "location": "Somerset, PA",
       "region": "Region 06, Pittsburgh, Pennsylvania",
-      "eligible_voters": 84,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Morgan, Lewis & Bockius, LLP"
-      ],
-      "case_page_fetched": "2026-11-20",
-      "election_date": "November 19 2026"
+      "eligible_voters": 89,
+      "votes_against": 4,
+      "ballots_counted": 79,
+      "void_ballots": 0,
+      "votes_for": 75,
+      "union": "Somerset Professional Nurses Association/Healthcare-PSEA/PSEA",
+      "union_to_certify": "Somerset Professional Nurses Association/Healthcare-PSEA/PSEA",
+      "unit_description": "All full-time and regular part-time Registered Nurses and Graduate Nurses, and any staff nurses functioning part-time as the Nursing Staff Development Coordinator and part-time as the Infection Control Nurse, and Staff nurses who function as charge nurses at the Employer\u2019s facility located at 225 South Center Ave., Somerset, PA 15501. Excluded: Any employee performing as a full-time Nursing Staff Development Coordinators, full-time Infection Control Nurses, and a designated full-time charge nurse, Registered Nurse Head Nurses, all certified Registered Nurse Anesthetists, all other employees, all clerical employees and guards, other professional employees and supervisors, as defined in the Act.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "16-RD-396111": {
       "case_number": "16-RD-396111",
@@ -31279,20 +31288,24 @@
       "employer": "Northwestern University",
       "case_url": "https://www.nlrb.gov/case/13-RC-396487",
       "case_type": "RC",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-06",
       "status": "Open",
       "location": "Evanston, IL",
       "region": "Region 13, Chicago, Illinois",
-      "eligible_voters": 740,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "union_counsel": [
-        "Asher, Gittler & D'Alba, Ltd."
-      ],
-      "case_page_fetched": "2026-11-17",
-      "employer_counsel": [
-        "Cozen O'Connor"
-      ]
+      "eligible_voters": 647,
+      "votes_against": 55,
+      "ballots_counted": 302,
+      "void_ballots": 0,
+      "votes_for": 247,
+      "union": "United Academics of Northwestern University, IFT-AFT, AAUP",
+      "union_to_certify": "United Academics of Northwestern University, IFT-AFT, AAUP",
+      "unit_description": "Included: Full -time and part-time non-tenure-eligible faculty employed by Northwestern\nUniversity to teach at least one credit bearing course as part of a degree-eligible\ncurriculum with a primary-role appointment within the Weinberg College of Arts and\nSciences, the McCormick School of Engineering & Applied Sciences, the Bienen School\nof Music, the School of Communication, the School of Education & Social Policy, or the\nMedill School of Journalism to the following titles: Adjunct Lecturers; Adjunct Assistant\nProfessors of Instruction; Adjunct Associate Professors of Instruction; Adjunct Professors\nof Instruction; Adjunct Assistant Professors; Adjunct Associate Professors; Adjunct\nProfessors; Clinical Assistant Professors; Clinical Associate Professors; Clinical\nProfessors; Adjunct Clinical Assistant Professors; Artists-in-Residence; Lecturers; Senior\nLecturers; Distinguished Senior Lecturers; Assistant Professors of Instruction; Associate\nProfessors of Instruction; and Professors of Instruction; and full-time and part-time nontenure\neligible faculty with a primary-role appointment within the Weinberg College of\nArts and Sciences to the title of Visiting Assistant Professor and Academic Advisor.\n\nExcluded: Faculty with any role appointment to a tenured, tenure-eligible, emeritus,\nresearch, postdoctoral, or other visiting faculty job classifications; all faculty with a\nprimary-role appointment within the Feinberg School of Medicine, the Pritzker Law\nSchool, the Kellogg School of Business, the School for Professional Studies,\nNorthwestern in Qatar, or non-degree eligible curriculum; all faculty with any ro le\nappointment as dean or provost (including assistant, associate and vice deans or\nprovosts); all faculty with a primary-role appointment as director or chair (including\nassistant, associate and vice directors or chairs); other administrators and staff who have\nteaching assignments; faculty who exclusively teach outside of Illinois; faculty whose\nwages are paid directly or indirectly by other entities including governments, other\nacademic institutions and other organizations; graduate students; athletic coaches; all\nother employees employed at the University, including those who teach a class or course\nand are separately compensated for such teaching but do not hold a title or position in the\nunit; managers, confidential employees, office clerical employees, and guards and\nsupervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "18-RC-396486": {
       "case_number": "18-RC-396486",
@@ -32397,7 +32410,7 @@
       "union_counsel": [
         "Deats, Durst & Owen, PLLC"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "20-RC-396876": {
       "case_number": "20-RC-396876",
@@ -33365,16 +33378,27 @@
     },
     "14-RC-397279": {
       "case_number": "14-RC-397279",
-      "employer": "Penske Truck Rental",
+      "employer": "Penske Truck Leasing Co., L.P.",
       "case_url": "https://www.nlrb.gov/case/14-RC-397279",
       "case_type": "RC",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-19",
       "status": "Open",
       "location": "Moberly, MO",
       "region": "Region 14, Saint Louis, Missouri",
       "eligible_voters": 2,
-      "stage": "just_filed",
-      "sector": "Other"
+      "votes_against": 0,
+      "ballots_counted": 1,
+      "void_ballots": 0,
+      "votes_for": 1,
+      "union": "District 9, International Association of Machinists and Aerospace Workers, AFL-CIO",
+      "union_to_certify": "District 9, International Association of Machinists and Aerospace Workers, AFL-CIO",
+      "unit_description": "All full-time and regular part-time technician 1, technician 2 and technician 3 employees employed by the Employer at its 1212 Riley Industrial Drive, Moberly, MO facility, excluding, office clerical employees, professional employees, guards, and supervisors as defined in the Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Security & Public Safety"
     },
     "25-RC-397304": {
       "case_number": "25-RC-397304",
@@ -33664,23 +33688,26 @@
     },
     "19-RD-397515": {
       "case_number": "19-RD-397515",
-      "employer": "BDA Inc. (dba Seattle Kraken Team Store)",
+      "employer": "Bensussen Deutsch & Associates, LLC d/b/a Seattle Kraken Team Store",
       "case_url": "https://www.nlrb.gov/case/19-RD-397515",
       "case_type": "RD",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-21",
       "status": "Open",
       "location": "Seattle, WA",
       "region": "Region 19, Seattle, Washington",
-      "eligible_voters": 75,
-      "stage": "just_filed",
-      "sector": "Retail",
-      "employer_counsel": [
-        "Dorsey & Whitney LLP"
-      ],
-      "union_counsel": [
-        "National Right to Work Legal Defense Foundation, Inc."
-      ],
-      "case_page_fetched": "2026-11-20"
+      "eligible_voters": 77,
+      "votes_against": 29,
+      "ballots_counted": 43,
+      "void_ballots": 0,
+      "votes_for": 16,
+      "union": "United Food and Commercial Workers Union, Local 3000, affiliated with the United Food and Commercial Workers International Union",
+      "unit_description": "Included: All full-time and regular part-time retail associates employed by the Employer at Climate Pledge Arena located in Seattle, Washington.\n\nExcluded: All other employees and supervisors and guards as defined by the NLRA.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Retail"
     },
     "14-RC-397505": {
       "case_number": "14-RC-397505",
@@ -33981,28 +34008,31 @@
       "union_counsel": [
         "Ballard Spahr LLP"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "10-RC-397594": {
       "case_number": "10-RC-397594",
       "employer": "Zum Services, Inc.",
       "case_url": "https://www.nlrb.gov/case/10-RC-397594",
       "case_type": "RC",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-22",
       "status": "Open",
       "location": "Roanoke, VA",
       "region": "Region 10, Atlanta, Georgia",
       "eligible_voters": 215,
-      "stage": "just_filed",
-      "sector": "Other",
-      "employer_counsel": [
-        "Zum Transportation Service"
-      ],
-      "union_counsel": [
-        "Willig, Williams & Davidson"
-      ],
-      "case_page_fetched": "2026-11-17",
-      "election_date": "November 19 2026"
+      "votes_against": 80,
+      "ballots_counted": 184,
+      "void_ballots": 0,
+      "votes_for": 104,
+      "union": "Communications Workers of America, AFL-CIO, CLC",
+      "union_to_certify": "Communications Workers of America, AFL-CIO, CLC",
+      "unit_description": "All full-time and regular part-time drivers, aides, trainers, and mechanics employed by the Employer at its facility located at 5401 Barnes Avenue, Roanoke, Virginia 24019, but excluding all other employees, all dispatchers, guards and supervisors as defined by the National Labor Relations Act.",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Transportation & Logistics"
     },
     "20-RC-397588": {
       "case_number": "20-RC-397588",
@@ -34258,21 +34288,27 @@
     },
     "10-RC-397687": {
       "case_number": "10-RC-397687",
-      "employer": "CommonSpirit - Memorial Hospital - Hixson",
+      "employer": "CHI Memorial Hospital \u2013 Georgia (Inc.) d/b/a CommonSpirit - Memorial Hospital - Hixson",
       "case_url": "https://www.nlrb.gov/case/10-RC-397687",
       "case_type": "RC",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-23",
       "status": "Open",
       "location": "Hixson, TN",
       "region": "Region 10, Atlanta, Georgia",
-      "eligible_voters": 150,
-      "stage": "just_filed",
-      "sector": "Healthcare",
-      "union_counsel": [
-        "National Nurses Organizing Committee/National Nurses United"
-      ],
-      "case_page_fetched": "2026-11-18",
-      "election_date": "November 19 2026"
+      "eligible_voters": 149,
+      "votes_against": 56,
+      "ballots_counted": 136,
+      "void_ballots": 0,
+      "votes_for": 80,
+      "union": "National Nurses Organizing Committee/National Nurses United",
+      "union_to_certify": "National Nurses Organizing Committee/National Nurses United",
+      "unit_description": "Included: All full-time, regular part-time, and per diem (PRN) Registered Nurses employed by\nthe Employer at its facility currently located at 2051 Hamill Road, Hixson, TN, including\nemployees in the following classifications:\nCare Coordinator RN\nClinical Educator RN\nClinical Surgery\nCoordinator RN\nCritical Care RN\nEmergency Svcs RN\nEndoscopy RN\nHouse Supervisor RN\nHouse Supervisor RN\nWknd\nImaging Specialist RN\nInfusion RN\nMedical Surgical RN\nMedical Surgical RN II\nMedical Surgical RN\nWknd\nMedical Surgical RN\nWknd II\nNational Resident RNEmergency\nServices\nNational Resident RNMedical\nSurgical\nPeriop RN\nRN Flat Wknd\nRN Flat Wknd II\nExcluded: All other employees, Quality-Patient Safety Program Manager, Quality-Patient\nProgram Manager \u2013 Clinical Lic, Quality Review Registered Nurse, Regulatory Compliance\nCoordinator Registered Nurse, travelers, staff employed by registries or other agencies providing\noutside labor to the Employer, managerial employees,",
+      "outcome": "union_won",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "04-RC-397717": {
       "case_number": "04-RC-397717",
@@ -34471,22 +34507,22 @@
       "employer": "USIC Locating Services, LLC",
       "case_url": "https://www.nlrb.gov/case/25-RC-397710",
       "case_type": "RC",
+      "tally_date": "2026-11-19",
+      "tally_type": "Initial",
+      "ballot_type": "Single Labor Organization",
       "date_filed": "2026-10-22",
       "status": "Open",
       "location": "Aurora, IL",
       "region": "Region 25, Indianapolis, Indiana",
-      "eligible_voters": 14,
-      "stage": "just_filed",
-      "sector": "Other",
-      "union_counsel": [
-        "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich, LLP"
-      ],
-      "case_page_fetched": "2026-11-16",
-      "employer_counsel": [
-        "Fisher & Phillips, LLP",
-        "Fisher & Phillips LLP"
-      ],
-      "election_date": "November 19 2026"
+      "eligible_voters": 10,
+      "votes_against": 7,
+      "ballots_counted": 10,
+      "void_ballots": 0,
+      "votes_for": 3,
+      "unit_description": "Included: All full-time and regular part-time Field Locating Technicians (including subclassifications Expert Technician, Lead Technician, Master Technician, Senior Technician, Technician 1, Technician 2, Technician 3, Technician 4, and Trainees) employed by Employer at or out of its Aurora, Illinois facility on the Western Chicago District Large Project Team.\n\nExcluded: All office clerical employees, guards, professional employees and supervisors as defined in the Act, and all other employees.",
+      "outcome": "union_lost",
+      "stage": "tally_issued",
+      "sector": "Healthcare"
     },
     "19-RC-397731": {
       "case_number": "19-RC-397731",
@@ -34775,7 +34811,7 @@
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "election_date": "November 24 2026"
     },
     "16-RC-397912": {
@@ -35582,7 +35618,7 @@
       "eligible_voters": 14,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "04-RC-398249": {
       "case_number": "04-RC-398249",
@@ -35652,12 +35688,13 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
-        "Jackson Lewis, P.C."
+        "Jackson Lewis, P.C.",
+        "Jackson Lewis P.C."
       ],
       "union_counsel": [
         "Segal Roitman LLP"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "02-RM-398316": {
       "case_number": "02-RM-398316",
@@ -35745,7 +35782,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-11-16",
+      "case_page_fetched": "2026-11-20",
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ]
@@ -36183,12 +36220,14 @@
       "stage": "just_filed",
       "sector": "Other",
       "employer_counsel": [
-        "Greenberg Traurig, LLP"
+        "Greenberg Traurig, LLP",
+        "SES Americom, Inc."
       ],
       "union_counsel": [
         "Communications Workers of America, AFL-CIO"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20",
+      "election_date": "December 10 2026"
     },
     "08-RC-398691": {
       "case_number": "08-RC-398691",
@@ -36485,7 +36524,7 @@
       "union_counsel": [
         "Law Office of Florice Hoffman"
       ],
-      "case_page_fetched": "2026-11-16"
+      "case_page_fetched": "2026-11-20"
     },
     "28-RC-398755": {
       "case_number": "28-RC-398755",
@@ -37606,6 +37645,9 @@
       "eligible_voters": 24,
       "stage": "just_filed",
       "sector": "Other",
+      "employer_counsel": [
+        "Ogletree, Deakins, Nash, Smoak & Stewart, P.C."
+      ],
       "case_page_fetched": "2026-11-20"
     },
     "19-RC-399518": {
@@ -37764,6 +37806,128 @@
       "eligible_voters": 8,
       "stage": "just_filed",
       "sector": "Other"
+    },
+    "04-RC-399639": {
+      "case_number": "04-RC-399639",
+      "employer": "Kimmel Center, Inc. d/b/a Ensemble Arts Philly",
+      "case_url": "https://www.nlrb.gov/case/04-RC-399639",
+      "case_type": "RC",
+      "date_filed": "2026-11-20",
+      "status": "Open",
+      "location": "Philadelphia, PA",
+      "region": "Region 04, Philadelphia, Pennsylvania",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other"
+    },
+    "07-RC-399675": {
+      "case_number": "07-RC-399675",
+      "employer": "Cignys",
+      "case_url": "https://www.nlrb.gov/case/07-RC-399675",
+      "case_type": "RC",
+      "date_filed": "2026-11-20",
+      "status": "Open",
+      "location": "Saginaw, MI",
+      "region": "Region 07, Detroit, Michigan",
+      "eligible_voters": 14,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-11-20"
+    },
+    "20-RC-399692": {
+      "case_number": "20-RC-399692",
+      "employer": "Internet Archives/Open Staffing Foundation as a single Employer",
+      "case_url": "https://www.nlrb.gov/case/20-RC-399692",
+      "case_type": "RC",
+      "date_filed": "2026-11-20",
+      "status": "Open",
+      "location": "San Francisco, CA",
+      "region": "Region 20, San Francisco, California",
+      "eligible_voters": 124,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Weinberg, Roger & Rosenfeld"
+      ],
+      "case_page_fetched": "2026-11-20"
+    },
+    "10-RC-399634": {
+      "case_number": "10-RC-399634",
+      "employer": "Rogers Memorial Hospital, Inc. dba Rogers Behavioral Health - Atlanta Behavioral Health Treatment Center",
+      "case_url": "https://www.nlrb.gov/case/10-RC-399634",
+      "case_type": "RC",
+      "date_filed": "2026-11-19",
+      "status": "Open",
+      "location": "Sandy Springs, GA",
+      "region": "Region 10, Atlanta, Georgia",
+      "eligible_voters": 16,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "union_counsel": [
+        "Beeson, Tayer & Bodine"
+      ],
+      "case_page_fetched": "2026-11-20"
+    },
+    "13-RC-399656": {
+      "case_number": "13-RC-399656",
+      "employer": "WeDriveU, a Mobico Group company",
+      "case_url": "https://www.nlrb.gov/case/13-RC-399656",
+      "case_type": "RC",
+      "date_filed": "2026-11-19",
+      "status": "Open",
+      "location": "Chicago, IL",
+      "region": "Region 13, Chicago, Illinois",
+      "eligible_voters": 15,
+      "stage": "just_filed",
+      "sector": "Other",
+      "case_page_fetched": "2026-11-20"
+    },
+    "21-RC-399663": {
+      "case_number": "21-RC-399663",
+      "employer": "Costco",
+      "case_url": "https://www.nlrb.gov/case/21-RC-399663",
+      "case_type": "RC",
+      "date_filed": "2026-11-19",
+      "status": "Open",
+      "location": "San Diego, CA",
+      "region": "Region 21, Los Angeles, California",
+      "eligible_voters": 7,
+      "stage": "just_filed",
+      "sector": "Other"
+    },
+    "01-RC-399632": {
+      "case_number": "01-RC-399632",
+      "employer": "Portland Food Co-op",
+      "case_url": "https://www.nlrb.gov/case/01-RC-399632",
+      "case_type": "RC",
+      "date_filed": "2026-11-18",
+      "status": "Open",
+      "location": "Portland, ME",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 31,
+      "stage": "just_filed",
+      "sector": "Other",
+      "union_counsel": [
+        "Pyle Rome Ehrenberg PC"
+      ],
+      "case_page_fetched": "2026-11-20"
+    },
+    "01-RC-399669": {
+      "case_number": "01-RC-399669",
+      "employer": "Saint Anne's Hospital / Brown University Health",
+      "case_url": "https://www.nlrb.gov/case/01-RC-399669",
+      "case_type": "RC",
+      "date_filed": "2026-11-18",
+      "status": "Open",
+      "location": "Fall River, MA",
+      "region": "Region 01, Boston, Massachusetts",
+      "eligible_voters": 400,
+      "stage": "just_filed",
+      "sector": "Healthcare",
+      "case_page_fetched": "2026-11-20"
     }
   }
 }
