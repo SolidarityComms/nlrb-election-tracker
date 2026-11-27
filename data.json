@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 04:01:05",
+  "last_updated": "2026-11-27 10:37:21",
   "total_cases": 1823,
   "cases": {
     "19-RC-386928": {
@@ -155,7 +155,7 @@
       "employer_counsel": [
         "Ogletree Deakins Nash Smoak & Stewart, PC"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "June 11 2026",
       "union_counsel": [
         "International Association of Machinists and Aerospace Workers"
@@ -760,7 +760,7 @@
       "employer_counsel": [
         "Jackson Lewis P.C."
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "05-RC-386579": {
       "case_number": "05-RC-386579",
@@ -1051,7 +1051,7 @@
       "union_counsel": [
         "Harshman Wannemacher Tipton & Lipperman"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "04-RC-386203": {
       "case_number": "04-RC-386203",
@@ -1456,7 +1456,7 @@
         "CWA District 1 Legal Department",
         "Communications Workers of America"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "June 04 2026"
     },
     "32-RC-386136": {
@@ -1474,7 +1474,7 @@
       "employer_counsel": [
         "Morgan, Lewis & Bockius, LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "04-RC-386057": {
       "case_number": "04-RC-386057",
@@ -1706,7 +1706,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "18-RC-386086": {
       "case_number": "18-RC-386086",
@@ -2148,7 +2148,7 @@
       "employer_counsel": [
         "Clifton Budd & DeMaria, LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "09-RC-385781": {
       "case_number": "09-RC-385781",
@@ -2165,7 +2165,7 @@
       "employer_counsel": [
         "Keating, Muething, & Klecamp, P.L.L."
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "31-RC-385793": {
       "case_number": "31-RC-385793",
@@ -11806,7 +11806,7 @@
       "union_counsel": [
         "Krakow, Souris & Landry"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "ArentFox Schiff LLP"
       ]
@@ -12138,7 +12138,7 @@
       "union_counsel": [
         "Perera & Fedele"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
@@ -12159,7 +12159,7 @@
       "union_counsel": [
         "Perera & Fedele"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart, PC"
       ],
@@ -14159,7 +14159,7 @@
       "union_counsel": [
         "Doll, Jansen & Ford"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "JULY 1 2026"
     },
     "02-RC-388070": {
@@ -14580,7 +14580,7 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Construction & Utilities",
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Downs Rachlin Martin PLLC"
       ]
@@ -15095,7 +15095,7 @@
       "union_counsel": [
         "Colleran O'Hara & Mills LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "18-RC-388563": {
       "case_number": "18-RC-388563",
@@ -15363,7 +15363,7 @@
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "15-RC-388656": {
       "case_number": "15-RC-388656",
@@ -15987,7 +15987,7 @@
       "union_counsel": [
         "Rothman Rocco LLP"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Kauff, McGuire & Margolis, LLP"
       ],
@@ -16144,7 +16144,7 @@
       "eligible_voters": 18,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Ogletree, Deakins, Nash, Smoak & Stewart P.C."
       ],
@@ -16279,7 +16279,7 @@
         "Stevens & Lee",
         "Stevens & Lee, P.C."
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "02-RC-389201": {
       "case_number": "02-RC-389201",
@@ -16404,7 +16404,7 @@
       "union_counsel": [
         "O\u2019Donoghue & O\u2019Donoghue LLP"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "JULY 22 2026"
     },
     "01-RC-389264": {
@@ -17136,7 +17136,7 @@
       "employer_counsel": [
         "Paisner Litvin Hauser"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "July 23 2026"
     },
     "22-RC-389446": {
@@ -17316,7 +17316,7 @@
       "union_counsel": [
         "Weinberg, Roger & Rosenfeld"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "31-RC-389491": {
       "case_number": "31-RC-389491",
@@ -17336,7 +17336,7 @@
       "union_counsel": [
         "Sethi Orchid Miner LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "19-RC-389507": {
       "case_number": "19-RC-389507",
@@ -18861,7 +18861,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "04-RC-390309": {
       "case_number": "04-RC-390309",
@@ -20607,7 +20607,7 @@
       "employer_counsel": [
         "JDRC Managed Services, LLC"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "AUGUST 21 2026"
     },
     "05-RC-391323": {
@@ -21090,7 +21090,7 @@
       "union_counsel": [
         "Colleran, O\u2019Hara & Mills, LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "19-RC-391429": {
       "case_number": "19-RC-391429",
@@ -21213,7 +21213,7 @@
       "union_counsel": [
         "Deats, Durst & Owen, PLLC"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "September 2 2026"
     },
     "04-RC-391531": {
@@ -21363,7 +21363,7 @@
       "union_counsel": [
         "Quinn, Connor, Weaver, Davies & Rouco LLP"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "August 26 2026"
     },
     "14-RC-391610": {
@@ -21416,7 +21416,7 @@
       "eligible_voters": 17,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Akerman LLP"
       ],
@@ -21443,7 +21443,7 @@
       "union_counsel": [
         "O'Donoghue & O'Donoghue, LLP"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "August 26 2026"
     },
     "01-RC-391656": {
@@ -22413,7 +22413,7 @@
       "union_counsel": [
         "Law Office of Robert S. Giolito PC"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Littler Mendelson, P.C."
       ],
@@ -22820,7 +22820,7 @@
       "union_counsel": [
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "SEPTEMBER 10 2026"
     },
     "21-RC-392258": {
@@ -25130,7 +25130,7 @@
       "union_counsel": [
         "International Brotherhood of Teamsters, Local 175"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "SEPTEMBER 24 2026"
     },
     "13-RC-393401": {
@@ -27673,7 +27673,7 @@
       "union_counsel": [
         "Levy Ratner, P.C."
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "election_date": "October 15 2026"
     },
     "31-RC-394590": {
@@ -28902,7 +28902,7 @@
       "employer_counsel": [
         "Greenberg Traurig, LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "20-RC-395256": {
       "case_number": "20-RC-395256",
@@ -29827,7 +29827,7 @@
       "union_counsel": [
         "Luper Neilenthal and Logan"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "19-RC-395743": {
       "case_number": "19-RC-395743",
@@ -30372,7 +30372,7 @@
       "employer_counsel": [
         "Holland & Hart, LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "05-RD-396025": {
       "case_number": "05-RD-396025",
@@ -30543,7 +30543,7 @@
       "eligible_voters": 18,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Davis Grimm Payne & Marra"
       ]
@@ -30729,7 +30729,7 @@
       "union_counsel": [
         "National Right to Work Foundation"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "19-RC-396138": {
       "case_number": "19-RC-396138",
@@ -32132,7 +32132,7 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Security & Public Safety",
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "National Labor Relations Advocates"
       ]
@@ -33808,7 +33808,7 @@
       "union_counsel": [
         "National Right to Work Legal Defense Foundation"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Barnes & Thornburg LLP",
         "Barnes & Thornburg, LLP"
@@ -35238,7 +35238,7 @@
       "union_counsel": [
         "Dowd, Bloch, Bennett, Cervone, Auerbach & Yokich LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "18-RC-398031": {
       "case_number": "18-RC-398031",
@@ -35358,7 +35358,7 @@
       "employer_counsel": [
         "Faegre Drinker Biddle & Reath LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "28-RC-398104": {
       "case_number": "28-RC-398104",
@@ -35554,10 +35554,11 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Taft Stettinius & Hollister LLP"
-      ]
+      ],
+      "election_date": "December 02 2026"
     },
     "19-RC-398202": {
       "case_number": "19-RC-398202",
@@ -36476,7 +36477,7 @@
       "union_counsel": [
         "Barnard Iglitzin & Lavitt LLP"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27"
     },
     "03-RC-398721": {
       "case_number": "03-RC-398721",
@@ -37045,7 +37046,7 @@
       "union_counsel": [
         "Bowman Legal Services, LLC"
       ],
-      "case_page_fetched": "2026-11-23",
+      "case_page_fetched": "2026-11-27",
       "employer_counsel": [
         "Sutton and Associates, P.C."
       ]
@@ -37558,7 +37559,7 @@
       "employer_counsel": [
         "Williams Weese Pepple & Ferguson, PC"
       ],
-      "case_page_fetched": "2026-11-22"
+      "case_page_fetched": "2026-11-27"
     },
     "02-RC-399471": {
       "case_number": "02-RC-399471",
@@ -37653,7 +37654,8 @@
         "Quinn, Connor, Weaver, Davies and Rouco LLP",
         "Quinn, Connor, Weaver, Davies & Rouco"
       ],
-      "case_page_fetched": "2026-11-23"
+      "case_page_fetched": "2026-11-27",
+      "election_date": "December 22 2026"
     },
     "07-RC-399480": {
       "case_number": "07-RC-399480",
@@ -37963,7 +37965,10 @@
       "eligible_voters": 15,
       "stage": "just_filed",
       "sector": "Other",
-      "case_page_fetched": "2026-11-22"
+      "case_page_fetched": "2026-11-27",
+      "employer_counsel": [
+        "Jackson Lewis P.C."
+      ]
     },
     "21-RC-399663": {
       "case_number": "21-RC-399663",
